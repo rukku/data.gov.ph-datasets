@@ -1,0 +1,46 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/sjlhud29Jxwo6inBvgOY/integrated_forest_mgmt_agreement_2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-12/31/2012"
+  }, 
+  "id": "799da27c-37f3-4fbe-bc5d-ca3be6696576", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "integrated-forest-management-agreement-2012", 
+  "notes": "This dataset contains the integrated forest management agreement by province for the year 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T15:55:15.784696", 
+      "description": "This dataset contains the integrated forest management agreement by province for the year 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "92724750-a993-4454-8b8b-879066f27b34", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Integrated Forest Management Agreement 2012", 
+      "package_id": "799da27c-37f3-4fbe-bc5d-ca3be6696576", 
+      "position": 0, 
+      "resource_group_id": "e84baf0b-83d4-4916-9903-ffd686624f0f", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/sjlhud29Jxwo6inBvgOY/integrated_forest_mgmt_agreement_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Integrated Forest Management Agreement 2012", 
+  "url": "", 
+  "version": ""
+}

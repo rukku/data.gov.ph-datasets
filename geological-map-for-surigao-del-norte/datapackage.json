@@ -1,0 +1,47 @@
+{
+  "author": "Bureau of Soils and Water Management", 
+  "author_email": "bswmclientcenter@yahoo.com", 
+  "download_url": "http://bswm.maps.da.gov.ph/maps/download/SurigaoDelNorte_GeologicalMap/SurigaoDelNorte_GeologicalMap.zip", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "Province", 
+    "Temporal Date": ""
+  }, 
+  "id": "d2f36114-f8aa-4d80-a3b6-dd60c2a64419", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Dr. Gina Nilo", 
+  "maintainer_email": "ginapnilo@ymail.com", 
+  "name": "geological-map-for-surigao-del-norte", 
+  "notes": "Geomorphological/Geological Map - delineation of either geology/lithology or landscapes/landforms or a combination of both.\r\n\r\nMap Type:\tGeological Map\t\r\nIsland:\tMindanao\r\nRegion:\tCaraga\r\nScale:\t50000\r\nProvince:\tSurigao Del Norte", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-20T14:47:08.524328", 
+      "description": "", 
+      "format": "SHP", 
+      "hash": "", 
+      "id": "0edbd6b4-ced7-411f-b460-6ba1637a0001", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Geological Map_Surigao Del Norte", 
+      "package_id": "d2f36114-f8aa-4d80-a3b6-dd60c2a64419", 
+      "position": 0, 
+      "resource_group_id": "8d785392-adaf-40f0-be96-d8bf1144d640", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://bswm.maps.da.gov.ph/maps/download/SurigaoDelNorte_GeologicalMap/SurigaoDelNorte_GeologicalMap.zip", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Geospatial"
+  ], 
+  "title": "Geological Map for Surigao Del Norte", 
+  "url": "http://bswm.maps.da.gov.ph/", 
+  "version": ""
+}

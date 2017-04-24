@@ -1,0 +1,46 @@
+{
+  "author": "Department of Health", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/HxBYKQWYJmVkHbhCqRTz/doh_treatment_hubs_for_people_living_with_hiv_including_pregnant_women.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/15"
+  }, 
+  "id": "2bbe7662-3072-46a3-bd11-6e3cd143a489", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "human-immunodeficiency-virus-treatment-hubs", 
+  "notes": "This dataset contains a list of all HIV treatment hubs for people living with HIV including pregnant women.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-13T15:00:53.826691", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "7b556935-99f9-4659-905c-ca1796fe0535", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "HIV Treatment Hubs", 
+      "package_id": "2bbe7662-3072-46a3-bd11-6e3cd143a489", 
+      "position": 0, 
+      "resource_group_id": "dd8e9c78-56ee-4627-83d1-60f3125fb3b5", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/HxBYKQWYJmVkHbhCqRTz/doh_treatment_hubs_for_people_living_with_hiv_including_pregnant_women.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Health"
+  ], 
+  "title": "HIV Treatment Hubs", 
+  "url": "", 
+  "version": ""
+}

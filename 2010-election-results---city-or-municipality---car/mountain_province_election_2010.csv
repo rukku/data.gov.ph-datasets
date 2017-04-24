@@ -1,0 +1,91 @@
+city_or_municipality,position,name,nickname,party_affiliation,votes_obtained
+Barlig,Mayor,"Sidchayao, Edmundo Challiis",Edmund,Nationalista Party,1191
+Barlig,Vice-Mayor,"Cupasan, Pio Singilan",-,Nationalista PartyC,1419
+Barlig,Councilor,"Masong, Isidro Askilon",Sedro,Nationalista Party,713
+Barlig,Councilor,"Naulgan, Ayson Tipyongon",Sonny,Independent,721
+Barlig,Councilor,"Alubia, Donald Sidchogan",Don,Independent,783
+Barlig,Councilor,"Cofin, Romeo Puyao",Romy,Nationalista Party,814
+Barlig,Councilor,"Ngaya, Clark Chatongna",Elak,Nationalista Party,818
+Barlig,Councilor,"Aggac, Roosevelt Chinus-Ing",Obet,Independent,823
+Barlig,Councilor,"Cablog, Fernando Yacamma",Fernan,Nationalista Party,941
+Barlig,Councilor,"Changilan, Genesis Tenangag",Kamadchu,Nationalista Party,1018
+Bauko,Mayor,"Lacwasan, Simon Calde",Modawan,Lakas-Kampi,7618
+Bauko,Vice-Mayor,"Patnaan, Rodolfo Aniban",Rudy,Independent,4930
+Bauko,Councilor,"Samidan, Ricky Balandi",Rs,Independent,4163
+Bauko,Councilor,"Malinias, Juan Panawdawan",Sowan,Independent,4228
+Bauko,Councilor,"Bantasan, Andres Okith",Pandek,Independent,4304
+Bauko,Councilor,"Pasngadan, Willy Galatic",-,Nationalista Party,4444
+Bauko,Councilor,"Taganas, Arcadio, Sr Bosnoyan",Isabilo,Independent,4727
+Bauko,Councilor,"Pagedped, Romeo Mangawili",Pedped,Independent,5316
+Bauko,Councilor,"Gaoken, Mario Innen",Kadisel,Independent,5317
+Bauko,Councilor,"Badecao, Bartolome Baungot",Bartolo,Lakas-Kampi,5568
+Besao,Mayor,"Pooten, Wellington Bagano",Welling,Lakas-Kampi,2042
+Besao,Vice-Mayor,"Baliaga, Harry Luis",Sicwaten,Independent,2091
+Besao,Councilor,"Beswilan, William Sucag",Willy,Lakas-Kampi,1153
+Besao,Councilor,"Beyden, Alfredo Solemen",Raymundo,Independent,1196
+Besao,Councilor,"Estangki, Orville Botengan",-,Lakas-Kampi,1229
+Besao,Councilor,"Pekas, Policarpio Bisledan",Carpio,Independent,1294
+Besao,Councilor,"Yongaan, Sylvia Kollin",Sky,Independent,1336
+Besao,Councilor,"Lacsigen, Joel Dogui-Is",-,Lakas-Kampi,1416
+Besao,Councilor,"Mangallay, Marcos Isen",Marcos,Lakas-Kampi,1458
+Besao,Councilor,"Lopsoten, June Tade",June,Independent,1530
+Bontoc,Mayor,"Salgaca, Pascual Anector",Pasky,Independent,3473
+Bontoc,Vice-Mayor,"Aspilan, William Ana-Ao",Willy,Independent,6699
+Bontoc,Councilor,"Sumcad, Anthony Opag",Tony,Independent,3239
+Bontoc,Councilor,"Padngaran, Wilbert Aniwasal",Wilbur,Independent,3300
+Bontoc,Councilor,"Farnican, Herman Cobsilen",-,Independent,3399
+Bontoc,Councilor,"Miranda, Constancio Ao-As",Tancio,Nationalista Party,3527
+Bontoc,Councilor,"Afidchao, Ignacio Felwa",Bolalog,Independent,3629
+Bontoc,Councilor,"Tudlong, Jerome, Jr Busacay",Chagsen,Lakas-Kampi,3912
+Bontoc,Councilor,"Ngeteg, Benjamin, Sr Manneng",Jamin,Independent,4003
+Bontoc,Councilor,"Kabluyen, Eusebio Suagen",Puapu,Independent,5076
+Natonin,Mayor,"Chiyawan, Mateo Liknachan",Mat,Liberal Party,2007
+Natonin,Vice-Mayor,"Liwanen, Rodolfo Dontogan",Rudy,Independent,1687
+Natonin,Councilor,"Oyang-O, Ronald Catalino",Onad,Independent,1380
+Natonin,Councilor,"Tarnate, Froilan Lee Tawaran",Froilan,Independent,1391
+Natonin,Councilor,"Dulay, Leonel Fiaching",Leo,Lakas-Kampi,1410
+Natonin,Councilor,"Chaclag, Marcos Palangdao",Mark,Independent,1483
+Natonin,Councilor,"Salwagan, Ray Lucas",Ray,Independent,1491
+Natonin,Councilor,"Basilan, Claro Ayas-Ep",Laro,Nationalista Party,1495
+Natonin,Councilor,"Bayowan, Christopher Milad",Toper,Independent,1537
+Natonin,Councilor,"Bagsao, Abel Oyammi",Abe,Independent,1719
+Sabangan,Mayor,"Amangyen, Avelino Charnnag",-,Independent,2584
+Sabangan,Vice-Mayor,"Rafael, Norma Enriqueta Balaso",Ketty,Nationalista Party,4554
+Sabangan,Councilor,"Assud, Miguel Tawaran",Mike,Independent,2470
+Sabangan,Councilor,"Corcha, Cesar Baguingan",Menrad,Independent,2472
+Sabangan,Councilor,"Bucatan, Rey Bissoyoc",Ramon,Independent,2829
+Sabangan,Councilor,"Tangbawan, Roy Dangpason",Lappao,Independent,2944
+Sabangan,Councilor,"Oredina, Marjorie Alzadon",Dulet,Independent,3035
+Sabangan,Councilor,"Banggot, Bello Malannag",Boyet,Independent,3196
+Sabangan,Councilor,"Carpio, Lorenzo Dig-Awan",Joni,Liberal Party,3941
+Sabangan,Councilor,"Manat, Benjamin Dano",Ruben,Independent,4646
+Sadanga,Mayor,"Ganggangan, Gabino Pangket",Gabi,Liberal Party,1355
+Sadanga,Vice-Mayor,"Apopot, Joseph Naweywey",Joseph,Independent,2521
+Sadanga,Councilor,"Tecag, Vincent Tallongen",Tollay,Liberal Party,854
+Sadanga,Councilor,"Forafor, Juanito Chuma-It",Pantoyog,Independent,896
+Sadanga,Councilor,"Kadatar, George Fasingan",Fasingan,Independent,904
+Sadanga,Councilor,"Falisong, Basilio Macalling",Papot,Independent,904
+Sadanga,Councilor,"Daguio, Joseph Ambarneg",-,Lakas-Kampi,912
+Sadanga,Councilor,"Magannon, Eusebio Tabareng",Sebio,Independent,931
+Sadanga,Councilor,"Ayao-Ao, Albert Tam-Ed",Albert,Nationalista Party,1004
+Sadanga,Councilor,"Agmeyeng, Moises Farong-Ey",Moises,Independent,1057
+Sagada,Mayor,"Latawan, Eduardo Jr Tamiing",Gumannao,Lakas-Kampi,3092
+Sagada,Vice-Mayor,"Yodong, Richard Alipit",Kagat,Independent,1901
+Sagada,Councilor,"Kilongan, Francis Solimen",Francis,Laban ng Demokratikong Pilipino,1740
+Sagada,Councilor,"Gomgom-O, Kapon Batollog",Bilog,Nationalista Party,1741
+Sagada,Councilor,"Guitelen, Edwardo, Jr Puclis",Poklis,Independent,1784
+Sagada,Councilor,"Padayao, Moses Balaoid",Bangaan,Nationalista Party,1828
+Sagada,Councilor,"Lopez, Dennis Awingan",Lam-Osen,Independent,1829
+Sagada,Councilor,"Lam-Osen, Valentine Bebit",Mathew,Independent,1843
+Sagada,Councilor,"Baybay, Venancio Bawayan",Binan,Independent,1875
+Sagada,Councilor,"Balisong, Francis Bang-I",Bang-I,Independent,2064
+Tadian,Mayor,"Wooden, Anthony Delson",Toni,Independent,4948
+Tadian,Vice-Mayor,"Atipen, Laurence Polled",Payapay,Independent,4150
+Tadian,Councilor,"Lao-Ay, Gilbert Lope",Yangkaw,Independent,2921
+Tadian,Councilor,"Ngade, John Casa-O",Lagsac,Independent,2953
+Tadian,Councilor,"Dulaycan, Oscar Wacan",Oca,Independent,2986
+Tadian,Councilor,"Pasan, Jose, Sr Colas",Joe,Independent,3011
+Tadian,Councilor,"Laminta, Jun Valentin",Jun,Independent,3193
+Tadian,Councilor,"Abadod, James Paatan",Oyagat,Independent,3227
+Tadian,Councilor,"Turtem, Uliver Dageo-A",Dick,Lakas-Kampi,4120
+Tadian,Councilor,"Polan, Alfonso Dacay",Tingeg,Nationalista Party,4255

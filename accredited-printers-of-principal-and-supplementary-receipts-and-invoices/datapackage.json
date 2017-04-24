@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Internal Revenue", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/YrszZbLfHR2eKa6q3DBn/biraccreprinters.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "1f846c93-ca2d-4283-851f-7d91b2839b41", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Client Support Service - Taxpayer Service Programs and Monitoring Division", 
+  "maintainer_email": "ma.antonette.ablay@bir.gov.ph", 
+  "name": "accredited-printers-of-principal-and-supplementary-receipts-and-invoices", 
+  "notes": "This dataset contains information on the accredited printers of receipt and invoices.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-06T10:58:33.397549", 
+      "description": "This dataset contains information on the accredited printers of receipt and invoices.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "67b60e1b-0205-4fdc-b5fe-354f1f994c73", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "ACCREDITED PRINTERS OF PRINCIPAL AND SUPPLEMENTARY RECEIPTS AND INVOICES", 
+      "package_id": "1f846c93-ca2d-4283-851f-7d91b2839b41", 
+      "position": 0, 
+      "resource_group_id": "df07bb76-2296-439e-b04b-1e59b7ee8a42", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/YrszZbLfHR2eKa6q3DBn/biraccreprinters.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Public Finance"
+  ], 
+  "title": "Accredited Printers of Principal and Supplementary Receipts and Invoices", 
+  "url": "", 
+  "version": ""
+}

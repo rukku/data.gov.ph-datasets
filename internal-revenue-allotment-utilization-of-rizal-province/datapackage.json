@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/PsHEnpU6CvYTBhfobLeB/rizal_province_irau_032012_q1.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "01/01/12-03/31/12, 12/31/12"
+  }, 
+  "id": "828e1dc1-ba64-41a3-825c-dbc17c4a53bf", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization-of-rizal-province", 
+  "notes": "This dataset contains report of internal revenue allotment utilization of Rizal province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-25T11:01:04.042868", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "4bf116fe-7913-414e-9f8b-7f7653894f13", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 1 - Rizal Province IRAU ", 
+      "package_id": "828e1dc1-ba64-41a3-825c-dbc17c4a53bf", 
+      "position": 0, 
+      "resource_group_id": "6c2a98ed-1329-4830-8e00-2bcc300ef773", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/PsHEnpU6CvYTBhfobLeB/rizal_province_irau_032012_q1.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-25T11:01:08.215777", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "4d284c54-0b59-4a53-b650-f011787b7776", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Rizal Province IRAU ", 
+      "package_id": "828e1dc1-ba64-41a3-825c-dbc17c4a53bf", 
+      "position": 1, 
+      "resource_group_id": "6c2a98ed-1329-4830-8e00-2bcc300ef773", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/YaFoZgneLR2HCL9K9UDG/rizal_province_irau_122012_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "INTERNAL REVENUE ALLOTMENT UTILIZATION of Rizal Province", 
+  "url": "", 
+  "version": ""
+}

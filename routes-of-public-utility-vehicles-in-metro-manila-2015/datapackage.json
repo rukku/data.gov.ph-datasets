@@ -1,0 +1,46 @@
+{
+  "author": "Land Transportation Franchising and Regulatory Board (LTFRB)", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/Duxen965fGRgspXkoew2/routespublicutilityvehiclesmetromanila.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2014-01/31/2014"
+  }, 
+  "id": "9e0ece77-f26d-4ffe-a96e-42c86fb96100", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Management Information Division", 
+  "maintainer_email": "jonahrut@hotmail.com", 
+  "name": "routes-of-public-utility-vehicles-in-metro-manila-2015", 
+  "notes": "This data set contains the list of routes of public buses, jeepneys, and UV Express vehicles in Metro Manila as of March 2015.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-08T10:01:58.971160", 
+      "description": "This data set contains the list of routes of public buses, jeepneys, and UV Express vehicles in Metro Manila as of March 2015.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "ddda15b8-e6df-4056-bc38-02afb16c5d53", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Routes of Public Utility Vehicles in Metro Manila", 
+      "package_id": "9e0ece77-f26d-4ffe-a96e-42c86fb96100", 
+      "position": 0, 
+      "resource_group_id": "9eafccb1-543f-4410-b374-37a7ca9cc31e", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/Duxen965fGRgspXkoew2/routespublicutilityvehiclesmetromanila.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Routes of Public Utility Vehicles in Metro Manila 2015", 
+  "url": "", 
+  "version": ""
+}

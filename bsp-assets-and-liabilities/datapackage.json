@@ -1,0 +1,46 @@
+{
+  "author": "Bangko Sentral ng Pilipinas", 
+  "author_email": "bspmail@bsp.gov.ph", 
+  "download_url": "http://www.bsp.gov.ph/statistics/excel/bspal.xls", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "12/31/1993-12/31/2014"
+  }, 
+  "id": "9d1674bf-a795-4629-8614-c8bbb21a1946", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bangko Sentral ng Pilipinas \u2013 Department of Economic Statisticsbspmail@bsp.gov.ph", 
+  "maintainer_email": "bspmail@bsp.gov.ph", 
+  "name": "bsp-assets-and-liabilities", 
+  "notes": "This dataset contains a statement showing the financial position of the BSP.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-15T10:16:20.487310", 
+      "description": "", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "5550ec56-1163-48d4-a85e-36fa2d5a8495", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Assets and Liabilities 2012-2013", 
+      "package_id": "9d1674bf-a795-4629-8614-c8bbb21a1946", 
+      "position": 0, 
+      "resource_group_id": "8a063937-1835-4bd7-a9c5-6adbd78104f8", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://www.bsp.gov.ph/statistics/excel/bspal.xls", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "BSP Assets and Liabilities", 
+  "url": "", 
+  "version": ""
+}

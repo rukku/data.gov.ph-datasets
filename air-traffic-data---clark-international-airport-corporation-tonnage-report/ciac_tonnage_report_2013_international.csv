@@ -1,0 +1,15 @@
+flight,particular,numberof_flights_inbound,inbound_pounds,inbound_kilograms,inbound_tons,number_of_flights_outbound,outbound_pounds,outbound_kilograms,outbound_tons
+UPS Flights,January ,50,3656429,-,1662.013182,51,3453063,-,1569.574091
+UPS Flights,February,41,2842531,-,1292.059545,40,2672899,-,1214.954091
+UPS Flights,March,53,4193365,-,1906.075,53,3733834,-,1697.197273
+UPS Flights,April,52,4125230,-,1875.104545,52,3528006,-,1603.639091
+UPS Flights,May,52,4156783,-,1889.446818,52,3572031,-,1623.650455
+UPS Flights,June,51,4015573,-,1825.260455,51,3546687,-,1612.130455
+UPS Flights,July,50,4412282,-,2005.582727,50,3702357,-,1682.889545
+UPS Flights,August,-,-,-,0,-,-,-,-
+UPS Flights,September,-,-,-,0,-,-,-,-
+UPS Flights,October,-,-,-,0,-,-,-,-
+UPS Flights,November,-,-,-,0,-,-,-,-
+UPS Flights,December,-,-,-,0,-,-,-,-
+UPS Flights,Total,349,27402193,0,12455.54227,349,24208877,0,11004.035
+Grand Total,Grand Total,349,27402193,0,12455.54227,349,24208877,0,11004.035

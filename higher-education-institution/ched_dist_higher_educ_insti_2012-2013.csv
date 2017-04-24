@@ -1,0 +1,19 @@
+region,sucs_main,sucs_satellite,local_colleges_and_universities,ched_supervised_institution,other_government_schools,special_hei,government_total_excluding_satellite_campus,government_total_including_satellite_campus,private_sectarian,private_non-sectarian,private_total,total_excluding_satellite_campus,total_including_satellite_campus
+I (Ilocos Region),6,21,4,0,0,0,10,31,15,66,81,91,112
+II (Cagayan Valley),5,20,0,0,0,0,5,25,10,39,49,54,74
+III (Central Luzon),12,37,12,0,0,0,24,61,24,142,166,190,227
+IV-A (CALABARZON),5,56,13,0,0,1,19,75,56,173,229,248,304
+V (Bicol Region),9,23,16,0,0,0,25,48,14,93,107,132,155
+VI (Western Visayas),11,53,9,0,1,0,21,74,29,48,77,98,151
+VII (Central Visayas),5,24,10,0,0,0,15,39,25,98,123,138,162
+VIII (Eastern Visayas),10,28,3,0,0,0,13,41,17,37,54,67,95
+IX (Zamboanga Peninsula),6,46,0,0,0,0,6,52,14,40,54,60,106
+X (Northern Mindanao),6,34,6,0,0,0,12,46,19,47,66,78,112
+XI (Davao Region),4,8,4,0,0,0,8,16,19,61,80,88,96
+XII (SOCCSKSARGEN),4,11,0,0,0,0,4,15,15,73,88,92,103
+NCR (National Capital Region),8,9,16,0,0,3,27,36,61,244,305,332,341
+CAR (Cordillera Administrative Region),6,14,0,0,0,1,7,21,6,30,36,43,57
+ARMM (Autonomous Region in Muslim Mindanao),4,5,0,1,6,0,11,16,2,49,51,62,67
+XIII (Caraga),4,10,1,0,0,0,5,15,10,35,45,50,60
+IV-B (MIMAROPA),6,43,1,0,0,0,7,50,9,32,41,48,91
+Total,111,442,95,1,7,5,219,661,345,1307,1652,1871,2313

@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=B70PNLPS", 
+  "extras": {
+    "Frequency Update": "Quarterly", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1982"
+  }, 
+  "id": "815c6efd-a780-4a40-befd-5de850c8eee7", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "animals-slaughtered-in-slaughterhouses-by-region-and-by-province", 
+  "notes": "This dataset contains the number of heads of livestock animals slaughtered in slaughterhouses by region and by province. This time-series includes the most recent data, covering the period from 1982 to the latest available quarter/year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-12T13:34:23.096976", 
+      "description": "This dataset contains the number of heads of livestock animals slaughtered in slaughterhouses by region and by province. This time-series includes the most recent data, covering the period from 1982 to the latest available quarter/year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "df582714-0587-48db-bfc1-58b07e706e85", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Livestock: Animals Slaughtered in Slaughterhouses by Region and by Province", 
+      "package_id": "815c6efd-a780-4a40-befd-5de850c8eee7", 
+      "position": 0, 
+      "resource_group_id": "1c86e6d4-b9e2-4295-b8cc-c12fa1f4ed22", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=B70PNLPS", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Animals Slaughtered in Slaughterhouses by Region and by Province", 
+  "url": null, 
+  "version": null
+}

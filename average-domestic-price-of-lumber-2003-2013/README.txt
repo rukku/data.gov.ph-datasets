@@ -1,0 +1,1 @@
+This dataset contains the average domestic price lumber imported and price lumber local from the year 2003 to 2013. *In cubic meter

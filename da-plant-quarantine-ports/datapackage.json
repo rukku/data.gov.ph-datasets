@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/nPCMVk2ikHFOPyXGNKjn/daplantquaports2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "d56aabff-b4dd-4fb6-8ef0-ab4cc6d90f26", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "da-plant-quarantine-ports", 
+  "notes": "Location of the different Plant Quarantine Ports", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T11:14:49.292144", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "3b2d0c81-25da-4fee-868c-a6f60ea5bd19", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Plant Quarantine Ports", 
+      "package_id": "d56aabff-b4dd-4fb6-8ef0-ab4cc6d90f26", 
+      "position": 0, 
+      "resource_group_id": "6b462978-760f-48d7-8feb-bfb17da01acd", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/nPCMVk2ikHFOPyXGNKjn/daplantquaports2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Plant Quarantine Ports", 
+  "url": "", 
+  "version": ""
+}

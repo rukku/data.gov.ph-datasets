@@ -1,0 +1,1784 @@
+station_name,sampling_date,parameter,standard_minimum,standard_maximum,unit,result,compliant,status
+Amvel Creek,2/22/2012,BOD (5-Day 20 Degrees),-,7,mg/L,36,No,Failed
+Amvel Creek,2/22/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Amvel Creek,2/22/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.1,No,Failed
+Amvel Creek,2/22/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.2,No,Failed
+Amvel Creek,2/22/2012,Nitrate as Nitrogen,-,10,mg/L,8,Yes,Passed
+Amvel Creek,3/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,19,No,Failed
+Amvel Creek,3/20/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Amvel Creek,3/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3,No,Failed
+Amvel Creek,3/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.11,No,Failed
+Amvel Creek,3/20/2012,Nitrate as Nitrogen,-,10,mg/L,8.29,Yes,Passed
+Amvel Creek,3/20/2012,Total Coliforms,-,5000,MPN/100ml,3.50E+11,No,Failed
+Amvel Creek,3/20/2012,Fecal Coliforms,-,-,MPN/100ml,1.60E+11,Variable,Null
+Amvel Creek,4/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Amvel Creek,4/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,64,No,Failed
+Amvel Creek,4/17/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Amvel Creek,4/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,18.6,No,Failed
+Amvel Creek,4/17/2012,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+Amvel Creek,4/17/2012,Total Coliforms,-,5000,MPN/100ml,7.20E+11,No,Failed
+Amvel Creek,4/17/2012,Fecal Coliforms,-,-,MPN/100ml,3.50E+11,Variable,Null
+Amvel Creek,6/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,52,No,Failed
+Amvel Creek,6/20/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Amvel Creek,6/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4,No,Failed
+Amvel Creek,6/20/2012,Nitrate as Nitrogen,-,10,mg/L,9.6,Yes,Passed
+Amvel Creek,6/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,16.2,No,Failed
+Amvel Creek,7/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,50,No,Failed
+Amvel Creek,7/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Amvel Creek,7/23/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Amvel Creek,7/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Amvel Creek,7/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,15.8,No,Failed
+Amvel Creek,7/23/2012,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+Amvel Creek,8/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,40,No,Failed
+Amvel Creek,8/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Amvel Creek,8/23/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Amvel Creek,8/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.7,No,Failed
+Amvel Creek,8/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.8,No,Failed
+Amvel Creek,8/23/2012,Nitrate as Nitrogen,-,10,mg/L,10.1,No,Failed
+Amvel Creek,9/3/2012,BOD (5-Day 20 Degrees),-,7,mg/L,28,No,Failed
+Amvel Creek,9/3/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Amvel Creek,9/3/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Amvel Creek,9/3/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.1,No,Failed
+Amvel Creek,9/3/2012,Phosphate as Phosphorus,-,0.4,mg/L,12.4,No,Failed
+Amvel Creek,9/3/2012,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+Amvel Creek,10/4/2012,BOD (5-Day 20 Degrees),-,7,mg/L,10,No,Failed
+Amvel Creek,10/4/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,1.3,No,Failed
+Amvel Creek,10/4/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Amvel Creek,10/4/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.2,No,Failed
+Amvel Creek,10/4/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.8,No,Failed
+Amvel Creek,10/4/2012,Nitrate as Nitrogen,-,10,mg/L,9.3,Yes,Passed
+Amvel Creek,10/4/2012,Total Coliforms,-,5000,MPN/100ml,3200000,No,Failed
+Amvel Creek,11/19/2012,BOD (5-Day 20 Degrees),-,7,mg/L,28,No,Failed
+Amvel Creek,11/19/2012,Total Dissolved Solids,-,-,mg/L,30,Variable,Null
+Amvel Creek,11/19/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.2,No,Failed
+Amvel Creek,11/19/2012,Phosphate as Phosphorus,-,0.4,mg/L,16.3,No,Failed
+Amvel Creek,11/19/2012,Nitrate as Nitrogen,-,10,mg/L,11.2,No,Failed
+Amvel Creek,12/13/2012,BOD (5-Day 20 Degrees),-,7,mg/L,36,No,Failed
+Amvel Creek,12/13/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Amvel Creek,12/13/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Amvel Creek,12/13/2012,Phosphate as Phosphorus,-,0.4,mg/L,18.9,No,Failed
+Amvel Creek,12/13/2012,Nitrate as Nitrogen,-,10,mg/L,11.4,No,Failed
+Amvel Creek,1/28/2013,Nitrate as Nitrogen,-,10,mg/L,10.9,No,Failed
+Amvel Creek,1/28/2013,BOD (5-Day 20 Degrees),-,7,mg/L,30,No,Failed
+Amvel Creek,1/28/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Amvel Creek,1/28/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.2,No,Failed
+Amvel Creek,1/28/2013,Phosphate as Phosphorus,-,0.4,mg/L,18.1,No,Failed
+Amvel Creek,2/18/2013,BOD (5-Day 20 Degrees),-,7,mg/L,28,No,Failed
+Amvel Creek,2/18/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Amvel Creek,2/18/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Amvel Creek,2/18/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.3,No,Failed
+Amvel Creek,2/18/2013,Nitrate as Nitrogen,-,10,mg/L,10.2,No,Failed
+Amvel Creek,3/25/2013,BOD (5-Day 20 Degrees),-,7,mg/L,40,No,Failed
+Amvel Creek,3/25/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Amvel Creek,3/25/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.5,No,Failed
+Amvel Creek,3/25/2013,Phosphate as Phosphorus,-,0.4,mg/L,18.3,No,Failed
+Amvel Creek,3/25/2013,Nitrate as Nitrogen,-,10,mg/L,10.6,No,Failed
+Amvel Creek,4/22/2013,BOD (5-Day 20 Degrees),-,7,mg/L,34,No,Failed
+Amvel Creek,4/22/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Amvel Creek,4/22/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.1,No,Failed
+Amvel Creek,4/22/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.7,No,Failed
+Amvel Creek,4/22/2013,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+Amvel Creek,5/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Amvel Creek,5/14/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Amvel Creek,5/14/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.3,No,Failed
+Amvel Creek,5/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.6,No,Failed
+Amvel Creek,5/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.9,No,Failed
+Amvel Creek,5/14/2013,Nitrate as Nitrogen,-,10,mg/L,9.2,Yes,Passed
+Amvel Creek,6/14/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.6,No,Failed
+Amvel Creek,6/14/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Amvel Creek,6/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.4,No,Failed
+Amvel Creek,6/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+Amvel Creek,6/14/2013,Nitrate as Nitrogen,-,10,mg/L,9.5,Yes,Passed
+Amvel Creek,6/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.7,No,Failed
+Amvel Creek,7/8/2013,Nitrate as Nitrogen,-,10,mg/L,10.5,No,Failed
+Amvel Creek,7/8/2013,BOD (5-Day 20 Degrees),-,7,mg/L,60,No,Failed
+Amvel Creek,7/8/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Amvel Creek,7/8/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.4,No,Failed
+Amvel Creek,7/8/2013,Phosphate as Phosphorus,-,0.4,mg/L,19.7,No,Failed
+Bangculasi Creek Station,2/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,34,No,Failed
+Bangculasi Creek Station,2/20/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi Creek Station,2/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.4,No,Failed
+Bangculasi Creek Station,2/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.8,No,Failed
+Bangculasi Creek Station,2/20/2012,Nitrate as Nitrogen,-,10,mg/L,7.9,Yes,Passed
+Bangculasi Creek Station,2/20/2012,Lead,-,0.05,mg/L,0.0075,Yes,Passed
+Bangculasi Creek Station,2/20/2012,Cadmium,-,0.01,mg/L,0.0011,Yes,Passed
+Bangculasi Creek Station,3/5/2012,Total Coliforms,-,5000,MPN/100ml,16000000,No,Failed
+Bangculasi Creek Station,3/5/2012,Fecal Coliforms,-,-,MPN/100ml,2800000,Variable,Null
+Bangculasi Creek Station,3/5/2012,BOD (5-Day 20 Degrees),-,7,mg/L,62,No,Failed
+Bangculasi Creek Station,3/5/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Bangculasi Creek Station,3/5/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.1,No,Failed
+Bangculasi Creek Station,3/5/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.87,No,Failed
+Bangculasi Creek Station,3/5/2012,Nitrate as Nitrogen,-,10,mg/L,7.85,Yes,Passed
+Bangculasi Creek Station,4/25/2012,Nitrate as Nitrogen,-,10,mg/L,6.8,Yes,Passed
+Bangculasi Creek Station,4/25/2012,Total Coliforms,-,5000,MPN/100ml,9200000,No,Failed
+Bangculasi Creek Station,4/25/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Bangculasi Creek Station,4/25/2012,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+Bangculasi Creek Station,4/25/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Bangculasi Creek Station,4/25/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.5,No,Failed
+Bangculasi Creek Station,4/25/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.3,No,Failed
+Bangculasi Creek Station,4/25/2012,Fecal Coliforms,-,-,MPN/100ml,5400000,Variable,Null
+Bangculasi Creek Station,7/16/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Bangculasi Creek Station,7/16/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Bangculasi Creek Station,7/16/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+Bangculasi Creek Station,7/16/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.9,No,Failed
+Bangculasi Creek Station,7/16/2012,Nitrate as Nitrogen,-,10,mg/L,7.1,Yes,Passed
+Bangculasi Creek Station,8/28/2012,Nitrate as Nitrogen,-,10,mg/L,7.5,Yes,Passed
+Bangculasi Creek Station,8/28/2012,BOD (5-Day 20 Degrees),-,7,mg/L,14,No,Failed
+Bangculasi Creek Station,8/28/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.6,No,Failed
+Bangculasi Creek Station,8/28/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi Creek Station,8/28/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.6,No,Failed
+Bangculasi Creek Station,8/28/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.1,No,Failed
+Bangculasi Creek Station,9/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+Bangculasi Creek Station,9/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.4,No,Failed
+Bangculasi Creek Station,9/17/2012,Nitrate as Nitrogen,-,10,mg/L,7.2,Yes,Passed
+Bangculasi Creek Station,9/17/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.8,No,Failed
+Bangculasi Creek Station,9/17/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi Creek Station,9/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,16,No,Failed
+Bangculasi Creek Station,10/24/2012,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+Bangculasi Creek Station,10/24/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.5,No,Failed
+Bangculasi Creek Station,10/24/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi Creek Station,10/24/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.3,No,Failed
+Bangculasi Creek Station,10/24/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.5,No,Failed
+Bangculasi Creek Station,10/24/2012,Nitrate as Nitrogen,-,10,mg/L,6.8,Yes,Passed
+Bangculasi Creek Station,11/12/2012,BOD (5-Day 20 Degrees),-,7,mg/L,14,No,Failed
+Bangculasi Creek Station,11/12/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.5,No,Failed
+Bangculasi Creek Station,11/12/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi Creek Station,11/12/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.1,No,Failed
+Bangculasi Creek Station,11/12/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.3,No,Failed
+Bangculasi Creek Station,11/12/2012,Nitrate as Nitrogen,-,10,mg/L,7.2,Yes,Passed
+Bangculasi Creek Station,12/10/2012,BOD (5-Day 20 Degrees),-,7,mg/L,12,No,Failed
+Bangculasi Creek Station,12/10/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi Creek Station,12/10/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,1.1,No,Failed
+Bangculasi Creek Station,12/10/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,1.8,Yes,Passed
+Bangculasi Creek Station,12/10/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.9,No,Failed
+Bangculasi Creek Station,12/10/2012,Nitrate as Nitrogen,-,10,mg/L,7.4,Yes,Passed
+Bangculasi Creek Station,1/21/2013,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Bangculasi Creek Station,1/21/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.5,No,Failed
+Bangculasi Creek Station,1/21/2013,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi Creek Station,1/21/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.1,No,Failed
+Bangculasi Creek Station,1/21/2013,Phosphate as Phosphorus,-,0.4,mg/L,9.9,No,Failed
+Bangculasi Creek Station,1/21/2013,Nitrate as Nitrogen,-,10,mg/L,7.7,Yes,Passed
+Bangculasi Creek Station,2/4/2013,BOD (5-Day 20 Degrees),-,7,mg/L,58,No,Failed
+Bangculasi Creek Station,2/4/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Bangculasi Creek Station,2/4/2013,Phosphate as Phosphorus,-,0.4,mg/L,12.8,No,Failed
+Bangculasi Creek Station,2/4/2013,Nitrate as Nitrogen,-,10,mg/L,8.6,Yes,Passed
+Bangculasi Creek Station,2/4/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Bangculasi Creek Station,3/11/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Bangculasi Creek Station,3/11/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.9,No,Failed
+Bangculasi Creek Station,3/11/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.2,No,Failed
+Bangculasi Creek Station,3/11/2013,Nitrate as Nitrogen,-,10,mg/L,8.9,Yes,Passed
+Bangculasi Creek Station,3/11/2013,BOD (5-Day 20 Degrees),-,7,mg/L,60,No,Failed
+Bangculasi Creek Station,4/1/2013,BOD (5-Day 20 Degrees),-,7,mg/L,34,No,Failed
+Bangculasi Creek Station,4/1/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Bangculasi Creek Station,4/1/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.5,No,Failed
+Bangculasi Creek Station,4/1/2013,Phosphate as Phosphorus,-,0.4,mg/L,18.3,No,Failed
+Bangculasi Creek Station,4/1/2013,Nitrate as Nitrogen,-,10,mg/L,9.3,Yes,Passed
+Bangculasi Creek Station,6/3/2013,BOD (5-Day 20 Degrees),-,7,mg/L,50,No,Failed
+Bangculasi Creek Station,6/3/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Bangculasi Creek Station,6/3/2013,Phosphate as Phosphorus,-,0.4,mg/L,20.3,No,Failed
+Bangculasi Creek Station,6/3/2013,Nitrate as Nitrogen,-,10,mg/L,10.8,No,Failed
+Bangculasi Creek Station,6/3/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.7,No,Failed
+Bangculasi Creek Station,7/2/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.3,No,Failed
+Bangculasi Creek Station,7/2/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.1,No,Failed
+Bangculasi Creek Station,7/2/2013,Nitrate as Nitrogen,-,10,mg/L,9.6,Yes,Passed
+Bangculasi Creek Station,7/2/2013,BOD (5-Day 20 Degrees),-,7,mg/L,24,No,Failed
+Bangculasi Creek Station,7/2/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Bangculasi River Station,2/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Bangculasi River Station,2/20/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi River Station,2/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.1,No,Failed
+Bangculasi River Station,2/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.3,No,Failed
+Bangculasi River Station,2/20/2012,Nitrate as Nitrogen,-,10,mg/L,6.4,Yes,Passed
+Bangculasi River Station,2/20/2012,Lead,-,0.05,mg/L,0.0119,Yes,Passed
+Bangculasi River Station,2/20/2012,Cadmium,-,0.01,mg/L,0.001,Yes,Passed
+Bangculasi River Station,3/5/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Bangculasi River Station,3/5/2012,BOD (5-Day 20 Degrees),-,7,mg/L,56,No,Failed
+Bangculasi River Station,3/5/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Bangculasi River Station,3/5/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.2,No,Failed
+Bangculasi River Station,3/5/2012,Phosphate as Phosphorus,-,0.4,mg/L,6.29,No,Failed
+Bangculasi River Station,3/5/2012,Nitrate as Nitrogen,-,10,mg/L,5.16,Yes,Passed
+Bangculasi River Station,3/5/2012,Total Coliforms,-,5000,MPN/100ml,1700000,No,Failed
+Bangculasi River Station,3/5/2012,Fecal Coliforms,-,-,MPN/100ml,790000,Variable,Null
+Bangculasi River Station,4/25/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Bangculasi River Station,4/25/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Bangculasi River Station,4/25/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi River Station,4/25/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.5,No,Failed
+Bangculasi River Station,4/25/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.42,No,Failed
+Bangculasi River Station,4/25/2012,Nitrate as Nitrogen,-,10,mg/L,6.12,Yes,Passed
+Bangculasi River Station,4/25/2012,Total Coliforms,-,5000,MPN/100ml,5400000,No,Failed
+Bangculasi River Station,4/25/2012,Fecal Coliforms,-,-,MPN/100ml,920000,Variable,Null
+Bangculasi River Station,7/16/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Bangculasi River Station,7/16/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi River Station,7/16/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.2,No,Failed
+Bangculasi River Station,7/16/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.1,No,Failed
+Bangculasi River Station,7/16/2012,Nitrate as Nitrogen,-,10,mg/L,5.5,Yes,Passed
+Bangculasi River Station,8/28/2012,BOD (5-Day 20 Degrees),-,7,mg/L,16,No,Failed
+Bangculasi River Station,8/28/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Bangculasi River Station,8/28/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi River Station,8/28/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+Bangculasi River Station,8/28/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.5,No,Failed
+Bangculasi River Station,8/28/2012,Nitrate as Nitrogen,-,10,mg/L,6.1,Yes,Passed
+Bangculasi River Station,9/17/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,2.1,No,Failed
+Bangculasi River Station,9/17/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi River Station,9/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.1,No,Failed
+Bangculasi River Station,9/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.3,No,Failed
+Bangculasi River Station,9/17/2012,Nitrate as Nitrogen,-,10,mg/L,6.9,Yes,Passed
+Bangculasi River Station,9/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,12,No,Failed
+Bangculasi River Station,10/24/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.9,No,Failed
+Bangculasi River Station,10/24/2012,Nitrate as Nitrogen,-,10,mg/L,7.3,Yes,Passed
+Bangculasi River Station,10/24/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi River Station,10/24/2012,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+Bangculasi River Station,10/24/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.3,No,Failed
+Bangculasi River Station,10/24/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.4,No,Failed
+Bangculasi River Station,11/12/2012,BOD (5-Day 20 Degrees),-,7,mg/L,23,No,Failed
+Bangculasi River Station,11/12/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.5,No,Failed
+Bangculasi River Station,11/12/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi River Station,11/12/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+Bangculasi River Station,11/12/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.8,No,Failed
+Bangculasi River Station,11/12/2012,Nitrate as Nitrogen,-,10,mg/L,7.9,Yes,Passed
+Bangculasi River Station,12/10/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Bangculasi River Station,12/10/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi River Station,12/10/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,1.1,No,Failed
+Bangculasi River Station,12/10/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.3,No,Failed
+Bangculasi River Station,12/10/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.1,No,Failed
+Bangculasi River Station,12/10/2012,Nitrate as Nitrogen,-,10,mg/L,7.4,Yes,Passed
+Bangculasi River Station,1/21/2013,BOD (5-Day 20 Degrees),-,7,mg/L,12,No,Failed
+Bangculasi River Station,1/21/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,1.6,No,Failed
+Bangculasi River Station,1/21/2013,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi River Station,1/21/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.1,No,Failed
+Bangculasi River Station,1/21/2013,Phosphate as Phosphorus,-,0.4,mg/L,9.9,No,Failed
+Bangculasi River Station,1/21/2013,Nitrate as Nitrogen,-,10,mg/L,7.8,Yes,Passed
+Bangculasi River Station,2/4/2013,BOD (5-Day 20 Degrees),-,7,mg/L,66,No,Failed
+Bangculasi River Station,2/4/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.5,No,Failed
+Bangculasi River Station,2/4/2013,Phosphate as Phosphorus,-,0.4,mg/L,13.8,No,Failed
+Bangculasi River Station,2/4/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Bangculasi River Station,2/4/2013,Nitrate as Nitrogen,-,10,mg/L,8.6,Yes,Passed
+Bangculasi River Station,3/11/2013,BOD (5-Day 20 Degrees),-,7,mg/L,58,No,Failed
+Bangculasi River Station,3/11/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Bangculasi River Station,3/11/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.2,No,Failed
+Bangculasi River Station,3/11/2013,Phosphate as Phosphorus,-,0.4,mg/L,18.6,No,Failed
+Bangculasi River Station,3/11/2013,Nitrate as Nitrogen,-,10,mg/L,9.3,Yes,Passed
+Bangculasi River Station,4/1/2013,BOD (5-Day 20 Degrees),-,7,mg/L,44,No,Failed
+Bangculasi River Station,4/1/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Bangculasi River Station,4/1/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.6,No,Failed
+Bangculasi River Station,4/1/2013,Phosphate as Phosphorus,-,0.4,mg/L,22.8,No,Failed
+Bangculasi River Station,4/1/2013,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+Bangculasi River Station,5/6/2013,BOD (5-Day 20 Degrees),-,7,mg/L,68,No,Failed
+Bangculasi River Station,5/6/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Bangculasi River Station,5/6/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.9,No,Failed
+Bangculasi River Station,5/6/2013,Phosphate as Phosphorus,-,0.4,mg/L,25.6,No,Failed
+Bangculasi River Station,5/6/2013,Nitrate as Nitrogen,-,10,mg/L,10.4,No,Failed
+Bangculasi River Station,6/3/2013,BOD (5-Day 20 Degrees),-,7,mg/L,54,No,Failed
+Bangculasi River Station,6/3/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Bangculasi River Station,6/3/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.7,No,Failed
+Bangculasi River Station,6/3/2013,Phosphate as Phosphorus,-,0.4,mg/L,28.3,No,Failed
+Bangculasi River Station,6/3/2013,Nitrate as Nitrogen,-,10,mg/L,10.9,No,Failed
+Bangculasi River Station,7/2/2013,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Bangculasi River Station,7/2/2013,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Bangculasi River Station,7/2/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+Bangculasi River Station,7/2/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.6,No,Failed
+Bangculasi River Station,7/2/2013,Nitrate as Nitrogen,-,10,mg/L,8.6,Yes,Passed
+Dilain Creek,2/22/2012,BOD (5-Day 20 Degrees),-,7,mg/L,50,No,Failed
+Dilain Creek,2/22/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Dilain Creek,2/22/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.5,No,Failed
+Dilain Creek,2/22/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.86,No,Failed
+Dilain Creek,2/22/2012,Nitrate as Nitrogen,-,10,mg/L,9.3,Yes,Passed
+Dilain Creek,3/20/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Dilain Creek,3/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.9,No,Failed
+Dilain Creek,3/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.74,No,Failed
+Dilain Creek,3/20/2012,Nitrate as Nitrogen,-,10,mg/L,6.89,Yes,Passed
+Dilain Creek,3/20/2012,Total Coliforms,-,5000,MPN/100ml,2.80E+11,No,Failed
+Dilain Creek,3/20/2012,Fecal Coliforms,-,-,MPN/100ml,1.60E+11,Variable,Null
+Dilain Creek,3/20/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.9,No,Failed
+Dilain Creek,3/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,15,No,Failed
+Dilain Creek,4/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,15.3,No,Failed
+Dilain Creek,4/17/2012,Nitrate as Nitrogen,-,10,mg/L,8.9,Yes,Passed
+Dilain Creek,4/17/2012,Total Coliforms,-,5000,MPN/100ml,5.40E+11,No,Failed
+Dilain Creek,4/17/2012,Fecal Coliforms,-,-,MPN/100ml,2.80E+11,Variable,Null
+Dilain Creek,4/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,50,No,Failed
+Dilain Creek,4/17/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Dilain Creek,4/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Dilain Creek,6/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,72,No,Failed
+Dilain Creek,6/20/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Dilain Creek,6/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.3,No,Failed
+Dilain Creek,6/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,14.8,No,Failed
+Dilain Creek,6/20/2012,Nitrate as Nitrogen,-,10,mg/L,9.2,Yes,Passed
+Dilain Creek,7/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,14,No,Failed
+Dilain Creek,7/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.7,No,Failed
+Dilain Creek,7/23/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Dilain Creek,7/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.1,No,Failed
+Dilain Creek,7/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,12.6,No,Failed
+Dilain Creek,7/23/2012,Nitrate as Nitrogen,-,10,mg/L,8.6,Yes,Passed
+Dilain Creek,8/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,68,No,Failed
+Dilain Creek,8/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Dilain Creek,8/23/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Dilain Creek,8/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.5,No,Failed
+Dilain Creek,8/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,14.1,No,Failed
+Dilain Creek,8/23/2012,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+Dilain Creek,9/3/2012,BOD (5-Day 20 Degrees),-,7,mg/L,46,No,Failed
+Dilain Creek,9/3/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Dilain Creek,9/3/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Dilain Creek,9/3/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.1,No,Failed
+Dilain Creek,9/3/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.8,No,Failed
+Dilain Creek,9/3/2012,Nitrate as Nitrogen,-,10,mg/L,9.8,Yes,Passed
+Dilain Creek,10/4/2012,BOD (5-Day 20 Degrees),-,7,mg/L,22,No,Failed
+Dilain Creek,10/4/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Dilain Creek,10/4/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Dilain Creek,10/4/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.4,No,Failed
+Dilain Creek,10/4/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.3,No,Failed
+Dilain Creek,10/4/2012,Nitrate as Nitrogen,-,10,mg/L,8.6,Yes,Passed
+Dilain Creek,10/4/2012,Total Coliforms,-,5000,MPN/100ml,9200000,No,Failed
+Dilain Creek,11/19/2012,Nitrate as Nitrogen,-,10,mg/L,10.5,No,Failed
+Dilain Creek,11/19/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Dilain Creek,11/19/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.1,No,Failed
+Dilain Creek,11/19/2012,Phosphate as Phosphorus,-,0.4,mg/L,18.5,No,Failed
+Dilain Creek,11/19/2012,BOD (5-Day 20 Degrees),-,7,mg/L,48,No,Failed
+Dilain Creek,12/13/2012,Phosphate as Phosphorus,-,0.4,mg/L,22.3,No,Failed
+Dilain Creek,12/13/2012,Nitrate as Nitrogen,-,10,mg/L,10.7,No,Failed
+Dilain Creek,12/13/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.5,No,Failed
+Dilain Creek,12/13/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Dilain Creek,12/13/2012,BOD (5-Day 20 Degrees),-,7,mg/L,52,No,Failed
+Dilain Creek,1/28/2013,BOD (5-Day 20 Degrees),-,7,mg/L,74,No,Failed
+Dilain Creek,1/28/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Dilain Creek,1/28/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.7,No,Failed
+Dilain Creek,1/28/2013,Phosphate as Phosphorus,-,0.4,mg/L,24.6,No,Failed
+Dilain Creek,1/28/2013,Nitrate as Nitrogen,-,10,mg/L,11.3,No,Failed
+Dilain Creek,2/18/2013,BOD (5-Day 20 Degrees),-,7,mg/L,60,No,Failed
+Dilain Creek,2/18/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Dilain Creek,2/18/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.3,No,Failed
+Dilain Creek,2/18/2013,Phosphate as Phosphorus,-,0.4,mg/L,22.6,No,Failed
+Dilain Creek,2/18/2013,Nitrate as Nitrogen,-,10,mg/L,10.7,No,Failed
+Dilain Creek,3/25/2013,BOD (5-Day 20 Degrees),-,7,mg/L,46,No,Failed
+Dilain Creek,3/25/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Dilain Creek,3/25/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.1,No,Failed
+Dilain Creek,3/25/2013,Phosphate as Phosphorus,-,0.4,mg/L,21.6,No,Failed
+Dilain Creek,3/25/2013,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+Dilain Creek,4/22/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.7,No,Failed
+Dilain Creek,4/22/2013,BOD (5-Day 20 Degrees),-,7,mg/L,56,No,Failed
+Dilain Creek,4/22/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Dilain Creek,4/22/2013,Phosphate as Phosphorus,-,0.4,mg/L,24.6,No,Failed
+Dilain Creek,4/22/2013,Nitrate as Nitrogen,-,10,mg/L,10.8,No,Failed
+Dilain Creek,5/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,52,No,Failed
+Dilain Creek,5/14/2013,Total Suspended Solids,-,-,mg/L,60,Variable,Null
+Dilain Creek,5/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.3,No,Failed
+Dilain Creek,5/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,22.1,No,Failed
+Dilain Creek,5/14/2013,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+Dilain Creek,6/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,16,No,Failed
+Dilain Creek,6/14/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,1.5,No,Failed
+Dilain Creek,6/14/2013,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Dilain Creek,6/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.9,No,Failed
+Dilain Creek,6/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,12.4,No,Failed
+Dilain Creek,6/14/2013,Nitrate as Nitrogen,-,10,mg/L,8.7,Yes,Passed
+Dilain Creek,7/8/2013,Phosphate as Phosphorus,-,0.4,mg/L,22.1,No,Failed
+Dilain Creek,7/8/2013,Nitrate as Nitrogen,-,10,mg/L,9.8,Yes,Passed
+Dilain Creek,7/8/2013,BOD (5-Day 20 Degrees),-,7,mg/L,70,No,Failed
+Dilain Creek,7/8/2013,Total Suspended Solids,-,-,mg/L,60,Variable,Null
+Dilain Creek,7/8/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,7.2,No,Failed
+Fairview Station,2/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,12,No,Failed
+Fairview Station,2/20/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Fairview Station,2/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,1.9,Yes,Passed
+Fairview Station,2/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.2,No,Failed
+Fairview Station,2/20/2012,Nitrate as Nitrogen,-,10,mg/L,6.34,Yes,Passed
+Fairview Station,2/20/2012,Lead,-,0.05,mg/L,0.074,No,Failed
+Fairview Station,2/20/2012,Cadmium,-,0.01,mg/L,0.3971,No,Failed
+Fairview Station,3/5/2012,BOD (5-Day 20 Degrees),-,7,mg/L,82,No,Failed
+Fairview Station,3/5/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Fairview Station,3/5/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Fairview Station,3/5/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.4,No,Failed
+Fairview Station,3/5/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.62,No,Failed
+Fairview Station,3/5/2012,Nitrate as Nitrogen,-,10,mg/L,10.34,No,Failed
+Fairview Station,3/5/2012,Total Coliforms,-,5000,MPN/100ml,5400000,No,Failed
+Fairview Station,3/5/2012,Fecal Coliforms,-,-,MPN/100ml,2800000,Variable,Null
+Fairview Station,4/25/2012,Nitrate as Nitrogen,-,10,mg/L,7.3,Yes,Passed
+Fairview Station,4/25/2012,Dissolved Oxygen (e) (minimum) satn,60,100,%satn,0,No,Failed
+Fairview Station,4/25/2012,Total Coliforms,-,5000,MPN/100ml,3500000,No,Failed
+Fairview Station,4/25/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Fairview Station,4/25/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.4,No,Failed
+Fairview Station,4/25/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.1,No,Failed
+Fairview Station,4/25/2012,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+Fairview Station,7/16/2012,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+Fairview Station,7/16/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+Fairview Station,7/16/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.1,No,Failed
+Fairview Station,7/16/2012,Nitrate as Nitrogen,-,10,mg/L,6.9,Yes,Passed
+Fairview Station,7/16/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Fairview Station,7/16/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Fairview Station,7/16/2012,Nitrate as Nitrogen,-,10,mg/L,7.8,Yes,Passed
+Fairview Station,7/16/2012,BOD (5-Day 20 Degrees),-,7,mg/L,22,No,Failed
+Fairview Station,7/16/2012,Dissolved Oxygen (e) (minimum) satn,60,100,%satn,0,No,Failed
+Fairview Station,7/16/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.1,No,Failed
+Fairview Station,7/16/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.6,No,Failed
+Fairview Station,8/28/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Fairview Station,8/28/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,2,No,Failed
+Fairview Station,8/28/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Fairview Station,8/28/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.8,No,Failed
+Fairview Station,8/28/2012,Nitrate as Nitrogen,-,10,mg/L,7.1,Yes,Passed
+Fairview Station,8/28/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.3,No,Failed
+Fairview Station,9/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,1.8,Yes,Passed
+Fairview Station,9/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.7,No,Failed
+Fairview Station,9/17/2012,Nitrate as Nitrogen,-,10,mg/L,7.6,Yes,Passed
+Fairview Station,9/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,10,No,Failed
+Fairview Station,9/17/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,2.4,No,Failed
+Fairview Station,9/17/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Fairview Station,10/24/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Fairview Station,10/24/2012,BOD (5-Day 20 Degrees),-,7,mg/L,8,No,Failed
+Fairview Station,10/24/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,3,No,Failed
+Fairview Station,10/24/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2,Yes,Passed
+Fairview Station,10/24/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.9,No,Failed
+Fairview Station,10/24/2012,Nitrate as Nitrogen,-,10,mg/L,7.2,Yes,Passed
+Fairview Station,11/12/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,2.1,No,Failed
+Fairview Station,11/12/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Fairview Station,11/12/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.4,No,Failed
+Fairview Station,11/12/2012,Nitrate as Nitrogen,-,10,mg/L,7.7,Yes,Passed
+Fairview Station,11/12/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.2,No,Failed
+Fairview Station,11/12/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Fairview Station,12/10/2012,BOD (5-Day 20 Degrees),-,7,mg/L,16,No,Failed
+Fairview Station,12/10/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,1.4,No,Failed
+Fairview Station,12/10/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Fairview Station,12/10/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2,Yes,Passed
+Fairview Station,12/10/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.9,No,Failed
+Fairview Station,12/10/2012,Nitrate as Nitrogen,-,10,mg/L,7.4,Yes,Passed
+Fairview Station,1/21/2013,Nitrate as Nitrogen,-,10,mg/L,6.9,Yes,Passed
+Fairview Station,1/21/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,1.6,Yes,Passed
+Fairview Station,1/21/2013,Phosphate as Phosphorus,-,0.4,mg/L,8.3,No,Failed
+Fairview Station,1/21/2013,BOD (5-Day 20 Degrees),-,7,mg/L,15,No,Failed
+Fairview Station,1/21/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,1,No,Failed
+Fairview Station,1/21/2013,Total Suspended Solids,-,-,mg/L,10,Variable,Null
+Fairview Station,2/4/2013,BOD (5-Day 20 Degrees),-,7,mg/L,22,No,Failed
+Fairview Station,2/4/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Fairview Station,2/4/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.3,No,Failed
+Fairview Station,2/4/2013,Phosphate as Phosphorus,-,0.4,mg/L,10.4,No,Failed
+Fairview Station,2/4/2013,Nitrate as Nitrogen,-,10,mg/L,7.7,Yes,Passed
+Fairview Station,3/11/2013,BOD (5-Day 20 Degrees),-,7,mg/L,54,No,Failed
+Fairview Station,3/11/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Fairview Station,3/11/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Fairview Station,3/11/2013,Phosphate as Phosphorus,-,0.4,mg/L,13.6,No,Failed
+Fairview Station,3/11/2013,Nitrate as Nitrogen,-,10,mg/L,8.1,Yes,Passed
+Fairview Station,4/1/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Fairview Station,4/1/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.8,No,Failed
+Fairview Station,4/1/2013,Phosphate as Phosphorus,-,0.4,mg/L,13.9,No,Failed
+Fairview Station,4/1/2013,Nitrate as Nitrogen,-,10,mg/L,9.6,Yes,Passed
+Fairview Station,4/1/2013,BOD (5-Day 20 Degrees),-,7,mg/L,22,No,Failed
+Fairview Station,4/1/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.3,No,Failed
+Fairview Station,4/1/2013,Nitrate as Nitrogen,-,10,mg/L,9.2,Yes,Passed
+Fairview Station,4/1/2013,BOD (5-Day 20 Degrees),-,7,mg/L,26,No,Failed
+Fairview Station,4/1/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Fairview Station,4/1/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Fairview Station,5/6/2013,BOD (5-Day 20 Degrees),-,7,mg/L,24,No,Failed
+Fairview Station,5/6/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Fairview Station,5/6/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Fairview Station,5/6/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.6,No,Failed
+Fairview Station,5/6/2013,Nitrate as Nitrogen,-,10,mg/L,9.5,Yes,Passed
+Fairview Station,6/3/2013,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Fairview Station,6/3/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Fairview Station,6/3/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+Fairview Station,6/3/2013,Phosphate as Phosphorus,-,0.4,mg/L,13.4,No,Failed
+Fairview Station,6/3/2013,Nitrate as Nitrogen,-,10,mg/L,9.1,Yes,Passed
+Fairview Station,7/2/2013,BOD (5-Day 20 Degrees),-,7,mg/L,14,No,Failed
+Fairview Station,7/2/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.8,No,Failed
+Fairview Station,7/2/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Fairview Station,7/2/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.4,No,Failed
+Fairview Station,7/2/2013,Phosphate as Phosphorus,-,0.4,mg/L,12.7,No,Failed
+Fairview Station,7/2/2013,Nitrate as Nitrogen,-,10,mg/L,8.9,Yes,Passed
+Global,2/22/2012,BOD (5-Day 20 Degrees),-,7,mg/L,54,No,Failed
+Global,2/22/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Global,2/22/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Global,2/22/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.35,No,Failed
+Global,2/22/2012,Nitrate as Nitrogen,-,10,mg/L,8.34,Yes,Passed
+Global,3/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,14,No,Failed
+Global,3/20/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Global,3/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.2,No,Failed
+Global,3/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,7.89,No,Failed
+Global,3/20/2012,Nitrate as Nitrogen,-,10,mg/L,5.11,Yes,Passed
+Global,3/20/2012,Total Coliforms,-,5000,MPN/100ml,3.50E+11,No,Failed
+Global,3/20/2012,Fecal Coliforms,-,-,MPN/100ml,2.80E+11,Variable,Null
+Global,4/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,50,No,Failed
+Global,4/17/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Global,4/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Global,4/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.2,No,Failed
+Global,4/17/2012,Nitrate as Nitrogen,-,10,mg/L,7.2,Yes,Passed
+Global,4/17/2012,Total Coliforms,-,5000,MPN/100ml,5.40E+11,No,Failed
+Global,4/17/2012,Fecal Coliforms,-,-,MPN/100ml,3.50E+11,Variable,Null
+Global,6/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+Global,6/20/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Global,6/20/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Global,6/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.2,No,Failed
+Global,6/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.4,No,Failed
+Global,6/20/2012,Nitrate as Nitrogen,-,10,mg/L,8.3,Yes,Passed
+Global,7/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,62,No,Failed
+Global,7/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Global,7/23/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Global,7/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Global,7/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.4,No,Failed
+Global,7/23/2012,Nitrate as Nitrogen,-,10,mg/L,10.2,No,Failed
+Global,8/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,50,No,Failed
+Global,8/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Global,8/23/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Global,8/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.3,No,Failed
+Global,8/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,12.4,No,Failed
+Global,8/23/2012,Nitrate as Nitrogen,-,10,mg/L,9.6,Yes,Passed
+Global,9/3/2012,BOD (5-Day 20 Degrees),-,7,mg/L,34,No,Failed
+Global,9/3/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Global,9/3/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Global,9/3/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.8,No,Failed
+Global,9/3/2012,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+Global,10/4/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Global,10/4/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.8,No,Failed
+Global,10/4/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Global,10/4/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.5,No,Failed
+Global,10/4/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.3,No,Failed
+Global,10/4/2012,Nitrate as Nitrogen,-,10,mg/L,8.7,Yes,Passed
+Global,10/4/2012,Total Coliforms,-,5000,MPN/100ml,3200000,No,Failed
+Global,11/19/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Global,11/19/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Global,11/19/2012,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+Global,11/19/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.4,No,Failed
+Global,11/19/2012,Nitrate as Nitrogen,-,10,mg/L,9.6,Yes,Passed
+Global,12/13/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Global,12/13/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.3,No,Failed
+Global,12/13/2012,Phosphate as Phosphorus,-,0.4,mg/L,12.5,No,Failed
+Global,12/13/2012,Nitrate as Nitrogen,-,10,mg/L,10.4,No,Failed
+Global,12/13/2012,BOD (5-Day 20 Degrees),-,7,mg/L,44,No,Failed
+Global,1/28/2013,BOD (5-Day 20 Degrees),-,7,mg/L,44,No,Failed
+Global,1/28/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Global,1/28/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.3,No,Failed
+Global,1/28/2013,Phosphate as Phosphorus,-,0.4,mg/L,12.5,No,Failed
+Global,1/28/2013,Nitrate as Nitrogen,-,10,mg/L,10.4,No,Failed
+Global,2/18/2013,BOD (5-Day 20 Degrees),-,7,mg/L,32,No,Failed
+Global,2/18/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Global,2/18/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Global,2/18/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.6,No,Failed
+Global,2/18/2013,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+Global,3/25/2013,BOD (5-Day 20 Degrees),-,7,mg/L,34,No,Failed
+Global,3/25/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Global,3/25/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.2,No,Failed
+Global,3/25/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.2,No,Failed
+Global,3/25/2013,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+Global,4/22/2013,Phosphate as Phosphorus,-,0.4,mg/L,15.6,No,Failed
+Global,4/22/2013,Nitrate as Nitrogen,-,10,mg/L,10.1,No,Failed
+Global,4/22/2013,BOD (5-Day 20 Degrees),-,7,mg/L,28,No,Failed
+Global,4/22/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Global,4/22/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Global,5/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+Global,5/14/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Global,5/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.2,No,Failed
+Global,5/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,13.3,No,Failed
+Global,5/14/2013,Nitrate as Nitrogen,-,10,mg/L,10.4,No,Failed
+Global,6/14/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,1.3,No,Failed
+Global,6/14/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Global,6/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.2,No,Failed
+Global,6/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,12.4,No,Failed
+Global,6/14/2013,Nitrate as Nitrogen,-,10,mg/L,9.1,Yes,Passed
+Global,6/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Global,7/8/2013,BOD (5-Day 20 Degrees),-,7,mg/L,44,No,Failed
+Global,7/8/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Global,7/8/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Global,7/8/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.3,No,Failed
+Global,7/8/2013,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+Gov. Pascual Station,2/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,25,No,Failed
+Gov. Pascual Station,2/20/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Gov. Pascual Station,2/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.8,No,Failed
+Gov. Pascual Station,2/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.4,No,Failed
+Gov. Pascual Station,2/20/2012,Nitrate as Nitrogen,-,10,mg/L,5.78,Yes,Passed
+Gov. Pascual Station,2/20/2012,Lead,-,0.05,mg/L,0.0062,Yes,Passed
+Gov. Pascual Station,2/20/2012,Cadmium,-,0.01,mg/L,0.001,Yes,Passed
+Gov. Pascual Station,3/5/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Gov. Pascual Station,3/5/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Gov. Pascual Station,3/5/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.8,No,Failed
+Gov. Pascual Station,3/5/2012,Phosphate as Phosphorus,-,0.4,mg/L,6.41,No,Failed
+Gov. Pascual Station,3/5/2012,Nitrate as Nitrogen,-,10,mg/L,4.77,Yes,Passed
+Gov. Pascual Station,3/5/2012,Total Coliforms,-,5000,MPN/100ml,21000000,No,Failed
+Gov. Pascual Station,3/5/2012,Fecal Coliforms,-,-,MPN/100ml,11000000,Variable,Null
+Gov. Pascual Station,3/5/2012,BOD (5-Day 20 Degrees),-,7,mg/L,70,No,Failed
+Gov. Pascual Station,4/25/2012,Total Coliforms,-,5000,MPN/100ml,16000000,No,Failed
+Gov. Pascual Station,4/25/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.1,No,Failed
+Gov. Pascual Station,4/25/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.55,No,Failed
+Gov. Pascual Station,4/25/2012,Nitrate as Nitrogen,-,10,mg/L,5.65,Yes,Passed
+Gov. Pascual Station,4/25/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Gov. Pascual Station,4/25/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Gov. Pascual Station,4/25/2012,BOD (5-Day 20 Degrees),-,7,mg/L,26,No,Failed
+Gov. Pascual Station,7/16/2012,Nitrate as Nitrogen,-,10,mg/L,5.5,Yes,Passed
+Gov. Pascual Station,7/16/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.1,No,Failed
+Gov. Pascual Station,7/16/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Gov. Pascual Station,7/16/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Gov. Pascual Station,7/16/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+Gov. Pascual Station,7/16/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Gov. Pascual Station,8/28/2012,BOD (5-Day 20 Degrees),-,7,mg/L,22,No,Failed
+Gov. Pascual Station,8/28/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Gov. Pascual Station,8/28/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Gov. Pascual Station,8/28/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.9,No,Failed
+Gov. Pascual Station,8/28/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.7,No,Failed
+Gov. Pascual Station,8/28/2012,Nitrate as Nitrogen,-,10,mg/L,6.6,Yes,Passed
+Gov. Pascual Station,9/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.1,No,Failed
+Gov. Pascual Station,9/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.9,No,Failed
+Gov. Pascual Station,9/17/2012,Nitrate as Nitrogen,-,10,mg/L,8.8,Yes,Passed
+Gov. Pascual Station,9/17/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Gov. Pascual Station,9/17/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Gov. Pascual Station,9/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,28,No,Failed
+Gov. Pascual Station,10/24/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Gov. Pascual Station,10/24/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Gov. Pascual Station,10/24/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.2,No,Failed
+Gov. Pascual Station,10/24/2012,Nitrate as Nitrogen,-,10,mg/L,9.1,Yes,Passed
+Gov. Pascual Station,10/24/2012,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+Gov. Pascual Station,10/24/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Gov. Pascual Station,11/12/2012,BOD (5-Day 20 Degrees),-,7,mg/L,50,No,Failed
+Gov. Pascual Station,11/12/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Gov. Pascual Station,11/12/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.2,No,Failed
+Gov. Pascual Station,11/12/2012,Phosphate as Phosphorus,-,0.4,mg/L,16.8,No,Failed
+Gov. Pascual Station,11/12/2012,Nitrate as Nitrogen,-,10,mg/L,10.1,No,Failed
+Gov. Pascual Station,12/10/2012,BOD (5-Day 20 Degrees),-,7,mg/L,32,No,Failed
+Gov. Pascual Station,12/10/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Gov. Pascual Station,12/10/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.2,No,Failed
+Gov. Pascual Station,12/10/2012,Phosphate as Phosphorus,-,0.4,mg/L,12.9,No,Failed
+Gov. Pascual Station,12/10/2012,Nitrate as Nitrogen,-,10,mg/L,9.6,Yes,Passed
+Gov. Pascual Station,1/21/2013,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+Gov. Pascual Station,1/21/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.3,No,Failed
+Gov. Pascual Station,1/21/2013,BOD (5-Day 20 Degrees),-,7,mg/L,48,No,Failed
+Gov. Pascual Station,1/21/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Gov. Pascual Station,1/21/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Gov. Pascual Station,2/4/2013,BOD (5-Day 20 Degrees),-,7,mg/L,34,No,Failed
+Gov. Pascual Station,2/4/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Gov. Pascual Station,2/4/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.4,No,Failed
+Gov. Pascual Station,2/4/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.1,No,Failed
+Gov. Pascual Station,2/4/2013,Nitrate as Nitrogen,-,10,mg/L,9.3,Yes,Passed
+Gov. Pascual Station,3/11/2013,BOD (5-Day 20 Degrees),-,7,mg/L,50,No,Failed
+Gov. Pascual Station,3/11/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Gov. Pascual Station,3/11/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.9,No,Failed
+Gov. Pascual Station,3/11/2013,Phosphate as Phosphorus,-,0.4,mg/L,19.3,No,Failed
+Gov. Pascual Station,3/11/2013,Nitrate as Nitrogen,-,10,mg/L,10.1,No,Failed
+Gov. Pascual Station,4/1/2013,BOD (5-Day 20 Degrees),-,7,mg/L,36,No,Failed
+Gov. Pascual Station,4/1/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Gov. Pascual Station,4/1/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Gov. Pascual Station,4/1/2013,Phosphate as Phosphorus,-,0.4,mg/L,21.6,No,Failed
+Gov. Pascual Station,5/6/2013,BOD (5-Day 20 Degrees),-,7,mg/L,28,No,Failed
+Gov. Pascual Station,5/6/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Gov. Pascual Station,5/6/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.1,No,Failed
+Gov. Pascual Station,5/6/2013,Phosphate as Phosphorus,-,0.4,mg/L,20.3,No,Failed
+Gov. Pascual Station,5/6/2013,Nitrate as Nitrogen,-,10,mg/L,10.1,No,Failed
+Gov. Pascual Station,6/3/2013,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+Gov. Pascual Station,6/3/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Gov. Pascual Station,6/3/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.7,No,Failed
+Gov. Pascual Station,6/3/2013,Phosphate as Phosphorus,-,0.4,mg/L,22.5,No,Failed
+Gov. Pascual Station,6/3/2013,Nitrate as Nitrogen,-,10,mg/L,10.7,No,Failed
+Gov. Pascual Station,7/2/2013,BOD (5-Day 20 Degrees),-,7,mg/L,26,No,Failed
+Gov. Pascual Station,7/2/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.7,No,Failed
+Gov. Pascual Station,7/2/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Gov. Pascual Station,7/2/2013,Phosphate as Phosphorus,-,0.4,mg/L,17.3,No,Failed
+Gov. Pascual Station,7/2/2013,Nitrate as Nitrogen,-,10,mg/L,9.8,Yes,Passed
+Gulod Station,3/5/2012,BOD (5-Day 20 Degrees),-,7,mg/L,82,No,Failed
+Gulod Station,3/5/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Gulod Station,3/5/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,6.1,No,Failed
+Gulod Station,3/5/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Gulod Station,3/5/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.58,No,Failed
+Gulod Station,3/5/2012,Nitrate as Nitrogen,-,10,mg/L,7.5,Yes,Passed
+Gulod Station,3/5/2012,Total Coliforms,-,5000,MPN/100ml,9200000,No,Failed
+Gulod Station,3/5/2012,Fecal Coliforms,-,-,MPN/100ml,5400000,Variable,Null
+Gulod Station,4/25/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.6,No,Failed
+Gulod Station,4/25/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.8,No,Failed
+Gulod Station,4/25/2012,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+Gulod Station,4/25/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Gulod Station,4/25/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Gulod Station,4/25/2012,Nitrate as Nitrogen,-,10,mg/L,8.2,Yes,Passed
+Gulod Station,4/25/2012,Total Coliforms,-,5000,MPN/100ml,5400000,No,Failed
+Gulod Station,7/16/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Gulod Station,7/16/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Gulod Station,7/16/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.3,No,Failed
+Gulod Station,7/16/2012,Nitrate as Nitrogen,-,10,mg/L,7.7,Yes,Passed
+Gulod Station,7/16/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3,No,Failed
+Gulod Station,8/28/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.1,No,Failed
+Gulod Station,8/28/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.6,No,Failed
+Gulod Station,8/28/2012,Nitrate as Nitrogen,-,10,mg/L,7.6,Yes,Passed
+Gulod Station,8/28/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.8,No,Failed
+Gulod Station,8/28/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Gulod Station,8/28/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Gulod Station,9/17/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Gulod Station,9/17/2012,Nitrate as Nitrogen,-,10,mg/L,7.9,Yes,Passed
+Gulod Station,9/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.9,No,Failed
+Gulod Station,9/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.2,No,Failed
+Gulod Station,9/17/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,1,No,Failed
+Gulod Station,9/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,16,No,Failed
+Gulod Station,10/24/2012,BOD (5-Day 20 Degrees),-,7,mg/L,10,No,Failed
+Gulod Station,10/24/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,3.8,No,Failed
+Gulod Station,10/24/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Gulod Station,10/24/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.4,No,Failed
+Gulod Station,10/24/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.1,No,Failed
+Gulod Station,10/24/2012,Nitrate as Nitrogen,-,10,mg/L,7.5,Yes,Passed
+Gulod Station,11/12/2012,BOD (5-Day 20 Degrees),-,7,mg/L,27,No,Failed
+Gulod Station,11/12/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Gulod Station,11/12/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Gulod Station,11/12/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.9,No,Failed
+Gulod Station,11/12/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.9,No,Failed
+Gulod Station,11/12/2012,Nitrate as Nitrogen,-,10,mg/L,8.2,Yes,Passed
+Gulod Station,12/10/2012,BOD (5-Day 20 Degrees),-,7,mg/L,28,No,Failed
+Gulod Station,12/10/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Gulod Station,12/10/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+Gulod Station,12/10/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.5,No,Failed
+Gulod Station,12/10/2012,Nitrate as Nitrogen,-,10,mg/L,8.5,Yes,Passed
+Gulod Station,1/21/2013,Phosphate as Phosphorus,-,0.4,mg/L,8.8,No,Failed
+Gulod Station,1/21/2013,Nitrate as Nitrogen,-,10,mg/L,7.6,Yes,Passed
+Gulod Station,1/21/2013,BOD (5-Day 20 Degrees),-,7,mg/L,25,No,Failed
+Gulod Station,1/21/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.4,No,Failed
+Gulod Station,1/21/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Gulod Station,1/21/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.2,No,Failed
+Gulod Station,2/4/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Gulod Station,2/4/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Gulod Station,2/4/2013,Phosphate as Phosphorus,-,0.4,mg/L,12.6,No,Failed
+Gulod Station,2/4/2013,BOD (5-Day 20 Degrees),-,7,mg/L,46,No,Failed
+Gulod Station,2/4/2013,Nitrate as Nitrogen,-,10,mg/L,9.6,Yes,Passed
+Gulod Station,3/11/2013,BOD (5-Day 20 Degrees),-,7,mg/L,44,No,Failed
+Gulod Station,3/11/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Gulod Station,3/11/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.3,No,Failed
+Gulod Station,3/11/2013,Phosphate as Phosphorus,-,0.4,mg/L,11.7,No,Failed
+Gulod Station,3/11/2013,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+Gulod Station,4/1/2013,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+Gulod Station,4/1/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Gulod Station,4/1/2013,Nitrate as Nitrogen,-,10,mg/L,11.5,No,Failed
+Gulod Station,4/1/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.2,No,Failed
+Gulod Station,4/1/2013,Phosphate as Phosphorus,-,0.4,mg/L,21.6,No,Failed
+Gulod Station,5/6/2013,Nitrate as Nitrogen,-,10,mg/L,10.6,No,Failed
+Gulod Station,5/6/2013,BOD (5-Day 20 Degrees),-,7,mg/L,26,No,Failed
+Gulod Station,5/6/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Gulod Station,5/6/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.1,No,Failed
+Gulod Station,5/6/2013,Phosphate as Phosphorus,-,0.4,mg/L,17.8,No,Failed
+Gulod Station,6/3/2013,Phosphate as Phosphorus,-,0.4,mg/L,15.9,No,Failed
+Gulod Station,6/3/2013,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+Gulod Station,6/3/2013,BOD (5-Day 20 Degrees),-,7,mg/L,22,No,Failed
+Gulod Station,6/3/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Gulod Station,6/3/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.7,No,Failed
+Gulod Station,7/2/2013,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Gulod Station,7/2/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.2,No,Failed
+Gulod Station,7/2/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Gulod Station,7/2/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.3,No,Failed
+Gulod Station,7/2/2013,Phosphate as Phosphorus,-,0.4,mg/L,15.2,No,Failed
+Gulod Station,7/2/2013,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+Ibayo Creek,2/22/2012,BOD (5-Day 20 Degrees),-,7,mg/L,36,No,Failed
+Ibayo Creek,2/22/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Ibayo Creek,2/22/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.7,No,Failed
+Ibayo Creek,2/22/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.8,No,Failed
+Ibayo Creek,2/22/2012,Nitrate as Nitrogen,-,10,mg/L,7.4,Yes,Passed
+Ibayo Creek,3/20/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Ibayo Creek,3/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.6,No,Failed
+Ibayo Creek,3/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.05,No,Failed
+Ibayo Creek,3/20/2012,Nitrate as Nitrogen,-,10,mg/L,8.67,Yes,Passed
+Ibayo Creek,3/20/2012,Total Coliforms,-,5000,MPN/100ml,5.40E+11,No,Failed
+Ibayo Creek,3/20/2012,Fecal Coliforms,-,-,MPN/100ml,2.80E+11,Variable,Null
+Ibayo Creek,3/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,21,No,Failed
+Ibayo Creek,4/18/2012,Fecal Coliforms,-,-,MPN/100ml,5.40E+11,Variable,Null
+Ibayo Creek,4/18/2012,Total Coliforms,-,5000,MPN/100ml,9.20E+11,No,Failed
+Ibayo Creek,4/18/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.2,No,Failed
+Ibayo Creek,4/18/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.3,No,Failed
+Ibayo Creek,4/18/2012,BOD (5-Day 20 Degrees),-,7,mg/L,48,No,Failed
+Ibayo Creek,4/18/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Ibayo Creek,6/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,56,No,Failed
+Ibayo Creek,6/20/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Ibayo Creek,6/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Ibayo Creek,6/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.8,No,Failed
+Ibayo Creek,6/20/2012,Nitrate as Nitrogen,-,10,mg/L,8.9,Yes,Passed
+Ibayo Creek,7/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,26,No,Failed
+Ibayo Creek,7/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.5,No,Failed
+Ibayo Creek,7/23/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Ibayo Creek,7/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.4,No,Failed
+Ibayo Creek,7/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.9,No,Failed
+Ibayo Creek,7/23/2012,Nitrate as Nitrogen,-,10,mg/L,8.1,Yes,Passed
+Ibayo Creek,8/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,86,No,Failed
+Ibayo Creek,8/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Ibayo Creek,8/23/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Ibayo Creek,8/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Ibayo Creek,8/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.6,No,Failed
+Ibayo Creek,8/23/2012,Nitrate as Nitrogen,-,10,mg/L,11.1,No,Failed
+Ibayo Creek,9/3/2012,BOD (5-Day 20 Degrees),-,7,mg/L,22,No,Failed
+Ibayo Creek,9/3/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Ibayo Creek,9/3/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Ibayo Creek,9/3/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Ibayo Creek,9/3/2012,Phosphate as Phosphorus,-,0.4,mg/L,12.8,No,Failed
+Ibayo Creek,9/3/2012,Nitrate as Nitrogen,-,10,mg/L,11.8,No,Failed
+Ibayo Creek,10/4/2012,BOD (5-Day 20 Degrees),-,7,mg/L,42,No,Failed
+Ibayo Creek,10/4/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Ibayo Creek,10/4/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Ibayo Creek,10/4/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Ibayo Creek,10/4/2012,Phosphate as Phosphorus,-,0.4,mg/L,14.9,No,Failed
+Ibayo Creek,10/4/2012,Nitrate as Nitrogen,-,10,mg/L,12.8,No,Failed
+Ibayo Creek,10/4/2012,Total Coliforms,-,5000,MPN/100ml,5400000,No,Failed
+Ibayo Creek,11/19/2012,BOD (5-Day 20 Degrees),-,7,mg/L,16,No,Failed
+Ibayo Creek,11/19/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,1.1,No,Failed
+Ibayo Creek,11/19/2012,Total Dissolved Solids,-,-,mg/L,20,Variable,Null
+Ibayo Creek,11/19/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.9,No,Failed
+Ibayo Creek,11/19/2012,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+Ibayo Creek,12/13/2012,Nitrate as Nitrogen,-,10,mg/L,10.4,No,Failed
+Ibayo Creek,12/13/2012,Phosphate as Phosphorus,-,0.4,mg/L,14.3,No,Failed
+Ibayo Creek,12/13/2012,BOD (5-Day 20 Degrees),-,7,mg/L,28,No,Failed
+Ibayo Creek,12/13/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Ibayo Creek,12/13/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.6,No,Failed
+Ibayo Creek,1/28/2013,Nitrate as Nitrogen,-,10,mg/L,11.1,No,Failed
+Ibayo Creek,1/28/2013,BOD (5-Day 20 Degrees),-,7,mg/L,78,No,Failed
+Ibayo Creek,1/28/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Ibayo Creek,1/28/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.6,No,Failed
+Ibayo Creek,1/28/2013,Phosphate as Phosphorus,-,0.4,mg/L,22.2,No,Failed
+Ibayo Creek,2/18/2013,BOD (5-Day 20 Degrees),-,7,mg/L,68,No,Failed
+Ibayo Creek,2/18/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Ibayo Creek,2/18/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.2,No,Failed
+Ibayo Creek,2/18/2013,Phosphate as Phosphorus,-,0.4,mg/L,20.6,No,Failed
+Ibayo Creek,2/18/2013,Nitrate as Nitrogen,-,10,mg/L,11.3,No,Failed
+Ibayo Creek,3/25/2013,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+Ibayo Creek,3/25/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Ibayo Creek,3/25/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Ibayo Creek,3/25/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.4,No,Failed
+Ibayo Creek,3/25/2013,Nitrate as Nitrogen,-,10,mg/L,10.8,No,Failed
+Ibayo Creek,4/22/2013,Phosphate as Phosphorus,-,0.4,mg/L,19.4,No,Failed
+Ibayo Creek,4/22/2013,Nitrate as Nitrogen,-,10,mg/L,11.3,No,Failed
+Ibayo Creek,4/22/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.4,No,Failed
+Ibayo Creek,4/22/2013,BOD (5-Day 20 Degrees),-,7,mg/L,60,No,Failed
+Ibayo Creek,4/22/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Ibayo Creek,5/14/2013,Nitrate as Nitrogen,-,10,mg/L,10.6,No,Failed
+Ibayo Creek,5/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,52,No,Failed
+Ibayo Creek,5/14/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Ibayo Creek,5/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.9,No,Failed
+Ibayo Creek,5/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,25.3,No,Failed
+Ibayo Creek,6/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+Ibayo Creek,6/14/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.5,No,Failed
+Ibayo Creek,6/14/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Ibayo Creek,6/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.1,No,Failed
+Ibayo Creek,6/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.5,No,Failed
+Ibayo Creek,6/14/2013,Nitrate as Nitrogen,-,10,mg/L,9.1,Yes,Passed
+Ibayo Creek,7/8/2013,BOD (5-Day 20 Degrees),-,7,mg/L,72,No,Failed
+Ibayo Creek,7/8/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Ibayo Creek,7/8/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,7.6,No,Failed
+Ibayo Creek,7/8/2013,Phosphate as Phosphorus,-,0.4,mg/L,26.8,No,Failed
+Ibayo Creek,7/8/2013,Nitrate as Nitrogen,-,10,mg/L,11.3,No,Failed
+La Huerta,2/22/2012,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+La Huerta,2/22/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.9,No,Failed
+La Huerta,2/22/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+La Huerta,2/22/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+La Huerta,2/22/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.07,No,Failed
+La Huerta,2/22/2012,Nitrate as Nitrogen,-,10,mg/L,7.92,Yes,Passed
+La Huerta,3/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,45,No,Failed
+La Huerta,3/20/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+La Huerta,3/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.3,No,Failed
+La Huerta,3/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.33,No,Failed
+La Huerta,3/20/2012,Nitrate as Nitrogen,-,10,mg/L,7.4,Yes,Passed
+La Huerta,3/20/2012,Total Coliforms,-,5000,MPN/100ml,1.60E+11,No,Failed
+La Huerta,3/20/2012,Fecal Coliforms,-,-,MPN/100ml,9.20E+11,Variable,Null
+La Huerta,4/18/2012,Nitrate as Nitrogen,-,10,mg/L,6.8,Yes,Passed
+La Huerta,4/18/2012,Total Coliforms,-,5000,MPN/100ml,4.80E+11,No,Failed
+La Huerta,4/18/2012,Fecal Coliforms,-,-,MPN/100ml,2.40E+11,Variable,Null
+La Huerta,4/18/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.9,No,Failed
+La Huerta,4/18/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+La Huerta,4/18/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.2,No,Failed
+La Huerta,4/18/2012,BOD (5-Day 20 Degrees),-,7,mg/L,36,No,Failed
+La Huerta,6/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,32,No,Failed
+La Huerta,6/20/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+La Huerta,6/20/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+La Huerta,6/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.7,No,Failed
+La Huerta,6/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.1,No,Failed
+La Huerta,6/20/2012,Nitrate as Nitrogen,-,10,mg/L,7.1,Yes,Passed
+La Huerta,7/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,48,No,Failed
+La Huerta,7/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+La Huerta,7/23/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+La Huerta,7/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.3,No,Failed
+La Huerta,7/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.8,No,Failed
+La Huerta,7/23/2012,Nitrate as Nitrogen,-,10,mg/L,7.4,Yes,Passed
+La Huerta,8/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,52,No,Failed
+La Huerta,8/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+La Huerta,8/23/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+La Huerta,8/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.2,No,Failed
+La Huerta,8/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.4,No,Failed
+La Huerta,8/23/2012,Nitrate as Nitrogen,-,10,mg/L,9.7,Yes,Passed
+La Huerta,9/3/2012,BOD (5-Day 20 Degrees),-,7,mg/L,54,No,Failed
+La Huerta,9/3/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+La Huerta,9/3/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.4,No,Failed
+La Huerta,9/3/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.9,No,Failed
+La Huerta,9/3/2012,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+La Huerta,10/4/2012,BOD (5-Day 20 Degrees),-,7,mg/L,8,No,Failed
+La Huerta,10/4/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,1.4,No,Failed
+La Huerta,10/4/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+La Huerta,10/4/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+La Huerta,10/4/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.3,No,Failed
+La Huerta,10/4/2012,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+La Huerta,10/4/2012,Total Coliforms,-,5000,MPN/100ml,9200000,No,Failed
+La Huerta,11/19/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.6,No,Failed
+La Huerta,11/19/2012,Total Dissolved Solids,-,-,mg/L,20,Variable,Null
+La Huerta,11/19/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.9,No,Failed
+La Huerta,11/19/2012,BOD (5-Day 20 Degrees),-,7,mg/L,12,No,Failed
+La Huerta,11/19/2012,Nitrate as Nitrogen,-,10,mg/L,9,Yes,Passed
+La Huerta,11/19/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,1.8,No,Failed
+La Huerta,12/13/2012,BOD (5-Day 20 Degrees),-,7,mg/L,26,No,Failed
+La Huerta,12/13/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+La Huerta,12/13/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.2,No,Failed
+La Huerta,12/13/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.4,No,Failed
+La Huerta,12/13/2012,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+La Huerta,1/28/2013,Nitrate as Nitrogen,-,10,mg/L,9.1,Yes,Passed
+La Huerta,1/28/2013,BOD (5-Day 20 Degrees),-,7,mg/L,32,No,Failed
+La Huerta,1/28/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+La Huerta,1/28/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3,No,Failed
+La Huerta,1/28/2013,Phosphate as Phosphorus,-,0.4,mg/L,10.8,No,Failed
+La Huerta,2/18/2013,BOD (5-Day 20 Degrees),-,7,mg/L,36,No,Failed
+La Huerta,2/18/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+La Huerta,2/18/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+La Huerta,2/18/2013,Phosphate as Phosphorus,-,0.4,mg/L,18.5,No,Failed
+La Huerta,2/18/2013,Nitrate as Nitrogen,-,10,mg/L,9.8,Yes,Passed
+La Huerta,3/25/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.4,No,Failed
+La Huerta,3/25/2013,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+La Huerta,3/25/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.1,No,Failed
+La Huerta,3/25/2013,BOD (5-Day 20 Degrees),-,7,mg/L,34,No,Failed
+La Huerta,3/25/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+La Huerta,4/22/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+La Huerta,4/22/2013,BOD (5-Day 20 Degrees),-,7,mg/L,40,No,Failed
+La Huerta,4/22/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+La Huerta,4/22/2013,Phosphate as Phosphorus,-,0.4,mg/L,18.8,No,Failed
+La Huerta,4/22/2013,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+La Huerta,5/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,32,No,Failed
+La Huerta,5/14/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+La Huerta,5/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.4,No,Failed
+La Huerta,5/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.7,No,Failed
+La Huerta,5/14/2013,Nitrate as Nitrogen,-,10,mg/L,10.1,No,Failed
+La Huerta,6/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.4,No,Failed
+La Huerta,6/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,11.3,No,Failed
+La Huerta,6/14/2013,Nitrate as Nitrogen,-,10,mg/L,8.6,Yes,Passed
+La Huerta,6/14/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,1.7,No,Failed
+La Huerta,6/14/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+La Huerta,6/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,12,No,Failed
+La Huerta,7/8/2013,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+La Huerta,7/8/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.9,No,Failed
+La Huerta,7/8/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+La Huerta,7/8/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.6,No,Failed
+La Huerta,7/8/2013,BOD (5-Day 20 Degrees),-,7,mg/L,48,No,Failed
+Longos Station,2/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,22,No,Failed
+Longos Station,2/20/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Longos Station,2/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.8,No,Failed
+Longos Station,2/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.7,No,Failed
+Longos Station,2/20/2012,Nitrate as Nitrogen,-,10,mg/L,8.1,Yes,Passed
+Longos Station,2/20/2012,Lead,-,0.05,mg/L,0.0166,Yes,Passed
+Longos Station,2/20/2012,Cadmium,-,0.01,mg/L,0.0037,Yes,Passed
+Longos Station,3/5/2012,BOD (5-Day 20 Degrees),-,7,mg/L,36,No,Failed
+Longos Station,3/5/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Longos Station,3/5/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Longos Station,3/5/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.6,No,Failed
+Longos Station,3/5/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.3,No,Failed
+Longos Station,3/5/2012,Nitrate as Nitrogen,-,10,mg/L,6.42,Yes,Passed
+Longos Station,3/5/2012,Total Coliforms,-,5000,MPN/100ml,9200000,No,Failed
+Longos Station,3/5/2012,Fecal Coliforms,-,-,MPN/100ml,2800000,Variable,Null
+Longos Station,4/25/2012,BOD (5-Day 20 Degrees),-,7,mg/L,12,No,Failed
+Longos Station,4/25/2012,Dissolved Oxygen (e) (minimum) satn,60,100,%satn,0,No,Failed
+Longos Station,4/25/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Longos Station,4/25/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+Longos Station,4/25/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.9,No,Failed
+Longos Station,4/25/2012,Nitrate as Nitrogen,-,10,mg/L,6.2,Yes,Passed
+Longos Station,4/25/2012,Total Coliforms,-,5000,MPN/100ml,5400000,No,Failed
+Longos Station,4/25/2012,Fecal Coliforms,-,-,MPN/100ml,1600000,Variable,Null
+Longos Station,7/16/2012,BOD (5-Day 20 Degrees),-,7,mg/L,12,No,Failed
+Longos Station,7/16/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Longos Station,7/16/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.3,No,Failed
+Longos Station,7/16/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.5,No,Failed
+Longos Station,7/16/2012,Nitrate as Nitrogen,-,10,mg/L,6.6,Yes,Passed
+Longos Station,8/28/2012,Nitrate as Nitrogen,-,10,mg/L,6.9,Yes,Passed
+Longos Station,8/28/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.3,No,Failed
+Longos Station,8/28/2012,BOD (5-Day 20 Degrees),-,7,mg/L,12,No,Failed
+Longos Station,8/28/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.8,No,Failed
+Longos Station,8/28/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Longos Station,8/28/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,20,No,Failed
+Longos Station,9/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,8,No,Failed
+Longos Station,9/17/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,1.1,No,Failed
+Longos Station,9/17/2012,Total Suspended Solids,-,-,mg/L,10,Variable,Null
+Longos Station,9/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,1.9,Yes,Passed
+Longos Station,9/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.6,No,Failed
+Longos Station,9/17/2012,Nitrate as Nitrogen,-,10,mg/L,6.2,Yes,Passed
+Longos Station,10/24/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,4.6,No,Failed
+Longos Station,10/24/2012,Total Suspended Solids,-,-,mg/L,10,Variable,Null
+Longos Station,10/24/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,1.8,Yes,Passed
+Longos Station,10/24/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.6,No,Failed
+Longos Station,10/24/2012,Nitrate as Nitrogen,-,10,mg/L,7.1,Yes,Passed
+Longos Station,10/24/2012,BOD (5-Day 20 Degrees),-,7,mg/L,10,No,Failed
+Longos Station,11/12/2012,BOD (5-Day 20 Degrees),-,7,mg/L,41,No,Failed
+Longos Station,11/12/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Longos Station,11/12/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Longos Station,11/12/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.2,No,Failed
+Longos Station,11/12/2012,Nitrate as Nitrogen,-,10,mg/L,8.6,Yes,Passed
+Longos Station,12/10/2012,Nitrate as Nitrogen,-,10,mg/L,8.8,Yes,Passed
+Longos Station,12/10/2012,BOD (5-Day 20 Degrees),-,7,mg/L,42,No,Failed
+Longos Station,12/10/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Longos Station,12/10/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.5,No,Failed
+Longos Station,12/10/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.7,No,Failed
+Longos Station,1/21/2013,Nitrate as Nitrogen,-,10,mg/L,9.2,Yes,Passed
+Longos Station,1/21/2013,Phosphate as Phosphorus,-,0.4,mg/L,11.3,No,Failed
+Longos Station,1/21/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Longos Station,1/21/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.7,No,Failed
+Longos Station,1/21/2013,BOD (5-Day 20 Degrees),-,7,mg/L,45,No,Failed
+Longos Station,2/4/2013,BOD (5-Day 20 Degrees),-,7,mg/L,64,No,Failed
+Longos Station,2/4/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Longos Station,2/4/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.2,No,Failed
+Longos Station,2/4/2013,Phosphate as Phosphorus,-,0.4,mg/L,13.2,No,Failed
+Longos Station,2/4/2013,Nitrate as Nitrogen,-,10,mg/L,10.2,No,Failed
+Longos Station,3/11/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.5,No,Failed
+Longos Station,3/11/2013,Phosphate as Phosphorus,-,0.4,mg/L,13.8,No,Failed
+Longos Station,3/11/2013,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+Longos Station,3/11/2013,BOD (5-Day 20 Degrees),-,7,mg/L,52,No,Failed
+Longos Station,3/11/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Longos Station,4/1/2013,BOD (5-Day 20 Degrees),-,7,mg/L,24,No,Failed
+Longos Station,4/1/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Longos Station,4/1/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.5,No,Failed
+Longos Station,4/1/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.3,No,Failed
+Longos Station,4/1/2013,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+Longos Station,6/3/2013,BOD (5-Day 20 Degrees),-,7,mg/L,60,No,Failed
+Longos Station,6/3/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Longos Station,6/3/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.9,No,Failed
+Longos Station,6/3/2013,Nitrate as Nitrogen,-,10,mg/L,10.4,No,Failed
+Longos Station,6/3/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Longos Station,7/2/2013,BOD (5-Day 20 Degrees),-,7,mg/L,24,No,Failed
+Longos Station,7/2/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Longos Station,7/2/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.1,No,Failed
+Longos Station,7/2/2013,Phosphate as Phosphorus,-,0.4,mg/L,11.2,No,Failed
+Longos Station,7/2/2013,Nitrate as Nitrogen,-,10,mg/L,8.9,Yes,Passed
+McArthur Station,2/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,50,No,Failed
+McArthur Station,2/20/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+McArthur Station,2/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.5,No,Failed
+McArthur Station,2/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.6,No,Failed
+McArthur Station,2/20/2012,Nitrate as Nitrogen,-,10,mg/L,5.83,Yes,Passed
+McArthur Station,2/20/2012,Lead,-,0.05,mg/L,0.0579,No,Failed
+McArthur Station,2/20/2012,Cadmium,-,0.01,mg/L,0.0036,Yes,Passed
+McArthur Station,3/5/2012,BOD (5-Day 20 Degrees),-,7,mg/L,76,No,Failed
+McArthur Station,3/5/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+McArthur Station,3/5/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+McArthur Station,3/5/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.9,No,Failed
+McArthur Station,3/5/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.52,No,Failed
+McArthur Station,3/5/2012,Nitrate as Nitrogen,-,10,mg/L,7.91,Yes,Passed
+McArthur Station,3/5/2012,Total Coliforms,-,5000,MPN/100ml,28000000,No,Failed
+McArthur Station,3/5/2012,Fecal Coliforms,-,-,MPN/100ml,9400000,Variable,Null
+McArthur Station,4/25/2012,Nitrate as Nitrogen,-,10,mg/L,7.04,Yes,Passed
+McArthur Station,4/25/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.8,No,Failed
+McArthur Station,4/25/2012,Dissolved Oxygen (e) (minimum) satn,60,100,%satn,0,No,Failed
+McArthur Station,4/25/2012,Phosphate as Phosphorus,-,0.4,mg/L,12.13,No,Failed
+McArthur Station,4/25/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+McArthur Station,4/25/2012,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+McArthur Station,4/25/2012,Fecal Coliforms,-,-,MPN/100ml,540000,Variable,Null
+McArthur Station,4/25/2012,Total Coliforms,-,5000,MPN/100ml,28000000,No,Failed
+McArthur Station,7/16/2012,BOD (5-Day 20 Degrees),-,7,mg/L,22,No,Failed
+McArthur Station,7/16/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+McArthur Station,7/16/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.1,No,Failed
+McArthur Station,7/16/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.6,No,Failed
+McArthur Station,7/16/2012,Nitrate as Nitrogen,-,10,mg/L,7.8,Yes,Passed
+McArthur Station,8/28/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+McArthur Station,8/28/2012,Nitrate as Nitrogen,-,10,mg/L,7.3,Yes,Passed
+McArthur Station,8/28/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.3,No,Failed
+McArthur Station,8/28/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+McArthur Station,8/28/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.9,No,Failed
+McArthur Station,8/28/2012,BOD (5-Day 20 Degrees),-,7,mg/L,14,No,Failed
+McArthur Station,9/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,22,No,Failed
+McArthur Station,9/17/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+McArthur Station,9/17/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+McArthur Station,9/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.6,No,Failed
+McArthur Station,9/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.5,No,Failed
+McArthur Station,9/17/2012,Nitrate as Nitrogen,-,10,mg/L,8.1,Yes,Passed
+McArthur Station,10/24/2012,Phosphate as Phosphorus,-,0.4,mg/L,12.7,No,Failed
+McArthur Station,10/24/2012,Nitrate as Nitrogen,-,10,mg/L,8.9,Yes,Passed
+McArthur Station,10/24/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+McArthur Station,10/24/2012,BOD (5-Day 20 Degrees),-,7,mg/L,42,No,Failed
+McArthur Station,10/24/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+McArthur Station,10/24/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+McArthur Station,11/12/2012,BOD (5-Day 20 Degrees),-,7,mg/L,34,No,Failed
+McArthur Station,11/12/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+McArthur Station,11/12/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.4,No,Failed
+McArthur Station,11/12/2012,Phosphate as Phosphorus,-,0.4,mg/L,13,No,Failed
+McArthur Station,11/12/2012,Nitrate as Nitrogen,-,10,mg/L,9.5,Yes,Passed
+McArthur Station,12/10/2012,BOD (5-Day 20 Degrees),-,7,mg/L,46,No,Failed
+McArthur Station,12/10/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+McArthur Station,12/10/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.9,No,Failed
+McArthur Station,12/10/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.9,No,Failed
+McArthur Station,12/10/2012,Nitrate as Nitrogen,-,10,mg/L,10.4,No,Failed
+McArthur Station,1/21/2013,BOD (5-Day 20 Degrees),-,7,mg/L,54,No,Failed
+McArthur Station,1/21/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+McArthur Station,1/21/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.3,No,Failed
+McArthur Station,1/21/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.3,No,Failed
+McArthur Station,1/21/2013,Nitrate as Nitrogen,-,10,mg/L,10.6,No,Failed
+McArthur Station,2/4/2013,BOD (5-Day 20 Degrees),-,7,mg/L,54,No,Failed
+McArthur Station,2/4/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+McArthur Station,2/4/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.5,No,Failed
+McArthur Station,2/4/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.8,No,Failed
+McArthur Station,2/4/2013,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+McArthur Station,3/11/2013,BOD (5-Day 20 Degrees),-,7,mg/L,62,No,Failed
+McArthur Station,3/11/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+McArthur Station,3/11/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.9,No,Failed
+McArthur Station,3/11/2013,Phosphate as Phosphorus,-,0.4,mg/L,22.4,No,Failed
+McArthur Station,3/11/2013,Nitrate as Nitrogen,-,10,mg/L,10.8,No,Failed
+McArthur Station,4/1/2013,BOD (5-Day 20 Degrees),-,7,mg/L,72,No,Failed
+McArthur Station,4/1/2013,Total Suspended Solids,-,-,mg/L,60,Variable,Null
+McArthur Station,4/1/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,6.3,No,Failed
+McArthur Station,4/1/2013,Phosphate as Phosphorus,-,0.4,mg/L,26.4,No,Failed
+McArthur Station,4/1/2013,Nitrate as Nitrogen,-,10,mg/L,11.6,No,Failed
+McArthur Station,5/6/2013,BOD (5-Day 20 Degrees),-,7,mg/L,44,No,Failed
+McArthur Station,5/6/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+McArthur Station,5/6/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.2,No,Failed
+McArthur Station,5/6/2013,Phosphate as Phosphorus,-,0.4,mg/L,22.6,No,Failed
+McArthur Station,5/6/2013,Nitrate as Nitrogen,-,10,mg/L,10.4,No,Failed
+McArthur Station,6/3/2013,BOD (5-Day 20 Degrees),-,7,mg/L,34,No,Failed
+McArthur Station,6/3/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+McArthur Station,6/3/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.9,No,Failed
+McArthur Station,6/3/2013,Phosphate as Phosphorus,-,0.4,mg/L,21.3,No,Failed
+McArthur Station,6/3/2013,Nitrate as Nitrogen,-,10,mg/L,10.1,No,Failed
+McArthur Station,7/2/2013,Phosphate as Phosphorus,-,0.4,mg/L,18.4,No,Failed
+McArthur Station,7/2/2013,Nitrate as Nitrogen,-,10,mg/L,9.5,Yes,Passed
+McArthur Station,7/2/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+McArthur Station,7/2/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.2,No,Failed
+McArthur Station,7/2/2013,BOD (5-Day 20 Degrees),-,7,mg/L,32,No,Failed
+MIA Road,2/22/2012,BOD (5-Day 20 Degrees),-,7,mg/L,54,No,Failed
+MIA Road,2/22/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+MIA Road,2/22/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.1,No,Failed
+MIA Road,2/22/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.12,No,Failed
+MIA Road,2/22/2012,Nitrate as Nitrogen,-,10,mg/L,8.06,Yes,Passed
+MIA Road,3/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,16,No,Failed
+MIA Road,3/20/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+MIA Road,3/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.1,No,Failed
+MIA Road,3/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.22,No,Failed
+MIA Road,3/20/2012,Nitrate as Nitrogen,-,10,mg/L,5.72,Yes,Passed
+MIA Road,3/20/2012,Total Coliforms,-,5000,MPN/100ml,9.20E+11,No,Failed
+MIA Road,3/20/2012,Fecal Coliforms,-,-,MPN/100ml,3.50E+11,Variable,Null
+MIA Road,4/17/2012,Fecal Coliforms,-,-,MPN/100ml,5.40E+11,Variable,Null
+MIA Road,4/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,6.3,No,Failed
+MIA Road,4/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,14.4,No,Failed
+MIA Road,4/17/2012,Nitrate as Nitrogen,-,10,mg/L,10.2,No,Failed
+MIA Road,4/17/2012,Total Coliforms,-,5000,MPN/100ml,1.60E+11,No,Failed
+MIA Road,4/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,150,No,Failed
+MIA Road,4/17/2012,Total Suspended Solids,-,-,mg/L,70,Variable,Null
+MIA Road,6/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,52,No,Failed
+MIA Road,6/20/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+MIA Road,6/20/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+MIA Road,6/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.1,No,Failed
+MIA Road,6/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.8,No,Failed
+MIA Road,6/20/2012,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+MIA Road,7/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,10,No,Failed
+MIA Road,7/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+MIA Road,7/23/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+MIA Road,7/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.6,No,Failed
+MIA Road,7/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.8,No,Failed
+MIA Road,7/23/2012,Nitrate as Nitrogen,-,10,mg/L,9.1,Yes,Passed
+MIA Road,8/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,68,No,Failed
+MIA Road,8/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+MIA Road,8/23/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+MIA Road,8/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.5,No,Failed
+MIA Road,8/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,16.7,No,Failed
+MIA Road,8/23/2012,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+MIA Road,9/3/2012,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+MIA Road,9/3/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+MIA Road,9/3/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+MIA Road,9/3/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+MIA Road,9/3/2012,Phosphate as Phosphorus,-,0.4,mg/L,14.9,No,Failed
+MIA Road,9/3/2012,Nitrate as Nitrogen,-,10,mg/L,10.1,No,Failed
+MIA Road,10/4/2012,BOD (5-Day 20 Degrees),-,7,mg/L,24,No,Failed
+MIA Road,10/4/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+MIA Road,10/4/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+MIA Road,10/4/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.3,No,Failed
+MIA Road,10/4/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.3,No,Failed
+MIA Road,10/4/2012,Nitrate as Nitrogen,-,10,mg/L,9.5,Yes,Passed
+MIA Road,10/4/2012,Total Coliforms,-,5000,MPN/100ml,2400000,No,Failed
+MIA Road,11/19/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+MIA Road,11/19/2012,BOD (5-Day 20 Degrees),-,7,mg/L,34,No,Failed
+MIA Road,11/19/2012,Phosphate as Phosphorus,-,0.4,mg/L,12.7,No,Failed
+MIA Road,11/19/2012,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+MIA Road,11/19/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.5,No,Failed
+MIA Road,1/28/2013,BOD (5-Day 20 Degrees),-,7,mg/L,60,No,Failed
+MIA Road,1/28/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+MIA Road,1/28/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.3,No,Failed
+MIA Road,1/28/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.6,No,Failed
+MIA Road,1/28/2013,Nitrate as Nitrogen,-,10,mg/L,10.6,No,Failed
+MIA Road,2/18/2013,BOD (5-Day 20 Degrees),-,7,mg/L,66,No,Failed
+MIA Road,2/18/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+MIA Road,2/18/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.8,No,Failed
+MIA Road,2/18/2013,Phosphate as Phosphorus,-,0.4,mg/L,28.9,No,Failed
+MIA Road,2/18/2013,Nitrate as Nitrogen,-,10,mg/L,12.3,No,Failed
+MIA Road,3/25/2013,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+MIA Road,3/25/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+MIA Road,3/25/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+MIA Road,3/25/2013,Phosphate as Phosphorus,-,0.4,mg/L,20.1,No,Failed
+MIA Road,3/25/2013,Nitrate as Nitrogen,-,10,mg/L,11.2,No,Failed
+MIA Road,4/22/2013,BOD (5-Day 20 Degrees),-,7,mg/L,26,No,Failed
+MIA Road,4/22/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+MIA Road,4/22/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.4,No,Failed
+MIA Road,4/22/2013,Phosphate as Phosphorus,-,0.4,mg/L,18.6,No,Failed
+MIA Road,4/22/2013,Nitrate as Nitrogen,-,10,mg/L,10.2,No,Failed
+MIA Road,5/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,60,No,Failed
+MIA Road,5/14/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+MIA Road,5/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,23.1,No,Failed
+MIA Road,5/14/2013,Nitrate as Nitrogen,-,10,mg/L,10.5,No,Failed
+MIA Road,5/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.9,No,Failed
+MIA Road,6/14/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+MIA Road,6/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.7,No,Failed
+MIA Road,6/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,15.6,No,Failed
+MIA Road,6/14/2013,Nitrate as Nitrogen,-,10,mg/L,9.8,Yes,Passed
+MIA Road,6/14/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.7,No,Failed
+MIA Road,6/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+MIA Road,7/8/2013,BOD (5-Day 20 Degrees),-,7,mg/L,70,No,Failed
+MIA Road,7/8/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+MIA Road,7/8/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.6,No,Failed
+MIA Road,7/8/2013,Phosphate as Phosphorus,-,0.4,mg/L,18.8,No,Failed
+MIA Road,7/8/2013,Nitrate as Nitrogen,-,10,mg/L,10.5,No,Failed
+Multinational,2/22/2012,BOD (5-Day 20 Degrees),-,7,mg/L,34,No,Failed
+Multinational,2/22/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Multinational,2/22/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+Multinational,2/22/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.34,No,Failed
+Multinational,2/22/2012,Nitrate as Nitrogen,-,10,mg/L,6.31,Yes,Passed
+Multinational,3/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.4,No,Failed
+Multinational,3/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,7.56,No,Failed
+Multinational,3/20/2012,Nitrate as Nitrogen,-,10,mg/L,6.34,Yes,Passed
+Multinational,3/20/2012,Total Coliforms,-,5000,MPN/100ml,9.20E+11,No,Failed
+Multinational,3/20/2012,Fecal Coliforms,-,-,MPN/100ml,5.40E+11,Variable,Null
+Multinational,3/20/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Multinational,3/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,17,No,Failed
+Multinational,4/18/2012,Fecal Coliforms,-,-,MPN/100ml,3.50E+11,Variable,Null
+Multinational,4/18/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Multinational,4/18/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.4,No,Failed
+Multinational,4/18/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.2,No,Failed
+Multinational,4/18/2012,Nitrate as Nitrogen,-,10,mg/L,7.3,Yes,Passed
+Multinational,4/18/2012,Total Suspended Solids,-,-,mg/L,5.40E+11,Variable,Null
+Multinational,4/18/2012,BOD (5-Day 20 Degrees),-,7,mg/L,36,No,Failed
+Multinational,6/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,60,No,Failed
+Multinational,6/20/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Multinational,6/20/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Multinational,6/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.6,No,Failed
+Multinational,6/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.6,No,Failed
+Multinational,6/20/2012,Nitrate as Nitrogen,-,10,mg/L,8.9,Yes,Passed
+Multinational,7/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,24,No,Failed
+Multinational,7/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.5,No,Failed
+Multinational,7/23/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Multinational,7/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.9,No,Failed
+Multinational,7/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.1,No,Failed
+Multinational,7/23/2012,Nitrate as Nitrogen,-,10,mg/L,8.2,Yes,Passed
+Multinational,8/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.5,No,Failed
+Multinational,8/23/2012,Nitrate as Nitrogen,-,10,mg/L,9.2,Yes,Passed
+Multinational,8/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,64,No,Failed
+Multinational,8/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Multinational,8/23/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Multinational,8/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.5,No,Failed
+Multinational,9/3/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Multinational,9/3/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Multinational,9/3/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Multinational,9/3/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.1,No,Failed
+Multinational,9/3/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.5,No,Failed
+Multinational,9/3/2012,Nitrate as Nitrogen,-,10,mg/L,9,Yes,Passed
+Multinational,10/4/2012,BOD (5-Day 20 Degrees),-,7,mg/L,30,No,Failed
+Multinational,10/4/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Multinational,10/4/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Multinational,10/4/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.2,No,Failed
+Multinational,10/4/2012,Phosphate as Phosphorus,-,0.4,mg/L,14.3,No,Failed
+Multinational,10/4/2012,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+Multinational,10/4/2012,Total Coliforms,-,5000,MPN/100ml,9200000,No,Failed
+Multinational,11/19/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Multinational,11/19/2012,BOD (5-Day 20 Degrees),-,7,mg/L,26,No,Failed
+Multinational,11/19/2012,Nitrate as Nitrogen,-,10,mg/L,9.3,Yes,Passed
+Multinational,11/19/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.8,No,Failed
+Multinational,11/19/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Multinational,12/13/2012,BOD (5-Day 20 Degrees),-,7,mg/L,34,No,Failed
+Multinational,12/13/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Multinational,12/13/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.3,No,Failed
+Multinational,12/13/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.2,No,Failed
+Multinational,12/13/2012,Nitrate as Nitrogen,-,10,mg/L,9.8,Yes,Passed
+Multinational,1/28/2013,BOD (5-Day 20 Degrees),-,7,mg/L,60,No,Failed
+Multinational,1/28/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Multinational,1/28/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.1,No,Failed
+Multinational,1/28/2013,Phosphate as Phosphorus,-,0.4,mg/L,13.4,No,Failed
+Multinational,1/28/2013,Nitrate as Nitrogen,-,10,mg/L,10.1,No,Failed
+Multinational,2/18/2013,BOD (5-Day 20 Degrees),-,7,mg/L,72,No,Failed
+Multinational,2/18/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Multinational,2/18/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.3,No,Failed
+Multinational,2/18/2013,Phosphate as Phosphorus,-,0.4,mg/L,26.4,No,Failed
+Multinational,2/18/2013,Nitrate as Nitrogen,-,10,mg/L,12.5,No,Failed
+Multinational,3/25/2013,BOD (5-Day 20 Degrees),-,7,mg/L,32,No,Failed
+Multinational,3/25/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Multinational,3/25/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Multinational,3/25/2013,Phosphate as Phosphorus,-,0.4,mg/L,19.4,No,Failed
+Multinational,3/25/2013,Nitrate as Nitrogen,-,10,mg/L,10.5,No,Failed
+Multinational,4/22/2013,BOD (5-Day 20 Degrees),-,7,mg/L,56,No,Failed
+Multinational,4/22/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Multinational,4/22/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.5,No,Failed
+Multinational,4/22/2013,Phosphate as Phosphorus,-,0.4,mg/L,28.3,No,Failed
+Multinational,4/22/2013,Nitrate as Nitrogen,-,10,mg/L,11.4,No,Failed
+Multinational,5/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,54,No,Failed
+Multinational,5/14/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Multinational,5/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.2,No,Failed
+Multinational,5/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,26.3,No,Failed
+Multinational,5/14/2013,Nitrate as Nitrogen,-,10,mg/L,10.9,No,Failed
+Multinational,5/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,54,No,Failed
+Multinational,5/14/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Multinational,5/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.2,No,Failed
+Multinational,5/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,26.3,No,Failed
+Multinational,5/14/2013,Nitrate as Nitrogen,-,10,mg/L,10.9,No,Failed
+Multinational,6/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,12,No,Failed
+Multinational,6/14/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,1,No,Failed
+Multinational,6/14/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Multinational,6/14/2013,Nitrate as Nitrogen,-,10,mg/L,9,Yes,Passed
+Multinational,6/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+Multinational,6/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,12.9,No,Failed
+Multinational,7/8/2013,Nitrate as Nitrogen,-,10,mg/L,11.4,No,Failed
+Multinational,7/8/2013,Phosphate as Phosphorus,-,0.4,mg/L,26.4,No,Failed
+Multinational,7/8/2013,Total Suspended Solids,-,-,mg/L,60,Variable,Null
+Multinational,7/8/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,7.2,No,Failed
+Multinational,7/8/2013,BOD (5-Day 20 Degrees),-,7,mg/L,80,No,Failed
+N. Expressway Station,2/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,35,No,Failed
+N. Expressway Station,2/20/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+N. Expressway Station,2/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4,No,Failed
+N. Expressway Station,2/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.5,No,Failed
+N. Expressway Station,2/20/2012,Nitrate as Nitrogen,-,10,mg/L,4.72,Yes,Passed
+N. Expressway Station,2/20/2012,Lead,-,0.05,mg/L,0.319,No,Failed
+N. Expressway Station,2/20/2012,Cadmium,-,0.01,mg/L,0.0044,Yes,Passed
+N. Expressway Station,3/5/2012,BOD (5-Day 20 Degrees),-,7,mg/L,84,No,Failed
+N. Expressway Station,3/5/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+N. Expressway Station,3/5/2012,Total Suspended Solids,-,-,mg/L,60,Variable,Null
+N. Expressway Station,3/5/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.7,No,Failed
+N. Expressway Station,3/5/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.22,No,Failed
+N. Expressway Station,3/5/2012,Nitrate as Nitrogen,-,10,mg/L,7.91,Yes,Passed
+N. Expressway Station,3/5/2012,Total Coliforms,-,5000,MPN/100ml,1700000,No,Failed
+N. Expressway Station,3/5/2012,Fecal Coliforms,-,-,MPN/100ml,5400000,Variable,Null
+N. Expressway Station,4/25/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.6,No,Failed
+N. Expressway Station,4/25/2012,Nitrate as Nitrogen,-,10,mg/L,8.9,Yes,Passed
+N. Expressway Station,4/25/2012,BOD (5-Day 20 Degrees),-,7,mg/L,46,No,Failed
+N. Expressway Station,4/25/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.9,No,Failed
+N. Expressway Station,4/25/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+N. Expressway Station,4/25/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+N. Expressway Station,4/25/2012,Total Coliforms,-,5000,MPN/100ml,28000000,No,Failed
+N. Expressway Station,4/25/2012,Fecal Coliforms,-,-,MPN/100ml,9200000,Variable,Null
+N. Expressway Station,7/16/2012,BOD (5-Day 20 Degrees),-,7,mg/L,26,No,Failed
+N. Expressway Station,7/16/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+N. Expressway Station,7/16/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+N. Expressway Station,7/16/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.6,No,Failed
+N. Expressway Station,7/16/2012,Nitrate as Nitrogen,-,10,mg/L,8.6,Yes,Passed
+N. Expressway Station,7/16/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.3,No,Failed
+N. Expressway Station,7/16/2012,Nitrate as Nitrogen,-,10,mg/L,5.5,Yes,Passed
+N. Expressway Station,7/16/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+N. Expressway Station,7/16/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+N. Expressway Station,7/16/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+N. Expressway Station,7/16/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.2,No,Failed
+N. Expressway Station,7/16/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.1,No,Failed
+N. Expressway Station,8/28/2012,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+N. Expressway Station,8/28/2012,Nitrate as Nitrogen,-,10,mg/L,8.5,Yes,Passed
+N. Expressway Station,8/28/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.9,No,Failed
+N. Expressway Station,8/28/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.3,No,Failed
+N. Expressway Station,8/28/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+N. Expressway Station,8/28/2012,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+N. Expressway Station,8/28/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+N. Expressway Station,8/28/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+N. Expressway Station,8/28/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.9,No,Failed
+N. Expressway Station,8/28/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.3,No,Failed
+N. Expressway Station,8/28/2012,Nitrate as Nitrogen,-,10,mg/L,8.5,Yes,Passed
+N. Expressway Station,8/28/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+N. Expressway Station,9/17/2012,Nitrate as Nitrogen,-,10,mg/L,8.9,Yes,Passed
+N. Expressway Station,9/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,24,No,Failed
+N. Expressway Station,9/17/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+N. Expressway Station,9/17/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+N. Expressway Station,9/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.1,No,Failed
+N. Expressway Station,9/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.4,No,Failed
+N. Expressway Station,10/24/2012,BOD (5-Day 20 Degrees),-,7,mg/L,50,No,Failed
+N. Expressway Station,10/24/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+N. Expressway Station,10/24/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+N. Expressway Station,10/24/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+N. Expressway Station,10/24/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.9,No,Failed
+N. Expressway Station,10/24/2012,Nitrate as Nitrogen,-,10,mg/L,9.6,Yes,Passed
+N. Expressway Station,11/12/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+N. Expressway Station,11/12/2012,BOD (5-Day 20 Degrees),-,7,mg/L,24,No,Failed
+N. Expressway Station,11/12/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+N. Expressway Station,11/12/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.4,No,Failed
+N. Expressway Station,11/12/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.2,No,Failed
+N. Expressway Station,11/12/2012,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+N. Expressway Station,12/10/2012,BOD (5-Day 20 Degrees),-,7,mg/L,34,No,Failed
+N. Expressway Station,12/10/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+N. Expressway Station,12/10/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.8,No,Failed
+N. Expressway Station,12/10/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.6,No,Failed
+N. Expressway Station,12/10/2012,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+N. Expressway Station,1/21/2013,Phosphate as Phosphorus,-,0.4,mg/L,12.3,No,Failed
+N. Expressway Station,1/21/2013,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+N. Expressway Station,1/21/2013,BOD (5-Day 20 Degrees),-,7,mg/L,42,No,Failed
+N. Expressway Station,1/21/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+N. Expressway Station,1/21/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+N. Expressway Station,2/4/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.3,No,Failed
+N. Expressway Station,2/4/2013,BOD (5-Day 20 Degrees),-,7,mg/L,46,No,Failed
+N. Expressway Station,2/4/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+N. Expressway Station,2/4/2013,Phosphate as Phosphorus,-,0.4,mg/L,13.7,No,Failed
+N. Expressway Station,2/4/2013,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+N. Expressway Station,3/11/2013,BOD (5-Day 20 Degrees),-,7,mg/L,84,No,Failed
+N. Expressway Station,3/11/2013,Total Suspended Solids,-,-,mg/L,60,Variable,Null
+N. Expressway Station,3/11/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,6.2,No,Failed
+N. Expressway Station,3/11/2013,Phosphate as Phosphorus,-,0.4,mg/L,26.3,No,Failed
+N. Expressway Station,3/11/2013,Nitrate as Nitrogen,-,10,mg/L,11.4,No,Failed
+N. Expressway Station,4/1/2013,BOD (5-Day 20 Degrees),-,7,mg/L,68,No,Failed
+N. Expressway Station,4/1/2013,Total Suspended Solids,-,-,mg/L,60,Variable,Null
+N. Expressway Station,4/1/2013,Nitrate as Nitrogen,-,10,mg/L,12.3,No,Failed
+N. Expressway Station,4/1/2013,Phosphate as Phosphorus,-,0.4,mg/L,32.7,No,Failed
+N. Expressway Station,4/1/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,68,No,Failed
+N. Expressway Station,5/6/2013,BOD (5-Day 20 Degrees),-,7,mg/L,42,No,Failed
+N. Expressway Station,5/6/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+N. Expressway Station,5/6/2013,Phosphate as Phosphorus,-,0.4,mg/L,26.2,No,Failed
+N. Expressway Station,5/6/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.8,No,Failed
+N. Expressway Station,5/6/2013,Nitrate as Nitrogen,-,10,mg/L,11.4,No,Failed
+N. Expressway Station,6/3/2013,BOD (5-Day 20 Degrees),-,7,mg/L,40,No,Failed
+N. Expressway Station,6/3/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+N. Expressway Station,6/3/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.3,No,Failed
+N. Expressway Station,6/3/2013,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+N. Expressway Station,6/3/2013,Phosphate as Phosphorus,-,0.4,mg/L,18.5,No,Failed
+N. Expressway Station,7/2/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.7,No,Failed
+N. Expressway Station,7/2/2013,Nitrate as Nitrogen,-,10,mg/L,10.1,No,Failed
+N. Expressway Station,7/2/2013,BOD (5-Day 20 Degrees),-,7,mg/L,30,No,Failed
+N. Expressway Station,7/2/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+N. Expressway Station,7/2/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Narra Creek,2/22/2012,BOD (5-Day 20 Degrees),-,7,mg/L,40,No,Failed
+Narra Creek,2/22/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.6,No,Failed
+Narra Creek,2/22/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Narra Creek,2/22/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Narra Creek,2/22/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.4,No,Failed
+Narra Creek,2/22/2012,Nitrate as Nitrogen,-,10,mg/L,9.5,Yes,Passed
+Narra Creek,3/20/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Narra Creek,3/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.1,No,Failed
+Narra Creek,3/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.88,No,Failed
+Narra Creek,3/20/2012,Nitrate as Nitrogen,-,10,mg/L,7.56,Yes,Passed
+Narra Creek,3/20/2012,Total Coliforms,-,5000,MPN/100ml,5.40E+11,No,Failed
+Narra Creek,3/20/2012,Fecal Coliforms,-,-,MPN/100ml,3.50E+11,Variable,Null
+Narra Creek,3/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,27,No,Failed
+Narra Creek,4/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.2,No,Failed
+Narra Creek,4/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,22.8,No,Failed
+Narra Creek,4/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,92,No,Failed
+Narra Creek,4/17/2012,Total Dissolved Solids,-,-,mg/L,40,Variable,Null
+Narra Creek,4/17/2012,Nitrate as Nitrogen,-,10,mg/L,10.6,No,Failed
+Narra Creek,4/17/2012,Fecal Coliforms,-,-,MPN/100ml,5.40E+11,Variable,Null
+Narra Creek,4/17/2012,Total Dissolved Solids,-,-,mg/L,9.20E+11,Variable,Null
+Narra Creek,6/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,84,No,Failed
+Narra Creek,6/20/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Narra Creek,6/20/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Narra Creek,6/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5,No,Failed
+Narra Creek,6/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,19.9,No,Failed
+Narra Creek,6/20/2012,Nitrate as Nitrogen,-,10,mg/L,10.2,No,Failed
+Narra Creek,7/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,30,No,Failed
+Narra Creek,7/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.7,No,Failed
+Narra Creek,7/23/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Narra Creek,7/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.1,No,Failed
+Narra Creek,7/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,14.6,No,Failed
+Narra Creek,7/23/2012,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+Narra Creek,8/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,94,No,Failed
+Narra Creek,8/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Narra Creek,8/23/2012,Total Suspended Solids,-,-,mg/L,60,Variable,Null
+Narra Creek,8/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.1,No,Failed
+Narra Creek,8/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,20.4,No,Failed
+Narra Creek,8/23/2012,Nitrate as Nitrogen,-,10,mg/L,11.6,No,Failed
+Narra Creek,9/3/2012,BOD (5-Day 20 Degrees),-,7,mg/L,44,No,Failed
+Narra Creek,9/3/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Narra Creek,9/3/2012,Phosphate as Phosphorus,-,0.4,mg/L,15.7,No,Failed
+Narra Creek,9/3/2012,Nitrate as Nitrogen,-,10,mg/L,10.1,No,Failed
+Narra Creek,9/3/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Narra Creek,9/3/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Narra Creek,10/4/2012,BOD (5-Day 20 Degrees),-,7,mg/L,28,No,Failed
+Narra Creek,10/4/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Narra Creek,10/4/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Narra Creek,10/4/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.3,No,Failed
+Narra Creek,10/4/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.6,No,Failed
+Narra Creek,10/4/2012,Nitrate as Nitrogen,-,10,mg/L,9.8,Yes,Passed
+Narra Creek,10/4/2012,Total Coliforms,-,5000,MPN/100ml,28000000,No,Failed
+Narra Creek,11/19/2012,BOD (5-Day 20 Degrees),-,7,mg/L,30,No,Failed
+Narra Creek,11/19/2012,Total Dissolved Solids,-,-,mg/L,30,Variable,Null
+Narra Creek,11/19/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.8,No,Failed
+Narra Creek,11/19/2012,Phosphate as Phosphorus,-,0.4,mg/L,14.5,No,Failed
+Narra Creek,11/19/2012,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+Narra Creek,12/13/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Narra Creek,12/13/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Narra Creek,12/13/2012,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+Narra Creek,12/13/2012,Nitrate as Nitrogen,-,10,mg/L,10.4,No,Failed
+Narra Creek,12/13/2012,Phosphate as Phosphorus,-,0.4,mg/L,12.3,No,Failed
+Narra Creek,12/13/2012,BOD (5-Day 20 Degrees),-,7,mg/L,46,No,Failed
+Narra Creek,12/13/2012,Total Dissolved Solids,-,-,mg/L,40,Variable,Null
+Narra Creek,12/13/2012,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+Narra Creek,12/13/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Narra Creek,12/13/2012,Phosphate as Phosphorus,-,0.4,mg/L,16.8,No,Failed
+Narra Creek,1/28/2013,BOD (5-Day 20 Degrees),-,7,mg/L,144,No,Failed
+Narra Creek,1/28/2013,Total Suspended Solids,-,-,mg/L,70,Variable,Null
+Narra Creek,1/28/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,6.2,No,Failed
+Narra Creek,1/28/2013,Phosphate as Phosphorus,-,0.4,mg/L,26.9,No,Failed
+Narra Creek,1/28/2013,Nitrate as Nitrogen,-,10,mg/L,12.1,No,Failed
+Narra Creek,2/18/2013,BOD (5-Day 20 Degrees),-,7,mg/L,39,No,Failed
+Narra Creek,2/18/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Narra Creek,2/18/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.5,No,Failed
+Narra Creek,2/18/2013,Phosphate as Phosphorus,-,0.4,mg/L,18.6,No,Failed
+Narra Creek,2/18/2013,Nitrate as Nitrogen,-,10,mg/L,10.1,No,Failed
+Narra Creek,3/25/2013,BOD (5-Day 20 Degrees),-,7,mg/L,50,No,Failed
+Narra Creek,3/25/2013,Total Suspended Solids,-,-,mg/L,60,Variable,Null
+Narra Creek,3/25/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.3,No,Failed
+Narra Creek,3/25/2013,Phosphate as Phosphorus,-,0.4,mg/L,21.7,No,Failed
+Narra Creek,3/25/2013,Nitrate as Nitrogen,-,10,mg/L,10.6,No,Failed
+Narra Creek,4/22/2013,Total Suspended Solids,-,-,mg/L,70,Variable,Null
+Narra Creek,4/22/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,6.9,No,Failed
+Narra Creek,4/22/2013,Phosphate as Phosphorus,-,0.4,mg/L,26.9,No,Failed
+Narra Creek,4/22/2013,Nitrate as Nitrogen,-,10,mg/L,11.7,No,Failed
+Narra Creek,4/22/2013,BOD (5-Day 20 Degrees),-,7,mg/L,94,No,Failed
+Narra Creek,5/14/2013,Nitrate as Nitrogen,-,10,mg/L,11.1,No,Failed
+Narra Creek,5/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,68,No,Failed
+Narra Creek,5/14/2013,Total Suspended Solids,-,-,mg/L,60,Variable,Null
+Narra Creek,5/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,6.1,No,Failed
+Narra Creek,5/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,26.4,No,Failed
+Narra Creek,6/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,56,No,Failed
+Narra Creek,6/14/2013,Total Suspended Solids,-,-,mg/L,60,Variable,Null
+Narra Creek,6/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.5,No,Failed
+Narra Creek,6/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,22.5,No,Failed
+Narra Creek,6/14/2013,Nitrate as Nitrogen,-,10,mg/L,10.5,No,Failed
+Narra Creek,7/8/2013,BOD (5-Day 20 Degrees),-,7,mg/L,60,No,Failed
+Narra Creek,7/8/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Narra Creek,7/8/2013,Nitrate as Nitrogen,-,10,mg/L,10.2,No,Failed
+Narra Creek,7/8/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.7,No,Failed
+Narra Creek,7/8/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.8,No,Failed
+Sto. Nino,2/22/2012,BOD (5-Day 20 Degrees),-,7,mg/L,62,No,Failed
+Sto. Nino,2/22/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Sto. Nino,2/22/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Sto. Nino,2/22/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.02,No,Failed
+Sto. Nino,2/22/2012,Nitrate as Nitrogen,-,10,mg/L,8.11,Yes,Passed
+Sto. Nino,3/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,23,No,Failed
+Sto. Nino,3/20/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Sto. Nino,3/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.54,No,Failed
+Sto. Nino,3/20/2012,Nitrate as Nitrogen,-,10,mg/L,6.08,Yes,Passed
+Sto. Nino,3/20/2012,Total Coliforms,-,5000,MPN/100ml,9.20E+11,No,Failed
+Sto. Nino,3/20/2012,Fecal Coliforms,-,-,MPN/100ml,5.40E+11,Variable,Null
+Sto. Nino,3/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.6,No,Failed
+Sto. Nino,4/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.3,No,Failed
+Sto. Nino,4/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.7,No,Failed
+Sto. Nino,4/17/2012,Nitrate as Nitrogen,-,10,mg/L,7.2,Yes,Passed
+Sto. Nino,4/17/2012,Total Coliforms,-,5000,MPN/100ml,9.20E+11,No,Failed
+Sto. Nino,4/17/2012,Fecal Coliforms,-,-,MPN/100ml,3.50E+11,Variable,Null
+Sto. Nino,4/17/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Sto. Nino,4/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,60,No,Failed
+Sto. Nino,6/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,48,No,Failed
+Sto. Nino,6/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.9,No,Failed
+Sto. Nino,6/20/2012,Nitrate as Nitrogen,-,10,mg/L,7.8,Yes,Passed
+Sto. Nino,6/20/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Sto. Nino,6/20/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Sto. Nino,6/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Sto. Nino,7/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,96,No,Failed
+Sto. Nino,7/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Sto. Nino,7/23/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Sto. Nino,7/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.4,No,Failed
+Sto. Nino,7/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,16.6,No,Failed
+Sto. Nino,7/23/2012,Nitrate as Nitrogen,-,10,mg/L,12.3,No,Failed
+Sto. Nino,8/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,46,No,Failed
+Sto. Nino,8/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Sto. Nino,8/23/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Sto. Nino,8/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.8,No,Failed
+Sto. Nino,8/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.9,No,Failed
+Sto. Nino,8/23/2012,Nitrate as Nitrogen,-,10,mg/L,10.4,No,Failed
+Sto. Nino,9/3/2012,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+Sto. Nino,9/3/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Sto. Nino,9/3/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Sto. Nino,9/3/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.9,No,Failed
+Sto. Nino,9/3/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.8,No,Failed
+Sto. Nino,9/3/2012,Nitrate as Nitrogen,-,10,mg/L,9.6,Yes,Passed
+Sto. Nino,10/4/2012,BOD (5-Day 20 Degrees),-,7,mg/L,10,No,Failed
+Sto. Nino,10/4/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,1.1,No,Failed
+Sto. Nino,10/4/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Sto. Nino,10/4/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.2,No,Failed
+Sto. Nino,10/4/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.1,No,Failed
+Sto. Nino,10/4/2012,Nitrate as Nitrogen,-,10,mg/L,8.5,Yes,Passed
+Sto. Nino,10/4/2012,Total Coliforms,-,5000,MPN/100ml,1600000,No,Failed
+Sto. Nino,11/19/2012,Nitrate as Nitrogen,-,10,mg/L,8.9,Yes,Passed
+Sto. Nino,11/19/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.6,No,Failed
+Sto. Nino,11/19/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.5,No,Failed
+Sto. Nino,11/19/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Sto. Nino,11/19/2012,BOD (5-Day 20 Degrees),-,7,mg/L,22,No,Failed
+Sto. Nino,12/13/2012,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+Sto. Nino,12/13/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Sto. Nino,12/13/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.7,No,Failed
+Sto. Nino,12/13/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Sto. Nino,12/13/2012,BOD (5-Day 20 Degrees),-,7,mg/L,32,No,Failed
+Sto. Nino,1/28/2013,BOD (5-Day 20 Degrees),-,7,mg/L,48,No,Failed
+Sto. Nino,1/28/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Sto. Nino,1/28/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Sto. Nino,1/28/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.9,No,Failed
+Sto. Nino,1/28/2013,Nitrate as Nitrogen,-,10,mg/L,9.7,Yes,Passed
+Sto. Nino,2/18/2013,BOD (5-Day 20 Degrees),-,7,mg/L,53,No,Failed
+Sto. Nino,2/18/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Sto. Nino,2/18/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.4,No,Failed
+Sto. Nino,2/18/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.4,No,Failed
+Sto. Nino,2/18/2013,Phosphate as Phosphorus,-,0.4,mg/L,22.7,No,Failed
+Sto. Nino,2/18/2013,Nitrate as Nitrogen,-,10,mg/L,10.4,No,Failed
+Sto. Nino,3/25/2013,Phosphate as Phosphorus,-,0.4,mg/L,20.4,No,Failed
+Sto. Nino,3/25/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Sto. Nino,3/25/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.6,No,Failed
+Sto. Nino,3/25/2013,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+Sto. Nino,3/25/2013,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+Sto. Nino,4/22/2013,Phosphate as Phosphorus,-,0.4,mg/L,19.6,No,Failed
+Sto. Nino,4/22/2013,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+Sto. Nino,4/22/2013,BOD (5-Day 20 Degrees),-,7,mg/L,30,No,Failed
+Sto. Nino,4/22/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.2,No,Failed
+Sto. Nino,4/22/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Sto. Nino,5/14/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Sto. Nino,5/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Sto. Nino,5/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,21.4,No,Failed
+Sto. Nino,5/14/2013,Nitrate as Nitrogen,-,10,mg/L,10.6,No,Failed
+Sto. Nino,5/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,42,No,Failed
+Sto. Nino,6/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.6,No,Failed
+Sto. Nino,6/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,11.8,No,Failed
+Sto. Nino,6/14/2013,Nitrate as Nitrogen,-,10,mg/L,8.8,Yes,Passed
+Sto. Nino,6/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,16,No,Failed
+Sto. Nino,6/14/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,2,No,Failed
+Sto. Nino,6/14/2013,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Sto. Nino,7/8/2013,BOD (5-Day 20 Degrees),-,7,mg/L,60,No,Failed
+Sto. Nino,7/8/2013,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+Sto. Nino,7/8/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.4,No,Failed
+Sto. Nino,7/8/2013,Phosphate as Phosphorus,-,0.4,mg/L,18.6,No,Failed
+Sto. Nino,7/8/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Tanong Station,2/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+Tanong Station,2/20/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Tanong Station,2/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.6,No,Failed
+Tanong Station,2/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.4,No,Failed
+Tanong Station,2/20/2012,Nitrate as Nitrogen,-,10,mg/L,8.6,Yes,Passed
+Tanong Station,2/20/2012,Lead,-,0.05,mg/L,0.0058,Yes,Passed
+Tanong Station,2/20/2012,Cadmium,-,0.01,mg/L,0.0018,Yes,Passed
+Tanong Station,3/5/2012,BOD (5-Day 20 Degrees),-,7,mg/L,50,No,Failed
+Tanong Station,3/5/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Tanong Station,3/5/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Tanong Station,3/5/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.7,No,Failed
+Tanong Station,3/5/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.29,No,Failed
+Tanong Station,3/5/2012,Nitrate as Nitrogen,-,10,mg/L,7.51,Yes,Passed
+Tanong Station,3/5/2012,Total Coliforms,-,5000,MPN/100ml,1700000,No,Failed
+Tanong Station,3/5/2012,Fecal Coliforms,-,-,MPN/100ml,1200000,Variable,Null
+Tanong Station,4/25/2012,BOD (5-Day 20 Degrees),-,7,mg/L,18,No,Failed
+Tanong Station,4/25/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Tanong Station,4/25/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Tanong Station,4/25/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.1,No,Failed
+Tanong Station,4/25/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.6,No,Failed
+Tanong Station,4/25/2012,Nitrate as Nitrogen,-,10,mg/L,6.2,Yes,Passed
+Tanong Station,4/25/2012,Total Coliforms,-,5000,MPN/100ml,9200000,No,Failed
+Tanong Station,7/16/2012,BOD (5-Day 20 Degrees),-,7,mg/L,14,No,Failed
+Tanong Station,7/16/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Tanong Station,7/16/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.8,No,Failed
+Tanong Station,7/16/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.9,No,Failed
+Tanong Station,7/16/2012,Nitrate as Nitrogen,-,10,mg/L,7.4,Yes,Passed
+Tanong Station,8/28/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.3,No,Failed
+Tanong Station,8/28/2012,BOD (5-Day 20 Degrees),-,7,mg/L,12,No,Failed
+Tanong Station,8/28/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.5,No,Failed
+Tanong Station,8/28/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Tanong Station,8/28/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.5,No,Failed
+Tanong Station,8/28/2012,Nitrate as Nitrogen,-,10,mg/L,7.2,Yes,Passed
+Tanong Station,9/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,14,No,Failed
+Tanong Station,9/17/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,1,No,Failed
+Tanong Station,9/17/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Tanong Station,9/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.1,No,Failed
+Tanong Station,9/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.2,No,Failed
+Tanong Station,9/17/2012,Nitrate as Nitrogen,-,10,mg/L,7.5,Yes,Passed
+Tanong Station,10/24/2012,BOD (5-Day 20 Degrees),-,7,mg/L,32,No,Failed
+Tanong Station,10/24/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Tanong Station,10/24/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.8,No,Failed
+Tanong Station,10/24/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.9,No,Failed
+Tanong Station,10/24/2012,Nitrate as Nitrogen,-,10,mg/L,7.6,Yes,Passed
+Tanong Station,11/12/2012,BOD (5-Day 20 Degrees),-,7,mg/L,38,No,Failed
+Tanong Station,11/12/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Tanong Station,11/12/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.5,No,Failed
+Tanong Station,11/12/2012,Phosphate as Phosphorus,-,0.4,mg/L,11.9,No,Failed
+Tanong Station,11/12/2012,Nitrate as Nitrogen,-,10,mg/L,9.3,Yes,Passed
+Tanong Station,12/10/2012,BOD (5-Day 20 Degrees),-,7,mg/L,30,No,Failed
+Tanong Station,12/10/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Tanong Station,12/10/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.6,No,Failed
+Tanong Station,12/10/2012,Phosphate as Phosphorus,-,0.4,mg/L,10.4,No,Failed
+Tanong Station,12/10/2012,Nitrate as Nitrogen,-,10,mg/L,9.1,Yes,Passed
+Tanong Station,1/21/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.1,No,Failed
+Tanong Station,1/21/2013,Phosphate as Phosphorus,-,0.4,mg/L,12.7,No,Failed
+Tanong Station,1/21/2013,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Tanong Station,1/21/2013,Nitrate as Nitrogen,-,10,mg/L,9.4,Yes,Passed
+Tanong Station,1/21/2013,BOD (5-Day 20 Degrees),-,7,mg/L,37,No,Failed
+Tanong Station,2/4/2013,BOD (5-Day 20 Degrees),-,7,mg/L,46,No,Failed
+Tanong Station,2/4/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Tanong Station,2/4/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.4,No,Failed
+Tanong Station,2/4/2013,Phosphate as Phosphorus,-,0.4,mg/L,13.9,No,Failed
+Tanong Station,2/4/2013,Nitrate as Nitrogen,-,10,mg/L,9.6,Yes,Passed
+Tanong Station,6/3/2013,BOD (5-Day 20 Degrees),-,7,mg/L,48,No,Failed
+Tanong Station,6/3/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Tanong Station,6/3/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.2,No,Failed
+Tanong Station,6/3/2013,Phosphate as Phosphorus,-,0.4,mg/L,13.6,No,Failed
+Tanong Station,6/3/2013,Nitrate as Nitrogen,-,10,mg/L,10.5,No,Failed
+Tanong Station,7/2/2013,BOD (5-Day 20 Degrees),-,7,mg/L,28,No,Failed
+Tanong Station,7/2/2013,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Tanong Station,7/2/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.9,No,Failed
+Tanong Station,7/2/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.6,No,Failed
+Tanong Station,7/2/2013,Nitrate as Nitrogen,-,10,mg/L,8.9,Yes,Passed
+Tramo,2/22/2012,BOD (5-Day 20 Degrees),-,7,mg/L,46,No,Failed
+Tramo,2/22/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Tramo,2/22/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.3,No,Failed
+Tramo,2/22/2012,Phosphate as Phosphorus,-,0.4,mg/L,9.56,No,Failed
+Tramo,2/22/2012,Nitrate as Nitrogen,-,10,mg/L,8.22,Yes,Passed
+Tramo,3/20/2012,Total Coliforms,-,5000,MPN/100ml,5.40E+11,No,Failed
+Tramo,3/20/2012,Fecal Coliforms,-,-,MPN/100ml,3.50E+11,Variable,Null
+Tramo,3/20/2012,Nitrate as Nitrogen,-,10,mg/L,5.63,Yes,Passed
+Tramo,3/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,13,No,Failed
+Tramo,3/20/2012,Total Suspended Solids,-,-,mg/L,20,Variable,Null
+Tramo,3/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.7,No,Failed
+Tramo,3/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,8.56,No,Failed
+Tramo,4/17/2012,Fecal Coliforms,-,-,MPN/100ml,5.40E+11,Variable,Null
+Tramo,4/17/2012,Total Coliforms,-,5000,MPN/100ml,9.20E+11,No,Failed
+Tramo,4/17/2012,Nitrate as Nitrogen,-,10,mg/L,8.2,Yes,Passed
+Tramo,4/17/2012,Phosphate as Phosphorus,-,0.4,mg/L,16.4,No,Failed
+Tramo,4/17/2012,BOD (5-Day 20 Degrees),-,7,mg/L,110,No,Failed
+Tramo,4/17/2012,Total Suspended Solids,-,-,mg/L,70,Variable,Null
+Tramo,4/17/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.8,No,Failed
+Tramo,6/20/2012,BOD (5-Day 20 Degrees),-,7,mg/L,46,No,Failed
+Tramo,6/20/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Tramo,6/20/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Tramo,6/20/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.9,No,Failed
+Tramo,6/20/2012,Phosphate as Phosphorus,-,0.4,mg/L,14.3,No,Failed
+Tramo,6/20/2012,Nitrate as Nitrogen,-,10,mg/L,8.9,Yes,Passed
+Tramo,7/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,44,No,Failed
+Tramo,7/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Tramo,7/23/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Tramo,7/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.3,No,Failed
+Tramo,7/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,13.2,No,Failed
+Tramo,7/23/2012,Nitrate as Nitrogen,-,10,mg/L,9.2,Yes,Passed
+Tramo,8/23/2012,BOD (5-Day 20 Degrees),-,7,mg/L,64,No,Failed
+Tramo,8/23/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Tramo,8/23/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Tramo,8/23/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Tramo,8/23/2012,Phosphate as Phosphorus,-,0.4,mg/L,18.6,No,Failed
+Tramo,8/23/2012,Nitrate as Nitrogen,-,10,mg/L,9.9,Yes,Passed
+Tramo,9/3/2012,BOD (5-Day 20 Degrees),-,7,mg/L,40,No,Failed
+Tramo,9/3/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Tramo,9/3/2012,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Tramo,9/3/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.1,No,Failed
+Tramo,9/3/2012,Phosphate as Phosphorus,-,0.4,mg/L,16.2,No,Failed
+Tramo,9/3/2012,Nitrate as Nitrogen,-,10,mg/L,9.7,Yes,Passed
+Tramo,10/4/2012,BOD (5-Day 20 Degrees),-,7,mg/L,36,No,Failed
+Tramo,10/4/2012,Dissolved Oxygen (e) (minimum),5,-,mg/L,0,No,Failed
+Tramo,10/4/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Tramo,10/4/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,3.7,No,Failed
+Tramo,10/4/2012,Phosphate as Phosphorus,-,0.4,mg/L,14.8,No,Failed
+Tramo,10/4/2012,Nitrate as Nitrogen,-,10,mg/L,9.1,Yes,Passed
+Tramo,10/4/2012,Total Coliforms,-,5000,MPN/100ml,540000000,No,Failed
+Tramo,11/19/2012,BOD (5-Day 20 Degrees),-,7,mg/L,42,No,Failed
+Tramo,11/19/2012,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Tramo,11/19/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.4,No,Failed
+Tramo,11/19/2012,Phosphate as Phosphorus,-,0.4,mg/L,16.6,No,Failed
+Tramo,11/19/2012,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed
+Tramo,12/13/2012,Phosphate as Phosphorus,-,0.4,mg/L,18.9,No,Failed
+Tramo,12/13/2012,Nitrate as Nitrogen,-,10,mg/L,10.8,No,Failed
+Tramo,12/13/2012,BOD (5-Day 20 Degrees),-,7,mg/L,54,No,Failed
+Tramo,12/13/2012,Total Suspended Solids,-,-,mg/L,40,Variable,Null
+Tramo,12/13/2012,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.6,No,Failed
+Tramo,1/28/2013,Phosphate as Phosphorus,-,0.4,mg/L,16.7,No,Failed
+Tramo,1/28/2013,Nitrate as Nitrogen,-,10,mg/L,10.1,No,Failed
+Tramo,1/28/2013,BOD (5-Day 20 Degrees),-,7,mg/L,40,No,Failed
+Tramo,1/28/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Tramo,1/28/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Tramo,2/18/2013,BOD (5-Day 20 Degrees),-,7,mg/L,64,No,Failed
+Tramo,2/18/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Tramo,2/18/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.6,No,Failed
+Tramo,2/18/2013,Phosphate as Phosphorus,-,0.4,mg/L,25.3,No,Failed
+Tramo,2/18/2013,Nitrate as Nitrogen,-,10,mg/L,11.9,No,Failed
+Tramo,3/25/2013,BOD (5-Day 20 Degrees),-,7,mg/L,40,No,Failed
+Tramo,3/25/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Tramo,3/25/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,4.8,No,Failed
+Tramo,3/25/2013,Phosphate as Phosphorus,-,0.4,mg/L,21.4,No,Failed
+Tramo,3/25/2013,Nitrate as Nitrogen,-,10,mg/L,10.9,No,Failed
+Tramo,4/22/2013,Nitrate as Nitrogen,-,10,mg/L,11.3,No,Failed
+Tramo,4/22/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.3,No,Failed
+Tramo,4/22/2013,Phosphate as Phosphorus,-,0.4,mg/L,24.6,No,Failed
+Tramo,4/22/2013,BOD (5-Day 20 Degrees),-,7,mg/L,52,No,Failed
+Tramo,4/22/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Tramo,5/14/2013,Total Suspended Solids,-,-,mg/L,50,Variable,Null
+Tramo,5/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,5.6,No,Failed
+Tramo,5/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,26.9,No,Failed
+Tramo,5/14/2013,Nitrate as Nitrogen,-,10,mg/L,11.6,No,Failed
+Tramo,5/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,56,No,Failed
+Tramo,6/14/2013,Nitrate as Nitrogen,-,10,mg/L,9.2,Yes,Passed
+Tramo,6/14/2013,BOD (5-Day 20 Degrees),-,7,mg/L,20,No,Failed
+Tramo,6/14/2013,Dissolved Oxygen (e) (minimum),5,-,mg/L,0.9,No,Failed
+Tramo,6/14/2013,Total Suspended Solids,-,-,mg/L,30,Variable,Null
+Tramo,6/14/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,2.9,No,Failed
+Tramo,6/14/2013,Phosphate as Phosphorus,-,0.4,mg/L,14.8,No,Failed
+Tramo,7/8/2013,Total Suspended Solids,-,-,mg/L,60,Variable,Null
+Tramo,7/8/2013,Oil/Grease (Petroleum Ether Extracts),-,2,mg/L,6.1,No,Failed
+Tramo,7/8/2013,BOD (5-Day 20 Degrees),-,7,mg/L,70,No,Failed
+Tramo,7/8/2013,Phosphate as Phosphorus,-,0.4,mg/L,19.4,No,Failed
+Tramo,7/8/2013,Nitrate as Nitrogen,-,10,mg/L,10.3,No,Failed

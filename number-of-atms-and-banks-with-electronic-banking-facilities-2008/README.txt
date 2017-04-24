@@ -1,0 +1,1 @@
+Number of automated teller machines (ATMs) with breakdown as to on-site and off-site, and number of banks with electronic banking facilities. 1999-2012

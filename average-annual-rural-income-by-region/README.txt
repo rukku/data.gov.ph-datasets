@@ -1,0 +1,1 @@
+This dataset contains the average annual rural income by region. This time-series includes the most recent data, covering the period from 1985 to the latest available year.

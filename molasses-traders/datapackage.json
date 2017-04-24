@@ -1,0 +1,45 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/QUUxmv6sUKkgY6woOGrR/dasugarmolassestraders2013.csv", 
+  "extras": {
+    "Frequency Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "30fe925c-c2ff-49dc-883e-b9d64eb827cc", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "molasses-traders", 
+  "notes": "Directory of Sugar Molasses Traders.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T10:13:35.893958", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "f904cb34-d39f-4f09-a90a-cad10ef373ae", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Molasses Traders", 
+      "package_id": "30fe925c-c2ff-49dc-883e-b9d64eb827cc", 
+      "position": 0, 
+      "resource_group_id": "2a00322f-8e8b-4ddd-a4f5-fa793c7859f7", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/QUUxmv6sUKkgY6woOGrR/dasugarmolassestraders2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Molasses Traders", 
+  "url": null, 
+  "version": null
+}

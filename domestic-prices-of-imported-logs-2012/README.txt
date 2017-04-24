@@ -1,0 +1,1 @@
+This dataset contains the domestic prices of imported logs for the year 2012.

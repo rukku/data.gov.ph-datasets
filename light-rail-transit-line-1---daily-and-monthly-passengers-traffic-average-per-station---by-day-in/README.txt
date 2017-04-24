@@ -1,0 +1,1 @@
+This data set contains the daily and monthly number of passengers who have entered and exited per station (by day in) in Light Rail Transit (LRT) Line 1 in 2010-2014.

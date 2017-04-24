@@ -1,0 +1,1 @@
+This dataset contains the monthly and annual averages of US Dollar rates of selected currencies.

@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/bef2e730-a185-4269-bf57-52c12a1e2d42/resource/61d539d4-a065-4ea2-8407-d4aea2d54f3f/download/cy2011listofodagrants.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "bef2e730-a185-4269-bf57-52c12a1e2d42", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "cy-2011-list-of-official-development-assistance-oda-grants", 
+  "notes": "This dataset contains the list of Official Development Assistance (ODA) Grants for the year 2011.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-03T19:31:13.033560", 
+      "description": "This dataset contains the list of Official Development Assistance (ODA) Grants for the year 2011.", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "61d539d4-a065-4ea2-8407-d4aea2d54f3f", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "CY 2011 LIST OF OFFICIAL DEVELOPMENT ASSISTANCE (ODA) GRANTS", 
+      "package_id": "bef2e730-a185-4269-bf57-52c12a1e2d42", 
+      "position": 0, 
+      "resource_group_id": "c35b40e6-e706-433a-8717-9057bf9e9b3a", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/bef2e730-a185-4269-bf57-52c12a1e2d42/resource/61d539d4-a065-4ea2-8407-d4aea2d54f3f/download/cy2011listofodagrants.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "CY 2011 LIST OF OFFICIAL DEVELOPMENT ASSISTANCE (ODA) GRANTS", 
+  "url": "", 
+  "version": ""
+}

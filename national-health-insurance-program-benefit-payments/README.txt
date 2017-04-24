@@ -1,0 +1,1 @@
+This dataset contains membership benefit payments of National Health Insurance Program for the year 2010-2013. Note: amount in millions

@@ -1,0 +1,46 @@
+{
+  "author": "Department of Labor and Employment", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/gK7QsjG9L5tSmGXXJ1AL/doledeploydofwslandandseabased1984-2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1984-12/31/2012"
+  }, 
+  "id": "f3b6322e-29c7-4216-94cd-afabb62b3cf6", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bureau of Labor and Employment Statistics - Data Bank", 
+  "maintainer_email": "bles_tsd@dole.gov.ph", 
+  "name": "deployed-overseas-filipino-workers-land-based-and-sea-based", 
+  "notes": "This dataset contains the number of deployed Overseas Filipino Workers (OFWs) categorized as Land-based and Sea-based from 1984-2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-07T16:58:19.078446", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "b2829d34-5246-427f-8686-e6640769de1e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "DEPLOYED OVERSEAS FILIPINO WORKERS LAND BASED AND SEA BASED", 
+      "package_id": "f3b6322e-29c7-4216-94cd-afabb62b3cf6", 
+      "position": 0, 
+      "resource_group_id": "d00d7670-393d-48d1-b997-9545954361e0", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/gK7QsjG9L5tSmGXXJ1AL/doledeploydofwslandandseabased1984-2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Employment"
+  ], 
+  "title": "Deployed Overseas Filipino Workers Land Based and Sea Based", 
+  "url": "", 
+  "version": ""
+}

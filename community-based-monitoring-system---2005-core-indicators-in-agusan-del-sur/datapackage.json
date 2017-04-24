@@ -1,0 +1,45 @@
+{
+  "author": "Local Government of Agusan del Sur", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/42D2PGX3MSvSgIUFaM5T/CBMS Agusan del Sur 2005.csv", 
+  "extras": {
+    "Frequency Update": "Others", 
+    "Granularity": "Baranggay", 
+    "Temporal Date": "01/01/2005-12/31/2005"
+  }, 
+  "id": "2e1caf95-56a5-4ed9-b738-ea9be5f42ad9", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "CBMS Network Coordinating Team", 
+  "maintainer_email": "info@napc.gov.ph", 
+  "name": "community-based-monitoring-system---2005-core-indicators-in-agusan-del-sur", 
+  "notes": "This dataset contains barangay-level information on the 14 core indicators of CBMS in the province of Agusan Del Sur. These 14 indicators are: (1) malnourished children 0 to 5 years old; (2) death of children 0 to 4 years old; (3) death of women due to pregnancy-related causes; (4) households without access to safe water; (5) households without access to sanitary toilet facilities; (6) households living in makeshift housing; (7) households who are informal settlers; (8) children aged 6 to 12 not attending elementary school; (9) children aged 13 to 16 not attending secondary school; (10) children aged 6 to 16 not attending school; (11) population who are unemployed; (12) households with income below poverty threshold; (13) households with income below food threshold; and (14) households who experienced food shortage. The data shows magnitude and proportion per barangay in each indicator; magnitude refers to the actual count of individuals/households in a given sample of the population while proportion refers to the percentage of the magnitude relative to the total count in a given sample of the population.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-01-12T13:14:54.390311", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "af95bade-4c45-4375-9482-d9df1d3f5f8f", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "CBMS - 2005 Core Indicator in Agusan del Sur", 
+      "package_id": "2e1caf95-56a5-4ed9-b738-ea9be5f42ad9", 
+      "position": 0, 
+      "resource_group_id": "09ccb5dd-43ce-47c3-a319-ff1a911b265e", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/42D2PGX3MSvSgIUFaM5T/CBMS Agusan del Sur 2005.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Community-Based Monitoring System - 2005 Core Indicators in Agusan del Sur", 
+  "url": null, 
+  "version": null
+}

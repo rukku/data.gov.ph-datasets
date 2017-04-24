@@ -1,0 +1,1 @@
+Indigenous People's Rights - Mode of Resolution of Land Issues/Conflicts

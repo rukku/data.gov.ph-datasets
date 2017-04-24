@@ -1,0 +1,1 @@
+This dataset contains the Inflation Rate for All Income Households (2000=100). This time-series includes the most recent data, covering the period from 2011 to the latest available month/year.

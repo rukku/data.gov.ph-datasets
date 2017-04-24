@@ -1,0 +1,1 @@
+This dataset contains the data enrollment of elementary and secondary for the year 2012.

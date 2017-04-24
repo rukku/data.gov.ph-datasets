@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/jzs9kqa0A97dbvqMszu8/panabocity_ldrrmf_12312012_q4.csv", 
+  "extras": {
+    "Granularity": "City or Municipality", 
+    "Temporal Date": "10/01/2012-12/31/2012"
+  }, 
+  "id": "2078a4c2-79b7-4277-b8b9-75bd02e07fff", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-panabo-city", 
+  "notes": "This dataset contains report on the local disaster risk reduction and management fund utilization of Panabo City.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-15T09:51:36.197051", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "9aa2f9fa-35b7-47cc-83b8-2d180d140030", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Panabo City IRAU", 
+      "package_id": "2078a4c2-79b7-4277-b8b9-75bd02e07fff", 
+      "position": 0, 
+      "resource_group_id": "1b809cbc-85a9-45cf-b330-fe3980fa8808", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/jzs9kqa0A97dbvqMszu8/panabocity_ldrrmf_12312012_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "LOCAL DISASTER RISK REDUCTION AND MANAGEMENT FUND UTILIZATION OF PANABO CITY", 
+  "url": "", 
+  "version": ""
+}

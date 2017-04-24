@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/wDFRoUjxZHTaXfnstf6k/tayabas_city_irau_2012_q3.csv", 
+  "extras": {
+    "Granularity": "City or Municipality", 
+    "Temporal Date": "07/01/2012-09/30/2012"
+  }, 
+  "id": "06592b24-84bc-4486-a55a-347d6d3f2c06", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization-of-tayabas-city", 
+  "notes": "This dataset contains report of internal revenue allotment utilization of Tayabas City.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-25T10:51:26.199152", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "55895b88-224c-4046-938a-5697cfd8e14c", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 3 - Tayabas City IRAU ", 
+      "package_id": "06592b24-84bc-4486-a55a-347d6d3f2c06", 
+      "position": 0, 
+      "resource_group_id": "de60b8e6-bee1-48a7-a9b6-8ff43c0114d9", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/wDFRoUjxZHTaXfnstf6k/tayabas_city_irau_2012_q3.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "INTERNAL REVENUE ALLOTMENT UTILIZATION of Tayabas City", 
+  "url": "", 
+  "version": ""
+}

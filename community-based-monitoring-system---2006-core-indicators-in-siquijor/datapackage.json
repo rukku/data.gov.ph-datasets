@@ -1,0 +1,45 @@
+{
+  "author": "Local Government of Siquijor", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/WLL8O0rYZ3uBxWVUfsZy/CBMS Siquijor 2006.csv", 
+  "extras": {
+    "Frequency Update": "Others", 
+    "Granularity": "Baranggay", 
+    "Temporal Date": "01/01/2006-12/31/2006"
+  }, 
+  "id": "676c23d5-d583-4c7c-84f7-2d7dda18b581", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "CBMS Network Coordinating Team", 
+  "maintainer_email": "info@napc.gov.ph", 
+  "name": "community-based-monitoring-system---2006-core-indicators-in-siquijor", 
+  "notes": "This dataset contains barangay-level information on the 14 core indicators of CBMS in the province of Siquijor.These 14 indicators are: (1) malnourished children 0 to 5 years old; (2) death of children 0 to 4 years old; (3) death of women due to pregnancy-related causes; (4) households without access to safe water; (5) households without access to sanitary toilet facilities; (6) households living in makeshift housing; (7) households who are informal settlers; (8) children aged 6 to 12 not attending elementary school; (9) children aged 13 to 16 not attending secondary school; (10) children aged 6 to 16 not attending school; (11) population who are unemployed; (12) households with income below poverty threshold; (13) households with income below food threshold; and (14) households who experienced food shortage. The data shows magnitude and proportion per barangay in each indicator; magnitude refers to the actual count of individuals/households in a given sample of the population while proportion refers to the percentage of the magnitude relative to the total count in a given sample of the population.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-01-12T13:12:15.775345", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "96775ea5-4ffa-4ccd-a0ad-2a0c92e5b6a4", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "CBMS - 2006 Core Indicator in Siquijor", 
+      "package_id": "676c23d5-d583-4c7c-84f7-2d7dda18b581", 
+      "position": 0, 
+      "resource_group_id": "9184cdf5-8654-444d-bcfd-6f607fb26571", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/WLL8O0rYZ3uBxWVUfsZy/CBMS Siquijor 2006.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Community-Based Monitoring System - 2006 Core Indicators in Siquijor", 
+  "url": null, 
+  "version": null
+}

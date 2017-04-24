@@ -1,0 +1,47 @@
+{
+  "author": "Mines and Geosciences Bureau", 
+  "author_email": "", 
+  "download_url": "http://catalogue.data.gov.ph/EITI/MPSA%20No.%20016-93-X%20(SMR)/Contract%20and%20Annex%20A-B.pdf", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "a33844c8-fd96-4af7-9a73-45449c1dbf16", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "mineral-production-sharing-agreement-016-93-x-smr", 
+  "notes": "Mineral Production Sharing Agreement - A mineral agreement wherein Government shares in the production of the Contractor, whether in kind or in value, as owner of the minerals, and the Contractor gets the rest. In return, the Contractor provides the necessary financing, technology, management and personnel for the mining project. (PH-EITI)", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-09T15:47:47.839537", 
+      "description": "", 
+      "format": "PDF", 
+      "hash": "", 
+      "id": "448daf4a-a881-42a6-8437-df2cc0e25a64", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Contract and Annex A-B", 
+      "package_id": "a33844c8-fd96-4af7-9a73-45449c1dbf16", 
+      "position": 0, 
+      "resource_group_id": "9dd18f4e-be9d-499b-a43e-05ecaaccce0f", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://catalogue.data.gov.ph/EITI/MPSA%20No.%20016-93-X%20(SMR)/Contract%20and%20Annex%20A-B.pdf", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Marcventures Mining and Development Corporation - MINERAL PRODUCTION SHARING AGREEMENT 016-93-X (SMR)", 
+  "url": "http://www.mgb.gov.ph/", 
+  "version": ""
+}

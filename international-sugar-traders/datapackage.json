@@ -1,0 +1,45 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/i9bHrUnP9ybssvl4KQwo/dasugartraderintl2013.csv", 
+  "extras": {
+    "Frequency Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "39f4d3d3-3bc3-47e9-aac2-bbc695e2ea20", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "international-sugar-traders", 
+  "notes": "Directory of International Sugar Traders", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-04T17:45:46.730021", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "008e75c1-dc9d-4d2e-98d2-deb88a8d6e4b", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "International Sugar Traders ", 
+      "package_id": "39f4d3d3-3bc3-47e9-aac2-bbc695e2ea20", 
+      "position": 0, 
+      "resource_group_id": "20f58def-fb02-4ef4-9dda-342507c76de0", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/i9bHrUnP9ybssvl4KQwo/dasugartraderintl2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "International Sugar Traders", 
+  "url": null, 
+  "version": null
+}

@@ -1,0 +1,58 @@
+region,province,total_in_cubic_meters,jan_in_cubic_meters,feb_in_cubic_meters,mar_in_cubic_meters,apr_in_cubic_meters,may_in_cubic_meters,jun_in_cubic_meters,jul_in_cubic_meters,aug_in_cubic_meters,sep_in_cubic_meters,oct_in_cubic_meters,nov_in_cubic_meters,dec_in_cubic_meters
+CAR,Abra,13,-,-,-,4,3,-,-,-,-,-,3,3
+CAR,Apayao,736,453,175,-,-,-,108,-,-,-,-,-,-
+CAR,Ifugao,36,5,16,5,11,-,-,-,-,-,-,-,-
+I (Ilocos Region),Ilocos Norte,124,14,4,18,22,3,-,-,-,-,51,1,11
+I (Ilocos Region),Ilocos Sur,485,7,38,6,9,28,-,48,0,53,121,50,124
+I (Ilocos Region),La Union,762,34,49,80,60,93,52,36,24,81,81,147,25
+I (Ilocos Region),Pangasinan,5293,234,508,395,246,292,298,286,267,364,911,618,874
+II  (Cagayan Valley),Nueva Vizcaya,6196,2153,1366,451,1025,1027,-,-,-,-,-,173,-
+II  (Cagayan Valley),Quirino,1261,389,194,81,120,246,231,-,-,-,-,-,-
+III (Central Luzon),Bataan,3995,2268,265,509,661,292,-,-,-,-,-,-,-
+III (Central Luzon),Bulacan,2854,40,1392,-,-,-,1392,-,-,-,17,13,-
+III (Central Luzon),Nueva Ecija,309,-,-,-,44,75,39,16,26,90,8,10,-
+III (Central Luzon),Pampanga,215,69,21,48,75,1,-,-,-,-,-,-,-
+III (Central Luzon),Tarlac,189,-,-,-,96,64,-,3,4,5,12,5,-
+III (Central Luzon),Zambales,1007,729,70,-,105,91,-,-,-,-,-,-,12
+IV-A (CALABARZON),Batangas,246,-,-,-,30,47,28,4,-,21,40,-,76
+IV-A (CALABARZON),Laguna,329,-,-,-,-,-,-,-,-,-,127,78,124
+IV-A (CALABARZON),Quezon,3995,535,372,350,665,461,340,249,218,10,195,213,389
+IV-A (CALABARZON),Rizal,85,1,14,1,11,-,-,5,-,-,31,21,2
+V (Bicol Region),Albay,241,15,9,-,1,4,-,-,67,-,81,64,-
+V (Bicol Region),Camarines Sur,105,-,24,-,11,-,-,-,-,-,62,3,5
+V (Bicol Region),Masbate,3,-,3,-,-,-,-,-,-,-,-,-,-
+V (Bicol Region),Sorsogon,29,-,4,6,7,11,-,-,-,-,-,-,-
+VI (Western Visayas),Aklan,8384,1081,862,1170,625,403,383,747,626,901,454,620,511
+VI (Western Visayas),Antique,2075,86,736,213,169,189,88,174,121,102,76,69,52
+VI (Western Visayas),Capiz,7185,479,-,488,532,527,497,826,606,736,618,906,971
+VI (Western Visayas),Guimaras,354,24,60,40,8,41,38,21,18,2,20,22,60
+VI (Western Visayas),Iloilo,12280,965,979,1451,574,1354,1144,1497,1620,964,692,559,482
+VI (Western Visayas),Negros Occidental,19823,1837,1501,1349,1364,1869,2566,1901,2185,1881,1274,1032,1064
+VII (Central Visayas),Bohol,63,-,-,-,-,-,-,-,-,-,32,31,-
+VII (Central Visayas),Cebu,2315,230,264,302,173,279,228,205,48,-,320,155,112
+VII (Central Visayas),Negros Oriental,1452,111,219,117,150,112,109,23,76,71,143,202,120
+VIII (Eastern Visayas),Biliran,37291,-,-,-,-,-,-,-,-,-,20669,4423,12199
+VIII (Eastern Visayas),Leyte,621,114,146,20,165,140,-,-,-,-,5,16,15
+VIII (Eastern Visayas),Samar (Western Samar),18,3,1,-,-,-,-,6,5,-,3,-,-
+VIII (Eastern Visayas),Southern Leyte,3998,380,590,306,540,344,63,65,821,-,-,345,543
+IX (Zamboanga Peninsula),Zamboanga City,877,89,37,34,53,93,81,67,188,76,59,46,54
+IX (Zamboanga Peninsula),Zamboanga del Norte,36743,5583,6181,286,5094,4167,250,-,-,4541,4643,5739,259
+IX (Zamboanga Peninsula),Zamboanga del Sur,2204,-,-,-,256,274,221,116,277,163,256,287,354
+IX (Zamboanga Peninsula),Zamboanga Sibugay,657,-,-,-,161,294,203,-,-,-,-,-,-
+X (Northern Mindanao),Bukidnon,4839,695,698,842,798,620,426,-,-,-,515,214,30
+X (Northern Mindanao),Camiguin,501,110,34,40,81,27,49,34,17,8,50,44,9
+X (Northern Mindanao),Lanao del Norte,2048,-,-,-,-,-,-,539,792,717,-,-,-
+X (Northern Mindanao),Misamis Occidental,1564,239,361,336,-,-,-,214,119,295,-,-,-
+X (Northern Mindanao),Misamis Oriental,2111,414,224,258,179,164,133,-,-,-,297,226,217
+XI (Davao Region),Compostela Valley,33413,2847,3860,5326,4540,6518,6289,804,966,1074,1188,-,-
+XI (Davao Region),Davao del Norte,17691,602,1763,1330,1504,1050,111,1166,1894,2258,2528,1640,1846
+XI (Davao Region),Davao del Sur,3235,264,348,306,297,445,314,213,100,109,542,201,94
+XI (Davao Region),Davao Oriental,29294,668,1670,7507,1770,1371,5856,783,217,7716,692,641,404
+XII (SOCCSKSARGEN),Cotabato (North Cotabato),6503,456,518,603,555,705,435,666,708,411,589,674,181
+XII (SOCCSKSARGEN),Sarangani,1617,160,177,115,39,59,-,49,253,85,345,337,-
+XII (SOCCSKSARGEN),South Cotabato,7927,616,590,331,803,777,-,927,655,754,677,915,881
+XII (SOCCSKSARGEN),Sultan Kudarat,2581,-,-,-,-,-,-,702,427,272,605,311,263
+XIII (Caraga),Agusan del Norte,45352,-,-,-,4645,4884,5305,916,3999,996,9664,5869,9075
+XIII (Caraga),Agusan del Sur,461205,52604,52483,35275,34781,29668,28230,33555,44360,44590,44012,23894,37753
+XIII (Caraga),Surigao del Norte,8701,676,85,288,228,229,199,1155,1784,1939,891,818,409
+XIII (Caraga),Surigao del Sur,68999,4516,2736,5625,6274,13109,8753,-,-,9698,8173,4531,5584

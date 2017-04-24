@@ -1,0 +1,68 @@
+{
+  "author": "Parole and Probation Administration", 
+  "author_email": "ppadoj@yahoo.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/QA9UjVfbvi0m5JU4ZulK/ppa_probation_investigation_caseload_1978-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "07/24/1978-12/31/2013"
+  }, 
+  "id": "c3a064fb-8ce6-411f-bdd8-15dfd0bdf314", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Office of the Deputy Administrator, and Chief Case Management and Records Division", 
+  "maintainer_email": "cmrd@probation.gov.ph", 
+  "name": "probation-caseload", 
+  "notes": "This dataset contains probation supervision caseload and probation investigation caseload from 1978-2013.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-04T17:36:33.907093", 
+      "description": "This dataset contains the total probation investigation caseload from 1978 to 2013.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "eacf6bdc-cb89-4a85-bb0b-c6ab09661e75", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Probation Investigation Caseload", 
+      "package_id": "c3a064fb-8ce6-411f-bdd8-15dfd0bdf314", 
+      "position": 0, 
+      "resource_group_id": "a19b9f61-a18c-43c6-8908-b56ae6706bbb", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/QA9UjVfbvi0m5JU4ZulK/ppa_probation_investigation_caseload_1978-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-04T17:36:41.861773", 
+      "description": "This dataset contains the total probation supervision caseload.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "9973cd6b-8f25-4395-bb07-7cf99bbe5352", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Probation Supervision Caseload", 
+      "package_id": "c3a064fb-8ce6-411f-bdd8-15dfd0bdf314", 
+      "position": 1, 
+      "resource_group_id": "a19b9f61-a18c-43c6-8908-b56ae6706bbb", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/VjaFFervgLv58UDKE7GV/ppa_probation_supervision_caseload_1978-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Law and Justice"
+  ], 
+  "title": "Probation Caseload", 
+  "url": "", 
+  "version": ""
+}

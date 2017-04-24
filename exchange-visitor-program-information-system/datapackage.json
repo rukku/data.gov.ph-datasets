@@ -1,0 +1,46 @@
+{
+  "author": "Commission on Filipinos Overseas", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/863VTl5lU98N5UZBViLX/evp_j1_registrants_2007-2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2007-12/31/2012"
+  }, 
+  "id": "7beac4bd-43cb-47e7-93c7-bb97e4767808", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Allen Dennis Pulma", 
+  "maintainer_email": "", 
+  "name": "exchange-visitor-program-information-system", 
+  "notes": "Exchange Visitor Program (EVP) Participants are Filipino going to the US with J1 Visa or Trainee Visa. This information system is designed to process the application and registration of these training applicants. The system will enable the EVP secretariat to tap a particular participants eith their specific skills and expertise for developmental project in the country. It can also generate statistics on the deployment of Filipino trainees to the U.S. The system also acts a monitoring system for the approval or non-approval of \"No Objection statement\" (NOS) in case the EVP participants request not to return to the Philippines after their contract expires. They need to submit the necesary documentary requirements and obtain from the EVP Committee its approval. Application for NSO for a particular EVP participant is inputted using the EVPIS together with the completed lis of requirements.\r\n\r\nDemographic profile of EVP participants per year.\r\nData is from 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-12T13:44:46.033878", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "3eb50ebe-3838-4c87-8065-12ba3669ce14", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "EVP Registered Filipino Participants with J1 Visa or Trainee Visa 2007-2012", 
+      "package_id": "7beac4bd-43cb-47e7-93c7-bb97e4767808", 
+      "position": 0, 
+      "resource_group_id": "38805049-7cac-4df0-b33a-3b2133fb7868", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/863VTl5lU98N5UZBViLX/evp_j1_registrants_2007-2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Population"
+  ], 
+  "title": "Exchange Visitor Program Information System", 
+  "url": "", 
+  "version": ""
+}

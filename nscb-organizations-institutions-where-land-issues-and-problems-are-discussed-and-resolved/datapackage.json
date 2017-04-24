@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/6c8a4562-765b-4057-af12-0dfd178302af/resource/17c38dbc-e55a-4f37-96cd-a4122a80c199/download/NSCBORGANIZATIONSINSTITUTIONSWHERELANDISSUESANDPROBLEMSAREDISCUSSEDANDRESOLVED.xlsx", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "6c8a4562-765b-4057-af12-0dfd178302af", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-organizations-institutions-where-land-issues-and-problems-are-discussed-and-resolved", 
+  "notes": "Indigenous People's Rights - Organizations/Institutions where Land Issues and Problems are Discussed and Resolved", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T00:04:44.567731", 
+      "description": "Indigenous People's Rights - Organizations/Institutions where Land Issues and Problems are Discussed and Resolved", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "17c38dbc-e55a-4f37-96cd-a4122a80c199", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - ORGANIZATIONS/INSTITUTIONS WHERE LAND ISSUES AND PROBLEMS ARE DISCUSSED AND RESOLVED", 
+      "package_id": "6c8a4562-765b-4057-af12-0dfd178302af", 
+      "position": 0, 
+      "resource_group_id": "ad1699e9-a0af-45ab-ae7d-47298c125d1b", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/6c8a4562-765b-4057-af12-0dfd178302af/resource/17c38dbc-e55a-4f37-96cd-a4122a80c199/download/NSCBORGANIZATIONSINSTITUTIONSWHERELANDISSUESANDPROBLEMSAREDISCUSSEDANDRESOLVED.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Population"
+  ], 
+  "title": "NSCB - ORGANIZATIONS/INSTITUTIONS WHERE LAND ISSUES AND PROBLEMS ARE DISCUSSED AND RESOLVED", 
+  "url": "", 
+  "version": ""
+}

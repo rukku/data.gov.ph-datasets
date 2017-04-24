@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/37b98179-9bba-4a22-96ab-2f870ad9df72/resource/db9ee900-9038-4365-9a62-a87df68ce1de/download/25april2012.csv", 
+  "extras": {
+    "Frequency of Update": "Monthly", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "37b98179-9bba-4a22-96ab-2f870ad9df72", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "25-april-2012-neda-updates", 
+  "notes": "This dataset contains NEDA Updates for the year 2012 as of April 25 2012", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T12:10:13.038252", 
+      "description": "This dataset contains NEDA Updates for the year 2012 as of April 25 2012", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "db9ee900-9038-4365-9a62-a87df68ce1de", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "25 APRIL 2012 NEDA UPDATES", 
+      "package_id": "37b98179-9bba-4a22-96ab-2f870ad9df72", 
+      "position": 0, 
+      "resource_group_id": "ff053cad-678e-4f9c-b1ff-eadb22c3f095", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/37b98179-9bba-4a22-96ab-2f870ad9df72/resource/db9ee900-9038-4365-9a62-a87df68ce1de/download/25april2012.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "25 APRIL 2012 NEDA UPDATES", 
+  "url": "", 
+  "version": ""
+}

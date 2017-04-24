@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/201d150e-2c6e-4201-a889-6e0c6a9d74c2/resource/3c0b720e-a6bd-474f-8af3-ab1e8245c934/download/01february2012.csv", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "201d150e-2c6e-4201-a889-6e0c6a9d74c2", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "01-february-2012-neda-updates", 
+  "notes": "This dataset contains NEDA Updates for February 1, 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T14:47:48.649875", 
+      "description": "This dataset contains NEDA Updates for February 1, 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "3c0b720e-a6bd-474f-8af3-ab1e8245c934", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "01 FEBRUARY 2012 NEDA UPDATES", 
+      "package_id": "201d150e-2c6e-4201-a889-6e0c6a9d74c2", 
+      "position": 0, 
+      "resource_group_id": "635dfc00-e9ed-4d24-b1f4-665c50a73220", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/201d150e-2c6e-4201-a889-6e0c6a9d74c2/resource/3c0b720e-a6bd-474f-8af3-ab1e8245c934/download/01february2012.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "01 FEBRUARY 2012 NEDA UPDATES", 
+  "url": "", 
+  "version": ""
+}

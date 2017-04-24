@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/VQHC2mxldUi9Q1ritpm2/antipolo_city_ldrrmf_201209_q3.csv", 
+  "extras": {
+    "Granularity": "City or Municipality", 
+    "Temporal Date": "04/01/2012-09/30/2012"
+  }, 
+  "id": "2f2923af-39a8-4237-a023-b3874d90789b", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-antipolo-city", 
+  "notes": "This dataset contains report on the local disaster risk reduction and management fund utilization of Antipolo City.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T14:14:59.877507", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "ae59d673-54aa-4859-87de-db7bc420c5fb", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 3 - Antipolo City LDRRMF", 
+      "package_id": "2f2923af-39a8-4237-a023-b3874d90789b", 
+      "position": 0, 
+      "resource_group_id": "02077aad-a777-4b0e-ab85-ced2900e6a7c", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/VQHC2mxldUi9Q1ritpm2/antipolo_city_ldrrmf_201209_q3.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T14:15:08.483030", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "01746b41-1a44-4605-9f1b-caf76fa18aba", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Antipolo City LDRRMF", 
+      "package_id": "2f2923af-39a8-4237-a023-b3874d90789b", 
+      "position": 1, 
+      "resource_group_id": "02077aad-a777-4b0e-ab85-ced2900e6a7c", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/zeVxFXbWPPPlvxi0TYKf/antipolo_city_ldrrmf_20121231_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization of Antipolo City", 
+  "url": "", 
+  "version": ""
+}

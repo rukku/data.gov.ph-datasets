@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/dd06eebb-12a2-4466-9c38-3803ea533935/resource/7c7d60c6-081a-42da-88ab-65f0820ab992/download/NSCBForeignTradeofthePhilippines1990to2013.xlsx", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "dd06eebb-12a2-4466-9c38-3803ea533935", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-foreign-trade-of-the-philippines-1990-to-2013", 
+  "notes": "Foreign Trade of the Philippines from 1990 to 2013", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T22:36:13.237255", 
+      "description": "Foreign Trade of the Philippines from 1990 to 2013", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "7c7d60c6-081a-42da-88ab-65f0820ab992", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - FOREIGN TRADE OF THE PHILIPPINES - 1990 TO 2013", 
+      "package_id": "dd06eebb-12a2-4466-9c38-3803ea533935", 
+      "position": 0, 
+      "resource_group_id": "ca203aa6-7f3c-46e2-bc85-1f9792e16ce4", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/dd06eebb-12a2-4466-9c38-3803ea533935/resource/7c7d60c6-081a-42da-88ab-65f0820ab992/download/NSCBForeignTradeofthePhilippines1990to2013.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "NSCB - FOREIGN TRADE OF THE PHILIPPINES - 1990 TO 2013", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,1 @@
+This dataset contains the average domestic price of wood panel board for the year 2004-2013.

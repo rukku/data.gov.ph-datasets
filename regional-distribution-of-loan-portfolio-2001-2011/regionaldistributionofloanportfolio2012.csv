@@ -1,0 +1,518 @@
+Region,City_or_province,type_of_bank,30-Jun-12,31-Dec-12
+Philippine Banking System,Philippine Banking System,Philippine Banking System,"3,353,676.19","3,630,905.74"
+Philippine Banking System,Philippine Banking System,Universal and Commercial Bank Group,"2,897,875.39","3,164,654.33"
+Philippine Banking System,Philippine Banking System,Thrift Bank Group,"353,850.73","366,821.41"
+Philippine Banking System,Philippine Banking System,Rural and Cooperative Bank Group,"101,950.08","99,430.00"
+Geographical Distribution (Overseas),Geographical Distribution (Overseas),Geographical Distribution (Overseas),"11,033.93","9,155.65"
+Geographical Distribution (Overseas),Geographical Distribution (Overseas),Universal and Commercial Banks,"11,033.93","9,155.65"
+Geographical Distribution (Overseas),Geographical Distribution (Overseas),Thrift Banks,-,-
+Geographical Distribution (Overseas),Geographical Distribution (Overseas),Rural and Cooperative Banks,-,-
+Europe,Europe,Europe,-,-
+Europe,Europe,Universal and Commercial Banks,-,-
+Europe,Europe,Thrift Banks,-,-
+Europe,Europe,Rural and Cooperative Banks,-,-
+Asia,Asia,Asia,"10,366.02","8,506.05"
+Asia,Asia,Universal and Commercial Banks,"10,366.02","8,506.05"
+Asia,Asia,Thrift Banks,-,-
+Asia,Asia,Rural and Cooperative Banks,-,-
+North America,North America,North America,667.908,649.605
+North America,North America,Universal and Commercial Banks,667.908,649.605
+North America,North America,Thrift Banks,-,-
+North America,North America,Rural and Cooperative Banks,-,-
+Australia (Asia Pacific),Australia (Asia Pacific),Australia (Asia Pacific),*,*
+Australia (Asia Pacific),Australia (Asia Pacific),Universal and Commercial Banks,*,*
+Australia (Asia Pacific),Australia (Asia Pacific),Thrift Banks,-,-
+Australia (Asia Pacific),Australia (Asia Pacific),Rural and Cooperative Banks,-,-
+Middle East Asia,Middle East Asia,Middle East Asia,0,0
+Middle East Asia,Middle East Asia,Universal and Commercial Banks,0,0
+Middle East Asia,Middle East Asia,Thrift Banks,-,-
+Middle East Asia,Middle East Asia,Rural and Cooperative Banks,-,-
+Geographical Distribution (Domestic),Geographical Distribution (Domestic),Geographical Distribution (Domestic),"3,342,642.27","3,621,750.09"
+Geographical Distribution (Domestic),Geographical Distribution (Domestic),Universal and Commercial Banks,"2,886,841.46","3,155,498.68"
+Geographical Distribution (Domestic),Geographical Distribution (Domestic),Thrift Banks,"353,850.73","366,821.41"
+Geographical Distribution (Domestic),Geographical Distribution (Domestic),Rural and Cooperative Banks,"101,950.08","99,430.00"
+National Capital Region (NCR),National Capital Region (NCR),National Capital Region (NCR),"2,908,339.22","3,112,925.77"
+National Capital Region (NCR),National Capital Region (NCR),Universal and Commercial Banks,"2,624,698.52","2,849,690.39"
+National Capital Region (NCR),National Capital Region (NCR),Thrift Banks,"268,989.78","249,891.75"
+National Capital Region (NCR),National Capital Region (NCR),Rural and Cooperative Banks,"14,650.93","13,343.63"
+National Capital Region (NCR),Manila,Manila,"297,511.47","312,897.82"
+National Capital Region (NCR),Manila,Universal and Commercial Banks,*,*
+National Capital Region (NCR),Manila,Thrift Banks,*,*
+National Capital Region (NCR),Manila,Rural and Cooperative Banks,*,*
+National Capital Region (NCR),Mandaluyong City,Mandaluyong City,"147,443.10","157,246.82"
+National Capital Region (NCR),Mandaluyong City,Universal and Commercial Banks,"143,623.72","152,251.84"
+National Capital Region (NCR),Mandaluyong City,Thrift Banks,356.362,"2,235.23"
+National Capital Region (NCR),Mandaluyong City,Rural and Cooperative Banks,"3,463.02","2,759.74"
+National Capital Region (NCR),Marikina City,Marikina City,"2,537.87","3,472.28"
+National Capital Region (NCR),Marikina City,Universal and Commercial Banks,"1,756.74","1,979.93"
+National Capital Region (NCR),Marikina City,Thrift Banks,503.224,"1,404.32"
+National Capital Region (NCR),Marikina City,Rural and Cooperative Banks,277.899,88.032
+National Capital Region (NCR),Pasig City,Pasig City,"158,196.65","186,675.44"
+National Capital Region (NCR),Pasig City,Universal and Commercial Banks,"129,569.58","153,787.72"
+National Capital Region (NCR),Pasig City,Thrift Banks,"28,388.89","32,673.23"
+National Capital Region (NCR),Pasig City,Rural and Cooperative Banks,238.181,214.495
+National Capital Region (NCR),Quezon City,Quezon City,"94,961.29","113,491.62"
+National Capital Region (NCR),Quezon City,Universal and Commercial Banks,"81,704.30","93,835.08"
+National Capital Region (NCR),Quezon City,Thrift Banks,"13,178.74","19,602.03"
+National Capital Region (NCR),Quezon City,Rural and Cooperative Banks,78.251,54.52
+National Capital Region (NCR),San Juan City,San Juan City,"24,673.45","32,541.85"
+National Capital Region (NCR),San Juan City,Universal and Commercial Banks,*,"27,897.43"
+National Capital Region (NCR),San Juan City,Thrift Banks,*,"4,644.42"
+National Capital Region (NCR),San Juan City,Rural and Cooperative Banks,*,0
+National Capital Region (NCR),Caloocan City,Caloocan City,"29,620.07","40,049.54"
+National Capital Region (NCR),Caloocan City,Universal and Commercial Banks,"14,969.27","18,036.75"
+National Capital Region (NCR),Caloocan City,Thrift Banks,"13,950.09","21,325.48"
+National Capital Region (NCR),Caloocan City,Rural and Cooperative Banks,700.709,687.305
+National Capital Region (NCR),Malabon City,Malabon City,"1,548.93","1,849.27"
+National Capital Region (NCR),Malabon City,Universal and Commercial Banks,"1,418.91","1,438.32"
+National Capital Region (NCR),Malabon City,Thrift Banks,130.018,410.95
+National Capital Region (NCR),Malabon City,Rural and Cooperative Banks,-,0
+National Capital Region (NCR),Navotas City,Navotas City,"1,732.16","1,834.59"
+National Capital Region (NCR),Navotas City,Universal and Commercial Banks,*,*
+National Capital Region (NCR),Navotas City,Thrift Banks,*,*
+National Capital Region (NCR),Navotas City,Rural and Cooperative Banks,*,*
+National Capital Region (NCR),Valenzuela City,Valenzuela City,"2,718.06","3,987.93"
+National Capital Region (NCR),Valenzuela City,Universal and Commercial Banks,"2,433.71","3,121.81"
+National Capital Region (NCR),Valenzuela City,Thrift Banks,148.126,732.596
+National Capital Region (NCR),Valenzuela City,Rural and Cooperative Banks,136.223,133.521
+National Capital Region (NCR),Las Pinas City,Las Pinas City,"5,751.31","9,532.17"
+National Capital Region (NCR),Las Pinas City,Universal and Commercial Banks,"3,637.11","5,104.11"
+National Capital Region (NCR),Las Pinas City,Thrift Banks,"1,052.89","3,343.27"
+National Capital Region (NCR),Las Pinas City,Rural and Cooperative Banks,"1,061.32","1,084.79"
+National Capital Region (NCR),Makati City,Makati City,"1,938,404.65","1,982,702.31"
+National Capital Region (NCR),Makati City,Universal and Commercial Banks,"1,735,869.63","1,829,105.75"
+National Capital Region (NCR),Makati City,Thrift Banks,"194,972.06","145,843.88"
+National Capital Region (NCR),Makati City,Rural and Cooperative Banks,"7,562.97","7,752.68"
+National Capital Region (NCR),Muntinlupa City,Muntinlupa City,"8,464.59","12,495.43"
+National Capital Region (NCR),Muntinlupa City,Universal and Commercial Banks,"6,941.96","8,532.85"
+National Capital Region (NCR),Muntinlupa City,Thrift Banks,"1,439.11","3,879.71"
+National Capital Region (NCR),Muntinlupa City,Rural and Cooperative Banks,83.517,82.865
+National Capital Region (NCR),Paranaque City,Paranaque City,"5,126.60","10,423.51"
+National Capital Region (NCR),Paranaque City,Universal and Commercial Banks,*,*
+National Capital Region (NCR),Paranaque City,Thrift Banks,*,*
+National Capital Region (NCR),Paranaque City,Rural and Cooperative Banks,*,*
+National Capital Region (NCR),Pasay City,Pasay City,"141,268.37","148,656.14"
+National Capital Region (NCR),Pasay City,Universal and Commercial Banks,"140,979.52","147,744.42"
+National Capital Region (NCR),Pasay City,Thrift Banks,288.851,911.719
+National Capital Region (NCR),Pasay City,Rural and Cooperative Banks,-,0
+National Capital Region (NCR),Pateros,Pateros,481.929,559.198
+National Capital Region (NCR),Pateros,Universal and Commercial Banks,93.758,147.038
+National Capital Region (NCR),Pateros,Thrift Banks,17.777,75.292
+National Capital Region (NCR),Pateros,Rural and Cooperative Banks,370.394,336.868
+National Capital Region (NCR),Taguig City,Taguig City,"47,898.72","94,509.86"
+National Capital Region (NCR),Taguig City,Universal and Commercial Banks,"47,205.34","94,016.29"
+National Capital Region (NCR),Taguig City,Thrift Banks,405.194,410.149
+National Capital Region (NCR),Taguig City,Rural and Cooperative Banks,288.187,83.427
+Region I (Ilocos Region),Region I (Ilocos Region),Region I (Ilocos Region),"20,686.15","23,199.51"
+Region I (Ilocos Region),Region I (Ilocos Region),Universal and Commercial Banks,"10,644.07","12,166.01"
+Region I (Ilocos Region),Region I (Ilocos Region),Thrift Banks,"4,345.15","5,481.19"
+Region I (Ilocos Region),Region I (Ilocos Region),Rural and Cooperative Banks,"5,696.92","5,552.31"
+Region I (Ilocos Region),Ilocos Norte,Ilocos Norte,"2,906.92","4,495.73"
+Region I (Ilocos Region),Ilocos Norte,Universal and Commercial Banks,"2,357.27","3,642.26"
+Region I (Ilocos Region),Ilocos Norte,Thrift Banks,199.883,554.779
+Region I (Ilocos Region),Ilocos Norte,Rural and Cooperative Banks,349.765,298.689
+Region I (Ilocos Region),Ilocos Sur,Ilocos Sur,"1,645.30","2,489.98"
+Region I (Ilocos Region),Ilocos Sur,Universal and Commercial Banks,536.619,"1,374.80"
+Region I (Ilocos Region),Ilocos Sur,Thrift Banks,173.659,205.743
+Region I (Ilocos Region),Ilocos Sur,Rural and Cooperative Banks,935.024,909.445
+Region I (Ilocos Region),La Union,La Union,"4,498.88","3,249.45"
+Region I (Ilocos Region),La Union,Universal and Commercial Banks,"3,038.33","1,595.70"
+Region I (Ilocos Region),La Union,Thrift Banks,397.437,648.823
+Region I (Ilocos Region),La Union,Rural and Cooperative Banks,"1,063.11","1,004.92"
+Region I (Ilocos Region),Pangasinan,Pangasinan,"11,635.05","12,964.35"
+Region I (Ilocos Region),Pangasinan,Universal and Commercial Banks,"4,711.86","5,553.25"
+Region I (Ilocos Region),Pangasinan,Thrift Banks,"3,574.17","4,071.85"
+Region I (Ilocos Region),Pangasinan,Rural and Cooperative Banks,"3,349.02","3,339.25"
+Region II (Cagayan Valley),Region II (Cagayan Valley),Region II (Cagayan Valley),"20,086.66","22,302.93"
+Region II (Cagayan Valley),Region II (Cagayan Valley),Universal and Commercial Banks,"10,792.18","12,599.84"
+Region II (Cagayan Valley),Region II (Cagayan Valley),Thrift Banks,"3,485.64","3,802.30"
+Region II (Cagayan Valley),Region II (Cagayan Valley),Rural and Cooperative Banks,"5,808.84","5,900.80"
+Region II (Cagayan Valley),Batanes,Batanes,18.384,65.476
+Region II (Cagayan Valley),Batanes,Universal and Commercial Banks,*,*
+Region II (Cagayan Valley),Batanes,Thrift Banks,-,-
+Region II (Cagayan Valley),Batanes,Rural and Cooperative Banks,*,*
+Region II (Cagayan Valley),Cagayan,Cagayan,"4,154.46","4,431.90"
+Region II (Cagayan Valley),Cagayan,Universal and Commercial Banks,"2,181.58","2,423.08"
+Region II (Cagayan Valley),Cagayan,Thrift Banks,683.024,741.535
+Region II (Cagayan Valley),Cagayan,Rural and Cooperative Banks,"1,289.86","1,267.29"
+Region II (Cagayan Valley),Isabela,Isabela,"13,061.04","14,602.93"
+Region II (Cagayan Valley),Isabela,Universal and Commercial Banks,"7,844.58","9,070.18"
+Region II (Cagayan Valley),Isabela,Thrift Banks,"2,391.93","2,588.29"
+Region II (Cagayan Valley),Isabela,Rural and Cooperative Banks,"2,824.53","2,944.46"
+Region II (Cagayan Valley),Nueva Vizcaya,Nueva Vizcaya,"2,044.96","2,362.51"
+Region II (Cagayan Valley),Nueva Vizcaya,Universal and Commercial Banks,344.706,609.835
+Region II (Cagayan Valley),Nueva Vizcaya,Thrift Banks,309.242,355.205
+Region II (Cagayan Valley),Nueva Vizcaya,Rural and Cooperative Banks,"1,391.01","1,397.47"
+Region II (Cagayan Valley),Quirino,Quirino,807.809,840.122
+Region II (Cagayan Valley),Quirino,Universal and Commercial Banks,*,*
+Region II (Cagayan Valley),Quirino,Thrift Banks,*,*
+Region II (Cagayan Valley),Quirino,Rural and Cooperative Banks,*,*
+Region III (Central Luzon),Region III (Central Luzon),Region III (Central Luzon),"71,768.72","81,922.87"
+Region III (Central Luzon),Region III (Central Luzon),Universal and Commercial Banks,"39,202.30","45,835.89"
+Region III (Central Luzon),Region III (Central Luzon),Thrift Banks,"13,536.34","16,980.25"
+Region III (Central Luzon),Region III (Central Luzon),Rural and Cooperative Banks,"19,030.08","19,106.73"
+Region III (Central Luzon),Aurora,Aurora,684.485,897.803
+Region III (Central Luzon),Aurora,Universal and Commercial Banks,184.053,340.855
+Region III (Central Luzon),Aurora,Thrift Banks,142.955,166.923
+Region III (Central Luzon),Aurora,Rural and Cooperative Banks,357.477,390.025
+Region III (Central Luzon),Bataan,Bataan,"3,599.31","4,164.51"
+Region III (Central Luzon),Bataan,Universal and Commercial Banks,"2,165.34","2,538.71"
+Region III (Central Luzon),Bataan,Thrift Banks,746.085,914.619
+Region III (Central Luzon),Bataan,Rural and Cooperative Banks,687.888,711.184
+Region III (Central Luzon),Bulacan,Bulacan,"17,302.20","19,266.80"
+Region III (Central Luzon),Bulacan,Universal and Commercial Banks,"6,996.81","8,535.29"
+Region III (Central Luzon),Bulacan,Thrift Banks,"3,730.16","4,254.39"
+Region III (Central Luzon),Bulacan,Rural and Cooperative Banks,"6,575.23","6,477.12"
+Region III (Central Luzon),Nueva Ecija,Nueva Ecija,"13,993.84","15,334.11"
+Region III (Central Luzon),Nueva Ecija,Universal and Commercial Banks,"7,800.13","8,434.27"
+Region III (Central Luzon),Nueva Ecija,Thrift Banks,"2,571.66","3,030.89"
+Region III (Central Luzon),Nueva Ecija,Rural and Cooperative Banks,"3,622.05","3,868.95"
+Region III (Central Luzon),Pampanga,Pampanga,"22,189.02","27,200.09"
+Region III (Central Luzon),Pampanga,Universal and Commercial Banks,"11,722.63","15,079.85"
+Region III (Central Luzon),Pampanga,Thrift Banks,"4,833.45","6,504.80"
+Region III (Central Luzon),Pampanga,Rural and Cooperative Banks,"5,632.94","5,615.44"
+Region III (Central Luzon),Tarlac,Tarlac,"6,552.94","7,160.58"
+Region III (Central Luzon),Tarlac,Universal and Commercial Banks,"3,677.71","3,965.08"
+Region III (Central Luzon),Tarlac,Thrift Banks,"1,211.09","1,587.34"
+Region III (Central Luzon),Tarlac,Rural and Cooperative Banks,"1,664.14","1,608.16"
+Region III (Central Luzon),Zambales,Zambales,"7,446.93","7,898.98"
+Region III (Central Luzon),Zambales,Universal and Commercial Banks,"6,655.63","6,941.83"
+Region III (Central Luzon),Zambales,Thrift Banks,300.939,521.285
+Region III (Central Luzon),Zambales,Rural and Cooperative Banks,490.358,435.858
+Region IV-A (CALABARZON),Region IV-A (CALABARZON),Region IV-A (CALABARZON),"67,113.82","83,910.40"
+Region IV-A (CALABARZON),Region IV-A (CALABARZON),Universal and Commercial Banks,"34,111.34","40,998.17"
+Region IV-A (CALABARZON),Region IV-A (CALABARZON),Thrift Banks,"15,435.86","26,272.85"
+Region IV-A (CALABARZON),Region IV-A (CALABARZON),Rural and Cooperative Banks,"17,566.63","16,639.37"
+Region IV-A (CALABARZON),Batangas,Batangas,"16,026.18","19,397.17"
+Region IV-A (CALABARZON),Batangas,Universal and Commercial Banks,"7,292.23","9,473.81"
+Region IV-A (CALABARZON),Batangas,Thrift Banks,"3,720.18","5,212.27"
+Region IV-A (CALABARZON),Batangas,Rural and Cooperative Banks,"5,013.77","4,711.10"
+Region IV-A (CALABARZON),Cavite,Cavite,"12,024.19","16,010.56"
+Region IV-A (CALABARZON),Cavite,Universal and Commercial Banks,"6,722.13","7,323.61"
+Region IV-A (CALABARZON),Cavite,Thrift Banks,"2,109.12","5,937.61"
+Region IV-A (CALABARZON),Cavite,Rural and Cooperative Banks,"3,192.94","2,749.34"
+Region IV-A (CALABARZON),Laguna,Laguna,"18,039.94","22,755.93"
+Region IV-A (CALABARZON),Laguna,Universal and Commercial Banks,"9,347.63","11,194.77"
+Region IV-A (CALABARZON),Laguna,Thrift Banks,"4,069.56","7,094.08"
+Region IV-A (CALABARZON),Laguna,Rural and Cooperative Banks,"4,622.75","4,467.07"
+Region IV-A (CALABARZON),Quezon,Quezon,"7,928.03","9,719.22"
+Region IV-A (CALABARZON),Quezon,Universal and Commercial Banks,"4,228.08","5,235.07"
+Region IV-A (CALABARZON),Quezon,Thrift Banks,646.243,"1,328.31"
+Region IV-A (CALABARZON),Quezon,Rural and Cooperative Banks,"3,053.71","3,155.84"
+Region IV-A (CALABARZON),Rizal,Rizal,"13,095.49","16,027.52"
+Region IV-A (CALABARZON),Rizal,Universal and Commercial Banks,"6,521.27","7,770.92"
+Region IV-A (CALABARZON),Rizal,Thrift Banks,"4,890.76","6,700.58"
+Region IV-A (CALABARZON),Rizal,Rural and Cooperative Banks,"1,683.46","1,556.02"
+Region IV-B (MIMAROPA),Rizal,Rizal,"8,781.52","10,264.89"
+Region IV-B (MIMAROPA),Rizal,Universal and Commercial Banks,"5,561.89","6,961.18"
+Region IV-B (MIMAROPA),Rizal,Thrift Banks,962.985,"1,042.04"
+Region IV-B (MIMAROPA),Rizal,Rural and Cooperative Banks,"2,256.65","2,261.67"
+Region IV-B (MIMAROPA),Marinduque,Marinduque,140.458,233.559
+Region IV-B (MIMAROPA),Marinduque,Universal and Commercial Banks,*,*
+Region IV-B (MIMAROPA),Marinduque,Thrift Banks,*,*
+Region IV-B (MIMAROPA),Marinduque,Rural and Cooperative Banks,*,*
+Region IV-B (MIMAROPA),Occidental Mindoro,Occidental Mindoro,"1,286.09","1,426.70"
+Region IV-B (MIMAROPA),Occidental Mindoro,Universal and Commercial Banks,919.805,"1,013.47"
+Region IV-B (MIMAROPA),Occidental Mindoro,Thrift Banks,46.016,55.394
+Region IV-B (MIMAROPA),Occidental Mindoro,Rural and Cooperative Banks,320.264,357.831
+Region IV-B (MIMAROPA),Oriental Mindoro,Oriental Mindoro,"3,386.89","3,460.22"
+Region IV-B (MIMAROPA),Oriental Mindoro,Universal and Commercial Banks,"1,954.57","2,098.69"
+Region IV-B (MIMAROPA),Oriental Mindoro,Thrift Banks,20.103,27.074
+Region IV-B (MIMAROPA),Oriental Mindoro,Rural and Cooperative Banks,"1,412.21","1,334.45"
+Region IV-B (MIMAROPA),Palawan,Palawan,"3,784.97","4,987.10"
+Region IV-B (MIMAROPA),Palawan,Universal and Commercial Banks,"2,498.32","3,621.80"
+Region IV-B (MIMAROPA),Palawan,Thrift Banks,895.774,956.605
+Region IV-B (MIMAROPA),Palawan,Rural and Cooperative Banks,390.877,408.699
+Region IV-B (MIMAROPA),Romblon,Romblon,183.122,157.311
+Region IV-B (MIMAROPA),Romblon,Universal and Commercial Banks,*,*
+Region IV-B (MIMAROPA),Romblon,Thrift Banks,*,*
+Region IV-B (MIMAROPA),Romblon,Rural and Cooperative Banks,*,*
+Region V (Bicol Region),Region V (Bicol Region),Region V (Bicol Region),"19,821.79","22,219.64"
+Region V (Bicol Region),Region V (Bicol Region),Universal and Commercial Banks,"11,989.96","13,648.76"
+Region V (Bicol Region),Region V (Bicol Region),Thrift Banks,"3,123.90","3,782.48"
+Region V (Bicol Region),Region V (Bicol Region),Rural and Cooperative Banks,"4,707.93","4,788.40"
+Region V (Bicol Region),Albay,Albay,"5,923.82","6,702.08"
+Region V (Bicol Region),Albay,Universal and Commercial Banks,"3,497.16","4,112.57"
+Region V (Bicol Region),Albay,Thrift Banks,"1,652.92","1,833.88"
+Region V (Bicol Region),Albay,Rural and Cooperative Banks,773.736,755.63
+Region V (Bicol Region),Camarines Norte,Camarines Norte,"1,539.50","1,804.24"
+Region V (Bicol Region),Camarines Norte,Universal and Commercial Banks,*,*
+Region V (Bicol Region),Camarines Norte,Thrift Banks,*,*
+Region V (Bicol Region),Camarines Norte,Rural and Cooperative Banks,*,*
+Region V (Bicol Region),Camarines Sur,Camarines Sur,"9,372.24","10,373.46"
+Region V (Bicol Region),Camarines Sur,Universal and Commercial Banks,"5,886.50","6,423.42"
+Region V (Bicol Region),Camarines Sur,Thrift Banks,"1,071.26","1,534.79"
+Region V (Bicol Region),Camarines Sur,Rural and Cooperative Banks,"2,414.48","2,415.25"
+Region V (Bicol Region),Catanduanes,Catanduanes,590.069,664.177
+Region V (Bicol Region),Catanduanes,Universal and Commercial Banks,*,*
+Region V (Bicol Region),Catanduanes,Thrift Banks,*,*
+Region V (Bicol Region),Catanduanes,Rural and Cooperative Banks,*,*
+Region V (Bicol Region),Masbate,Masbate,785.38,964.668
+Region V (Bicol Region),Masbate,Universal and Commercial Banks,437.168,539.228
+Region V (Bicol Region),Masbate,Thrift Banks,107.019,117.293
+Region V (Bicol Region),Masbate,Rural and Cooperative Banks,241.192,308.147
+Region V (Bicol Region),Sorsogon,Sorsogon,"1,610.78","1,711.02"
+Region V (Bicol Region),Sorsogon,Universal and Commercial Banks,921.181,966.624
+Region V (Bicol Region),Sorsogon,Thrift Banks,146.297,147.408
+Region V (Bicol Region),Sorsogon,Rural and Cooperative Banks,543.302,596.985
+Region VI (Western Visayas),Region VI (Western Visayas),Region VI (Western Visayas),"38,600.48","41,418.31"
+Region VI (Western Visayas),Region VI (Western Visayas),Universal and Commercial Banks,"24,562.83","22,613.96"
+Region VI (Western Visayas),Region VI (Western Visayas),Thrift Banks,"10,354.34","14,540.77"
+Region VI (Western Visayas),Region VI (Western Visayas),Rural and Cooperative Banks,"3,683.32","4,263.59"
+Region VI (Western Visayas),Aklan,Aklan,"1,581.07","1,815.49"
+Region VI (Western Visayas),Aklan,Universal and Commercial Banks,884.78,"1,078.77"
+Region VI (Western Visayas),Aklan,Thrift Banks,493.152,565.628
+Region VI (Western Visayas),Aklan,Rural and Cooperative Banks,203.136,171.093
+Region VI (Western Visayas),Capiz,Capiz,"1,780.33","1,946.91"
+Region VI (Western Visayas),Capiz,Universal and Commercial Banks,897.902,"1,163.52"
+Region VI (Western Visayas),Capiz,Thrift Banks,568.006,626.791
+Region VI (Western Visayas),Capiz,Rural and Cooperative Banks,314.42,156.601
+Region VI (Western Visayas),Iloilo,Iloilo,"14,714.93","17,680.79"
+Region VI (Western Visayas),Iloilo,Universal and Commercial Banks,"7,327.10","7,228.89"
+Region VI (Western Visayas),Iloilo,Thrift Banks,"5,341.86","7,525.59"
+Region VI (Western Visayas),Iloilo,Rural and Cooperative Banks,"2,045.98","2,926.32"
+Region VI (Western Visayas),Negros Occidental,Negros Occidental,"19,275.32","18,725.67"
+Region VI (Western Visayas),Negros Occidental,Universal and Commercial Banks,"14,685.10","12,416.64"
+Region VI (Western Visayas),Negros Occidental,Thrift Banks,"3,686.04","5,536.13"
+Region VI (Western Visayas),Negros Occidental,Rural and Cooperative Banks,904.178,772.898
+Region VI (Western Visayas),Antique and Guimaras,Antique and Guimaras,"1,248.84","1,249.45"
+Region VI (Western Visayas),Antique and Guimaras,Universal and Commercial Banks,767.954,726.133
+Region VI (Western Visayas),Antique and Guimaras,Thrift Banks,265.277,286.631
+Region VI (Western Visayas),Antique and Guimaras,Rural and Cooperative Banks,215.605,236.681
+Region VII (Central Visayas),Region VII (Central Visayas),Region VII (Central Visayas),"69,030.53","86,036.36"
+Region VII (Central Visayas),Region VII (Central Visayas),Universal and Commercial Banks,"53,442.48","65,829.17"
+Region VII (Central Visayas),Region VII (Central Visayas),Thrift Banks,"11,236.97","15,585.77"
+Region VII (Central Visayas),Region VII (Central Visayas),Rural and Cooperative Banks,"4,351.09","4,621.42"
+Region VII (Central Visayas),Cebu,Cebu,"56,564.80","76,944.17"
+Region VII (Central Visayas),Cebu,Universal and Commercial Banks,"44,985.28","61,108.02"
+Region VII (Central Visayas),Cebu,Thrift Banks,"8,563.23","12,728.62"
+Region VII (Central Visayas),Cebu,Rural and Cooperative Banks,"3,016.29","3,107.53"
+Region VII (Central Visayas),Negros Oriental,Negros Oriental,"7,643.26","4,112.72"
+Region VII (Central Visayas),Negros Oriental,Universal and Commercial Banks,"5,595.28","1,917.84"
+Region VII (Central Visayas),Negros Oriental,Thrift Banks,999.884,"1,142.80"
+Region VII (Central Visayas),Negros Oriental,Rural and Cooperative Banks,"1,048.10","1,052.08"
+Region VII (Central Visayas),Bohol and Siquijor,Bohol and Siquijor,"4,822.47","4,979.47"
+Region VII (Central Visayas),Bohol and Siquijor,Universal and Commercial Banks,"2,861.92","2,803.30"
+Region VII (Central Visayas),Bohol and Siquijor,Thrift Banks,"1,673.85","1,714.35"
+Region VII (Central Visayas),Bohol and Siquijor,Rural and Cooperative Banks,286.702,461.821
+Region VIII (Eastern Visayas),Region VIII (Eastern Visayas),Region VIII (Eastern Visayas),"12,269.67","13,479.47"
+Region VIII (Eastern Visayas),Region VIII (Eastern Visayas),Universal and Commercial Banks,"7,022.89","7,984.65"
+Region VIII (Eastern Visayas),Region VIII (Eastern Visayas),Thrift Banks,"4,225.64","4,504.83"
+Region VIII (Eastern Visayas),Region VIII (Eastern Visayas),Rural and Cooperative Banks,"1,021.14",989.989
+Region VIII (Eastern Visayas),Biliran,Biliran,184.541,239.63
+Region VIII (Eastern Visayas),Biliran,Universal and Commercial Banks,74.014,145.834
+Region VIII (Eastern Visayas),Biliran,Thrift Banks,-,-
+Region VIII (Eastern Visayas),Biliran,Rural and Cooperative Banks,110.527,93.796
+Region VIII (Eastern Visayas),Eastern Samar,Eastern Samar,"1,038.13",897.544
+Region VIII (Eastern Visayas),Eastern Samar,Universal and Commercial Banks,624.908,433.183
+Region VIII (Eastern Visayas),Eastern Samar,Thrift Banks,316.724,364.931
+Region VIII (Eastern Visayas),Eastern Samar,Rural and Cooperative Banks,96.495,99.431
+Region VIII (Eastern Visayas),Leyte,Leyte,"7,916.56","9,223.96"
+Region VIII (Eastern Visayas),Leyte,Universal and Commercial Banks,"3,661.79","4,744.37"
+Region VIII (Eastern Visayas),Leyte,Thrift Banks,"3,757.08","3,954.92"
+Region VIII (Eastern Visayas),Leyte,Rural and Cooperative Banks,497.684,524.668
+Region VIII (Eastern Visayas),Northern Samar,Northern Samar,286.561,516.044
+Region VIII (Eastern Visayas),Northern Samar,Universal and Commercial Banks,286.561,516.044
+Region VIII (Eastern Visayas),Northern Samar,Thrift Banks,0,-
+Region VIII (Eastern Visayas),Northern Samar,Rural and Cooperative Banks,0,0
+Region VIII (Eastern Visayas),Southern Leyte,Southern Leyte,"1,275.95","1,388.83"
+Region VIII (Eastern Visayas),Southern Leyte,Universal and Commercial Banks,900.624,"1,018.43"
+Region VIII (Eastern Visayas),Southern Leyte,Thrift Banks,136.541,168.339
+Region VIII (Eastern Visayas),Southern Leyte,Rural and Cooperative Banks,238.781,202.062
+Region VIII (Eastern Visayas),Western Samar,Western Samar,"1,567.94","1,213.46"
+Region VIII (Eastern Visayas),Western Samar,Universal and Commercial Banks,"1,474.99","1,126.79"
+Region VIII (Eastern Visayas),Western Samar,Thrift Banks,15.296,16.635
+Region VIII (Eastern Visayas),Western Samar,Rural and Cooperative Banks,77.655,70.033
+Region IX (Zamboanga Peninsula),Region IX (Zamboanga Peninsula),Region IX (Zamboanga Peninsula),"14,553.46","14,721.72"
+Region IX (Zamboanga Peninsula),Region IX (Zamboanga Peninsula),Universal and Commercial Banks,"8,850.00","8,272.61"
+Region IX (Zamboanga Peninsula),Region IX (Zamboanga Peninsula),Thrift Banks,"1,380.50","1,532.20"
+Region IX (Zamboanga Peninsula),Region IX (Zamboanga Peninsula),Rural and Cooperative Banks,"4,322.95","4,916.91"
+Region IX (Zamboanga Peninsula),Zamboanga del Norte,Zamboanga del Norte,"4,847.18","4,301.56"
+Region IX (Zamboanga Peninsula),Zamboanga del Norte,Universal and Commercial Banks,"2,243.80","1,523.03"
+Region IX (Zamboanga Peninsula),Zamboanga del Norte,Thrift Banks,525.971,570.478
+Region IX (Zamboanga Peninsula),Zamboanga del Norte,Rural and Cooperative Banks,"2,077.42","2,208.06"
+Region IX (Zamboanga Peninsula),Zamboanga del Sur,Zamboanga del Sur,"7,328.36","8,495.82"
+Region IX (Zamboanga Peninsula),Zamboanga del Sur,Universal and Commercial Banks,"4,909.25","5,706.05"
+Region IX (Zamboanga Peninsula),Zamboanga del Sur,Thrift Banks,825.364,923.73
+Region IX (Zamboanga Peninsula),Zamboanga del Sur,Rural and Cooperative Banks,"1,593.75","1,866.05"
+Region IX (Zamboanga Peninsula),Zamboanga Sibugay,Zamboanga Sibugay,"2,142.02","1,660.61"
+Region IX (Zamboanga Peninsula),Zamboanga Sibugay,Universal and Commercial Banks,"1,461.07",779.814
+Region IX (Zamboanga Peninsula),Zamboanga Sibugay,Thrift Banks,29.165,37.992
+Region IX (Zamboanga Peninsula),Zamboanga Sibugay,Rural and Cooperative Banks,651.785,842.805
+Region IX (Zamboanga Peninsula),City of Isabela (Not a province),City of Isabela (Not a province),235.893,263.726
+Region IX (Zamboanga Peninsula),City of Isabela (Not a province),Universal and Commercial Banks,235.893,263.726
+Region IX (Zamboanga Peninsula),City of Isabela (Not a province),Thrift Banks,-,-
+Region IX (Zamboanga Peninsula),City of Isabela (Not a province),Rural and Cooperative Banks,-,-
+Region X (Northern Mindanao),Region X (Northern Mindanao),Region X (Northern Mindanao),"23,337.88","27,134.50"
+Region X (Northern Mindanao),Region X (Northern Mindanao),Universal and Commercial Banks,"14,483.45","16,687.15"
+Region X (Northern Mindanao),Region X (Northern Mindanao),Thrift Banks,"3,780.32","5,686.34"
+Region X (Northern Mindanao),Region X (Northern Mindanao),Rural and Cooperative Banks,"5,074.11","4,761.01"
+Region X (Northern Mindanao),Bukidnon,Bukidnon,"3,330.04","3,687.02"
+Region X (Northern Mindanao),Bukidnon,Universal and Commercial Banks,"1,778.68","2,015.93"
+Region X (Northern Mindanao),Bukidnon,Thrift Banks,387.969,559.15
+Region X (Northern Mindanao),Bukidnon,Rural and Cooperative Banks,"1,163.39","1,111.94"
+Region X (Northern Mindanao),Camiguin,Camiguin,10.189,36.415
+Region X (Northern Mindanao),Camiguin,Universal and Commercial Banks,10.189,36.415
+Region X (Northern Mindanao),Camiguin,Thrift Banks,-,-
+Region X (Northern Mindanao),Camiguin,Rural and Cooperative Banks,-,-
+Region X (Northern Mindanao),Lanao del Norte,Lanao del Norte,"2,518.52","2,710.05"
+Region X (Northern Mindanao),Lanao del Norte,Universal and Commercial Banks,"1,518.82",*
+Region X (Northern Mindanao),Lanao del Norte,Thrift Banks,-,*
+Region X (Northern Mindanao),Lanao del Norte,Rural and Cooperative Banks,999.708,*
+Region X (Northern Mindanao),Misamis Occidental,Misamis Occidental,"2,750.24","2,812.08"
+Region X (Northern Mindanao),Misamis Occidental,Universal and Commercial Banks,"1,151.05",*
+Region X (Northern Mindanao),Misamis Occidental,Thrift Banks,284.444,*
+Region X (Northern Mindanao),Misamis Occidental,Rural and Cooperative Banks,"1,314.75",*
+Region X (Northern Mindanao),Misamis Oriental,Misamis Oriental,"14,728.89","17,888.94"
+Region X (Northern Mindanao),Misamis Oriental,Universal and Commercial Banks,"10,024.71","11,577.67"
+Region X (Northern Mindanao),Misamis Oriental,Thrift Banks,"3,107.91","4,807.84"
+Region X (Northern Mindanao),Misamis Oriental,Rural and Cooperative Banks,"1,596.27","1,503.42"
+Region X (Northern Mindanao),Lanao del Notre and Misamis Occidental,Lanao del Notre and Misamis Occidental,-,"5,522.13"
+Region X (Northern Mindanao),Lanao del Notre and Misamis Occidental,Universal and Commercial Banks,-,"3,057.13"
+Region X (Northern Mindanao),Lanao del Notre and Misamis Occidental,Thrift Banks,-,319.348
+Region X (Northern Mindanao),Lanao del Notre and Misamis Occidental,Rural and Cooperative Banks,-,"2,145.65"
+Region XI (Davao Region),Region XI (Davao Region),Region XI (Davao Region),"33,782.53","39,366.75"
+Region XI (Davao Region),Region XI (Davao Region),Universal and Commercial Banks,"21,370.14","24,638.13"
+Region XI (Davao Region),Region XI (Davao Region),Thrift Banks,"7,468.52","10,285.68"
+Region XI (Davao Region),Region XI (Davao Region),Rural and Cooperative Banks,"4,943.87","4,442.95"
+Region XI (Davao Region),Compostela Valley Province,Compostela Valley Province,917.779,912.348
+Region XI (Davao Region),Compostela Valley Province,Universal and Commercial Banks,*,*
+Region XI (Davao Region),Compostela Valley Province,Thrift Banks,*,*
+Region XI (Davao Region),Compostela Valley Province,Rural and Cooperative Banks,*,*
+Region XI (Davao Region),Davao del Norte,Davao del Norte,"5,605.00","4,769.69"
+Region XI (Davao Region),Davao del Norte,Universal and Commercial Banks,*,"1,956.62"
+Region XI (Davao Region),Davao del Norte,Thrift Banks,*,"1,978.23"
+Region XI (Davao Region),Davao del Norte,Rural and Cooperative Banks,*,834.834
+Region XI (Davao Region),Davao del Sur,Davao del Sur,"26,621.52","32,980.73"
+Region XI (Davao Region),Davao del Sur,Universal and Commercial Banks,"17,412.89","21,800.96"
+Region XI (Davao Region),Davao del Sur,Thrift Banks,"6,129.12","8,307.45"
+Region XI (Davao Region),Davao del Sur,Rural and Cooperative Banks,"3,079.51","2,872.32"
+Region XI (Davao Region),Davao Oriental,Davao Oriental,638.236,703.987
+Region XI (Davao Region),Davao Oriental,Universal and Commercial Banks,*,*
+Region XI (Davao Region),Davao Oriental,Thrift Banks,*,*
+Region XI (Davao Region),Davao Oriental,Rural and Cooperative Banks,*,*
+Region XI (Davao Region),"Compostella Valley, Davao Oriental and Davao del Notre","Compostella Valley, Davao Oriental and Davao del Notre","7,161.02",-
+Region XI (Davao Region),"Compostella Valley, Davao Oriental and Davao del Notre",Universal and Commercial Banks,"3,957.25",-
+Region XI (Davao Region),"Compostella Valley, Davao Oriental and Davao del Notre",Thrift Banks,"1,339.41",-
+Region XI (Davao Region),"Compostella Valley, Davao Oriental and Davao del Notre",Rural and Cooperative Banks,"1,864.36",-
+Region XI (Davao Region),Compostella Valley and Davao Oriental,Compostella Valley and Davao Oriental,-,"1,616.34"
+Region XI (Davao Region),Compostella Valley and Davao Oriental,Universal and Commercial Banks,-,880.546
+Region XI (Davao Region),Compostella Valley and Davao Oriental,Thrift Banks,-,0
+Region XI (Davao Region),Compostella Valley and Davao Oriental,Rural and Cooperative Banks,-,735.789
+Region XII (SOCOSKSARGEN),Region XII (SOCOSKSARGEN),Region XII (SOCOSKSARGEN),"17,270.09","22,200.30"
+Region XII (SOCOSKSARGEN),Region XII (SOCOSKSARGEN),Universal and Commercial Banks,"12,552.22","17,417.97"
+Region XII (SOCOSKSARGEN),Region XII (SOCOSKSARGEN),Thrift Banks,"3,204.74","3,345.98"
+Region XII (SOCOSKSARGEN),Region XII (SOCOSKSARGEN),Rural and Cooperative Banks,"1,513.12","1,436.35"
+Region XII (SOCOSKSARGEN),North Cotabato,North Cotabato,"7,118.12","3,857.02"
+Region XII (SOCOSKSARGEN),North Cotabato,Universal and Commercial Banks,*,"2,921.13"
+Region XII (SOCOSKSARGEN),North Cotabato,Thrift Banks,*,25.962
+Region XII (SOCOSKSARGEN),North Cotabato,Rural and Cooperative Banks,*,909.924
+Region XII (SOCOSKSARGEN),Sarangani,Sarangani,265.727,278.458
+Region XII (SOCOSKSARGEN),Sarangani,Universal and Commercial Banks,*,*
+Region XII (SOCOSKSARGEN),Sarangani,Thrift Banks,*,*
+Region XII (SOCOSKSARGEN),Sarangani,Rural and Cooperative Banks,*,*
+Region XII (SOCOSKSARGEN),South Cotabato,South Cotabato,"8,283.78","11,524.77"
+Region XII (SOCOSKSARGEN),South Cotabato,Universal and Commercial Banks,"4,898.19","8,193.10"
+Region XII (SOCOSKSARGEN),South Cotabato,Thrift Banks,"3,030.55","3,159.43"
+Region XII (SOCOSKSARGEN),South Cotabato,Rural and Cooperative Banks,355.035,172.238
+Region XII (SOCOSKSARGEN),Sultan Kudarat,Sultan Kudarat,"1,602.46","6,540.06"
+Region XII (SOCOSKSARGEN),Sultan Kudarat,Universal and Commercial Banks,"1,266.33",*
+Region XII (SOCOSKSARGEN),Sultan Kudarat,Thrift Banks,80.668,*
+Region XII (SOCOSKSARGEN),Sultan Kudarat,Rural and Cooperative Banks,255.456,*
+Region XII (SOCOSKSARGEN),Sarangani and Sultan Kudarat,Sarangani and Sultan Kudarat,-,"6,818.51"
+Region XII (SOCOSKSARGEN),Sarangani and Sultan Kudarat,Universal and Commercial Banks,-,"6,303.74"
+Region XII (SOCOSKSARGEN),Sarangani and Sultan Kudarat,Thrift Banks,-,160.583
+Region XII (SOCOSKSARGEN),Sarangani and Sultan Kudarat,Rural and Cooperative Banks,-,354.189
+Region XIII (Caraga),Region XIII (Caraga),Region XIII (Caraga),"9,699.18","10,308.00"
+Region XIII (Caraga),Region XIII (Caraga),Universal and Commercial Banks,"3,586.76","4,614.85"
+Region XIII (Caraga),Region XIII (Caraga),Thrift Banks,"1,444.86","2,014.74"
+Region XIII (Caraga),Region XIII (Caraga),Rural and Cooperative Banks,"4,667.56","3,678.40"
+Region XIII (Caraga),Agusan del Norte,Agusan del Norte,"4,504.69","4,459.89"
+Region XIII (Caraga),Agusan del Norte,Universal and Commercial Banks,"2,151.93","2,459.02"
+Region XIII (Caraga),Agusan del Norte,Thrift Banks,700.944,534.338
+Region XIII (Caraga),Agusan del Norte,Rural and Cooperative Banks,"1,651.82","1,466.53"
+Region XIII (Caraga),Agusan del Sur,Agusan del Sur,"1,914.50","2,145.49"
+Region XIII (Caraga),Agusan del Sur,Universal and Commercial Banks,506.061,770.097
+Region XIII (Caraga),Agusan del Sur,Thrift Banks,638.503,586.233
+Region XIII (Caraga),Agusan del Sur,Rural and Cooperative Banks,769.931,789.156
+Region XIII (Caraga),Surigao del Norte,Surigao del Norte,"1,412.90","1,809.52"
+Region XIII (Caraga),Surigao del Norte,Universal and Commercial Banks,*,703.626
+Region XIII (Caraga),Surigao del Norte,Thrift Banks,*,477.403
+Region XIII (Caraga),Surigao del Norte,Rural and Cooperative Banks,*,628.489
+Region XIII (Caraga),Surigao del Sur,Surigao del Sur,"1,833.61","1,875.12"
+Region XIII (Caraga),Surigao del Sur,Universal and Commercial Banks,*,682.11
+Region XIII (Caraga),Surigao del Sur,Thrift Banks,*,416.769
+Region XIII (Caraga),Surigao del Sur,Rural and Cooperative Banks,*,776.24
+Region XIII (Caraga),Dinagat Islands,Dinagat Islands,33.484,17.981
+Region XIII (Caraga),Dinagat Islands,Universal and Commercial Banks,-,-
+Region XIII (Caraga),Dinagat Islands,Thrift Banks,-,-
+Region XIII (Caraga),Dinagat Islands,Rural and Cooperative Banks,33.484,17.981
+Region XIII (Caraga),Surigao del Norte and Surigao del Sur,Surigao del Norte and Surigao del Sur,"3,246.51",-
+Region XIII (Caraga),Surigao del Norte and Surigao del Sur,Universal and Commercial Banks,928.768,-
+Region XIII (Caraga),Surigao del Norte and Surigao del Sur,Thrift Banks,105.41,-
+Region XIII (Caraga),Surigao del Norte and Surigao del Sur,Rural and Cooperative Banks,"2,212.33",-
+Cordillera Administrative Region (CAR) ,Cordillera Administrative Region (CAR) ,Cordillera Administrative Region (CAR) ,"7,065.14","9,419.65"
+Cordillera Administrative Region (CAR) ,Cordillera Administrative Region (CAR) ,Universal and Commercial Banks,"3,638.57","4,742.45"
+Cordillera Administrative Region (CAR) ,Cordillera Administrative Region (CAR) ,Thrift Banks,796.469,"1,974.63"
+Cordillera Administrative Region (CAR) ,Cordillera Administrative Region (CAR) ,Rural and Cooperative Banks,"2,630.11","2,702.56"
+Cordillera Administrative Region (CAR) ,Abra,Abra,175.908,563.656
+Cordillera Administrative Region (CAR) ,Abra,Universal and Commercial Banks,101.219,489.346
+Cordillera Administrative Region (CAR) ,Abra,Thrift Banks,-,-
+Cordillera Administrative Region (CAR) ,Abra,Rural and Cooperative Banks,74.689,74.31
+Cordillera Administrative Region (CAR) ,Apayao,Apayao,381.621,406.363
+Cordillera Administrative Region (CAR) ,Apayao,Universal and Commercial Banks,*,*
+Cordillera Administrative Region (CAR) ,Apayao,Thrift Banks,*,-
+Cordillera Administrative Region (CAR) ,Apayao,Rural and Cooperative Banks,*,*
+Cordillera Administrative Region (CAR) ,Benguet,Benguet,"5,461.64","7,245.52"
+Cordillera Administrative Region (CAR) ,Benguet,Universal and Commercial Banks,"2,933.18","3,463.93"
+Cordillera Administrative Region (CAR) ,Benguet,Thrift Banks,796.469,"1,974.63"
+Cordillera Administrative Region (CAR) ,Benguet,Rural and Cooperative Banks,"1,731.99","1,806.97"
+Cordillera Administrative Region (CAR) ,Ifugao,Ifugao,171.409,260.243
+Cordillera Administrative Region (CAR) ,Ifugao,Universal and Commercial Banks,*,*
+Cordillera Administrative Region (CAR) ,Ifugao,Thrift Banks,*,-
+Cordillera Administrative Region (CAR) ,Ifugao,Rural and Cooperative Banks,*,*
+Cordillera Administrative Region (CAR) ,Kalinga,Kalinga,409.282,427.427
+Cordillera Administrative Region (CAR) ,Kalinga,Universal and Commercial Banks,279.736,303.075
+Cordillera Administrative Region (CAR) ,Kalinga,Thrift Banks,-,-
+Cordillera Administrative Region (CAR) ,Kalinga,Rural and Cooperative Banks,129.546,124.352
+Cordillera Administrative Region (CAR) ,Mountain Province,Mountain Province,465.285,516.433
+Cordillera Administrative Region (CAR) ,Mountain Province,Universal and Commercial Banks,26.478,71.763
+Cordillera Administrative Region (CAR) ,Mountain Province,Thrift Banks,-,-
+Cordillera Administrative Region (CAR) ,Mountain Province,Rural and Cooperative Banks,438.807,444.67
+Cordillera Administrative Region (CAR) ,Apayao and Ifugao,Apayao and Ifugao,553.031,666.605
+Cordillera Administrative Region (CAR) ,Apayao and Ifugao,Universal and Commercial Banks,297.953,414.346
+Cordillera Administrative Region (CAR) ,Apayao and Ifugao,Thrift Banks,0,-
+Cordillera Administrative Region (CAR) ,Apayao and Ifugao,Rural and Cooperative Banks,255.077,252.26
+Autonomous Region in Muslim Mindanao (ARMM),Autonomous Region in Muslim Mindanao (ARMM),Autonomous Region in Muslim Mindanao (ARMM),435.424,919.035
+Autonomous Region in Muslim Mindanao (ARMM),Autonomous Region in Muslim Mindanao (ARMM),Universal and Commercial Banks,*,*
+Autonomous Region in Muslim Mindanao (ARMM),Autonomous Region in Muslim Mindanao (ARMM),Thrift Banks,*,*
+Autonomous Region in Muslim Mindanao (ARMM),Autonomous Region in Muslim Mindanao (ARMM),Rural and Cooperative Banks,*,*
+Autonomous Region in Muslim Mindanao (ARMM),Basilan,Basilan,*,*
+Autonomous Region in Muslim Mindanao (ARMM),Basilan,Universal and Commercial Banks,-,-
+Autonomous Region in Muslim Mindanao (ARMM),Basilan,Thrift Banks,*,*
+Autonomous Region in Muslim Mindanao (ARMM),Basilan,Rural and Cooperative Banks,-,-
+Autonomous Region in Muslim Mindanao (ARMM),Lanao del Sur,Lanao del Sur,*,*
+Autonomous Region in Muslim Mindanao (ARMM),Lanao del Sur,Universal and Commercial Banks,*,*
+Autonomous Region in Muslim Mindanao (ARMM),Lanao del Sur,Thrift Banks,-,-
+Autonomous Region in Muslim Mindanao (ARMM),Lanao del Sur,Rural and Cooperative Banks,*,*
+Autonomous Region in Muslim Mindanao (ARMM),Maguindanao,Maguindanao,*,*
+Autonomous Region in Muslim Mindanao (ARMM),Maguindanao,Universal and Commercial Banks,*,*
+Autonomous Region in Muslim Mindanao (ARMM),Maguindanao,Thrift Banks,-,-
+Autonomous Region in Muslim Mindanao (ARMM),Maguindanao,Rural and Cooperative Banks,*,*
+Autonomous Region in Muslim Mindanao (ARMM),Sulu,Sulu,80.958,163.216
+Autonomous Region in Muslim Mindanao (ARMM),Sulu,Universal and Commercial Banks,80.958,163.216
+Autonomous Region in Muslim Mindanao (ARMM),Sulu,Thrift Banks,-,-
+Autonomous Region in Muslim Mindanao (ARMM),Sulu,Rural and Cooperative Banks,-,-
+Autonomous Region in Muslim Mindanao (ARMM),Tawi-tawi,Tawi-tawi,15.747,202.483
+Autonomous Region in Muslim Mindanao (ARMM),Tawi-tawi,Universal and Commercial Banks,15.747,202.483
+Autonomous Region in Muslim Mindanao (ARMM),Tawi-tawi,Thrift Banks,-,-
+Autonomous Region in Muslim Mindanao (ARMM),Tawi-tawi,Rural and Cooperative Banks,-,-
+,,,,
+"Source: Supervisory Data Center, Supervision and Examination Sector, Bangko Sentral ng Pilipinas",,,,
+Updated as of 19 August 2014,,,,
+,,,,
+Geographical Distribution of Loans (Regional and Provincial),,,,
+"Loans and Receivables - Others, Net",,,,
+Philippine Banking System,,,,
+as of periods indicated,,,,
+"Amounts in Millions, Philippine Pesos",,,,

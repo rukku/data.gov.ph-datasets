@@ -1,0 +1,1 @@
+This dataset contains a list of all social hygiene clinic in the country.

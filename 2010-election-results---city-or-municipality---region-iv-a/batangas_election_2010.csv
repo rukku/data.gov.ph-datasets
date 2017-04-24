@@ -1,0 +1,347 @@
+city_or_municipality,position,name,nickname,party_affiliation,votes_obtained
+Agoncillo,Mayor,"Martinez, Glorioso Ramos",Aglo,Lakas-Kampi,8979
+Agoncillo,Vice-Mayor,"Reyes, Daniel De Leos",Dan,Nacionalista Party,9294
+Agoncillo,Councilor,"Punzalan, Maurice Encarnacion",Eric,Nacionalista Party,7169
+Agoncillo,Councilor,"Hernandez, Constantino De Villa",Tony,Lakas-Kampi,7377
+Agoncillo,Councilor,"Encarnacion, Domingo Cabello",Domeng,Nacionalista Party,7529
+Agoncillo,Councilor,"Brotonel, Herman Catapang",Eman,Lakas-Kampi,7614
+Agoncillo,Councilor,"Landicho, Victorino Matanguihan",Bendelbens,Lakas-Kampi,7633
+Agoncillo,Councilor,"Enriquez, Leonarda Aquino",Nady,Lakas-Kampi,7684
+Agoncillo,Councilor,"Angulo, John Landicho",John,Nacionalista Party,8063
+Agoncillo,Councilor,"Martinez, May Lacap",May,Lakas-Kampi,8216
+Alitagtag,Mayor,"Andal, Anthony Francis Gainza",Tonton,Nacionalista Party,4279
+Alitagtag,Vice-Mayor,"Reyes, Guillermo Agito",Emmo,Nacionalista Party,4544
+Alitagtag,Councilor,"Hernandez, Alex Magpantay",Alex,Nacionalista Party,3559
+Alitagtag,Councilor,"Ilagan, Dionisio Lavina",Diony,Nacionalista Party,3749
+Alitagtag,Councilor,"Adan, Rodel Palencia",Rodel,Nacionalista Party,3997
+Alitagtag,Councilor,"Reyes Jr., Bernardo Castillo",Bobby,Liberal Party,4134
+Alitagtag,Councilor,"Dimaculangan, Erwin Giron",Erwin,Nacionalista Party,4572
+Alitagtag,Councilor,"Marasigan, Donald Punzalan",Donald,Nacionalista Party,4677
+Alitagtag,Councilor,"Quijano, Conrado, Jr. Panaligan",Nonot,Nacionalista Party,4861
+Alitagtag,Councilor,"Ponggos, Edilberto Gutierrez",Dingdong,Nacionalista Party,5546
+Balayan,Mayor,"Fronda, Emmanuel Orfano",Manny,Lakas-Kampi,23437
+Balayan,Vice-Mayor,"Castelo, Romel II Maningat",Meldos,Lakas-Kampi,27697
+Balayan,Councilor,"Pamintuan, Danilo Sta Ana",Nilo,Nacionalista Party,14700
+Balayan,Councilor,"Martinez, Marlon Pedraza",Marlon,Liberal Party,14714
+Balayan,Councilor,"King, Ricardo Dy",Cado,Lakas-Kampi,15273
+Balayan,Councilor,"Macalindong, Rodel Lacsamana",Rodel,Lakas-Kampi,15365
+Balayan,Councilor,"Arada, Joel Tanglao",Joel,Lakas-Kampi,15518
+Balayan,Councilor,"Abiad, Rita Delacruz",Rita,Independent,15897
+Balayan,Councilor,"Fronda II, Emmanuel Salvador Pamintuan",Jr,Lakas-Kampi,17101
+Balayan,Councilor,"Chavez, Efren Rodriguez",Efren,Lakas-Kampi,20079
+Balete,Mayor,"Hidalgo, Leovino Ojales",Joven,Nacionalista Party,4261
+Balete,Vice-Mayor,"Maralit, Wilson Villapando",Bokal,Nacionalista Party,4806
+Balete,Councilor,"Del Mundo, Virgilio Roxas",Vio,Liberal Party,2841
+Balete,Councilor,"Maralit, Loreto Jimenez",Itok,Nacionalista Party,2883
+Balete,Councilor,"Roxas, Roger Solomon",Roger,Nacionalista Party,3233
+Balete,Councilor,"Encallado, Rodante Maralit",Dante,Nacionalista Party,3415
+Balete,Councilor,"De Ocampo, Jose Ruel Roxas",Ruel,Independent,3432
+Balete,Councilor,"Tasico, Rhyan Katigbak",Maok,Nacionalista Party,3549
+Balete,Councilor,"Las, Ludino Diokno",Leody,Nacionalista Party,3727
+Balete,Councilor,"Payo, Alvin Tapia",Alvin,Independent,4345
+Batangas City,Mayor,"Dimacuha, Vilma Abaya",Vilma,Lakas-Kampi,67557
+Batangas City,Vice-Mayor,"Tolentino, Jose Virgilio Ylagan",Joe T.,Nacionalista Party,55330
+Batangas City,Councilor,"Macarandang, Narciso Besares",Narcing,Lakas-Kampi,40120
+Batangas City,Councilor,"Lazarte, Armando Chavez",Mando,Lakas-Kampi,40973
+Batangas City,Councilor,"Ferriols, Elizalde, Jr. Macalindong",Dio,Nacionalista Party,42222
+Batangas City,Councilor,"Atienza, Sergie Rex Montales",Serge,Nacionalista Party,42580
+Batangas City,Councilor,"Macaraig, Luisa Faytaren",Isay,Nacionalista Party,44513
+Batangas City,Councilor,"Portugal, Eloisa Angela De Loyola",Eloise,Lakas-Kampi,49457
+Batangas City,Councilor,"Marino, Mario Vittorio Agregado",Marvey,Lakas-Kampi,55538
+Batangas City,Councilor,"Ambida, Ma Claudette Uson",Claudette,Lakas-Kampi,55592
+Batangas City,Councilor,"Blanco, Hamilton Guinhawa",Hamel,Lakas-Kampi,58490
+Batangas City,Councilor,"Buted, Dexter Respicio",Doc Dex,Nacionalista Party,67611
+Bauan,Mayor,"Dolor, Ryanh Manebo",Ian,Liberal Party,23636
+Bauan,Vice-Mayor,"Magboo, Juan Magboo",Johnny,Nacionalista Party,15642
+Bauan,Councilor,"Dalangin, Yanille Aclan",Yanille,Nacionalista Party,12139
+Bauan,Councilor,"Valdez, Neil Paglinawan",Nel,Liberal Party,13360
+Bauan,Councilor,"Casapao, Julian Casapao",Bojie,Liberal Party,15368
+Bauan,Councilor,"Abrahan, William Castillo",William,Liberal Party,16758
+Bauan,Councilor,"Dolor, Herminio Manebo",Hero,Liberal Party,17100
+Bauan,Councilor,"Bacal, Presnedy Noche",Presnet,Liberal Party,18034
+Bauan,Councilor,"Monilla, Jerome Alvin Bantugon",Bantugon,Liberal Party,18586
+Bauan,Councilor,"Gimeno, Kelvin Rex Dalangin",Kelvin,Liberal Party,19093
+Calaca,Mayor,"Ona, Sofronio, Jr. Calanog",Nas,Lakas-Kampi,21501
+Calaca,Vice-Mayor,"Atienza, Lordilando Del Mundo",Larry,Lakas-Kampi,16841
+Calaca,Councilor,"Salazar, Roberto Robillos",Robert,Lakas-Kampi,15366
+Calaca,Councilor,"Casanova, Brigido Apolonia",Berling,Lakas-Kampi,16486
+Calaca,Councilor,"Sale, Robenson Matalog",Beson,Lakas-Kampi,17109
+Calaca,Councilor,"Matulac, Nino Glenn Marquinez",Glenn,Lakas-Kampi,17632
+Calaca,Councilor,"Macalalad, Luis Macatangay",Chito,Lakas-Kampi,18347
+Calaca,Councilor,"Ontangco, Deovic Marcial",Deo,Lakas-Kampi,18662
+Calaca,Councilor,"Dajoyag, Prima Casanova",Emma,Lakas-Kampi,18934
+Calaca,Councilor,"Macalindong, Anselmo Lopez",Elmie,Lakas-Kampi,19366
+Calatagan,Mayor,"Palacio, Sophia Grandeza",Sophie,Lakas-Kampi,13152
+Calatagan,Vice-Mayor,"Pantoja, Lenie Caisip",Lenie,Independent,8595
+Calatagan,Councilor,"Caisip, Rolando Hernandez",Lando,Nacionalista Party,8653
+Calatagan,Councilor,"Rodriguez, Francisco Manguiat",Francing,Lakas-Kampi,8780
+Calatagan,Councilor,"Sayo, Godofredo Inciong",Yedo,Lakas-Kampi,9040
+Calatagan,Councilor,"Ligan, Felix Martinez",Felix,Lakas-Kampi,9367
+Calatagan,Councilor,"Rol, Kim Ruel Rodriguez",Kim,Lakas-Kampi,9828
+Calatagan,Councilor,"Aytona, Glenn Zapata",Glenn,Lakas-Kampi,10763
+Calatagan,Councilor,"Torres, Harlan Jenero Depusoy",Harlan,Lakas-Kampi,10812
+Calatagan,Councilor,"Anzaldo, Michael De Asis",Mike,Independent,13168
+Cuenca,Mayor,"Remo, Edmundo Hari",Edmon,Nacionalista Party,7971
+Cuenca,Vice-Mayor,"Cuevas, Lucina Magpantay",Luchie,Liberal Party,7724
+Cuenca,Councilor,"Matibag, Dakila Catabay",Dhax,Liberal Party,5646
+Cuenca,Councilor,"Adia, Laarni Habulan",Lani,Nacionalista Party,6354
+Cuenca,Councilor,"Hosena, Lordlito Marquez",Orly,Liberal Party,6472
+Cuenca,Councilor,"Cuevas, Iren Prado",Ayen,Liberal Party,6589
+Cuenca,Councilor,"Magpantay, Alexander Malabag",Alex,Nacionalista Party,6964
+Cuenca,Councilor,"Cuevas, Romulo Palma",Romy,Nacionalista Party,6982
+Cuenca,Councilor,"La Rosa, Rolando Magsombol",Ollie,Nacionalista Party,7071
+Cuenca,Councilor,"Larcia, Henry Arada",Baste,Nacionalista Party,7932
+Ibaan,Mayor,"Toreja, Juan Valencia",Danny,Liberal Party,13041
+Ibaan,Vice-Mayor,"Yabyabin, Sixto Ilagan",Thosix,Liberal Party,13952
+Ibaan,Councilor,"Mendoza, Juvy Maranan",Juvy,Nacionalista Party,8364
+Ibaan,Councilor,"De Castro, Rodel De Castro",Rodel,Liberal Party,8415
+Ibaan,Councilor,"Benitez, Antonio Cabio",Tonibee,Liberal Party,8638
+Ibaan,Councilor,"Chua, Paul John Guerra",Pj,Liberal Party,9828
+Ibaan,Councilor,"Torino, Brill John Patena",Jano,Liberal Party,10313
+Ibaan,Councilor,"Maputi, Victoriano Reus",Turing,Liberal Party,10714
+Ibaan,Councilor,"Blanco, ISr.ael Torralba",Dael,Nacionalista Party,11230
+Ibaan,Councilor,"Arellano, Socrates Ricero",Soc,Liberal Party,11320
+Laurel,Mayor,"Amo, Randy James Espinal",Randy,Liberal Party,6626
+Laurel,Vice-Mayor,"Villanueva, Florencio Orlanes",Florie,Nacionalista Party,5960
+Laurel,Councilor,"Landicho, Andreo Maala",Andy,Liberal Party,4737
+Laurel,Councilor,"Vergara, Eriberto De Castro",Ruby,Nacionalista Party,4758
+Laurel,Councilor,"Gardiola, Luciano Dalisay",Lucing,Nacionalista Party,5202
+Laurel,Councilor,"Dalisay, Wilfredo Canta",Willy,Liberal Party,5280
+Laurel,Councilor,"Endaya, Vincent Dalisay",Vincent,Independent,5422
+Laurel,Councilor,"Landicho, Regina Endozo",Gina,Independent,6022
+Laurel,Councilor,"De Villa, Oliva Carandang",Olive,Nacionalista Party,6025
+Laurel,Councilor,"Austria, Felimon Palo",Emon,Liberal Party,9854
+Lemery,Mayor,"Alilio, Eulalio Mendoza",Larry,Lakas-Kampi,24024
+Lemery,Vice-Mayor,"Solis, Honorlito Balboa",Norly,Lakas-Kampi,21325
+Lemery,Councilor,"Marcellana, Dante Carolino",Dan,Liberal Party,15959
+Lemery,Councilor,"Dela Rosa, Juanito Luya",Nito,Lakas-Kampi,16399
+Lemery,Councilor,"Holgado, Herberto Aquino",Bet,Lakas-Kampi,16498
+Lemery,Councilor,"Vidal, Melecio Aliling",Mel,Liberal Party,16938
+Lemery,Councilor,"Rosales, Ma Simonette Gamo",Monette,Lakas-Kampi,17381
+Lemery,Councilor,"De Castro, Rodoldo, Jr. Aviso",Jonjon,Liberal Party,17652
+Lemery,Councilor,"Vergara, Vincent Umali",Vincent,Liberal Party,17894
+Lemery,Councilor,"Bello, Christopher J Marasigan",Jacris,Lakas-Kampi,18625
+Lian,Mayor,"Vergara, Osita Pugay",Osie,Nacionalista Party,14452
+Lian,Vice-Mayor,"Magbago, Benito Arteza",Ben,Lakas-Kampi,6457
+Lian,Councilor,"Caisip, Carlito Cabadin",Carling,Lakas-Kampi,7233
+Lian,Councilor,"Austria, Erwin Macalindong",Erwin,Nacionalista Party,7416
+Lian,Councilor,"Jonson, Leopoldo Aguinaldo",Leo,Lakas-Kampi,7439
+Lian,Councilor,"Magyaya, Roland Hernandez",Bakat,Nacionalista Party,8040
+Lian,Councilor,"Bonuan, Exequiel Limon",Exy,Lakas-Kampi,8253
+Lian,Councilor,"Masipag, Florencio, Jr. Maderazo",Boyet,Nacionalista Party,8286
+Lian,Councilor,"Butiong, Lauro Abratique",Ompong,Lakas-Kampi,8372
+Lian,Councilor,"Vergara, Suzzet Pugay",Zet,Nacionalista Party,9072
+Lipa City,Mayor,"Sabili, Meynardo Asa",Meynard,Nacionalista Party,55268
+Lipa City,Vice-Mayor,"Lopez, Lydio, Jr. Altamirano",Lydio,Lakas-Kampi,73516
+Lipa City,Councilor,"Macala, Aries Diokno",Aries,Lakas-Kampi,34646
+Lipa City,Councilor,"Montealto, Raul Abrenica",Raul,Lakas-Kampi,40237
+Lipa City,Councilor,"Mauhay, Dominador Magtibay",Domeng,Lakas-Kampi,40388
+Lipa City,Councilor,"Linatoc, Donato Ocampo",Don,Nacionalista Party,44950
+Lipa City,Councilor,"Dy, Pang Lim",Kiana,Lakas-Kampi,51225
+Lipa City,Councilor,"Rocafort, Avior Recio",Tagumpay,Lakas-Kampi,52007
+Lipa City,Councilor,"Hernandez, Ma Concepcion Rufino",Concon,Lakas-Kampi,55531
+Lipa City,Councilor,"Umali, Ralph Peter Sheker",King,Nacionalista Party,55813
+Lipa City,Councilor,"Africa, Eric Ben",Eric,Nacionalista Party,62881
+Lipa City,Councilor,"Silva, Merlo Pena",Merlo,Liberal Party,64213
+Lobo,Mayor,"Diona, Efren Boongaling",Ka Efren,Nacionalista Party,9263
+Lobo,Vice-Mayor,"Perez, Renato Magoling",Ato,Nacionalista Party,10134
+Lobo,Councilor,"Sulit, Amador Ambrocio Zaraspe",Doy,Liberal Party,7259
+Lobo,Councilor,"Lat, Mario Evangelista",Udong,Liberal Party,7318
+Lobo,Councilor,"Magtibay, Carlos Sanchez",Carlo,Liberal Party,7346
+Lobo,Councilor,"Ilagan, Mario Driz",Mario Driz,Liberal Party,7467
+Lobo,Councilor,"Frane, Francisco Gupit",Paque,Liberal Party,7540
+Lobo,Councilor,"Andaya, Mikael II Celis",Eto,Nacionalista Party,7830
+Lobo,Councilor,"Alfiler, Geronimo Closa",Emong,Nacionalista Party,8586
+Lobo,Councilor,"Cueto, Michael Cueto",Michael,Liberal Party,9808
+Mabini,Mayor,"Villanueva, Nilo Magtibay",Nilo,Lakas-Kampi,14329
+Mabini,Vice-Mayor,"Panopio, Elmar Agdan",Elmar,Lakas-Kampi,13001
+Mabini,Councilor,"Basit, Alexander Balita",Alex,Lakas-Kampi,8848
+Mabini,Councilor,"Homoroc, Francisca Nancy Mendoza",Nancy,Lakas-Kampi,9625
+Mabini,Councilor,"Bantugon, Leonido Marasigan",Totoy,Liberal Party,9834
+Mabini,Councilor,"Escalona, Alfredo Bueno",Fred,Lakas-Kampi,10009
+Mabini,Councilor,"Guerra, Gil Gilera",Bobet,Lakas-Kampi,10406
+Mabini,Councilor,"Panopio, Ritche Camongol",Ritche,Lakas-Kampi,10646
+Mabini,Councilor,"Villanueva, Trinidad Calangi",Trining,Lakas-Kampi,11001
+Mabini,Councilor,"Hernandez, Nelson Abel",Saddam,Lakas-Kampi,12179
+Malvar,Mayor,"Reyes, Carlito Dela Pena",Carling,Liberal Party,13022
+Malvar,Vice-Mayor,"Lat, Alberto Custodio",Bert,Liberal Party,7608
+Malvar,Councilor,"Pitogo, Edna Secreto",Dang,Liberal Party,8414
+Malvar,Councilor,"Lantin, Arnel Vicente Mendoza",Zaldy,Lakas-Kampi,8595
+Malvar,Councilor,"Cabello, Rosana Carlos",Osang,Lakas-Kampi,9257
+Malvar,Councilor,"Kalaw, Voltaire Saludo",Bong,Liberal Party,9684
+Malvar,Councilor,"Dimaandal, Celia Coro",Cel,Liberal Party,9741
+Malvar,Councilor,"Lat, Arnel Reyes",Nibong,Liberal Party,10088
+Malvar,Councilor,"Dela Pena, Jovito Sarmiento",Jovy,Liberal Party,10487
+Malvar,Councilor,"Aranda, Matt Louie Mitra",Matt,Liberal Party,10787
+Mataas na Kahoy,Mayor,"Sombrano, Danilo Mendoza",Danny,Nacionalista Party,7179
+Mataas na Kahoy,Vice-Mayor,"Landicho, Roy Lubi",Roy,Nacionalista Party,6792
+Mataas na Kahoy,Councilor,"Tibayan, Benigno Gonzales",Benny,Lakas-Kampi,5155
+Mataas na Kahoy,Councilor,"Magpantay, Enrique Landicho",Ricky,Bangon Pilipinas,5349
+Mataas na Kahoy,Councilor,"Ilagan, Daryn Pallit",Daren,Nacionalista Party,5718
+Mataas na Kahoy,Councilor,"Obtial, Orlando Lacorte",Boy,Lakas-Kampi,5826
+Mataas na Kahoy,Councilor,"Lubis, Romulo De Castro",Mulo,Lakas-Kampi,5953
+Mataas na Kahoy,Councilor,"Acerimo, Carmelita Valencia",Lileth,Nacionalista Party,5988
+Mataas na Kahoy,Councilor,"Vergara, Chester Villapando",Chester,Lakas-Kampi,6196
+Mataas na Kahoy,Councilor,"Dimaano, Ferdinand Loleng",Puto,Nacionalista Party,6203
+Nasugbu,Mayor,"Barcelon, Antonio Jose Alarma",Tony,Lakas-Kampi,28489
+Nasugbu,Vice-Mayor,"Villafania, Apolo Valencia",Apol,Lakas-Kampi,27633
+Nasugbu,Councilor,"Chuidian, Leonardo Villaviray",Dick,Liberal Party,16661
+Nasugbu,Councilor,"Limboc, Guillerma Maranan",Lerma Kid,Liberal Party,16823
+Nasugbu,Councilor,"Ordiales, Arvin Barcelon",Pinggoy,Lakas-Kampi,16838
+Nasugbu,Councilor,"Limboc, Wilfredo Villaflor",Willy,Liberal Party,16902
+Nasugbu,Councilor,"Panganiban, Cindy Dela Cuesta",Cindy,Liberal Party,17799
+Nasugbu,Councilor,"Albanio, Larry Dimafelix",Manager,Lakas-Kampi,18145
+Nasugbu,Councilor,"Bragado, Ruperto Belleza",Rupert,Lakas-Kampi,18750
+Nasugbu,Councilor,"Apacible, Dennis Sobrevinas",Dondon,Lakas-Kampi,21551
+Padre Garcia,Mayor,"Gutierrez, Prudencio Aclan",Dacio,Nacionalista Party,11280
+Padre Garcia,Vice-Mayor,"Convento, Pedro Lubi",Peter,Nacionalista Party,11934
+Padre Garcia,Councilor,"De Silva, Brigido Vergara",Bedong,Nacionalista Party,8006
+Padre Garcia,Councilor,"Generoso, Ramil Cornejo",Ramil,Nacionalista Party,8213
+Padre Garcia,Councilor,"Banaag, Adonna Kalaw",Donna,Nacionalista Party,8442
+Padre Garcia,Councilor,"Gonzales, Artemio Padua",Teming,Nacionalista Party,8656
+Padre Garcia,Councilor,"Kasilag, Cristopher Leyrit",Bong,Nacionalista Party,9333
+Padre Garcia,Councilor,"Dimayuga, Louie Ilagan",Payok,Nacionalista Party,9363
+Padre Garcia,Councilor,"Padua, Eleator Comia",Ator,Nacionalista Party,9809
+Padre Garcia,Councilor,"Vidal, Melvin Vergara",Mel,Liberal Party,10100
+Rosario,Mayor,"Marquez, Felipe Africa",Mamay Ipe,Liberal Party,23200
+Rosario,Vice-Mayor,"Alvarez, Manuel Bolea",Manny,Liberal Party,20082
+Rosario,Councilor,"Malaluan, Garry Quizon",Garry,Liberal Party,13805
+Rosario,Councilor,"Luansing, Teodoro Karr Cabrera",Ding,Liberal Party,14396
+Rosario,Councilor,"Bautista, Armando Comia",Manding,Liberal Party,15425
+Rosario,Councilor,"Aguilar, Edward Briones",Mayor,Nacionalista Party,15972
+Rosario,Councilor,"Marquez, Arcel Morales",Arcel,Liberal Party,16443
+Rosario,Councilor,"Rosuelo, Conrado Macaraig",Rads,Liberal Party,17281
+Rosario,Councilor,"Jareno, Melissa Luna",Melissa,Liberal Party,18868
+Rosario,Councilor,"Valencia, Jose Tolentino",Joey,Liberal Party,20439
+San Jose,Mayor,"Briones, Entiquio Miral",Tikyo,Liberal Party,18927
+San Jose,Vice-Mayor,"Agbing, Jose Nereus Masilungan",Joner,Independent,16482
+San Jose,Councilor,"Dimaculangan, Nicanor, Jr. Macalinga",Nick,Nacionalista Party,13328
+San Jose,Councilor,"Magnaye, Merlita Liwanag",Merly,Nacionalista Party,13655
+San Jose,Councilor,"Kalalo, Rizaldy Hernandez",Doc Rizal,Liberal Party,13881
+San Jose,Councilor,"Bathan, Marife Espirito",Fe,Nacionalista Party,14074
+San Jose,Councilor,"Umali, Godfrey Aguila",Odie,Liberal Party,14525
+San Jose,Councilor,"Alday, Gerald Guce",Gerald,Nacionalista Party,14841
+San Jose,Councilor,"Palmes, Jacqueline Hernandez",Jacq,Liberal Party,15212
+San Jose,Councilor,"Carandang, Rhyan Czar Paez",Yayan,Nacionalista Party,16152
+San Juan,Mayor,"Manalo, Rodolfo Hernandez",Rudy,Liberal Party,23443
+San Juan,Vice-Mayor,"Marasigan, Octavio Antonio Lizaso",Anthony,Nacionalista Party,32010
+San Juan,Councilor,"Baltazar, Evelyn Salapare",Abbe,Liberal Party,16417
+San Juan,Councilor,"De Chavez, Rodello Andal",Bibingka,Nacionalista Party,16606
+San Juan,Councilor,"Salud, Joaquin, Jr. Marcial",Joax,Liberal Party,18037
+San Juan,Councilor,"Perez, Adelaida Limbo",Adie,Liberal Party,18505
+San Juan,Councilor,"Salud, Ildebrando Danas",Beebong,Nacionalista Party,20969
+San Juan,Councilor,"Macalintal, Pedro De Torres",Pedring,Liberal Party,21154
+San Juan,Councilor,"Llana, Wenceslao III Limlingan",Wensley,Liberal Party,22702
+San Juan,Councilor,"Maalihan, Meynardo Escaro",Jojo,Liberal Party,26157
+San Luis,Mayor,"Mendoza, Rodolfo Cornejo",Tikboy,Nacionalista Party,9197
+San Luis,Vice-Mayor,"Huerto, Loreto De Villa",Reto,Liberal Party,8053
+San Luis,Councilor,"Reyes, Rolando Ilao",Lando,Nacionalista Party,6175
+San Luis,Councilor,"Lasala, Sixto Cabello",Sixto,Liberal Party,6227
+San Luis,Councilor,"Ocampo, Aileen Ramos",Aileen,Liberal Party,6227
+San Luis,Councilor,"Mangubat, Nestor Ocampo",Nestor,Independent,6354
+San Luis,Councilor,"Malibiran, Norberto, Sr. Masangkay",Norbing,Liberal Party,6441
+San Luis,Councilor,"Perez, Noel Marasigan",Eric,Nacionalista Party,6541
+San Luis,Councilor,"De Gracia, Ariosto Bonsol",Aries,Nacionalista Party,7551
+San Luis,Councilor,"De Castro, Benjamin Siscar",Yulo,Nacionalista Party,8168
+San Nicolas,Mayor,"Sandoval, Epifanio Rodriguez",Peping,Lakas-Kampi,5216
+San Nicolas,Vice-Mayor,"Alvaira, Leonardo Alvarez",Ding,Lakas-Kampi,5207
+San Nicolas,Councilor,"Gahol, Domingo, Jr. Malaluan",Jhun,Lakas-Kampi,4635
+San Nicolas,Councilor,"Banaag, Bartolome Manalo",Tomy,Lakas-Kampi,4651
+San Nicolas,Councilor,"Arenas, Jeffrey De Sagun",Jeff,Lakas-Kampi,4681
+San Nicolas,Councilor,"Malaluan, Marivic Mendoza",Haydee,Nacionalista Party,4872
+San Nicolas,Councilor,"Landicho, Lucio Dimailig",Lou,Lakas-Kampi,4904
+San Nicolas,Councilor,"Hernandez, Ireneo Dimailig",Totoy,Lakas-Kampi,5116
+San Nicolas,Councilor,"Barrion, Roberto Balba",Bert,Lakas-Kampi,5389
+San Nicolas,Councilor,"De Sagun, Lester Dinglasan",Pilo,Lakas-Kampi,5906
+San Pascual,Mayor,"Dimayuga, Antonio Arguelles",Tony,Lakas-Kampi,16847
+San Pascual,Vice-Mayor,"Fider, Davis Gregory Kenrick",Jay,Lakas-Kampi,9537
+San Pascual,Councilor,"Dimatatac, Norman Aguilar",Norman,Independent,10178
+San Pascual,Councilor,"Lopez, Ariel Cadiente",Ariel,Lakas-Kampi,10198
+San Pascual,Councilor,"Mendoza, Glicerio Ilagan",Glicer,Lakas-Kampi,10302
+San Pascual,Councilor,"Manalo, Pelagia Cortez",Fely,Independent,10339
+San Pascual,Councilor,"Reyes, Efren Malapitan",Efren,Lakas-Kampi,11142
+San Pascual,Councilor,"Chavez, Moises Guia",Isis,Lakas-Kampi,11156
+San Pascual,Councilor,"Fernandez, Ramel Velasquez",Uban,Lakas-Kampi,11753
+San Pascual,Councilor,"Aguila, Roumel Grantoza",Roumel,Lakas-Kampi,12621
+Santa Teresita,Mayor,"Segunial, Ma Aurea Velasco",Marie,Liberal Party,5258
+Santa Teresita,Vice-Mayor,"Bathan, Carlos Agno",Caloy,Lakas-Kampi,6133
+Santa Teresita,Councilor,"Bihis, Nicolas Artista",Nick,Lakas-Kampi,3532
+Santa Teresita,Councilor,"Maralit, Antonio Tipan",Tony,Lakas-Kampi,3678
+Santa Teresita,Councilor,"Malapitan, Whelma Amores",Whelma,Lakas-Kampi,3731
+Santa Teresita,Councilor,"Cabral, Araceli Ilagan",Cely,Liberal Party,3836
+Santa Teresita,Councilor,"Manalo, Roldolfo Adalin",Manong Rudy,Liberal Party,3852
+Santa Teresita,Councilor,"Palattao, Dennis Holgado",Doc Dennis,Liberal Party,4332
+Santa Teresita,Councilor,"Mayuga, Felix Castro",Felix,Independent,4333
+Santa Teresita,Councilor,"Atienza, Ronilo Baet",Ronnie,Liberal Party,4347
+Santo Tomas,Mayor,"Sanchez, Edna Padilla",Edna,Nacionalista Party,28389
+Santo Tomas,Vice-Mayor,"Silva, Armenius Oba",Arman,Nacionalista Party,25532
+Santo Tomas,Councilor,"Guevarra, Alexander Jaurigue",Umbay,Nacionalista Party,18683
+Santo Tomas,Councilor,"Bathan, Primo Castillo",Imo,Nacionalista Party,18885
+Santo Tomas,Councilor,"Reyes, Peter Thomas Raquiz",Tom,Liberal Party,20274
+Santo Tomas,Councilor,"Mabilangan, Damasino Malizon",Caloy,Liberal Party,22915
+Santo Tomas,Councilor,"Villegas, Leovino Malvataan",Leovy,Independent,23943
+Santo Tomas,Councilor,"Ramos, Ferdinand Malolos",Enan,Independent,24085
+Santo Tomas,Councilor,"Mabilangan, Danilo Palicpic",Danny,Nacionalista Party,24229
+Santo Tomas,Councilor,"Malijan, Gerardo Malapascua",Gerry,Nacionalista Party,25652
+Taal,Mayor,"Montenegro, Michael Dimailig",Mm,Liberal Party,13454
+Taal,Vice-Mayor,"Mercado, Fulgencio Ilagan",Pong,Liberal Party,13927
+Taal,Councilor,"Manimtim, Virgilio, Jr. Iglesia",Jun,Lakas-Kampi,8251
+Taal,Councilor,"Dawis, Ronnel Magsino",Rd,Independent,8338
+Taal,Councilor,"Baleros, Randy Villostas",Andy,Lakas-Kampi,8590
+Taal,Councilor,"Reyes, Emerson Balatbat",Bibo,Independent,8674
+Taal,Councilor,"Legaspi, Federico Barwel",Teddy,Liberal Party,9446
+Taal,Councilor,"Villanueva, Ricky Balbacal",Ricky,Liberal Party,9470
+Taal,Councilor,"Reyes, Erwin, Jr. Imperial",Tagalog,Liberal Party,9507
+Taal,Councilor,"Alvarez, Edward Ebonite",Edward,Liberal Party,14795
+Talisay,Mayor,"Mendoza, Zenaida Sarmiento",Aida,Liberal Party,9007
+Talisay,Vice-Mayor,"Manimtim, Florencio, Jr. Mendoza",Jojie,Liberal Party,8974
+Talisay,Councilor,"Centeno, Analyn De Ocampo",Analyn,Liberal Party,6164
+Talisay,Councilor,"Panghulan, Ildefonso Barrion",Eddie,Liberal Party,7216
+Talisay,Councilor,"Agno, Geraldine Rafer",Gigi,Liberal Party,7362
+Talisay,Councilor,"Luna, Melody Laurel",Melody,Liberal Party,7627
+Talisay,Councilor,"Salazar, Felix Pesigan",Bing,Liberal Party,8053
+Talisay,Councilor,"Tenorio, Maximino Garcia",Minong,Liberal Party,8231
+Talisay,Councilor,"Canlobo, Lamberto, Sr. Balazon",Berto,Independent,8789
+Talisay,Councilor,"Lamano, Allano Cunahap",Allan,Nacionalista Party,9203
+Tanauan City,Mayor,"Aquino, Sonia Torres",Mayor Sonia,Liberal Party,44015
+Tanauan City,Vice-Mayor,"Platon, Julius Caesar, II Gamilla",Julius,Nacionalista Party,45657
+Tanauan City,Councilor,"Goguanco, Marcial Jr. Velasquez",Jun,Liberal Party,23063
+Tanauan City,Councilor,"Luna, Wilfredo Natanauan",Willy,Liberal Party,23195
+Tanauan City,Councilor,"Gonzales, Gavino Acosta",Gabby,Liberal Party,23217
+Tanauan City,Councilor,"Magpantay, Epimaco Recillo",Peming,Liberal Party,23339
+Tanauan City,Councilor,"Borja, Eleuterio Balahadia",Terry,Liberal Party,23977
+Tanauan City,Councilor,"Tabing, Marissa Maranan",Maris,Nacionalista Party,24961
+Tanauan City,Councilor,"Manglo, Marcelo Eric Olfato",Eric,Nacionalista Party,25250
+Tanauan City,Councilor,"Perez, Elmer Lanting",Bro,Liberal Party,27855
+Tanauan City,Councilor,"Canobas, Gileen Villa",Gileen,Liberal Party,31228
+Tanauan City,Councilor,"Corona, Jhoanna De Chavez",Jhana,Lakas-Kampi,33163
+Taysan,Mayor,"Portugal, Victor, Jr. Perez",Dondon,Nacionalista Party,9888
+Taysan,Vice-Mayor,"Gutierrez, Grande Pascua",Grande,Nacionalista Party,10284
+Taysan,Councilor,"Perez, Marianito Gutierrez",Nitoy,Liberal Party,7016
+Taysan,Councilor,"Montalbo, Severino Matibag",Ben,Nacionalista Party,7231
+Taysan,Councilor,"Bosch, Clint Maderazo",Clinton,Nacionalista Party,7393
+Taysan,Councilor,"Alido, Ferdinand Malaluan",Ferdie,Nacionalista Party,7401
+Taysan,Councilor,"Ancheta, Ronald Rivero",Onad,Nacionalista Party,7685
+Taysan,Councilor,"Ramirez, Agnes Sulit",Agnes,Nacionalista Party,8172
+Taysan,Councilor,"Comia, Melecio, Jr. Ilag",Bongbong,Nacionalista Party,8290
+Taysan,Councilor,"Portugal, Joel Perez",Joel,Nacionalista Party,8651
+Tingloy,Mayor,"Alvarez, Lauro Ferrancullo",Larry,Lakas-Kampi,6298
+Tingloy,Vice-Mayor,"Datingaling, Danilo Reyes",Danny,Lakas-Kampi,5518
+Tingloy,Councilor,"Evangelista, Teofilo Evangelista",Pilo,Lakas-Kampi,3401
+Tingloy,Councilor,"Macarandang, Romeo Belen",Romy,Lakas-Kampi,3406
+Tingloy,Councilor,"Ferrancullo, Jose Menia",Joe,Lakas-Kampi,3652
+Tingloy,Councilor,"Sevilla, Robelito Tolentino",Totoy,Lakas-Kampi,3728
+Tingloy,Councilor,"Candava, Evelyn Garcia",Belen,Lakas-Kampi,3818
+Tingloy,Councilor,"Manalo, Virgilio Navarro",Boy,Lakas-Kampi,4092
+Tingloy,Councilor,"Sawali, Josefa Belino",Josephine,Lakas-Kampi,4433
+Tingloy,Councilor,"Dumaoal, Herbert Romano",Ebet,Lakas-Kampi,5292
+Tuy,Mayor,"Cerrado, Jose Jecerell Carandang",Jey,Lakas-Kampi,11760
+Tuy,Vice-Mayor,"Calingasan, Emmanuel Granados",Manny,Lakas-Kampi,9821
+Tuy,Councilor,"Panaligan, Ireno Siscar",Ireno,Liberal Party,6952
+Tuy,Councilor,"Gervacio, Eufracio Mendoza",Ofring,Lakas-Kampi,7002
+Tuy,Councilor,"Mendoza, Renato Garcia",Atong,Lakas-Kampi,7403
+Tuy,Councilor,"Rodriguez, Ernesto Abiad",Dijo,Liberal Party,7566
+Tuy,Councilor,"Ikan, Agapito Gloriaga",Eddie,Lakas-Kampi,7616
+Tuy,Councilor,"Afable, Eduardo Jr. Perez",Jun-Jun,Lakas-Kampi,9502
+Tuy,Councilor,"Calingasan, Elsie Ledesma",Mayora,Lakas-Kampi,9593
+Tuy,Councilor,"Bautista, Rafael De La Cuesta",Raffy,Liberal Party,9601

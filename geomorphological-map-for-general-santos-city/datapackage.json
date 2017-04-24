@@ -1,0 +1,47 @@
+{
+  "author": "Bureau of Soils and Water Management", 
+  "author_email": "bswmclientcenter@yahoo.com", 
+  "download_url": "http://bswm.maps.da.gov.ph/maps/download/GenSantos_Geo1/GenSantos_Geo1.zip", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "Province", 
+    "Temporal Date": ""
+  }, 
+  "id": "4e9293bd-1300-4ff3-a138-848b5c018011", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Dr. Gina Nilo", 
+  "maintainer_email": "ginapnilo@ymail.com", 
+  "name": "geomorphological-map-for-general-santos-city", 
+  "notes": "Geomorphological/Geological Map - delineation of either geology/lithology or landscapes/landforms or a combination of both.\r\n\r\nMap Type:\tGeomorphological Map\t\r\nIsland:\tMindanao\r\nRegion:\tRegion XII\r\nScale:\t50000\r\nProvince:\tSouth Cotabato", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-20T15:41:33.667132", 
+      "description": "", 
+      "format": "SHP", 
+      "hash": "", 
+      "id": "2b1db1cd-047f-4bf4-b5d0-8c159efeb692", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Geomorphological Map_GenSantos1", 
+      "package_id": "4e9293bd-1300-4ff3-a138-848b5c018011", 
+      "position": 0, 
+      "resource_group_id": "d7330468-58de-497f-875f-66bc2359b6fe", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://bswm.maps.da.gov.ph/maps/download/GenSantos_Geo1/GenSantos_Geo1.zip", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Geospatial"
+  ], 
+  "title": "Geomorphological Map for General Santos City", 
+  "url": "http://bswm.maps.da.gov.ph/", 
+  "version": ""
+}

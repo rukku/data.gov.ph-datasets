@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=N51PRIFR", 
+  "extras": {
+    "Frequency Update": "Monthly", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-12/31/2015"
+  }, 
+  "id": "b0fc8300-20b2-4f27-a146-2cb34e9f7fe3", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "inflation-rates-for-all-income-households-in-the-philippines-by-commodity-group", 
+  "notes": "This dataset contains the Inflation Rates for all income households in the Philippines by commodity group (2006=100). This time-series includes the most recent data, covering the period from 2012 to the latest available month/year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-07T10:23:38.220916", 
+      "description": "This dataset contains the Inflation Rates for all income households in the Philippines by commodity group (2006=100). This time-series includes the most recent data, covering the period from 2012 to the latest available month/year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "e819a0d4-b02a-4f5b-94e1-bdfa5f188f22", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Inflation Rates for All Income Households in the Philippines by Commodity Group", 
+      "package_id": "b0fc8300-20b2-4f27-a146-2cb34e9f7fe3", 
+      "position": 0, 
+      "resource_group_id": "b66c8410-8716-4ea7-8b93-a8e1932f63d8", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=N51PRIFR", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Inflation Rates for All Income Households in the Philippines by Commodity Group", 
+  "url": null, 
+  "version": null
+}

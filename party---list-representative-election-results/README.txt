@@ -1,0 +1,1 @@
+This dataset contains the list of political party coalitions election results for the year 2004, 2007, 2010 and 2013.

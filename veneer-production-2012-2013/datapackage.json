@@ -1,0 +1,68 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/6NBUqvzX6MDyfOda71Qu/veneer_production_2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-06/30/2013"
+  }, 
+  "id": "b1162049-e136-426d-a7e9-6cb2aa337702", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "veneer-production-2012-2013", 
+  "notes": "This datasets contain the veneer production foe the year 2012-2013.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T16:05:56.702811", 
+      "description": "This datasets contain the veneer production for the year 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "561f4b5b-fca8-4df1-9d17-4cca013adb01", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Veneer Production 2012", 
+      "package_id": "b1162049-e136-426d-a7e9-6cb2aa337702", 
+      "position": 0, 
+      "resource_group_id": "d005ec89-dcf8-4b81-b189-f5cfce9337ed", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/6NBUqvzX6MDyfOda71Qu/veneer_production_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T16:06:00.257759", 
+      "description": "This datasets contain the veneer production from January to June 2013.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "3ff8fd2c-760f-47f2-888b-360d929d768e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Veneer Production 2013", 
+      "package_id": "b1162049-e136-426d-a7e9-6cb2aa337702", 
+      "position": 1, 
+      "resource_group_id": "d005ec89-dcf8-4b81-b189-f5cfce9337ed", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/avzy89sdoJFrl4INRk1l/veneer_production_1st_sem_2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Veneer Production 2012-2013", 
+  "url": "", 
+  "version": ""
+}

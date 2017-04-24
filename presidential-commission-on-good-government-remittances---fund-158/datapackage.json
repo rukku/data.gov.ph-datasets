@@ -1,0 +1,68 @@
+{
+  "author": "Presidential Commission on Good Government", 
+  "author_email": "misd@pcgg.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/vPw4BLxKZh40fSUai4bD/pcgg_remittances_as_of_aug2015_ver16_Dec2015.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1987-08/03/2015"
+  }, 
+  "id": "d4913f7f-70e1-4bb3-9f88-2b27190a0318", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Presidential Commission on Good Government-Management Information System Division", 
+  "maintainer_email": "misd@pcgg.gov.pg", 
+  "name": "presidential-commission-on-good-government-remittances---fund-158", 
+  "notes": "This dataset contains of PCGG collections from 1987 to August 2015 remitted to Bureau of the Treasury for the account of CARP. (PCGG income from rentals of property, proceeds of sales of properties,Income from IRC group  of companies and other income)", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-02-12T11:08:22.364499", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "6631d36d-fbbb-46e5-b256-aae9e015fb66", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "PCGG Remittances - Fund 158", 
+      "package_id": "d4913f7f-70e1-4bb3-9f88-2b27190a0318", 
+      "position": 0, 
+      "resource_group_id": "ae486db1-0d8c-4e77-933d-a6beb60beb34", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/vPw4BLxKZh40fSUai4bD/pcgg_remittances_as_of_aug2015_ver16_Dec2015.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-02-12T11:08:34.183141", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "0c610509-d733-4881-b3f2-81cc205596a3", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Total of Annual Remittances", 
+      "package_id": "d4913f7f-70e1-4bb3-9f88-2b27190a0318", 
+      "position": 1, 
+      "resource_group_id": "ae486db1-0d8c-4e77-933d-a6beb60beb34", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/TDBHVC5QrghdkS7YSLBJ/total_remittances_per_year.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Law and Justice"
+  ], 
+  "title": "Presidential Commission on Good Government Remittances - Fund 158", 
+  "url": "", 
+  "version": ""
+}

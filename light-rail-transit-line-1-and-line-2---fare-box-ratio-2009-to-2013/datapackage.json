@@ -1,0 +1,46 @@
+{
+  "author": "Light Rail Transit Authority (LRTA)", 
+  "author_email": "lrtamain@lrta.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/Sknd3Gt6jqSKiaitWsVK/lrt1-2_fare_box_ratio_2009-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2009-07/31/2013"
+  }, 
+  "id": "b599dae1-700c-44fa-9853-f86341b23a85", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Management Information System Division", 
+  "maintainer_email": "mis_icc@lrta.gov.ph", 
+  "name": "light-rail-transit-line-1-and-line-2---fare-box-ratio-2009-to-2013", 
+  "notes": "Contains monthly data on fare revenue over operation expense (excludes interest/financial charges, depreciation, and amortization of capitalized cost \u2013 i.e., development, pre-operating). ", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-05T10:42:06.917335", 
+      "description": "Contains monthly data on fare revenue over operation expense (excludes interest/financial charges, depreciation, and amortization of capitalized cost \u2013 i.e., development, pre-operating) from 2009 to 2013.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "60af78a1-0a99-43a8-bcaf-34b7dce17539", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "LRT Line 1 and Line 2 - Fare Box Ratio 2009-2013", 
+      "package_id": "b599dae1-700c-44fa-9853-f86341b23a85", 
+      "position": 0, 
+      "resource_group_id": "90160dd4-4e50-427a-8259-93406235b69f", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/Sknd3Gt6jqSKiaitWsVK/lrt1-2_fare_box_ratio_2009-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Light Rail Transit Line 1 and Line 2 - Fare Box Ratio 2009 to 2013", 
+  "url": "", 
+  "version": ""
+}

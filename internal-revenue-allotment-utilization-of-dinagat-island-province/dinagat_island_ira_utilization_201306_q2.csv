@@ -1,0 +1,29 @@
+category,check_number_and_date,particulars,name_of_payee,amount
+-,-,"Forwarded balance as of Mar. 31, 2012",-,12599038.56
+Add:,GJ- 3/25/13,IRA share for the month of March 2013 ,-,5405363
+Add:,GJ- 4/10/13,Transfer of fund from old account to new account,-,14000000
+Add:,GJ- 4/15/13,Adjusting entry,-,30418.81
+Add:,GJ- 4/25/13,IRA share for the month of April 2013,-,5405363
+Add:,GJ-5/30/13,IRA share for the month of May 2013,-,5405363
+Add:,GJ-5/31/13,Erroneous posting of April IRA share of 20%,-,5405363
+Add:,GJ-6/26/13,IRA share for the month of June 2013,-,5405363
+Less: Disbursements ( Breakdown by object of expenditure ),GJ-4/10/2013,Transfer of funds from old account to new account,-,14000000
+Less: Disbursements ( Breakdown by object of expenditure ),GJ-4/15/2013,Adjusting Entry,-,30418.81
+Less: Disbursements ( Breakdown by object of expenditure ),35623395-4/15/2013,Reimbursement of Defective Battery,  Fe Consuelo C. Botanas,1391
+Less: Disbursements ( Breakdown by object of expenditure ),35623396-4/15/2013,Reimbursement of Stake truck worn out bearing,  Gregorio L. Pajo,2630
+Less: Disbursements ( Breakdown by object of expenditure ),35623397-4/15/2013,"CA JO sal. for March 1-31, 2013",  Felipa R. Alduhesa,12350
+Less: Disbursements ( Breakdown by object of expenditure ),GJ-5/31/2013,Erroneous posting of April IRA share of 20%,-,5405363
+Less: Disbursements ( Breakdown by object of expenditure ),35623398-5/7/2013,"CA JO sal. For April 1-31, 2013",  Maria Jocelyn S. Albores,33950
+Less: Disbursements ( Breakdown by object of expenditure ),35623399-5/21/2013,Payment of electrical supplies,  PMDC Enterprises,13214.98
+Less: Disbursements ( Breakdown by object of expenditure ),35623400-5/23/2013,Payment of Scope net,  A and M MPC,310
+Less: Disbursements ( Breakdown by object of expenditure ),35623401-5/24/2013,Payment of electrical materials,  Reesan Enterprises,5759.02
+Less: Disbursements ( Breakdown by object of expenditure ),35623402-5/24/2013,Payment of agricultural supplies,  A and M MPC,58000
+Less: Disbursements ( Breakdown by object of expenditure ),35623403-5/24/2013,Cash counterpart to LGU-Dinagat,  LGU-DINAGAT,800000
+Less: Disbursements ( Breakdown by object of expenditure ),35623404-5/24/2013,Payment of Construction Materials,  Canete Glass Supply,4353.57
+Less: Disbursements ( Breakdown by object of expenditure ),35623405-5/29/2013,Payment for Streamer,  San Jose Sign Ads,720
+Less: Disbursements ( Breakdown by object of expenditure ),42118906-6/3/2013,Payment of Vehicle Spare Parts,  New Mindanao Hardware,7041.43
+Less: Disbursements ( Breakdown by object of expenditure ),42118907-6/3/2013,Payment of Vehicle Spare Parts,  MDV Ent. Equipment Rental and General Engineering,15994.65
+Less: Disbursements ( Breakdown by object of expenditure ),42118908-6/7/2013,Remittance of taxes with held May 2013,  BIR,1350.43
+Less: Disbursements ( Breakdown by object of expenditure ),42118909-6/7/2013,"CA JO sal. for May 1-31, 2013", Felipa R. Alduhesa,33600
+Less: Disbursements ( Breakdown by object of expenditure ),42118910-6/27/2013,Payment of Snacks (Earth Day), A and M MPC,4500
+"Total Balance (June 30, 2013)",-,-,-,33225325.48

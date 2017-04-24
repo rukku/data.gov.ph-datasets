@@ -1,0 +1,47 @@
+{
+  "author": "Mines and Geosciences Bureau", 
+  "author_email": "", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/bb6c1de3-d501-4f5b-a597-f25586cd5b01/resource/201b9769-37bf-4881-a441-f8b0d3d70cd8/download/Region10.jpg", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "bb6c1de3-d501-4f5b-a597-f25586cd5b01", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "mining-tenements-control-map-for-region-10", 
+  "notes": "Mining Tenements Control Map for Region 10", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-05T13:58:48.438380", 
+      "description": "", 
+      "format": "JPEG", 
+      "hash": "", 
+      "id": "201b9769-37bf-4881-a441-f8b0d3d70cd8", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "mining-tenements-control-map-for-region-10", 
+      "package_id": "bb6c1de3-d501-4f5b-a597-f25586cd5b01", 
+      "position": 0, 
+      "resource_group_id": "575cbc21-ca33-4157-bfd5-91f5b2a778b7", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/bb6c1de3-d501-4f5b-a597-f25586cd5b01/resource/201b9769-37bf-4881-a441-f8b0d3d70cd8/download/Region10.jpg", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Mining Tenements Control Map for Region 10", 
+  "url": "http://www.mgb.gov.ph/", 
+  "version": ""
+}

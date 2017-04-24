@@ -1,0 +1,1 @@
+Contains gross revenue per month of the Light Rail Transit Authority (LRTA) from line 1 operation and line 2 operation.

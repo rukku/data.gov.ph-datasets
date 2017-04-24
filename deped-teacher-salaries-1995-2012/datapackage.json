@@ -1,0 +1,46 @@
+{
+  "author": "Department of Education", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/OUUOXoxMpdw9cJbwKOjD/deped_teacher_salaries_1995_to_2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1995-12/31/2012"
+  }, 
+  "id": "03f276ae-15f4-4eed-bed3-2519ed58bcac", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Education", 
+  "maintainer_email": "action@deped.gov.ph", 
+  "name": "deped-teacher-salaries-1995-2012", 
+  "notes": "This dataset contains the teacher salaries for the year 1995 to 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-07T13:45:19.347072", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "52ee15c2-6729-45f4-a1d3-52ca31172003", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Teacher Salaries 1995-2012", 
+      "package_id": "03f276ae-15f4-4eed-bed3-2519ed58bcac", 
+      "position": 0, 
+      "resource_group_id": "c5f73181-c216-4a3c-8a80-ac441411d2d2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/OUUOXoxMpdw9cJbwKOjD/deped_teacher_salaries_1995_to_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Education"
+  ], 
+  "title": "Teacher Salaries 1995-2012", 
+  "url": "", 
+  "version": ""
+}

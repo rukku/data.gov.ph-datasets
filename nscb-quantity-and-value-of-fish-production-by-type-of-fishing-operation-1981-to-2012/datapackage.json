@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/e35afe45-0a82-4fb8-a215-23a6e564914f/resource/3d01499c-d2e8-4da9-9078-255ca4027b4b/download/NSCBQuantityandValueofFishProductionbyTypeofFishingOperation1981to2012.xlsx", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "e35afe45-0a82-4fb8-a215-23a6e564914f", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-quantity-and-value-of-fish-production-by-type-of-fishing-operation-1981-to-2012", 
+  "notes": "Quantity and Value of Fish Production by Type of Fishing Operation from 1981 to 2012", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T11:12:18.227999", 
+      "description": "Quantity and Value of Fish Production by Type of Fishing Operation from 1981 to 2012", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "3d01499c-d2e8-4da9-9078-255ca4027b4b", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - QUANTITY AND VALUE OF FISH PRODUCTION BY TYPE OF FISHING OPERATION - 1981 TO 2012", 
+      "package_id": "e35afe45-0a82-4fb8-a215-23a6e564914f", 
+      "position": 0, 
+      "resource_group_id": "e9b9e183-3d3d-4410-a65d-d84af63ab2ad", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/e35afe45-0a82-4fb8-a215-23a6e564914f/resource/3d01499c-d2e8-4da9-9078-255ca4027b4b/download/NSCBQuantityandValueofFishProductionbyTypeofFishingOperation1981to2012.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "NSCB - QUANTITY AND VALUE OF FISH PRODUCTION BY TYPE OF FISHING OPERATION - 1981 TO 2012", 
+  "url": "", 
+  "version": ""
+}

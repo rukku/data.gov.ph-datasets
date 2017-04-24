@@ -1,0 +1,46 @@
+{
+  "author": "Philippine National Railways (PNR)", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/TiRkqwj7GwZehyW8hJw4/pnr_status_of_stations_2015.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "02/01/2015"
+  }, 
+  "id": "4d27d07c-d6b7-4960-ab60-eba902c2b598", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Operations Department", 
+  "maintainer_email": "tolits1552@yahoo.com", 
+  "name": "status-of-philippine-national-railways-station", 
+  "notes": "This dataset contains a list of PNR stations with their corresponding status \u2014 whether functional, non-functional, or to be reactivated as of February 2015.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-05T10:43:51.686379", 
+      "description": "This dataset contains a list of PNR stations with their corresponding status \u2014 whether functional, non-functional, or to be reactivated as of February 2015.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "cb278c73-34e9-4d3c-8093-18a26e15fad7", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Status of Philippine National Railways Station 2015", 
+      "package_id": "4d27d07c-d6b7-4960-ab60-eba902c2b598", 
+      "position": 0, 
+      "resource_group_id": "e85d8b27-e5b6-4408-ba12-b3548d830d9e", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/TiRkqwj7GwZehyW8hJw4/pnr_status_of_stations_2015.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Status of Philippine National Railways Station", 
+  "url": "", 
+  "version": ""
+}

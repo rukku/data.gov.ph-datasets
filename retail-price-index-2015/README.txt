@@ -1,0 +1,1 @@
+This dataset contains the Retail Price Index (RPI), the indicator of the changes in the prices at which retailers dispose of their goods to consumers or end-users relative to a base year. It is used as a deflator of the National Accounts in the retail trade sector and serves as a basis for forecasting business in the retail trade.

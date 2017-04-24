@@ -1,0 +1,1 @@
+This dataset contains the list of winning candidates of city or municipality election of Cordillera Administrative Region (CAR)for the year 2007.

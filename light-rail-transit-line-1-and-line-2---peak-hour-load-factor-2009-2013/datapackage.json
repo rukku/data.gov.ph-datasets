@@ -1,0 +1,46 @@
+{
+  "author": "Light Rail Transit Authority (LRTA)", 
+  "author_email": "lrtamain@lrta.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ynC9WKa1iWlCX7Z4yrH0/lrt1-2_peak-hour_load_factor_2009-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2009-07/31/2013"
+  }, 
+  "id": "fc3fd423-cca4-4bb2-829b-e1a64aff6d39", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Management Information System Division", 
+  "maintainer_email": "mis_icc@lrta.gov.ph", 
+  "name": "light-rail-transit-line-1-and-line-2---peak-hour-load-factor-2009-2013", 
+  "notes": "Contains monthly data on percentage of actual number of passengers over the rated capacity of the train at peak hour.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-05T10:43:14.036129", 
+      "description": "Contains monthly data on percentage of actual number of passengers over the rated capacity of the train at peak hour from 2009 to 2013.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "67b555cf-c9e7-4dca-8143-109173b2e79e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "LRT Line 1 and Line 2 - Peak-Hour Load Factor 2009-2013", 
+      "package_id": "fc3fd423-cca4-4bb2-829b-e1a64aff6d39", 
+      "position": 0, 
+      "resource_group_id": "47ac2ffd-ecba-42e3-aca2-75a25056d23b", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ynC9WKa1iWlCX7Z4yrH0/lrt1-2_peak-hour_load_factor_2009-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Light Rail Transit Line 1 and Line 2 - Peak-Hour Load Factor 2009-2013", 
+  "url": "", 
+  "version": ""
+}

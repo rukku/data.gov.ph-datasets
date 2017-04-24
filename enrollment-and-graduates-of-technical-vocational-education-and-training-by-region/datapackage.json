@@ -1,0 +1,46 @@
+{
+  "author": "Department of Labor and Employment", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ii3SyR4G66L4quKD38S1/doleenrlmntandgradsoftvetbyregion2001-2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2001-12/31/2012"
+  }, 
+  "id": "9956a8e3-0139-48dc-aedf-cf899e416fb4", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bureau of Labor and Employment Statistics - Data Bank ", 
+  "maintainer_email": "bles_tsd@dole.gov.ph", 
+  "name": "enrollment-and-graduates-of-technical-vocational-education-and-training-by-region", 
+  "notes": "This dataset contains  the number of enrollment and graduates of school-based and non-school based TVET programs of the Technical Education and Skills Development Authority from 2008 to 2012.  ", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-08T10:09:32.873268", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "5bc2804a-855f-46e9-a4bf-fc372e51f8b3", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "ENROLLMENT AND GRADUATES OF TECHNICAL VOCATIONAL EDUCATION AND TRAINING BY REGION", 
+      "package_id": "9956a8e3-0139-48dc-aedf-cf899e416fb4", 
+      "position": 0, 
+      "resource_group_id": "96e9ca20-7955-4271-abb1-0fadf33d7edb", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ii3SyR4G66L4quKD38S1/doleenrlmntandgradsoftvetbyregion2001-2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Employment"
+  ], 
+  "title": "Enrollment and Graduates of Technical Vocational Education and Training by Region", 
+  "url": "", 
+  "version": ""
+}

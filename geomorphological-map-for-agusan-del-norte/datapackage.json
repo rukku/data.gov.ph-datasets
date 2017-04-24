@@ -1,0 +1,47 @@
+{
+  "author": "Bureau of Soils and Water Management", 
+  "author_email": "bswmclientcenter@yahoo.com", 
+  "download_url": "http://bswm.maps.da.gov.ph/maps/download/Agusan_Del_Norte_Geomorphological_Map/Agusan_Del_Norte_Geomorphological_Map.zip", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "Province", 
+    "Temporal Date": ""
+  }, 
+  "id": "f1895f82-aaed-49c1-8bc0-9e01a03efab9", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Dr. Gina Nilo", 
+  "maintainer_email": "ginapnilo@ymail.com", 
+  "name": "geomorphological-map-for-agusan-del-norte", 
+  "notes": "Geomorphological/Geological Map - delineation of either geology/lithology or landscapes/landforms or a combination of both.\r\n\r\n\r\nMap Type:\tGeomorphological Map\t\r\nIsland:\tMindanao\r\nRegion:\tCaraga\r\nScale:\t50000\r\nProvince:\tAgusan Del Norte", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-20T15:21:42.540899", 
+      "description": "", 
+      "format": "SHP", 
+      "hash": "", 
+      "id": "c707d2e6-3813-4f44-8836-421c62fe86ec", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Geomorphological Map_Agusan Del Norte", 
+      "package_id": "f1895f82-aaed-49c1-8bc0-9e01a03efab9", 
+      "position": 0, 
+      "resource_group_id": "42f53264-9669-4b12-a6fc-8bc1410d9355", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://bswm.maps.da.gov.ph/maps/download/Agusan_Del_Norte_Geomorphological_Map/Agusan_Del_Norte_Geomorphological_Map.zip", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Geospatial"
+  ], 
+  "title": "Geomorphological Map for Agusan Del Norte", 
+  "url": "http://bswm.maps.da.gov.ph/", 
+  "version": ""
+}

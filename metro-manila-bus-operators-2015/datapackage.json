@@ -1,0 +1,46 @@
+{
+  "author": "Land Transportation Franchising and Regulatory Board (LTFRB)", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/hGURPN4wleu4x02jkYzO/roadmetromanilabusoperators.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2014-03/31/2014"
+  }, 
+  "id": "a5322d43-c02e-4d89-961d-6c8b8303ced6", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Management Information Division", 
+  "maintainer_email": "jonahrut@hotmail.com", 
+  "name": "metro-manila-bus-operators-2015", 
+  "notes": "This data set contains the list of bus operators in Metro Manila and their corresponding case numbers and number of units as of March 2015.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-08T09:50:36.304219", 
+      "description": "This data set contains the list of bus operators in Metro Manila and their corresponding case numbers and number of units as of March 2015.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "86bf5945-103f-4919-baf1-02e3f3c2158d", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Metro Manila Bus Operators 2015", 
+      "package_id": "a5322d43-c02e-4d89-961d-6c8b8303ced6", 
+      "position": 0, 
+      "resource_group_id": "bf63dd53-6293-4390-b03e-2282e4d1045f", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/hGURPN4wleu4x02jkYzO/roadmetromanilabusoperators.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Metro Manila Bus Operators 2015", 
+  "url": "", 
+  "version": ""
+}

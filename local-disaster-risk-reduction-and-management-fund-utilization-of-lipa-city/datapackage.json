@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/vqhP9ynHYoSzI5KpJkZj/lipa_city_ldrrmf_2012_q4.csv", 
+  "extras": {
+    "Granularity": "City or Municipality", 
+    "Temporal Date": "10/01/2012-12/31/2012"
+  }, 
+  "id": "994d2795-4282-4987-8dfe-063277305c02", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-lipa-city", 
+  "notes": "This dataset contains report on the local disaster risk reduction and management fund utilization of Lipa City.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-01-18T10:39:55.889644", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "77c57fde-0d4e-4f1e-816f-ef1b06477960", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Lipa City", 
+      "package_id": "994d2795-4282-4987-8dfe-063277305c02", 
+      "position": 0, 
+      "resource_group_id": "d7d76ab7-71d1-439d-8c35-e8225ed0f61f", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/vqhP9ynHYoSzI5KpJkZj/lipa_city_ldrrmf_2012_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization of Lipa City", 
+  "url": "", 
+  "version": ""
+}

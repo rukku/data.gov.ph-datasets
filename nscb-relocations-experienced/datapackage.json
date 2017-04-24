@@ -1,0 +1,69 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/b399b9f9-16dd-47e3-a4b9-7210782dba29/resource/df98fad8-d632-4902-a085-0b1f660fb947/download/NSCBRELOCATIONSEXPERIENCED.xlsx", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "b399b9f9-16dd-47e3-a4b9-7210782dba29", 
+  "license": "License not specified", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-relocations-experienced", 
+  "notes": "Indigenous people's rights - Relocations Experienced", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T11:38:37.960905", 
+      "description": "Indigenous people's rights - Relocations Experienced", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "df98fad8-d632-4902-a085-0b1f660fb947", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - RELOCATIONS EXPERIENCED", 
+      "package_id": "b399b9f9-16dd-47e3-a4b9-7210782dba29", 
+      "position": 0, 
+      "resource_group_id": "a9386189-0ea7-45fa-b054-ab8bc70c3a40", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/b399b9f9-16dd-47e3-a4b9-7210782dba29/resource/df98fad8-d632-4902-a085-0b1f660fb947/download/NSCBRELOCATIONSEXPERIENCED.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T11:39:39.501696", 
+      "description": "Indigenous people's rights - Relocations Experienced", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "18fa775b-93e5-448f-a902-644971447903", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - RELOCATIONS EXPERIENCED", 
+      "package_id": "b399b9f9-16dd-47e3-a4b9-7210782dba29", 
+      "position": 1, 
+      "resource_group_id": "a9386189-0ea7-45fa-b054-ab8bc70c3a40", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/b399b9f9-16dd-47e3-a4b9-7210782dba29/resource/18fa775b-93e5-448f-a902-644971447903/download/NSCBRELOCATIONSEXPERIENCED.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Population"
+  ], 
+  "title": "NSCB - RELOCATIONS EXPERIENCED", 
+  "url": "", 
+  "version": ""
+}

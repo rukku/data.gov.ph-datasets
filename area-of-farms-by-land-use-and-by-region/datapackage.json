@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=P40LUALU", 
+  "extras": {
+    "Frequency Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1960-12/31/2002"
+  }, 
+  "id": "67500345-a015-4a54-947e-a0b9f1b5b911", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "area-of-farms-by-land-use-and-by-region", 
+  "notes": "This dataset contains the area of farms by land use and by region. This time-series includes the most recent data, covering the period from 1960 to the latest available year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-12T10:51:56.767842", 
+      "description": "This dataset contains the area of farms by land use and by region. This time-series includes the most recent data, covering the period from 1960 to the latest available year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "965b356d-bae6-4543-a878-43a5b3a03c10", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Area of Farms by Land Use and by Region", 
+      "package_id": "67500345-a015-4a54-947e-a0b9f1b5b911", 
+      "position": 0, 
+      "resource_group_id": "5c8cb45f-0fc3-4b81-833a-bb7c966454a2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=P40LUALU", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Area of Farms by Land Use and by Region", 
+  "url": null, 
+  "version": null
+}

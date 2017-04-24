@@ -1,0 +1,1 @@
+This dataset contains the overseas Filipinos’ cash and personal remittances. Statistics on cash remittances are based on reports submitted by banks and are classified by country of source and by type of worker.

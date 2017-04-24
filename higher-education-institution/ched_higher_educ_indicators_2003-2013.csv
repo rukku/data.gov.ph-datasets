@@ -1,0 +1,60 @@
+indicator_level_1,indicator_level_2,indicator_level_3,indicator_level_4,indicator_level_5,2003-2004,2004-2005,2005-2006,2006-2007,2007-2008,2008-2009,2009-2010,2010-2011,2011-2012,2012-2013
+Higher Education Institutions (HEIs),Total HEIs (excluding SUCs Sattelite campuses),Total HEIs (excluding SUCs Sattelite campuses),Total HEIs (excluding SUCs Sattelite campuses),Total HEIs (excluding SUCs Sattelite campuses),1540,1619,1683,1710,1701,1741,1791,1823,1862,1871
+Higher Education Institutions (HEIs),Total HEIs (including SUCs Sattelite campuses),Total HEIs (including SUCs Sattelite campuses),Total HEIs (including SUCs Sattelite campuses),Total HEIs (including SUCs Sattelite campuses),1789,1890,1943,2036,2034,2074,2180,2247,2299,2313
+Higher Education Institutions (HEIs),Total HEIs (including SUCs Sattelite campuses),Total HEIs (including SUCs Sattelite campuses),Public,Public,175,176,191,196,201,205,218,219,219,219
+Higher Education Institutions (HEIs),Total HEIs (including SUCs Sattelite campuses),Total HEIs (including SUCs Sattelite campuses),Public,State Universities and Colleges (SUCs),111,111,111,110,110,110,109,110,110,111
+Higher Education Institutions (HEIs),Total HEIs (including SUCs Sattelite campuses),Total HEIs (including SUCs Sattelite campuses),Public,SUCs Satellite Campuses,249,271,260,326,333,333,389,424,437,442
+Higher Education Institutions (HEIs),Total HEIs (including SUCs Sattelite campuses),Total HEIs (including SUCs Sattelite campuses),Public,Local Colleges  and Universities (LCUs),46,50,65,70,75,79,93,93,95,95
+Higher Education Institutions (HEIs),Total HEIs (including SUCs Sattelite campuses),Total HEIs (including SUCs Sattelite campuses),Public,"Others (include OGS, CSI, Special HEI)",18,15,15,16,16,16,16,16,14,13
+Higher Education Institutions (HEIs),Total HEIs (including SUCs Sattelite campuses),Total HEIs (including SUCs Sattelite campuses),Private,Private,1365,1443,1492,1514,1500,1536,1573,1604,1643,1652
+Higher Education Institutions (HEIs),Total HEIs (including SUCs Sattelite campuses),Total HEIs (including SUCs Sattelite campuses),Private,Sectarian,331,340,358,299,300,302,322,334,347,345
+Higher Education Institutions (HEIs),Total HEIs (including SUCs Sattelite campuses),Total HEIs (including SUCs Sattelite campuses),Private,Non-Sectarian,1034,1103,1134,1215,1200,1234,1251,1270,1296,1307
+Autonomous/Deregulated Private HEIs,Autonomous/Deregulated Private HEIs,Autonomous/Deregulated Private HEIs,Autonomous/Deregulated Private HEIs,Autonomous/Deregulated Private HEIs,-,-,-,-,-,50,60,63,63,64
+Autonomous/Deregulated Private HEIs,Enrollment,All Disciplines,All Disciplines,All Disciplines,2420856,2402315,2483274,2604449,2654294,2625385,2770965,2937847,3033967,3317530
+Autonomous/Deregulated Private HEIs,Enrollment,All Disciplines,Public,Public,829181,819251,849669,881656,915191,982701,1083194,1193851,1282045,1423004
+Autonomous/Deregulated Private HEIs,Enrollment,All Disciplines,Private,Private,1591675,1583064,1633605,1722793,1739103,1642684,1687771,1743996,1751922,1894526
+Autonomous/Deregulated Private HEIs,Enrollment,Priority Disciplines,Priority Disciplines,Priority Disciplines,1526933,1548772,1647427,1679132,1694290,1647201,1690369,1728397,1746723,1904678
+Autonomous/Deregulated Private HEIs,Enrollment,Priority Disciplines,Sciences,Sciences,26143,23458,22903,23149,25044,22641,24127,25425,27304,30071
+Autonomous/Deregulated Private HEIs,Enrollment,Priority Disciplines,Maritime,Maritime,79843,73250,74601,54870,69033,65443,88450,109256,117556,152922
+Autonomous/Deregulated Private HEIs,Enrollment,Priority Disciplines,Medicine and Health Related,Medicine and Health Related,319774,445729,549658,609659,547595,517319,440335,363147,281038,241976
+Autonomous/Deregulated Private HEIs,Enrollment,Priority Disciplines,Engineering and Technology,Engineering and Technology,336078,305120,301411,315412,311437,319775,344662,354218,372003,406965
+Autonomous/Deregulated Private HEIs,Enrollment,Priority Disciplines,"Agriculture, Agricultural Engineering, Forestry, Veterinary Medicine","Agriculture, Agricultural Engineering, Forestry, Veterinary Medicine",78201,70824,63913,59397,58168,63315,59692,63679,68133,81348
+Autonomous/Deregulated Private HEIs,Enrollment,Priority Disciplines,Teacher Education,Teacher Education,404078,366988,361774,331416,370441,325186,352046,400912,449904,536696
+Autonomous/Deregulated Private HEIs,Enrollment,Priority Disciplines,IT Related,IT Related,248247,229321,242799,251661,280596,300882,348462,376046,390826,409544
+Autonomous/Deregulated Private HEIs,Enrollment,Priority Disciplines,Mathematics,Mathematics,12379,10857,10701,14553,12688,14636,12154,12611,13358,13860
+Autonomous/Deregulated Private HEIs,Enrollment,Priority Disciplines,Architectural and Town Planning,Architectural and Town Planning,22190,23225,19667,19015,19288,18004,20441,23103,26601,31296
+Autonomous/Deregulated Private HEIs,Graduates,All Disciplines,All Disciplines,All Disciplines,388189,409628,421444,444427,444815,469654,481862,498418,522617,535574
+Autonomous/Deregulated Private HEIs,Graduates,All Disciplines,Public,Public,141720,146090,148191,155441,169155,178478,192545,207722,223032,229425
+Autonomous/Deregulated Private HEIs,Graduates,All Disciplines,Private,Private,246469,263538,273253,288986,275660,291176,289317,290696,299585,306149
+Autonomous/Deregulated Private HEIs,Graduates,Priority Disciplines,Priority Disciplines,Priority Disciplines,230756,252217,270624,298146,301823,309307,303957,310017,314472,332117
+Autonomous/Deregulated Private HEIs,Graduates,Priority Disciplines,,Sciences,4209,4267,3795,3768,3609,4194,3912,3927,4285,4104
+Autonomous/Deregulated Private HEIs,Graduates,Priority Disciplines,Maritime,Maritime,12487,12020,8801,11121,10429,11768,14433,13937,19515,17623
+Autonomous/Deregulated Private HEIs,Graduates,Priority Disciplines,Medicine and Health Related,Medicine and Health Related,41688,61916,86373,110312,121401,128057,115466,102782,80487,109812
+Autonomous/Deregulated Private HEIs,Graduates,Priority Disciplines,Engineering and Technology,Engineering and Technology,48507,47003,48951,49617,48464,48448,49705,58637,56760,59219
+Autonomous/Deregulated Private HEIs,Graduates,Priority Disciplines,"Agriculture, Agricultural Engineering, Forestry, Veterinary Medicine","Agriculture, Agricultural Engineering, Forestry, Veterinary Medicine",13154,12803,13040,12528,11181,9842,10107,9650,11575,9511
+Autonomous/Deregulated Private HEIs,Graduates,Priority Disciplines,Teacher Education,Teacher Education,71882,70837,66362,70711,63682,56777,56209,62834,69821,63817
+Autonomous/Deregulated Private HEIs,Graduates,Priority Disciplines,IT Related,IT Related,33613,38567,38435,35901,38665,45830,49913,54113,67727,63730
+Autonomous/Deregulated Private HEIs,Graduates,Priority Disciplines,Mathematics,Mathematics,1754,2042,2204,1787,2115,2105,1995,1874,2024,2048
+Autonomous/Deregulated Private HEIs,Graduates,Priority Disciplines,Architectural and Town Planning,Architectural and Town Planning,3462,2762,2663,2401,2277,2286,2217,2263,2278,2251
+Autonomous/Deregulated Private HEIs,Performance (Percent Passing) in licensure examination ,Across all disciplines,Across all disciplines,Across all disciplines,31.26,32.94,35.56,37.97,38.34,38.79,26.19,33.91,35.92,42.61
+Autonomous/Deregulated Private HEIs,Performance (Percent Passing) in licensure examination ,Priority Disciplines,Sciences,Sciences,44.57,46.74,49.03,51,53.14,49.16,54.31,56.02,53.53,47.25
+Autonomous/Deregulated Private HEIs,Performance (Percent Passing) in licensure examination ,Priority Disciplines,Maritime,Maritime,62.02,42.27,45.53,48.48,47.63,51.48,50.36,51.41,50.09,58.18
+Autonomous/Deregulated Private HEIs,Performance (Percent Passing) in licensure examination ,Priority Disciplines,Medicine and Health Related,Medicine and Health Related,45.06,43.47,47.64,48.47,51.45,53.14,54.84,52.73,55.91,59.06
+Autonomous/Deregulated Private HEIs,Performance (Percent Passing) in licensure examination ,Priority Disciplines,Engineering and Technology,Engineering and Technology,39.29,38.64,39.16,41.16,38.62,39.17,36.6,37.37,44.36,49.46
+Autonomous/Deregulated Private HEIs,Performance (Percent Passing) in licensure examination ,Priority Disciplines,"Agriculture, Agricultural Engineering, Forestry, Veterinary Medicine","Agriculture, Agricultural Engineering, Forestry, Veterinary Medicine",27.14,28.64,31.77,33.7,35.35,34.18,35.07,35.5,36.7,36.37
+Autonomous/Deregulated Private HEIs,Performance (Percent Passing) in licensure examination ,Priority Disciplines,Teacher Education,Teacher Education,26.27,27.24,26.99,30.99,28.5,31.43,25.5,21.21,24.38,41.87
+Autonomous/Deregulated Private HEIs,Faculty Qualification,Faculty Qualification,Percent with MA/MS,Percent with MA/MS,30.06,30.64,34.48,33.09,31.32,34.75,35.04,38.87,41.44,38.75
+Autonomous/Deregulated Private HEIs,Faculty Qualification,Faculty Qualification,Percent with PhD,Percent with PhD,9.24,9.09,10.09,9.67,9,9.75,9.69,11.09,12.66,11.45
+Autonomous/Deregulated Private HEIs,Accreditation,Number of HEIs with Accredited Programs,Number of HEIs with Accredited Programs,Number of HEIs with Accredited Programs,-,297,303,386,390,407,428,447,484,515
+Autonomous/Deregulated Private HEIs,Accreditation,Percent of HEIs with Accredited Programs,Percent of HEIs with Accredited Programs,Percent of HEIs with Accredited Programs,-,18,16,19,19.1,19.62,19.59,19.89,21.54,22.4
+Autonomous/Deregulated Private HEIs,Accreditation,Percent of HEIs with Accredited Programs,Number of Accredited Programs by Level,Candidate Status,-,51,62,534,547,525,626,655,838,984
+Autonomous/Deregulated Private HEIs,Accreditation,Percent of HEIs with Accredited Programs,Number of Accredited Programs by Level,Level I,-,317,322,313,416,506,621,704,842,1173
+Autonomous/Deregulated Private HEIs,Accreditation,Percent of HEIs with Accredited Programs,Number of Accredited Programs by Level,Level II,-,1057,1054,1155,1052,1000,1086,1038,1174,1343
+Autonomous/Deregulated Private HEIs,Accreditation,Percent of HEIs with Accredited Programs,Number of Accredited Programs by Level,Level III,-,186,180,290,375,441,604,702,734,725
+Autonomous/Deregulated Private HEIs,Accreditation,Percent of HEIs with Accredited Programs,Number of Accredited Programs by Level,Level IV,-,-,-,-,-,-,-,10,35,110
+Autonomous/Deregulated Private HEIs,Accreditation,Percent of HEIs with Accredited Programs,Number of Accredited Programs by Level,Total (Excluding Candidate Status),-,1560,1556,1758,1843,1947,2311,2454,2785,3351
+Total Number of Beneficiaries,Total Number of Beneficiaries,Total Number of Beneficiaries,Total Number of Beneficiaries,Total Number of Beneficiaries,799974,835099,802425,836962,863685,998015,999643,1101330,1188519,1280876
+Total Number of Beneficiaries,Total Number of Beneficiaries,Scholarship and Other Financial Assistance,Scholarship and Other Financial Assistance,Scholarship and Other Financial Assistance,57866,47004,47863,49016,40692,72775,57566,60471,63346,46751
+Total Number of Beneficiaries,Total Number of Beneficiaries,Scholarship and Other Financial Assistance,Other Scholarship Programs,Other Scholarship Programs,-,43344,-,15867,30850,71960,-,-,-,-
+Total Number of Beneficiaries,Total Number of Beneficiaries,Partial Subsidy thru SUCs Enrollment,Partial Subsidy thru SUCs Enrollment,Partial Subsidy thru SUCs Enrollment,742108,744751,754562,772079,792143,853280,942077,1040859,1125173,1234125
+ETEEAP,ETEEAP,Number of Graduates,Number of Graduates,Number of Graduates,404,501,656,1012,892,1814,919,1100,1351,-

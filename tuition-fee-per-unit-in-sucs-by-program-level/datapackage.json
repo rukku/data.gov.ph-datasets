@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/9a461166-76c9-40da-a456-926651e67a6a/resource/b7b913eb-2ebb-44b9-9f11-a58521c3b3ab/download/chedtuitionfeeperunitinstateuniversitiesandcollegesbyprogramlevel2010to2012.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "9a461166-76c9-40da-a456-926651e67a6a", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "tuition-fee-per-unit-in-sucs-by-program-level", 
+  "notes": "This dataset contains the State Universities and Colleges (SUCs) Tuition fee by program level from 2010-2012. The program level are as follows : Baccalaureate (BS/AB), Masters (MS/MA), Doctorate (PHD)", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-06T23:04:11.308816", 
+      "description": "This dataset contains the State Universities and Colleges (SUCs) Tuition fee by program level from 2010-2012. The program level are as follows : Baccalaureate (BS/AB), Masters (MS/MA), Doctorate (PHD)", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "b7b913eb-2ebb-44b9-9f11-a58521c3b3ab", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "TUITION FEE PER UNIT IN SUCS BY PROGRAM LEVEL", 
+      "package_id": "9a461166-76c9-40da-a456-926651e67a6a", 
+      "position": 0, 
+      "resource_group_id": "4c68dab7-212b-49b0-971b-a898f57c6a83", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/9a461166-76c9-40da-a456-926651e67a6a/resource/b7b913eb-2ebb-44b9-9f11-a58521c3b3ab/download/chedtuitionfeeperunitinstateuniversitiesandcollegesbyprogramlevel2010to2012.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Employment"
+  ], 
+  "title": "TUITION FEE PER UNIT IN SUCS BY PROGRAM LEVEL", 
+  "url": "", 
+  "version": ""
+}

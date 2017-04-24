@@ -1,0 +1,1 @@
+This dataset contains the dealers' prices of fertilizers and pesticides.

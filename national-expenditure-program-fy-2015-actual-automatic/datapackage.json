@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/3bb894c0-b062-4096-a418-fefeee9fa7a5/resource/34a35192-a1e5-43c5-8717-624598fa7016/download/2015NEPActualAutomatic.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "3bb894c0-b062-4096-a418-fefeee9fa7a5", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "national-expenditure-program-fy-2015-actual-automatic", 
+  "notes": "National Expenditure Program (NEP) Fiscal Year 2015 - Actual-Automatic (2013) (Not compliant with UACS-Unified Accounts Code System)", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T10:37:13.396565", 
+      "description": "National Expenditure Program (NEP) Fiscal Year 2015 - Actual-Automatic (2013) (Not compliant with UACS-Unified Accounts Code System)", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "34a35192-a1e5-43c5-8717-624598fa7016", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NATIONAL EXPENDITURE PROGRAM FY 2015 - ACTUAL-AUTOMATIC", 
+      "package_id": "3bb894c0-b062-4096-a418-fefeee9fa7a5", 
+      "position": 0, 
+      "resource_group_id": "075c03ee-8632-4005-84bc-6f499691cfde", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/3bb894c0-b062-4096-a418-fefeee9fa7a5/resource/34a35192-a1e5-43c5-8717-624598fa7016/download/2015NEPActualAutomatic.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Public Finance"
+  ], 
+  "title": "NATIONAL EXPENDITURE PROGRAM FY 2015 - ACTUAL-AUTOMATIC", 
+  "url": "", 
+  "version": ""
+}

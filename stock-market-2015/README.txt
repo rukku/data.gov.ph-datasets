@@ -1,0 +1,1 @@
+This dataset contains data on the Philippine stock market: Philippine Stock Exchange index (PSEi), sector indices, volume and value of stock market transactions, market capitalization and price-earnings (P/E) ratio.

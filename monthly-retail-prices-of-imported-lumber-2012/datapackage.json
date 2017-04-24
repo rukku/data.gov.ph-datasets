@@ -1,0 +1,46 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/xDyWsCvPWhRIKjl7hdp3/retail_price_imported_lumber_2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-12/31/2012"
+  }, 
+  "id": "b89c354d-c6da-4af9-835f-93fb79b04edd", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "monthly-retail-prices-of-imported-lumber-2012", 
+  "notes": "This dataset contains the monthly retail prices of imported lumber for the year 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T15:59:28.883156", 
+      "description": "This dataset contains the monthly retail prices of imported lumber for the year 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "0efd0d8c-738b-44eb-84a6-a93d532480d2", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Monthly Retail Prices of Imported Lumber 2012", 
+      "package_id": "b89c354d-c6da-4af9-835f-93fb79b04edd", 
+      "position": 0, 
+      "resource_group_id": "b8bdee1d-d6d4-4a11-a542-cebc0da489ec", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/xDyWsCvPWhRIKjl7hdp3/retail_price_imported_lumber_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Monthly Retail Prices of Imported Lumber 2012", 
+  "url": "", 
+  "version": ""
+}

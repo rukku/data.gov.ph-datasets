@@ -1,0 +1,1 @@
+This dataset contains the inventory of animals by farm type, by region and by province. This time-series includes the most recent data, covering the period from 1994 to the latest available semester/year.

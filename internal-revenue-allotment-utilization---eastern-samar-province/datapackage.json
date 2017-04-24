@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/GhTyXxmD8tutGmJ2fLUg/easternsamar_prov_irau_2012_q3.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "01/01/12-3/31/12, 07/01/2012-09/30/2012"
+  }, 
+  "id": "f2c6eca0-648d-4429-9929-b39da1dbb83d", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization---eastern-samar-province", 
+  "notes": "This dataset contains report of the internal revenue allotment utilization of Eastern Samar province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T16:12:32.453627", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "fb7e17cc-da4b-4f15-beaa-677b2b0f0578", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 3 - Eastern Samar Province IRAU", 
+      "package_id": "f2c6eca0-648d-4429-9929-b39da1dbb83d", 
+      "position": 0, 
+      "resource_group_id": "007be761-4240-4bfe-91ab-0c83542fd84f", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/GhTyXxmD8tutGmJ2fLUg/easternsamar_prov_irau_2012_q3.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "INTERNAL REVENUE ALLOTMENT UTILIZATION - Eastern Samar Province", 
+  "url": "", 
+  "version": ""
+}

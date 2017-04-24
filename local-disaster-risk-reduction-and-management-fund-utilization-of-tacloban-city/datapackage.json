@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/OyVus4rOJZM1eHs7HfyE/tacloban_city_ldrrmf_2012_q2.csv", 
+  "extras": {
+    "Granularity": "City or Municipality", 
+    "Temporal Date": "04/01/2012-06/30/2012, 01/01/2013-03/31/2013"
+  }, 
+  "id": "14b27777-b4cc-4590-bb2c-2a1da71483cc", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-tacloban-city", 
+  "notes": "This dataset contains report on the local disaster risk reduction and management fund utilization of Tacloban City.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-01-18T14:20:13.059707", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "0ef80c58-bdc9-4462-8fc6-aafc3605cbeb", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 1 - Tacloban City LDRRMF ", 
+      "package_id": "14b27777-b4cc-4590-bb2c-2a1da71483cc", 
+      "position": 0, 
+      "resource_group_id": "a705677c-7d26-4c01-95ce-bbd676a7d26a", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/OyVus4rOJZM1eHs7HfyE/tacloban_city_ldrrmf_2012_q2.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-01-18T14:20:19.701527", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "c1f2ffcd-9ba1-4c35-811b-cdf408b23206", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2013 Quarter 1 - Tacloban City LDRRMF", 
+      "package_id": "14b27777-b4cc-4590-bb2c-2a1da71483cc", 
+      "position": 1, 
+      "resource_group_id": "a705677c-7d26-4c01-95ce-bbd676a7d26a", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/r9dWE4C4kTZF7OXNuoGE/tacloban_city_ldrrmf_2013_q1.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization of Tacloban City", 
+  "url": "", 
+  "version": ""
+}

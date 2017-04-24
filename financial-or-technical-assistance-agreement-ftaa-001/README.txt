@@ -1,0 +1,2 @@
+Financial or Technical Assistance Agreement (FTAA)
+An Financial or Technical Assistance Agreement may be entered into between a Contractor and the Government for the large-scale exploration, development and utilization of gold, copper, nickel, chromite, lead, zinc and other minerals except for cement raw materials, marble, granite, sand and gravel and construction aggregates. (PH-EITI)

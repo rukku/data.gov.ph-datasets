@@ -1,0 +1,1 @@
+This dataset contains the area of farms by land use and by region. This time-series includes the most recent data, covering the period from 1960 to the latest available year.

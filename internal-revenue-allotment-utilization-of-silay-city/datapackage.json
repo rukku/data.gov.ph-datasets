@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/0fa8PUcMq3QzQ1gVlzwp/silaycity_ira_utilization_2012_q3.csv", 
+  "extras": {
+    "Granularity": "City or Municipality", 
+    "Temporal Date": "06/01/2012-09/30/2012"
+  }, 
+  "id": "18916c42-44bb-4940-9cb5-e0dc6ff6b441", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization-of-silay-city", 
+  "notes": "This dataset contains report of the internal revenue allotment utilization of Silay City.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-14T08:55:18.729158", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "4075ed92-cb36-42ed-ba3f-e929be411f79", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 3 - Silay City IRAU", 
+      "package_id": "18916c42-44bb-4940-9cb5-e0dc6ff6b441", 
+      "position": 0, 
+      "resource_group_id": "c415502b-d57c-4208-b7ce-e49c73f9b451", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/0fa8PUcMq3QzQ1gVlzwp/silaycity_ira_utilization_2012_q3.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-14T08:55:29.322462", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "573a18f1-71dc-4a94-827f-bf1fa146951d", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 2 - Silay City IRAU", 
+      "package_id": "18916c42-44bb-4940-9cb5-e0dc6ff6b441", 
+      "position": 1, 
+      "resource_group_id": "c415502b-d57c-4208-b7ce-e49c73f9b451", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/xlSZcBlLy2lbNWzebjv5/silaycity_ira_utilization_2012_q2.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Internal Revenue Allotment Utilization of Silay City", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Page not found | BSWM Maps</title>
+  <style type="text/css" media="all">@import url("http://bswm.maps.da.gov.ph/modules/system/system.base.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/modules/system/system.menus.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/modules/system/system.messages.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/modules/system/system.theme.css?mt42rw");</style>
+<style type="text/css" media="all">@import url("http://bswm.maps.da.gov.ph/modules/comment/comment.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/modules/field/theme/field.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/modules/node/node.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/modules/search/search.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/modules/user/user.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/sites/all/modules/views/css/views.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/sites/all/modules/bswm_contact/css/style.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/sites/all/modules/bswm_maps/css/style.css?mt42rw");</style>
+<style type="text/css" media="all">@import url("http://bswm.maps.da.gov.ph/sites/all/modules/ckeditor/ckeditor.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/sites/all/modules/ctools/css/ctools.css?mt42rw");</style>
+<style type="text/css" media="all">@import url("http://bswm.maps.da.gov.ph/sites/all/themes/bswm/css/ui-lightness/jquery-ui-1.10.3.custom.min.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/sites/all/themes/bswm/css/ui.jqgrid.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/sites/all/themes/bswm/css/jquery.dropdown.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/sites/all/themes/bswm/css/smoothDivScroll.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/sites/all/themes/bswm/css/style.css?mt42rw");
+@import url("http://bswm.maps.da.gov.ph/sites/all/themes/bswm/css/bswm-front.css?mt42rw");</style>
+  <script type="text/javascript" src="http://bswm.maps.da.gov.ph/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/misc/drupal.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/modules/bswm_contact/js/funcs.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/modules/bswm_maps/js/OpenLayers.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/modules/bswm_maps/js/funcs.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/themes/bswm/js/jquery-1.9.0.min.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/themes/bswm/js/jquery-ui-1.10.3.custom.min.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/themes/bswm/js/jquery.cycle.all.latest.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/themes/bswm/js/i18n/grid.locale-en.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/themes/bswm/js/jquery.jqGrid.min.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/themes/bswm/js/jquery.dropdown.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/themes/bswm/js/jquery.mousewheel.min.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/themes/bswm/js/jquery.kinetic.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/themes/bswm/js/jquery.smoothDivScroll-1.3.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/themes/bswm/js/map-tools.js?mt42rw"></script>
+<script type="text/javascript" src="http://bswm.maps.da.gov.ph/sites/all/themes/bswm/js/bswm-front.js?mt42rw"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bswm","theme_token":"eikVLCsAZx3s0AjqfD59LnvrvPl7EweNv1bU-IUoqrw","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"sites\/all\/modules\/bswm_contact\/js\/funcs.js":1,"sites\/all\/modules\/bswm_maps\/js\/OpenLayers.js":1,"sites\/all\/modules\/bswm_maps\/js\/funcs.js":1,"sites\/all\/themes\/bswm\/js\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/bswm\/js\/jquery-ui-1.10.3.custom.min.js":1,"sites\/all\/themes\/bswm\/js\/jquery.cycle.all.latest.js":1,"sites\/all\/themes\/bswm\/js\/i18n\/grid.locale-en.js":1,"sites\/all\/themes\/bswm\/js\/jquery.jqGrid.min.js":1,"sites\/all\/themes\/bswm\/js\/jquery.dropdown.js":1,"sites\/all\/themes\/bswm\/js\/jquery.mousewheel.min.js":1,"sites\/all\/themes\/bswm\/js\/jquery.kinetic.js":1,"sites\/all\/themes\/bswm\/js\/jquery.smoothDivScroll-1.3.js":1,"sites\/all\/themes\/bswm\/js\/map-tools.js":1,"sites\/all\/themes\/bswm\/js\/bswm-front.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/bswm_contact\/css\/style.css":1,"sites\/all\/modules\/bswm_maps\/css\/style.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bswm\/css\/ui-lightness\/jquery-ui-1.10.3.custom.min.css":1,"sites\/all\/themes\/bswm\/css\/ui.jqgrid.css":1,"sites\/all\/themes\/bswm\/css\/jquery.dropdown.css":1,"sites\/all\/themes\/bswm\/css\/smoothDivScroll.css":1,"sites\/all\/themes\/bswm\/css\/style.css":1,"sites\/all\/themes\/bswm\/css\/bswm-front.css":1}},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax"});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-maps-library" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<link href='http://fonts.googleapis.com/css?family=Lato:400italic,900' rel='stylesheet' type='text/css'>
+<div id="bswm-page-wrapper">
+    <div class="top"><img src='/sites/all/themes/bswm/images/top_banner.jpg' title='Top Banner'></div>
+    <div class="main-menu">
+                <script type="text/javascript">
+            var menu=new menu.dd("menu");
+            menu.init("menu","menuhover");
+        </script>
+    </div>
+
+
+        <div class="mid">
+            <div class="wrapper">
+                                                   <h1>Page not found</h1>
+                    <div class='header-divider'></div>
+                                  
+            <div class="tabs"></div>       
+                            <div class="mid-full mid-full_maps-library#">
+                      <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    The requested page "/maps-library#" could not be found.  </div>
+</div>
+  </div>
+                </div>
+                    </div>
+    </div>
+
+        <div class="footer">
+            <div class="wrapper">
+              
+                          <div class="region region-footer">
+    <div id="block-block-3" class="block block-block">
+
+    
+  <div class="content">
+    <div class="footer-left" p=""><a class="f-logo" href="#"><img src="/sites/all/themes/bswm/images/bswm-all-logos.jpg" /></a>
+<p> </p>
+</div>
+<div class="footer-right"> </div>
+<div class="insomniac-info"> </div>
+  </div>
+</div>
+  </div>
+                
+            </div>
+    </div>
+</div>  </body>
+</html>

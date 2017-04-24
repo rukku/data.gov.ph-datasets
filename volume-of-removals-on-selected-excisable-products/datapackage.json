@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Internal Revenue", 
+  "author_email": "contact_us@cctr.bir.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/zIOZKsYkAJ0m9VxDS7BU/birvolremselexciprod2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2015"
+  }, 
+  "id": "8dd8087b-d3e1-4c86-93f5-5caa1ad60c1b", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Research and Statistics Division", 
+  "maintainer_email": "josephine.vargas@bir.gov.ph", 
+  "name": "volume-of-removals-on-selected-excisable-products", 
+  "notes": "This dataset contains volume on selected excisable products. Note: Effective March, 2008, Source: LT Performance Monitoring and Programs Division, LTS, Prepared by Research and Statistics Division", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-06T14:10:03.369098", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "873ee9c6-042e-43d2-8e8d-ec1c37112383", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "VOLUME OF REMOVALS ON SELECTED EXCISABLE PRODUCTS", 
+      "package_id": "8dd8087b-d3e1-4c86-93f5-5caa1ad60c1b", 
+      "position": 0, 
+      "resource_group_id": "1332ca2f-f77f-4b4f-8964-f02cbcae11d6", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/zIOZKsYkAJ0m9VxDS7BU/birvolremselexciprod2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Public Finance"
+  ], 
+  "title": "Volume of Removals on Selected Excisable Products", 
+  "url": "", 
+  "version": ""
+}

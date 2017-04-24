@@ -1,0 +1,1 @@
+This dataset contains Quoted Rates of Dollar Savings and Time Deposits. Savings Deposit Rate is the rate charged on all interest-bearing deposits of banks, which are withdrawable anytime. Time Deposits Rate is the weighted average interest rate charged on interest-bearing deposits with fixed-maturity dates and evidenced by certificates issued by banks.

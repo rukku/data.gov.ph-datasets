@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=F20TDVAE", 
+  "extras": {
+    "Frequency Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1994-12/31/2013"
+  }, 
+  "id": "6a6ac7bb-97f0-46f1-a0e6-5df749d772c4", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "agricultural-exports---quantity-and-value", 
+  "notes": "This dataset contains the quantity and value of agricultural exports. This time-series includes the most recent data, covering the period from 1994 to the latest available year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-12T13:00:40.085428", 
+      "description": "This dataset contains the quantity and value of agricultural exports. This time-series includes the most recent data, covering the period from 1994 to the latest available year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "e9ae32eb-e824-4046-8161-996928bcadf3", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Agricultural Exports: Quantity and Value", 
+      "package_id": "6a6ac7bb-97f0-46f1-a0e6-5df749d772c4", 
+      "position": 0, 
+      "resource_group_id": "35ffee36-4893-4bde-bf6a-71a203bf92f4", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=F20TDVAE", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Agricultural Exports - Quantity and Value", 
+  "url": null, 
+  "version": null
+}

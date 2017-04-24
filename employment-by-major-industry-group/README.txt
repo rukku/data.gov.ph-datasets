@@ -1,0 +1,1 @@
+This dataset contains the quarterly employment by major industry group. This time-series includes the most recent data, covering the period from 2001 to the latest available quarter/year.

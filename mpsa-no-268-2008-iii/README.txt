@@ -1,0 +1,1 @@
+Mineral Production Sharing Agreement - A mineral agreement wherein Government shares in the production of the Contractor, whether in kind or in value, as owner of the minerals, and the Contractor gets the rest. In return, the Contractor provides the necessary financing, technology, management and personnel for the mining project. (PH-EITI)

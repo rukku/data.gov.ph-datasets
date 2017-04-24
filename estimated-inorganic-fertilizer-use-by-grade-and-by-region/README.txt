@@ -1,0 +1,1 @@
+This dataset contains estimated inorganic fertilizer use of corn and palay by grade and by Region. This time-series includes the most recent data, covering the period from  2003 to the latest available year.

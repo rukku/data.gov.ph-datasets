@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/6IFMvbMCIsdgmNiMHBLd/pampangaprov_irau_201301-201303_q1.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "04/01/2012-06/30/2012, 01/01/13-03/31/13"
+  }, 
+  "id": "86c56f0b-6fde-4e64-96c9-57bb6c603209", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization-of-pampanga-province", 
+  "notes": "This dataset contains report of the internal revenue allotment utilization of Pampanga province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-23T16:47:24.142396", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "4b3f6080-e9c1-4a8c-a5ac-b310e1873477", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2013 Quarter 1 - Pampanga Province IRAU", 
+      "package_id": "86c56f0b-6fde-4e64-96c9-57bb6c603209", 
+      "position": 0, 
+      "resource_group_id": "fcb85584-28e9-48d4-86d2-bb68159452f5", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/6IFMvbMCIsdgmNiMHBLd/pampangaprov_irau_201301-201303_q1.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-23T16:47:27.478014", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "d83d6ff1-9387-4a69-b642-c3da593efcdd", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 2 - Pampanga Province IRAU", 
+      "package_id": "86c56f0b-6fde-4e64-96c9-57bb6c603209", 
+      "position": 1, 
+      "resource_group_id": "fcb85584-28e9-48d4-86d2-bb68159452f5", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/Fwmo1kzEuGJp6fHaOzKJ/pampangaprov_irau_2012_q2.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "INTERNAL REVENUE ALLOTMENT UTILIZATION of Pampanga Province", 
+  "url": "", 
+  "version": ""
+}

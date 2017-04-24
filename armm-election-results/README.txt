@@ -1,0 +1,1 @@
+This dataset contains the list of winning candidates of regional legislative assemblyman for the year 2005, 2008 and 2013.

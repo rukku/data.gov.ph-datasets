@@ -1,0 +1,47 @@
+{
+  "author": "Department of Energy", 
+  "author_email": "", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/c2934db5-e078-4c59-b998-40a96d640053/resource/fbb8c8d9-fe70-4cbf-913e-956d2841e686/download/FiguresPECR5Areasforoffer05052014.jpg", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": "5/5/2014"
+  }, 
+  "id": "c2934db5-e078-4c59-b998-40a96d640053", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "figures-pecr5-areas-for-offer-may-5-2014", 
+  "notes": "PECR5 Areas for Offer Map (PH-EITI)", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-10T10:33:36.205411", 
+      "description": "", 
+      "format": "JPEG", 
+      "hash": "", 
+      "id": "fbb8c8d9-fe70-4cbf-913e-956d2841e686", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Figures_PECR5_Areas_for_offer_05052014.jpg", 
+      "package_id": "c2934db5-e078-4c59-b998-40a96d640053", 
+      "position": 0, 
+      "resource_group_id": "3e80dd9a-e644-4842-aa4c-d51c3020fa70", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/c2934db5-e078-4c59-b998-40a96d640053/resource/fbb8c8d9-fe70-4cbf-913e-956d2841e686/download/FiguresPECR5Areasforoffer05052014.jpg", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Figures PECR5 Areas for offer May 5 2014", 
+  "url": "https://www.doe.gov.ph", 
+  "version": ""
+}

@@ -1,0 +1,1 @@
+This dataset contains the NBI clearance processing centers and total number of clearance issued from January to October 2015. This covers the regions and provinces.

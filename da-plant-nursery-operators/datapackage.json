@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/nrVkefdsVNw9t0u7ck3s/daplantnurseryop2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "b5af4f2d-518e-42d8-9553-7432a4fb07c3", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "da-plant-nursery-operators", 
+  "notes": "Directory of Plant Nursery Operators.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T13:49:03.553921", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "51fbe478-0b43-4561-b91a-e880454fb50a", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Plant Nursery Operators", 
+      "package_id": "b5af4f2d-518e-42d8-9553-7432a4fb07c3", 
+      "position": 0, 
+      "resource_group_id": "295f86e7-c805-4898-9685-c87cef9ea23c", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/nrVkefdsVNw9t0u7ck3s/daplantnurseryop2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Plant Nursery Operators", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/LvvYPRCOTEd1HuvgQQZH/datrainingcenter2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "be2cb1c1-a802-404c-bc7f-f036174135b9", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "da-training-centers", 
+  "notes": "Directory of ATI Network of Training Centers.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-04T17:10:35.871633", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "18ceff9e-bb60-4477-a431-a23e8e4af954", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Training Centers", 
+      "package_id": "be2cb1c1-a802-404c-bc7f-f036174135b9", 
+      "position": 0, 
+      "resource_group_id": "cbd6e151-04a8-43df-8ad4-a74bade1eaed", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/LvvYPRCOTEd1HuvgQQZH/datrainingcenter2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Training Centers", 
+  "url": "", 
+  "version": ""
+}

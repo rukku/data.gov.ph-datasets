@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/d70280c8-2a18-4826-aec6-d32437c2f120/resource/2cd0aa0f-2579-461b-a6d6-cff0b371789c/download/NSCBGrowthRatesGNIandGDP2012to2013.xlsx", 
+  "extras": {
+    "Frequency of Update": "Quarterly", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "d70280c8-2a18-4826-aec6-d32437c2f120", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-growth-rates-gni-and-gdp-2012-to-2013", 
+  "notes": "Growth Rates of Gross National Income and Gross Domestic Product from 2012 to 2013", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T11:31:40.643342", 
+      "description": "Growth Rates of Gross National Income and Gross Domestic Product from 2012 to 2013", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "2cd0aa0f-2579-461b-a6d6-cff0b371789c", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - GROWTH RATES - GNI AND GDP - 2012 TO 2013", 
+      "package_id": "d70280c8-2a18-4826-aec6-d32437c2f120", 
+      "position": 0, 
+      "resource_group_id": "1580b0bc-315b-4b4d-a31f-96976ca04ff2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/d70280c8-2a18-4826-aec6-d32437c2f120/resource/2cd0aa0f-2579-461b-a6d6-cff0b371789c/download/NSCBGrowthRatesGNIandGDP2012to2013.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "NSCB - GROWTH RATES - GNI AND GDP - 2012 TO 2013", 
+  "url": "", 
+  "version": ""
+}

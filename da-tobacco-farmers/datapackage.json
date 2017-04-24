@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/Ym7AAlFEc2Mh49L637Yi/databfarmers2008-2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "c0ae7de8-0f23-4316-a928-bae10d142dcc", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "da-tobacco-farmers", 
+  "notes": "Total number of farmers-cooperator and area planted for the different type of tobacco. Note: Area in heactares", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-04T17:23:36.629377", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "a5bcaeec-73e1-4ca4-bbbb-cccf0a669fe6", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Tobacco Farmers", 
+      "package_id": "c0ae7de8-0f23-4316-a928-bae10d142dcc", 
+      "position": 0, 
+      "resource_group_id": "da5508be-543b-4b92-920e-c3d8c9f89738", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/Ym7AAlFEc2Mh49L637Yi/databfarmers2008-2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Tobacco Farmers", 
+  "url": "", 
+  "version": ""
+}

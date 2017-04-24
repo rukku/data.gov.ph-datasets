@@ -1,0 +1,1 @@
+The Budget Operations Statement is a financial report submitted by the Local Government Units to the Bureau of Local Government Finance prior to CY 2001. The LGUs reports were consolidated by the Bureau and served as the primary data on financial conditions of the LGUs. Note: amounts in million pesos

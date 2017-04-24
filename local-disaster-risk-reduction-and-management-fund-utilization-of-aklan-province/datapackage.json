@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/so25hubE74uD7wulX5js/aklanprov_ldrrmf_06302013_q2.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "03/01/2013-06/30/2013"
+  }, 
+  "id": "2e107a13-f441-4bfe-a36a-acc1910ad9c5", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-aklan-province", 
+  "notes": "his dataset contains report on the local disaster risk reduction and management fund utilization of Aklan Province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-14T09:00:52.413755", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "7666ccd0-c145-4eb4-b724-3080e56bb8a4", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2013 Quarter 2 - Aklan Province LDRRMF", 
+      "package_id": "2e107a13-f441-4bfe-a36a-acc1910ad9c5", 
+      "position": 0, 
+      "resource_group_id": "3c48c85a-2eac-432b-b3c8-1f2a10a09ee6", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/so25hubE74uD7wulX5js/aklanprov_ldrrmf_06302013_q2.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization of Aklan Province", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,46 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/SGdq0XlZGSZp3kvGtZdt/domestic_price_locally_produced_logs_naturally_grown_2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-12/31/2012"
+  }, 
+  "id": "b461699b-b806-4ba8-9d28-b7cd799fe896", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "quarterly-domestic-prices-of-locally-produced-logs-and-naturally-planted-2012", 
+  "notes": "This dataset contains the quarterly domestic prices of locally produced logs and naturally grown for the year 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T15:53:25.639730", 
+      "description": "This dataset contains the quarterly domestic prices of locally produced logs and naturally grown for the year 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "c80ebe76-4e7c-4e08-b598-4ed1c30123aa", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Quarterly Domestic Price Locally Produces logs and Natural Grown 2012", 
+      "package_id": "b461699b-b806-4ba8-9d28-b7cd799fe896", 
+      "position": 0, 
+      "resource_group_id": "18cb1e8a-391a-460e-8579-8536dd577538", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/SGdq0XlZGSZp3kvGtZdt/domestic_price_locally_produced_logs_naturally_grown_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Quarterly Domestic Prices of Locally Produced Logs and Naturally Planted 2012", 
+  "url": "", 
+  "version": ""
+}

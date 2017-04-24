@@ -1,0 +1,45 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/E1hLYYSMV2MBe774LH5U/maasin_city_ira_utilization_2012_q1-q4.csv", 
+  "extras": {
+    "Frequency Update": "Quarterly", 
+    "Granularity": "City or Municipality", 
+    "Temporal Date": "01/01/12-12/31/12"
+  }, 
+  "id": "b346a2fc-1881-4ae7-bc9b-e576e5bde192", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization---maasin-city-", 
+  "notes": "This dataset contains report of the internal revenue allotment utilization of Maasin city.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T16:30:18.270009", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "94aee89a-2fe4-4793-bde6-958b1ace9ade", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 1-4 - Maasin City IRAU", 
+      "package_id": "b346a2fc-1881-4ae7-bc9b-e576e5bde192", 
+      "position": 0, 
+      "resource_group_id": "0f8e6a50-7db4-4716-b1cd-08b641ef7d55", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/E1hLYYSMV2MBe774LH5U/maasin_city_ira_utilization_2012_q1-q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "INTERNAL REVENUE ALLOTMENT UTILIZATION - Maasin City", 
+  "url": null, 
+  "version": null
+}

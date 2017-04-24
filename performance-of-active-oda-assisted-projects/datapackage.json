@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://gov.ph/performance-of-active-oda.html", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "00784454-50cd-4dc9-ac6b-25f51a63944a", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "performance-of-active-oda-assisted-projects", 
+  "notes": "This dataset contains information on the physical status, financial status and performance (fund utilization, time elapsed) of active ODA grant-assisted projects, as well as their basic profile data such as project title, implemneting agency, funding instituion or development partner, an project start and end dates.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-04-22T16:21:43.668705", 
+      "description": "This dataset contains information on the physical status, financial status and performance (fund utilization, time elapsed) of active ODA grant-assisted projects, as well as their basic...", 
+      "format": "HTML", 
+      "hash": "", 
+      "id": "51f48fad-0bb4-46b2-b6d6-7fb6a3c26849", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "PERFORMANCE OF ACTIVE ODA GRANT-ASSISTED PROJECTS AS OF JUNE 2014 (DATASET)", 
+      "package_id": "00784454-50cd-4dc9-ac6b-25f51a63944a", 
+      "position": 0, 
+      "resource_group_id": "fe1efbcb-249b-4b1f-935a-c65029983b48", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://gov.ph/performance-of-active-oda.html", 
+      "url_type": "", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "Performance of Active ODA Assisted Projects", 
+  "url": "", 
+  "version": "1.0"
+}

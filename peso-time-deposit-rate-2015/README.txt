@@ -1,0 +1,3 @@
+This dataset consists of various peso time deposit rates. Time Deposit Rate is the weighted average interest rate of interest-bearing peso deposits with fixed-maturity dates and evidenced by certificates issued by banks.
+Sope and Classification: Time deposit rate comes in tenors of 30-45 days, 46-60 days, 61-90 days, 91-180 days, 181 days-1 year, over 1 year-2 years, over 2 years as well as all maturities and are obtained from local banks, subsidiaries of foreign banks and foreign banks.
+Sources of Data and Methodology: Time deposit rate comes in tenors of 30-45 days, 46-60 days, 61-90 days, 91-180 days, 181 days-1 year, over 1 year-2 years, over 2 years as well as all maturities and are obtained from local banks, subsidiaries of foreign banks and foreign banks.

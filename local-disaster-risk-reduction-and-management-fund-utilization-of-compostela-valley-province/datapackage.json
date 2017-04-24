@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/9ELYKW9yNLJVYcsPJgd7/compostellavalley_ldrrmf_09302012_q3.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "07/01/2012-12/31/2012"
+  }, 
+  "id": "a97ffbf8-ee15-42ee-878b-1e96eed442f9", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-compostela-valley-province", 
+  "notes": "This dataset contains report on the local disaster risk reduction and management fund utilization of Compostela Valley Province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-15T09:49:21.655823", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "0378d54f-6fc9-4b72-b576-afe82f1395dc", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 3 - Compostela Valley Province LDRRMF", 
+      "package_id": "a97ffbf8-ee15-42ee-878b-1e96eed442f9", 
+      "position": 0, 
+      "resource_group_id": "b5b51a2b-54a7-48ab-a0be-0ce96a7599ee", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/9ELYKW9yNLJVYcsPJgd7/compostellavalley_ldrrmf_09302012_q3.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-15T09:49:26.049261", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "02af14c1-4d99-4026-8d9f-0a4a214e55d4", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Compostela Valley Province LDRRMF", 
+      "package_id": "a97ffbf8-ee15-42ee-878b-1e96eed442f9", 
+      "position": 1, 
+      "resource_group_id": "b5b51a2b-54a7-48ab-a0be-0ce96a7599ee", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/3mZF4X7ncPQ1GbMDnSIA/compostellavalley_ldrrmf_12312012_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "LOCAL DISASTER RISK REDUCTION AND MANAGEMENT FUND UTILIZATION OF COMPOSTELA VALLEY PROVINCE", 
+  "url": "", 
+  "version": ""
+}

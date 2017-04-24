@@ -1,0 +1,46 @@
+{
+  "author": "Commission on Election (COMELEC)", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/NlFR4p8bMXx8rNABRVeL/comelec_reg_voters_1992-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1992-12/31/2013"
+  }, 
+  "id": "75097c7f-0f09-4591-a0b4-5d15d0e90adc", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "number-of-registered-voters-by-region", 
+  "notes": "This dataset contains the number of registered voters, voters who actually voted and percentage of voting by region.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-11T17:37:18.283530", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "2416abd3-04f8-47f6-bff0-64257904c5b3", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Number of Registered Voters by Region 1992-2013", 
+      "package_id": "75097c7f-0f09-4591-a0b4-5d15d0e90adc", 
+      "position": 0, 
+      "resource_group_id": "dc8a9ac0-3634-4b72-824c-c99a018b378d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/NlFR4p8bMXx8rNABRVeL/comelec_reg_voters_1992-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Politics"
+  ], 
+  "title": "Number of Registered Voters by Region", 
+  "url": "", 
+  "version": ""
+}

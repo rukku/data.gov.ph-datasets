@@ -1,0 +1,46 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/t49mWTSkJlLg2vPVXIhE/ave_domestic_price_wood_panel_board_2004-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2004-12/31/2013"
+  }, 
+  "id": "7938ccf9-5f23-49e5-921f-890d89c81257", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "average-domestic-price-of--wood-panel-2004-2013", 
+  "notes": "This dataset contains the average domestic price of wood panel board for the year 2004-2013.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T15:50:08.828658", 
+      "description": "This dataset contains the average domestic price of wood panel board for the year 2004 to 2013.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "ff882c29-88f5-43a8-92d6-e66e039a6680", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Average Domestic Price of Wood Panel 2004-2013", 
+      "package_id": "7938ccf9-5f23-49e5-921f-890d89c81257", 
+      "position": 0, 
+      "resource_group_id": "25e2c2a0-bb43-44ab-ac50-14b3f4b90c09", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/t49mWTSkJlLg2vPVXIhE/ave_domestic_price_wood_panel_board_2004-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Average Domestic Price of  Wood Panel 2004-2013", 
+  "url": "", 
+  "version": ""
+}

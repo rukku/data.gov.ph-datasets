@@ -1,0 +1,49 @@
+particulars_1,particulars_2,total
+Assets-Current Assets,Cash ,49226580.53
+Assets-Current Assets,Receivables ,8947969.79
+Assets-Current Assets,Inventory ,-
+Assets-Current Assets,Prepayments,-
+Assets-Current Assets,Deposits on Letters of Credit ,0
+Assets-Current Assets,Total Current Assets ,58174550.32
+Assets,Investments,-
+Assets,Inventories,-
+Assets,"Property,Plant and Equipment(net of depreciation)",-
+Assets,"Property, Plant and Equipment",-
+Assets,Land ,1335436
+Assets,Land Improvement,2502875.79
+Assets,Buildings,345310.91
+Assets,Other Structures ,3500994.51
+Assets,"Office Equipment, Furnitures and Fixtures ",2127571.59
+Assets,Machineries and Equipment ,45799850.93
+Assets,Transportation Equipment ,2475988.34
+Assets,"Other Propoerty, Plant and Equipment ",92772.75
+Assets,Other Machineries and Equipment ,116816.66
+Assets,Public Infrastructures,0
+Assets,Conctruction-in-Progress ,3092813.7
+Assets,Other Assets,149061
+Assets,Total Assets ,119714042.5
+Liabilities and Equity,Current Liabilities ,1963013.26
+Liabilities and Equity,Long-Term Liabilities ,0
+Liabilities and Equity,Deferred Credits ,0
+Liabilities and Equity,Total Liabilities ,1963013.26
+Equity,Government Equity ,117751029.2
+Total Liabilities and Equity ,Total Liabilities and Equity ,119714042.5
+Income,Other Local Taxes,3402.96
+Income,Service Income,0
+Income,Other Income,0
+Income,Total Income ,3402.96
+Income,Less: Expenses-Personal Services,-
+Income,Less: Expenses-Maintenance and Other Operating Expenses ,8673092.07
+Income,Less: Expenses-Total Expenses ,8673092.07
+Income,Operating Income,-8669689.11
+Income,Less: Finance Cost-Interest Expenses,-
+Income,Less: Finance Cost-Other Financial Charges,5008.28
+Income,Income Before Subsidies and Extraordinary Receipts,-8674697.39
+Income,Add: Subsidy from Other Funds,64276008
+Income,Income After Subsidies and Extraordinary Receipts ,55601310.61
+Income,Less: Subsidy to Other LGU ,0
+Income,Subsidy to NGA,0
+Income,"Income Before Extraordinary Items 55,601,310.61",-
+Income,Less: Extarordinary Items-Loss on Sale of Disposed Assets,-
+Income,Less: Extarordinary Items-Loss on Sale of Securities ,0
+Income,Net Income,55601310.61

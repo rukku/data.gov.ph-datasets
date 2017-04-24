@@ -1,0 +1,2 @@
+This dataset contains the Balance of Payments (BOP) Statistics of the Philippines presenting the summary of the economic transactions of a country with the rest of the world for a given period. It serves as an accounting statement on the economic dealings between residents of the country and non-residents. It consists of data on the Current Account, Capital Account, Financial Account, and changes in reserve assets and liabilities. 
+*(BPM6 Format)

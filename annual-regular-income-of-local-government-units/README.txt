@@ -1,0 +1,1 @@
+Total amount of income earned annually. Gross annual income represents the amount of money a person earns in one year from all sources before taxes. Note: Cells with dash (-) sign are classified as Municipality on that year.

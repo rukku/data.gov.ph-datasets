@@ -1,0 +1,310 @@
+region,airport,airline_operator,january,february,march,april,may,june,july,august,september,october,november,december,total,-
+CAR,Baguio,Asian Spirit,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+CAR,Baguio,G. Aviation,140,142,78,58,76,30,28,10,28,94,212,158,1054,-
+CAR,Baguio,Military,8,2,16,58,4,30,0,0,42,0,30,42,232,-
+I (Ilocos Norte),Laoag (International),Cebu Pacific,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+I (Ilocos Norte),Laoag (International),China S. Air,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+I (Ilocos Norte),Laoag (International),Mandarin Airlines,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+I (Ilocos Norte),Laoag (International),HK Express,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+I (Ilocos Norte),Laoag (International),Air Macao,16,0,20,10,22,0,0,0,0,0,0,0,68,-
+I (Ilocos Norte),Laoag (Domestic),PAL,62,58,64,62,62,58,62,60,60,70,84,100,802,-
+I (Ilocos Norte),Laoag (Domestic),Air Philippines,60,58,62,62,62,58,42,50,38,42,0,0,534,-
+I (Ilocos Norte),Laoag (Domestic),Cebu Pacific,62,60,62,62,62,58,64,62,60,62,60,66,740,-
+I (Ilocos Norte),Laoag (Domestic),Air Republic ,0,0,8,0,0,6,14,14,16,8,0,0,66,-
+I (Ilocos Norte),Laoag (Domestic),Far East Avia.,0,0,6,0,0,0,0,0,0,0,0,0,6,-
+I (Ilocos Norte),Laoag (Domestic),WCC,10,14,26,-,30,20,10,0,0,0,0,0,110,-
+I (Ilocos Norte),Laoag (Domestic),G. Aviation,78,72,102,24,36,28,0,30,24,0,136,96,626,-
+I (Ilocos Norte),Laoag (Domestic),Military,4,0,2,0,0,4,0,8,2,0,8,0,28,-
+I (Ilocos Norte),Lingayen,G. Aviation,4736,6100,5256,4770,5690,5480,5214,4228,3876,8178,5150,5214,63892,-
+I (Ilocos Norte),Lingayen,Military,0,0,14,0,0,0,0,0,0,0,0,0,14,-
+I (Ilocos Norte),San Fernando,G. Aviation,no report submitted,no report submitted,0,0,0,0,0,0,0,0,0,0,0,-
+I (Ilocos Norte),Vigan,Lion Air,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+I (Ilocos Norte),Vigan,Seair,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+I (Ilocos Norte),Vigan,North South Air,28,4,0,24,18,24,24,22,24,16,0,22,206,-
+I (Ilocos Norte),Vigan,G. Aviation,264,418,314,256,132,84,0,90,110,214,452,302,2636,-
+I (Ilocos Norte),Vigan,Military,0,0,34,2,0,2,0,0,0,0,0,2,40,-
+II (Cagayan Valley),Bagabag,G. Aviation,4,2,4,2,0,12,0,0,0,0,0,0,24,-
+II (Cagayan Valley),Bagabag,Cyclone,0,0,0,12,12,0,0,0,0,0,0,0,24,-
+II (Cagayan Valley),Basco,Cyclone,0,0,0,0,0,0,0,0,54,42,0,0,96,-
+II (Cagayan Valley),Basco,Seair,46,42,46,44,38,34,12,0,0,-,4,16,282,-
+II (Cagayan Valley),Basco,Lion Air,0,0,0,0,26,6,0,0,0,0,28,20,80,-
+II (Cagayan Valley),Basco,North Sky Air,64,54,28,0,0,8,24,0,20,34,84,66,382,-
+II (Cagayan Valley),Basco,Sky Jet,0,0,0,28,0,0,0,0,0,0,0,10,38,-
+II (Cagayan Valley),Basco,Mid Sea,0,0,0,72,106,110,90,0,0,0,0,0,378,-
+II (Cagayan Valley),Basco,FEAS,0,0,0,28,0,0,0,0,0,0,0,0,28,-
+II (Cagayan Valley),Basco,WCC,66,72,66,62,74,48,44,0,52,58,4,0,546,-
+II (Cagayan Valley),Basco,Military,0,2,0,0,0,0,0,0,0,0,0,0,2,-
+II (Cagayan Valley),Basco,G. Aviation,2,10,54,6,4,8,0,0,0,8,8,2,102,-
+II (Cagayan Valley),Cauayan,Cebu Pacific,34,28,32,36,34,30,24,26,24,18,26,24,336,-
+II (Cagayan Valley),Cauayan,G. Aviation,6,2,232,10,0,2,14,0,8,8,6,24,312,-
+II (Cagayan Valley),Cauayan,PAL,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Cauayan,Seair,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Cauayan,Military,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Cauayan,Cyclone Airways,0,0,0,0,0,0,166,186,172,192,188,154,1058,-
+II (Cagayan Valley),Cauayan,Cyclone flying,680,520,194,578,974,184,76,178,394,212,14,46,4050,-
+II (Cagayan Valley),Cauayan,WCC,0,0,0,0,0,0,0,0,0,-,0,0,0,-
+II (Cagayan Valley),Itbayat,Sky pasada,12,18,30,0,0,0,0,0,2,6,0,0,68,-
+II (Cagayan Valley),Itbayat,North Sky Air,28,28,0,0,0,2,0,0,0,0,2,0,60,-
+II (Cagayan Valley),Itbayat,Mid Sea Express,0,0,0,54,0,82,50,0,0,0,0,0,186,-
+II (Cagayan Valley),Itbayat,Air Republic,0,0,0,0,82,0,0,0,0,0,0,0,82,-
+II (Cagayan Valley),Itbayat,Aviation Ser,0,0,0,22,0,0,0,0,0,0,0,0,22,-
+II (Cagayan Valley),Itbayat,Cyclone,0,0,0,0,0,0,0,40,24,22,0,0,86,-
+II (Cagayan Valley),Palanan,Cyclone,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Palanan,WCC,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Palanan,G. Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Palanan,Military,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Tuguegarao (International),Cebu Pacific,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Tuguegarao (International),G. Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Tuguegarao (International),Military,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Tuguegarao (Domestic),Cebu Pacific,60,52,60,58,62,58,56,58,60,52,70,66,712,-
+II (Cagayan Valley),Tuguegarao (Domestic),Air Philippines,102,52,58,58,60,56,58,58,60,50,58,52,722,-
+II (Cagayan Valley),Tuguegarao (Domestic),North Sky Air,36,32,20,0,0,18,56,102,44,96,124,150,678,-
+II (Cagayan Valley),Tuguegarao (Domestic),Lion Air,0,0,0,0,0,0,0,0,0,0,0,22,22,-
+II (Cagayan Valley),Tuguegarao (Domestic),Royal Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Tuguegarao (Domestic),WCC Skypasada,116,102,110,100,110,82,94,94,90,80,40,0,1018,-
+II (Cagayan Valley),Tuguegarao (Domestic),ATX,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Tuguegarao (Domestic),Mid Sea Express,0,0,6,2,16,28,24,20,20,16,0,0,132,-
+II (Cagayan Valley),Tuguegarao (Domestic),Batanes Air,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Tuguegarao (Domestic),Florida Air,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Tuguegarao (Domestic),Cyclone,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+II (Cagayan Valley),Tuguegarao (Domestic),G. Aviation,46,24,24,40,64,24,20,24,18,22,14,30,350,-
+II (Cagayan Valley),Tuguegarao (Domestic),Military,0,0,10,4,10,0,0,0,0,10,12,0,46,-
+III (Central Luzon),Iba,G. Aviation,570,422,634,474,538,1006,586,586,568,824,884,452,7544,-
+III (Central Luzon),Subic,International,no report submitted,-,-,-,-,-,-,-,-,-,-,-,-,-
+III (Central Luzon),Subic,Domestic,no report submitted,-,-,-,-,-,-,-,-,-,-,-,-,-
+III (Central Luzon),Subic,G. Aviation,no report submitted,-,-,-,-,-,-,-,-,-,-,-,-,-
+III (Central Luzon),Diosdado Macapagal International Airport,International,no report submitted,-,-,-,-,-,-,-,-,-,-,-,-,-
+III (Central Luzon),Diosdado Macapagal International Airport,Domestic,no report submitted,-,-,-,-,-,-,-,-,-,-,-,-,-
+III (Central Luzon),Plaridel,G. Aviation,8324,11004,9562,7246,8016,12644,10272,11874,12596,13160,16068,13954,134720,-
+NCR,NAIA,International,13114,11978,12978,13234,13706,13114,13562,13628,13076,13518,13320,14142,159370,-
+NCR,NAIA,Domestic,27590,24538,26914,28506,29490,25936,24380,25508,23174,25442,24710,25476,311664,-
+NCR,NAIA,G. Aviation,7058,6580,6600,7048,7194,6224,6038,5408,5134,5290,6378,6170,75122,-
+IV-A (CALABARZON)),Alabat,G. Aviation,no report submitted,-,0,0,0,0,0,0,0,0,0,0,0,-
+III (Central Luzon),Baler,G. Aviation,140,226,100,56,0,58,76,48,0,96,170,0,970,-
+IV-B (MIMAROPA),Busuanga,Air Philippines,182,102,112,120,124,0,0,0,0,0,0,0,640,-
+IV-B (MIMAROPA),Busuanga,Cebu Pacific,186,170,172,180,186,0,0,0,0,0,0,0,894,-
+IV-B (MIMAROPA),Busuanga,Asian Spirit,78,82,58,64,62,0,0,0,0,0,0,0,344,-
+IV-B (MIMAROPA),Busuanga,Seair,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IV-B (MIMAROPA),Busuanga,G. Aviation,224,142,110,202,202,0,0,0,0,0,0,0,880,-
+IV-B (MIMAROPA),Calapan,G. Aviation,0,0,0,0,0,0,60,50,0,26,0,100,236,-
+IV-B (MIMAROPA),Cuyo,Seair,no report submitted,-,0,0,0,0,0,0,0,0,0,0,0,-
+IV-B (MIMAROPA),Cuyo,G. Aviation,62,70,62,94,0,0,0,0,0,0,0,0,288,-
+IV-B (MIMAROPA),Cuyo,Military,no report submitted,-,0,0,0,0,0,0,0,0,0,0,0,-
+IV-A (CALABARZON)),Jomalig,G. Aviation,0,0,0,0,0,0,2,0,0,0,0,6,8,-
+IV-B (MIMAROPA),Lubang,G. Aviation,1212,986,374,18,22,30,32,20,22,18,18,24,2776,-
+IV-B (MIMAROPA),Lubang,Military,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IV-B (MIMAROPA),Mamburao,Military,0,0,0,0,0,0,0,0,0,0,18,0,18,-
+IV-B (MIMAROPA),Mamburao,G. Aviation,68,34,184,82,230,70,42,8,2,34,66,214,1034,-
+IV-B (MIMAROPA),Marinduque,Zest Air,62,0,36,60,26,30,36,62,60,60,58,60,550,-
+IV-B (MIMAROPA),Marinduque,Seair,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IV-B (MIMAROPA),Marinduque,G. Aviation,-,0,0,0,0,0,0,0,0,8,0,0,8,-
+IV-B (MIMAROPA),Puerto Princesa ,PAL,124,118,128,142,186,152,124,124,120,98,0,0,1316,-
+IV-B (MIMAROPA),Puerto Princesa ,Air Philippines,142,174,208,222,262,250,256,256,234,258,318,338,2918,-
+IV-B (MIMAROPA),Puerto Princesa ,Cebu Pacific,248,232,278,338,356,330,328,314,292,314,376,378,3784,-
+IV-B (MIMAROPA),Puerto Princesa ,Air Asia,0,0,0,22,62,60,60,62,34,36,34,0,370,-
+IV-B (MIMAROPA),Puerto Princesa ,Seair,-,0,0,0,0,0,0,58,60,62,60,60,300,-
+IV-B (MIMAROPA),Puerto Princesa ,Zest Air,124,116,144,208,220,202,180,152,190,204,190,202,2132,-
+IV-B (MIMAROPA),Puerto Princesa ,Lion Air,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IV-B (MIMAROPA),Puerto Princesa ,G. Aviation,102,74,96,86,74,114,112,64,136,134,136,98,1226,-
+IV-B (MIMAROPA),Puerto Princesa ,Military,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IV-B (MIMAROPA),Romblon,Seair,8,8,4,8,8,6,0,0,0,0,0,0,42,-
+IV-B (MIMAROPA),Romblon,Zest Air,26,24,28,22,26,12,26,26,24,24,24,26,288,-
+IV-B (MIMAROPA),Romblon,G. Aviation,0,0,10,10,6,4,0,14,10,2,4,8,68,-
+IV-B (MIMAROPA),Romblon,Military,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IV-B (MIMAROPA),San Jose,PAL,-,0,0,0,0,0,0,0,0,0,0,0,0,-
+IV-B (MIMAROPA),San Jose,Air Philippines,62,44,34,58,60,46,50,62,60,116,0,0,592,-
+IV-B (MIMAROPA),San Jose,Cebu Pacific,36,32,36,36,34,34,34,32,32,116,38,36,496,-
+IV-B (MIMAROPA),San Jose,Zest Air,58,58,62,58,60,36,0,0,0,0,0,70,402,-
+IV-B (MIMAROPA),San Jose,G. Aviation,70,130,62,116,140,104,126,128,46,4,106,0,1032,-
+IV-B (MIMAROPA),San Jose,Military,4,2,0,4,4,2,12,2,2,0,2,22,56,-
+IV-B (MIMAROPA),Pinamalayan,Seair,no report submitted,-,0,0,0,0,0,0,0,0,0,0,0,-
+IV-B (MIMAROPA),Wasig,G. Aviation,no report submitted,-,0,0,0,0,0,0,0,0,0,0,0,-
+V (Bicol Region),Bulan,G. Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+V (Bicol Region),Daet,G. Aviation,no report submitted,-,0,0,0,0,0,0,0,0,0,0,0,-
+V (Bicol Region),Legaspi,PAL,62,58,62,60,62,58,62,62,62,54,0,0,602,-
+V (Bicol Region),Legaspi,Air Philippines,62,72,74,84,86,86,88,76,76,70,114,124,1012,-
+V (Bicol Region),Legaspi,Cebu Pacific,210,206,230,272,236,188,142,190,190,168,188,160,2380,-
+V (Bicol Region),Legaspi,Zest Air,60,50,74,62,60,58,60,52,52,60,58,62,708,-
+V (Bicol Region),Legaspi,G. Aviation,24,24,14,78,64,34,18,50,50,20,32,16,424,-
+V (Bicol Region),Legaspi,Military,4,0,12,2,0,2,2,6,0,0,2,2,32,-
+V (Bicol Region),Masbate,Zest Air,60,58,56,58,62,42,58,62,58,60,60,60,694,-
+V (Bicol Region),Masbate,G. Aviation,16,18,30,36,14,14,10,78,4,2,10,6,238,-
+V (Bicol Region),Masbate,Air Philippines,62,58,62,58,62,60,62,62,58,60,60,60,724,-
+V (Bicol Region),Masbate,Military,0,0,0,0,8,0,0,80,0,0,0,6,94,-
+V (Bicol Region),Naga,Cebu Pacific,214,224,202,224,240,202,202,244,236,68,124,120,2300,-
+V (Bicol Region),Naga,Air Philippines,188,120,110,120,118,118,120,128,118,118,106,108,1472,-
+V (Bicol Region),Naga,G. Aviation,8,18,22,18,0,18,20,78,10,0,26,24,242,-
+V (Bicol Region),Naga,Military,4,4,4,4,0,4,0,30,8,0,0,2,60,-
+V (Bicol Region),Sorsogon,G. Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+V (Bicol Region),Virac,Cebu Pacific,32,30,32,36,34,36,36,34,24,30,34,30,388,-
+V (Bicol Region),Virac,Asian Spirit,58,56,58,60,60,40,0,0,0,0,0,0,332,-
+V (Bicol Region),Virac,G. Aviation,16,8,22,0,2,2,4,0,2,4,16,0,76,-
+V (Bicol Region),Virac,Military,6,0,2,2,30,0,0,0,0,0,0,0,40,-
+VI (Western Visayas),Antique,G. Aviation,no report submitted,-,0,0,0,0,0,0,0,0,0,0,0,-
+VI (Western Visayas),Bacolod,PAL,246,222,236,240,250,240,248,246,240,0,0,0,2168,-
+VI (Western Visayas),Bacolod,Seair,0,0,0,0,0,0,0,24,60,0,0,0,84,-
+VI (Western Visayas),Bacolod,Cebu Pacific,430,402,446,468,460,384,346,368,400,0,0,0,3704,-
+VI (Western Visayas),Bacolod,Zest Air,146,116,122,120,124,60,0,0,0,0,0,0,688,-
+VI (Western Visayas),Bacolod,Air Philippines,278,248,248,260,272,238,236,224,178,0,0,0,2182,-
+VI (Western Visayas),Bacolod,Military,108,4,0,2,2,2,2,0,0,0,0,0,120,-
+VI (Western Visayas),Bacolod,G. Aviation,0,342,470,394,318,254,384,212,474,0,0,0,2848,-
+VI (Western Visayas),Caticlan,Zest Air,0,0,0,0,0,0,0,0,0,14,0,0,14,-
+VI (Western Visayas),Caticlan,Cebu Pacific,818,604,756,948,1008,806,782,0,690,798,820,790,8820,-
+VI (Western Visayas),Caticlan,Air Philippines,572,498,460,544,522,540,502,0,390,510,530,520,5588,-
+VI (Western Visayas),Caticlan,Seair,116,88,66,82,80,70,0,0,0,0,0,0,502,-
+VI (Western Visayas),Caticlan,G. Aviation,122,86,100,118,104,94,44,0,68,64,118,110,1028,-
+VI (Western Visayas),Caticlan,Military,0,0,0,0,0,0,0,0,0,4,0,0,4,-
+VI (Western Visayas),Iloilo,PAL,244,224,230,236,248,240,248,246,240,260,300,308,3024,-
+VI (Western Visayas),Iloilo,Cebu Pacific,624,604,684,730,706,598,568,580,522,696,782,812,7906,-
+VI (Western Visayas),Iloilo,Air Philippines,372,382,374,394,396,388,354,318,264,280,168,176,3866,-
+VI (Western Visayas),Iloilo,Zest Air,124,116,124,156,158,126,88,70,100,132,134,124,1452,-
+VI (Western Visayas),Iloilo,Seair,0,0,0,0,0,0,0,60,60,62,60,62,304,-
+VI (Western Visayas),Iloilo,G. Aviation,118,188,278,272,48,40,26,72,118,214,88,162,1624,-
+VI (Western Visayas),Iloilo,Military,0,0,6,12,10,4,0,0,0,0,0,0,32,-
+VI (Western Visayas),Kalibo (International),PAL,116,46,88,44,108,70,128,110,104,98,102,98,1112,-
+VI (Western Visayas),Kalibo (International),Air Philippines,94,84,88,84,40,0,0,0,0,0,0,0,390,-
+VI (Western Visayas),Kalibo (International),Cebu Pacific,0,10,62,76,80,48,178,160,152,106,110,122,1104,-
+VI (Western Visayas),Kalibo (International),Spirit of Manila ,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+VI (Western Visayas),Kalibo (International),China M. Air,60,46,38,34,34,18,44,36,34,34,18,0,396,-
+VI (Western Visayas),Kalibo (International),China S. Air,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+VI (Western Visayas),Kalibo (International),Zest Air,290,264,252,238,234,128,274,310,196,224,220,360,2990,-
+VI (Western Visayas),Kalibo (International),Jin Air,18,10,0,0,0,0,0,0,0,0,0,0,28,-
+VI (Western Visayas),Kalibo (International),Trans Asia Airlines,0,0,0,0,0,0,0,0,0,0,0,0,0,3674
+VI (Western Visayas),Kalibo (Domestic),PAL,198,172,190,214,226,246,162,160,124,170,60,68,1990,-
+VI (Western Visayas),Kalibo (Domestic),Cebu Pacific,244,248,160,222,222,214,136,178,174,230,196,244,2468,-
+VI (Western Visayas),Kalibo (Domestic),Air Philippines,114,160,182,278,292,248,198,186,216,216,356,392,2838,-
+VI (Western Visayas),Kalibo (Domestic),Zest Air,196,168,172,166,176,268,164,172,150,190,204,222,2248,-
+VI (Western Visayas),Kalibo (Domestic),Air Asia,0,0,16,122,124,120,120,124,120,124,120,62,1052,-
+VI (Western Visayas),Kalibo (Domestic),Seair,0,0,0,0,32,30,36,92,94,98,90,98,570,-
+VI (Western Visayas),Kalibo (Domestic),G. Aviation,206,132,126,152,90,74,86,60,62,42,48,82,1160,-
+VI (Western Visayas),Kalibo (Domestic),Military,0,0,0,0,0,0,0,0,0,0,0,0,0,10792
+VI (Western Visayas),Roxas,PAL,62,58,62,62,62,60,62,62,60,62,60,62,734,-
+VI (Western Visayas),Roxas,Cebu Pacific,106,98,106,104,106,90,90,102,60,62,60,60,1044,-
+VI (Western Visayas),Roxas,G. Aviation,0,0,0,0,48,26,38,8,12,18,46,50,246,-
+VI (Western Visayas),Roxas,Military,0,0,0,0,4,4,2,0,0,0,4,0,14,-
+VII (Central Visayas),Dumaguete,Air Philippines,0,0,0,0,0,0,0,0,0,16,122,118,256,-
+VII (Central Visayas),Dumaguete,PAL,124,116,124,120,124,120,124,124,120,108,0,0,1204,-
+VII (Central Visayas),Dumaguete,Cebu Pacific,146,222,240,224,236,236,242,248,224,224,236,236,2714,-
+VII (Central Visayas),Dumaguete,G. Aviation,162,150,114,112,102,122,96,68,48,50,90,92,1206,-
+VII (Central Visayas),Dumaguete,Military,2,48,10,0,6,2,2,4,0,2,2,0,78,-
+VII (Central Visayas),Mactan,International,2112,1684,1524,1412,1418,1464,1678,1676,1410,1500,1500,1914,19292,-
+VII (Central Visayas),Mactan,Domestic,7584,7204,7914,8742,7914,8404,7558,7786,7488,8784,8640,8974,96992,-
+VII (Central Visayas),Mactan,G. Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+VII (Central Visayas),Mactan,Military,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+VII (Central Visayas),Siquijor,G. Aviation,54,68,18,38,32,34,22,22,10,30,50,50,428,-
+VII (Central Visayas),Tagbilaran,PAL,164,150,164,180,186,176,156,150,120,142,216,226,2030,-
+VII (Central Visayas),Tagbilaran,Cebu Pacific,124,116,124,120,124,110,114,116,66,62,60,58,1194,-
+VII (Central Visayas),Tagbilaran,Air Philippines,124,114,124,118,124,120,124,124,60,42,0,0,1074,-
+VII (Central Visayas),Tagbilaran,Zest Air,124,116,124,120,122,118,124,124,120,132,180,178,1582,-
+VII (Central Visayas),Tagbilaran,G. Aviation,132,84,80,58,60,86,74,170,176,112,60,114,1206,-
+VII (Central Visayas),Tagbilaran,Mid Sea Express,62,46,54,36,48,0,0,0,0,0,0,0,246,-
+VII (Central Visayas),Tagbilaran,Military,2,0,0,14,4,0,4,0,16,0,0,0,40,-
+VII (Central Visayas),Ubay,G. Aviation,no report submitted,no report submitted,0,0,0,0,0,0,0,0,0,0,0,-
+VII (Central Visayas),Bantayan,G. Aviation,100,110,58,92,60,82,86,76,0,0,0,0,664,-
+VIII (Eastern Visayas),Biliran,G. Aviation,no report submitted,-,0,0,0,0,0,0,0,0,0,0,0,-
+VIII (Eastern Visayas),Borongan,G. Aviation,no landing and take-off,-,-,0,0,0,0,0,0,0,0,0,0,-
+VIII (Eastern Visayas),Calbayog,PAL,0,0,0,0,0,0,0,0,-,-,-,-,0,-
+VIII (Eastern Visayas),Calbayog,Cebu Pacific,48,16,0,0,0,0,0,0,0,0,0,0,64,-
+VIII (Eastern Visayas),Calbayog,Zest Air,56,44,56,48,52,0,0,0,0,0,0,0,256,-
+VIII (Eastern Visayas),Calbayog,Air Philippines,124,116,124,108,124,120,96,124,112,124,120,124,1416,-
+VIII (Eastern Visayas),Calbayog,G. Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+VIII (Eastern Visayas),Catarman,Asian Spirit,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+VIII (Eastern Visayas),Catarman,PAL,0,0,-,-,0,0,0,0,-,0,0,0,0,-
+VIII (Eastern Visayas),Catarman,Cebu Pacific,28,28,64,44,0,0,0,0,0,-,-,0,164,-
+VIII (Eastern Visayas),Catarman,Air Philippines,56,58,112,116,120,120,124,124,124,116,120,124,1314,-
+VIII (Eastern Visayas),Catarman,Zest Air,32,32,68,64,68,48,0,0,0,0,0,0,312,-
+VIII (Eastern Visayas),Catarman,G. Aviation,0,0,0,0,0,0,4,0,0,0,0,0,4,-
+VIII (Eastern Visayas),Catbalogan,G. Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+VIII (Eastern Visayas),Guiuan,G. Aviation,2,2,14,0,0,2,0,0,0,0,0,2,22,-
+VIII (Eastern Visayas),Hilongos,G. Aviation,0,0,0,0,0,338,196,72,194,60,186,62,1108,-
+VIII (Eastern Visayas),Maasin,G. Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+VIII (Eastern Visayas),Ormoc,Zest Air,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+VIII (Eastern Visayas),Ormoc,Air Philippines,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+VIII (Eastern Visayas),Ormoc,Military,0,0,0,0,0,0,0,0,6,0,0,0,6,-
+VIII (Eastern Visayas),Ormoc,G. Aviation,430,412,364,560,864,452,390,672,194,468,568,196,5570,-
+VIII (Eastern Visayas),Tacloban,PAL,356,320,304,340,368,360,360,344,308,280,0,0,3340,-
+VIII (Eastern Visayas),Tacloban,Air Phil Express,316,288,336,368,248,424,304,372,240,328,404,480,4108,-
+VIII (Eastern Visayas),Tacloban,Cebu Pacific,692,672,732,656,612,548,616,548,544,484,648,708,7460,-
+VIII (Eastern Visayas),Tacloban,Zest Air,276,264,332,360,364,360,248,228,240,252,256,244,3424,-
+VIII (Eastern Visayas),Tacloban,Seair,0,0,0,0,0,0,0,124,120,124,120,184,672,-
+VIII (Eastern Visayas),Tacloban,G. Aviation,28,40,52,64,80,80,28,32,24,124,44,32,628,-
+VIII (Eastern Visayas),Tacloban,Military,12,4,0,4,8,12,12,0,44,20,8,8,132,-
+ARMM,Cagayan de Sulu,G. Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IX (Zamboanga Peninsula),Dipolog,PAL,44,42,44,56,62,60,62,60,60,0,0,0,490,-
+IX (Zamboanga Peninsula),Dipolog,Air Philippines,0,0,12,30,28,0,0,0,0,62,60,62,254,-
+IX (Zamboanga Peninsula),Dipolog,Cebu Pacific,98,108,122,106,112,104,98,98,92,0,126,130,1194,-
+IX (Zamboanga Peninsula),Dipolog,G. Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IX (Zamboanga Peninsula),Dipolog,Military,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IX (Zamboanga Peninsula),Ipil,G. Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+ARMM,Jolo,Air Phil Express,24,22,26,22,26,26,26,28,24,28,26,26,304,-
+ARMM,Jolo,PAL,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+ARMM,Jolo,Military,0,0,0,0,0,0,12,0,0,0,0,0,12,-
+ARMM,Jolo,G. Aviation,0,0,0,0,0,0,18,0,0,0,0,0,18,-
+ARMM,Liloy,G. Aviation,no report submitted,-,0,0,0,0,0,0,0,0,0,0,0,-
+IX (Zamboanga Peninsula),Pagadian,G. Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IX (Zamboanga Peninsula),Pagadian,Air Philippines,2,48,56,54,64,58,54,42,0,0,0,0,378,-
+IX (Zamboanga Peninsula),Pagadian,Cebu Pacific,108,110,120,116,112,100,96,96,94,122,114,118,1306,-
+ARMM,Sanga-Sanga,Air Phil Express,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IX (Zamboanga Peninsula),Siocon,G. Aviation,no report submitted,-,0,0,0,0,0,0,0,0,0,0,0,-
+IX (Zamboanga Peninsula),Zamboanga,PAL,122,58,110,116,124,120,120,124,120,108,0,0,1122,-
+IX (Zamboanga Peninsula),Zamboanga,Cebu Pacific,308,58,340,340,366,290,290,242,220,300,300,306,3360,-
+IX (Zamboanga Peninsula),Zamboanga,Air Philippines,258,58,308,276,300,286,286,304,288,294,224,228,3110,-
+IX (Zamboanga Peninsula),Zamboanga,Zest Air,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IX (Zamboanga Peninsula),Zamboanga,Asian Spirit,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IX (Zamboanga Peninsula),Zamboanga,Seair,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+IX (Zamboanga Peninsula),Zamboanga,Military,982,0,1114,0,0,1052,1030,1018,1000,770,934,890,8790,-
+IX (Zamboanga Peninsula),Zamboanga,G. Aviation,108,18,0,138,106,106,106,54,0,86,96,90,908,-
+XIII (Caraga),Butuan,PAL,62,58,62,60,62,60,62,60,60,54,0,0,600,-
+XIII (Caraga),Butuan,Cebu Pacific,274,242,262,284,300,244,208,224,256,308,286,304,3192,-
+XIII (Caraga),Butuan,Air Philippines,12,30,50,72,62,64,72,64,18,26,94,92,656,-
+XIII (Caraga),Butuan,G. Aviation,12,24,16,10,16,12,8,6,4,10,4,8,130,-
+XIII (Caraga),Butuan,Military,8,10,22,18,2,8,6,6,6,4,6,14,110,-
+X (Northern Mindanao),Cagayan de Oro,PAL,260,232,260,286,304,282,272,262,204,208,0,0,2570,-
+X (Northern Mindanao),Cagayan de Oro,Cebu Pacific,666,628,686,640,668,622,590,598,590,648,722,698,7756,-
+X (Northern Mindanao),Cagayan de Oro,G. Aviation,284,258,272,338,354,356,334,310,256,296,540,578,4176,-
+X (Northern Mindanao),Cagayan de Oro,Zest Air,94,0,124,108,94,60,0,0,0,0,0,0,480,-
+X (Northern Mindanao),Cagayan de Oro,Military,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+X (Northern Mindanao),Camiguin,Seair,no report submitted,no report submitted,0,0,0,0,0,0,0,0,0,0,0,-
+X (Northern Mindanao),Ozamis,PAL,44,36,28,0,0,0,0,0,0,0,0,0,108,-
+X (Northern Mindanao),Ozamis,Air Philippines,96,80,78,106,124,120,124,112,116,0,120,118,1194,-
+X (Northern Mindanao),Ozamis,Cebu Pacific,120,106,124,134,152,116,108,90,118,0,60,118,1246,-
+X (Northern Mindanao),Ozamis,G. Aviation,12,0,0,0,2,0,0,8,0,0,4,0,26,-
+XIII (Caraga),Siargao,Cebu Pacific,18,18,26,26,0,48,18,18,0,48,32,34,286,-
+XIII (Caraga),Siargao,G. Aviation,8,0,26,8,0,20,4,16,0,0,14,2,98,-
+XIII (Caraga),Surigao,PAL,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+XIII (Caraga),Surigao,Cebu Pacific,82,68,80,68,86,84,84,88,56,58,48,72,874,-
+XIII (Caraga),Surigao,Air Philippines,56,64,82,84,96,94,96,84,80,88,88,94,1006,-
+XIII (Caraga),Surigao,Zest Air,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+XIII (Caraga),Surigao,G. Aviation,46,40,28,32,22,14,8,18,16,8,8,10,250,-
+XII (SOCCSKSARGEN),Allah Valley,G. Aviation,26,20,14,0,0,2,10,0,0,0,4,48,124,-
+XIII (Caraga),Bislig,G. Aviation,no report submitted,-,0,0,0,0,0,0,0,0,0,0,0,-
+XII (SOCCSKSARGEN),General Santos Tambler,Domestic,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+XII (SOCCSKSARGEN),General Santos Tambler,PAL,0,0,0,0,0,0,0,0,0,70,112,114,296,-
+XII (SOCCSKSARGEN),General Santos Tambler,Air Philippines,58,58,78,110,114,112,114,118,108,106,26,26,1028,-
+XII (SOCCSKSARGEN),General Santos Tambler,Cebu Pacific,284,282,248,300,310,258,238,240,232,218,236,242,3088,-
+XII (SOCCSKSARGEN),General Santos Tambler,Military,4,0,0,0,0,20,32,18,14,8,18,14,128,-
+XII (SOCCSKSARGEN),General Santos Tambler,G. Aviation,4,22,26,44,36,30,22,14,20,16,16,10,260,-
+XI (Davao Region),Davao (International),Silk Air,44,42,44,44,44,42,46,44,44,44,42,46,526,-
+XI (Davao Region),Davao (International),Tiger Airways,28,26,26,20,0,0,0,0,0,0,0,0,100,-
+XI (Davao Region),Davao (International),Wings Air,0,0,0,0,0,4,4,0,0,0,0,0,8,-
+XI (Davao Region),Davao (Domestic),PAL,248,238,256,282,250,270,312,312,240,274,410,418,3510,-
+XI (Davao Region),Davao (Domestic),Cebu Pacific,870,728,816,952,904,794,694,826,802,920,946,994,10246,-
+XI (Davao Region),Davao (Domestic),Air Philippines,360,380,380,396,418,402,398,392,352,372,228,234,4312,-
+XI (Davao Region),Davao (Domestic),Zest Air,148,140,152,178,180,142,94,106,120,130,162,186,1738,-
+XI (Davao Region),Davao (Domestic),Mid Sea Express,24,22,36,18,24,0,0,0,0,0,0,0,124,-
+XI (Davao Region),Davao (Domestic),Air Asia,2,0,16,88,62,60,60,62,60,62,60,32,564,-
+XI (Davao Region),Davao (Domestic),Seair,0,0,0,0,0,0,0,56,120,154,118,118,566,-
+XI (Davao Region),Davao (Domestic),G. Aviation,338,38,448,378,502,458,532,378,386,248,286,408,4400,-
+XI (Davao Region),Davao (Domestic),Military,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+XI (Davao Region),Mati,G. Aviation,no report submitted,no report submitted,0,0,0,0,0,0,0,0,0,0,0,-
+XIII (Caraga),Tandag,G. Aviation,0,8,0,10,0,0,0,0,0,0,0,0,18,-
+XIII (Caraga),Tandag,Military,0,0,12,0,0,0,0,0,0,0,0,0,12,-
+ARMM,Cotabato,PAL,0,58,50,58,62,60,62,60,60,54,-,0,524,-
+ARMM,Cotabato,Cebu Pacific,0,58,62,60,62,60,58,62,58,62,60,60,662,-
+ARMM,Cotabato,Mid Sea Express,0,-,2,0,0,0,0,0,-,-,-,-,2,-
+ARMM,Cotabato,Air Philippines,0,76,84,86,86,86,88,76,52,62,60,60,816,-
+ARMM,Cotabato,G. Aviation,0,46,40,60,38,34,94,26,58,52,70,82,600,-
+ARMM,Cotabato,Military,0,72,66,46,68,66,48,74,64,20,20,26,570,-
+X (Northern Mindanao),Iligan,G. Aviation,no report submitted,no report submitted,0,0,0,0,0,0,0,0,0,0,0,-
+ARMM,Malabang,G. Aviation,no report submitted,no report submitted,0,0,0,0,0,0,0,0,0,0,-,-
+-,Total,Total,94625,89839,94494,95044,98261,96213,90152,90705,87154,96096,97041,96846,1126470,-

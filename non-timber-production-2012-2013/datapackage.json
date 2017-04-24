@@ -1,0 +1,68 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/2E45oIXXOUZGkFQFwB86/nontimber_production_2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-06/30/2013"
+  }, 
+  "id": "47f3a387-3847-4c11-8efe-5e4ab907b50b", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "non-timber-production-2012-2013", 
+  "notes": "This dataset contains the non-timber production for the year 2012-2013.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T15:57:49.227887", 
+      "description": "This dataset contains the non-timber production for the year 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "40b5ac2e-3167-4df1-b650-b9b520535722", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Non-Timber Production 2012", 
+      "package_id": "47f3a387-3847-4c11-8efe-5e4ab907b50b", 
+      "position": 0, 
+      "resource_group_id": "59b3196e-015b-45be-9eff-bfdf1691cd54", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/2E45oIXXOUZGkFQFwB86/nontimber_production_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T15:57:52.551944", 
+      "description": "This dataset contains the non-timber production for January to June 2013.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "e5d1a204-de8c-4945-8dae-163a247620f8", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Non-Timber Production 2013", 
+      "package_id": "47f3a387-3847-4c11-8efe-5e4ab907b50b", 
+      "position": 1, 
+      "resource_group_id": "59b3196e-015b-45be-9eff-bfdf1691cd54", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/WdHfVrPkDHLRZU4We0QY/nontimber_production_1st_sem_2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Non-Timber Production 2012-2013", 
+  "url": "", 
+  "version": ""
+}

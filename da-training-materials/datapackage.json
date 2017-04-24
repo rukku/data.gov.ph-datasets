@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/lU69FlL23d2tBeYZfSGW/datrainingmaterials2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "f413797c-25be-4bb7-af76-d4082fe655ca", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "da-training-materials", 
+  "notes": "Instruction and educational materials in print, video and other media.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-04T17:08:20.467467", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "ae732797-8c29-4ace-a26c-8277e3676645", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Training Materials", 
+      "package_id": "f413797c-25be-4bb7-af76-d4082fe655ca", 
+      "position": 0, 
+      "resource_group_id": "75ef3898-0aca-4a45-9ace-2f521a343f18", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/lU69FlL23d2tBeYZfSGW/datrainingmaterials2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Training Materials", 
+  "url": "", 
+  "version": ""
+}

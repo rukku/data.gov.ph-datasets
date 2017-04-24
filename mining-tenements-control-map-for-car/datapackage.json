@@ -1,0 +1,47 @@
+{
+  "author": "Mines and Geosciences Bureau", 
+  "author_email": "", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/d1a23e39-a028-44a8-9c60-8f9b81a3e9f1/resource/684047a1-6db5-4bf7-86cf-a7f83baeaa8a/download/CAR.jpg", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "d1a23e39-a028-44a8-9c60-8f9b81a3e9f1", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "mining-tenements-control-map-for-car", 
+  "notes": "Mining Tenements Control Map for CAR", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-05T14:15:54.492595", 
+      "description": "", 
+      "format": "JPEG", 
+      "hash": "", 
+      "id": "684047a1-6db5-4bf7-86cf-a7f83baeaa8a", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "mining-tenements-control-map-for-CAR", 
+      "package_id": "d1a23e39-a028-44a8-9c60-8f9b81a3e9f1", 
+      "position": 0, 
+      "resource_group_id": "14a34245-d0d7-4703-a9df-f59abb0db10e", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/d1a23e39-a028-44a8-9c60-8f9b81a3e9f1/resource/684047a1-6db5-4bf7-86cf-a7f83baeaa8a/download/CAR.jpg", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Mining Tenements Control Map for CAR", 
+  "url": "http://www.mgb.gov.ph/", 
+  "version": ""
+}

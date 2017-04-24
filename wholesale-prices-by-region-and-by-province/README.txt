@@ -1,0 +1,1 @@
+This dataset contains the wholesale prices of agricultural products by region and by province. This time-series includes the most recent data, covering the period from 1990 to the latest available month/year.

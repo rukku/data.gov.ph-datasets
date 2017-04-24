@@ -1,0 +1,19 @@
+region,country_of_origin,dimensions,average_price_php,jan_price_php,feb_price_php,mar_price_php,apr_price_php,may_price_php,jun_price_php,jul_price_php,aug_price_php,sep_price_php,oct_price_php,nov_price_php,dec_price_php
+III (Central Luzon),Brazil,"2""x4"" (Board Foot)",48,48,48,48,48,48,48,48,48,48,48,48,48
+IV-A (CALABARZON),Brazil,"2""x4"" (Board Foot)",49.5,47,47,50,50,50,50,50,50,50,50,50,50
+NCR,Malaysia,"2""x4"" (Board Foot)",43.35,46,49,45.12,45,45,39,46.67,43.14,35,42,44.8,39.5
+I (Ilocos Region),Malaysia,"2""x4"" (Board Foot)",40.76,41.93,41.93,41.67,41.75,36,36,42.75,42.03,42.03,41,41,41
+II (Cagayan Valley),Malaysia,"2""x4"" (Board Foot)",45.73,41.5,41.5,41.5,41.5,42,85.25,43,43,42.5,42.5,42.5,42
+III (Central Luzon),Malaysia,"2""x4"" (Board Foot)",36.33,35.94,36.95,36.95,37,36.16,36.16,33.25,34.25,35.25,35.25,38,40.75
+IV-A (CALABARZON),Malaysia,"2""x4"" (Board Foot)",43.3,41.67,41.12,44.67,41.62,43,41.62,44.67,41.62,41.62,46,46,46
+IV-B (MIMAROPA),Malaysia,"2""x4"" (Board Foot)",41.74,52.5,32,35.33,42,42,42,45,42,42,42,42,42
+V (Bicol Region),Malaysia,"2""x4"" (Board Foot)",45.67,45.67,45.67,45.67,45.67,45.67,45.67,45.67,45.67,45.67,45.67,45.67,45.67
+VI (Western Visayas),Malaysia,"2""x4"" (Board Foot)",38.19,38.9,46.43,22.86,38.9,38.9,38.9,38.9,38.9,38.9,38.9,38.9,38.9
+VII (Central Visayas),Malaysia,"2""x4"" (Board Foot)",40.9,40.9,40.9,40.9,40.9,40.9,40.9,40.9,40.9,40.9,40.9,40.9,40.9
+I (Ilocos Region),Papua New Guinea,"2""x4"" (Board Foot)",45.83,46,46,46,46,46,46,46,46,45,45,46,46
+III (Central Luzon),Papua New Guinea,"2""x4"" (Board Foot)",39.31,37,37,37,37,37,37,40.75,37,37,45,45,45
+IV-A (CALABARZON),Papua New Guinea,"2""x4"" (Board Foot)",34.83,35.5,35.5,35.5,33.5,33.5,33.5,35.5,33.5,35.5,35.5,35.5,35.5
+NCR,Solomon Islands,"2""x4"" (Board Foot)",35.67,32,32,32,32,32,32,33,45,45,45,34,34
+I (Ilocos Region),Solomon Islands,"2""x4"" (Board Foot)",38,38,38,38,38,38,38,38,38,38,38,38,38
+III (Central Luzon),Solomon Islands,"2""x4"" (Board Foot)",43.14,44.66,44.66,44.66,44.66,44.5,44.5,40.6,40.6,40.6,45,45,38.18
+IV-A (CALABARZON),Solomon Islands,"2""x4"" (Board Foot)",37,37,37,37,37,37,37,37,37,37,37,37,37

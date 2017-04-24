@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/ff030f37-7959-45c6-ab84-d5f53b00d9e2/resource/ba107e1c-ff6c-4c36-ab64-b55ce0a7f8c5/download/30january2013nedaupdates.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "ff030f37-7959-45c6-ab84-d5f53b00d9e2", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "30-january-2013-neda-updates", 
+  "notes": "This dataset contains the NEDA Updates for January 30, 2013", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T18:01:35.221507", 
+      "description": "This dataset contains the NEDA Updates for January 30, 2013", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "ba107e1c-ff6c-4c36-ab64-b55ce0a7f8c5", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "30 JANUARY 2013 NEDA UPDATES", 
+      "package_id": "ff030f37-7959-45c6-ab84-d5f53b00d9e2", 
+      "position": 0, 
+      "resource_group_id": "29c83d39-0e06-4541-bb89-f55040ab3fa0", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/ff030f37-7959-45c6-ab84-d5f53b00d9e2/resource/ba107e1c-ff6c-4c36-ab64-b55ce0a7f8c5/download/30january2013nedaupdates.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "30 JANUARY 2013 NEDA UPDATES", 
+  "url": "", 
+  "version": ""
+}

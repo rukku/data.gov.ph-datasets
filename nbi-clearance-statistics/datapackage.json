@@ -1,0 +1,45 @@
+{
+  "author": "National Bureau of Investigation", 
+  "author_email": "ictd@nbi.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/M4DMQrrjWdRsi6nyYmkO/nbi_clearance_statistics.csv", 
+  "extras": {
+    "Frequency Update": "Monthly", 
+    "Granularity": "", 
+    "Temporal Date": "01/01/2015-10/31/2015"
+  }, 
+  "id": "42a8bc22-1eaf-49f5-b259-ca5ed2727efb", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "National Bureau of Investigation- Information and Communication Technology Division", 
+  "maintainer_email": "ictd@nbi.gov.ph", 
+  "name": "nbi-clearance-statistics", 
+  "notes": "This dataset contains the NBI clearance processing centers and total number of clearance issued from January to October 2015. This covers the regions and provinces.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-01-29T16:26:54.967664", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "6f5717e3-fad4-4c6b-9a89-fae752bc74ad", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Clearance Statistics", 
+      "package_id": "42a8bc22-1eaf-49f5-b259-ca5ed2727efb", 
+      "position": 0, 
+      "resource_group_id": "dd06f71a-ca1c-4ab9-bffc-c828679a3ed5", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/M4DMQrrjWdRsi6nyYmkO/nbi_clearance_statistics.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "NBI Clearance Statistics", 
+  "url": null, 
+  "version": null
+}

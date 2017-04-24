@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/7UWftxDukXDOlPuqx30F/cagayan_irau_20120630_q2.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "04/01/2012-06/30/2012"
+  }, 
+  "id": "5e275398-4733-4b1d-b79d-c1b94ad22cb8", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization-of-cagayan-province", 
+  "notes": "This dataset contains report of the internal revenue allotment utilization of Cagayan province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-23T17:01:21.238823", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "50a823e3-e204-4333-95d0-66e2e46c6366", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 2 - Cagayan Province IRAU", 
+      "package_id": "5e275398-4733-4b1d-b79d-c1b94ad22cb8", 
+      "position": 0, 
+      "resource_group_id": "746fc8b9-d360-4e88-8d9c-5797ad975397", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/7UWftxDukXDOlPuqx30F/cagayan_irau_20120630_q2.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "INTERNAL REVENUE ALLOTMENT UTILIZATION of Cagayan province", 
+  "url": "", 
+  "version": ""
+}

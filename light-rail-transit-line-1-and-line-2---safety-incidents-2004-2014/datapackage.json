@@ -1,0 +1,46 @@
+{
+  "author": "Light Rail Transit Authority (LRTA)", 
+  "author_email": "lrtamain@lrta.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ZsMkE1L1crHo4unKc5oF/lrt1-2_safety_incident_2004-2014.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2004-12/31/2014"
+  }, 
+  "id": "b9f28683-6fcf-42a8-9ad1-f2964e0d4820", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Management Information System Division", 
+  "maintainer_email": "mis_icc@lrta.gov.ph", 
+  "name": "light-rail-transit-line-1-and-line-2---safety-incidents-2004-2014", 
+  "notes": "This dataset contains the annual number of safety incidents that occurred in Light Rail Transit (LRT) Line 1 and Line 2.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-05T10:37:53.009404", 
+      "description": "This dataset contains the annual number of safety incidents that occurred in Light Rail Transit (LRT) Line 1 and Line 2 from 2004 to 2014.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "5765086f-4809-439f-875b-6ab0d52d661a", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "LRT Line 1 and Line 2 Safety Incident 2004-2014", 
+      "package_id": "b9f28683-6fcf-42a8-9ad1-f2964e0d4820", 
+      "position": 0, 
+      "resource_group_id": "ee443675-44f5-484f-bc1f-3dbd47179bc5", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ZsMkE1L1crHo4unKc5oF/lrt1-2_safety_incident_2004-2014.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Light Rail Transit Line 1 and Line 2 - Safety Incidents 2004-2014", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,344 @@
+region,province_or_city,foreign_travelers,overseas_filipino,domestic_travelers,total_2012
+NCR (National Capital Region),NCR (National Capital Region),1513402,20048,909212,2442662
+NCR (National Capital Region),Caloocan City,-,-,-,0
+NCR (National Capital Region),Las Pinas City,-,-,-,0
+NCR (National Capital Region),Makati City,-,-,-,0
+NCR (National Capital Region),Malabon City,-,-,-,0
+NCR (National Capital Region),Mandaluyong City,-,-,-,0
+NCR (National Capital Region),Manila,-,-,-,0
+NCR (National Capital Region),Marikina City,-,-,-,0
+NCR (National Capital Region),Muntinlupa City,-,-,-,0
+NCR (National Capital Region),Navotas City,-,-,-,0
+NCR (National Capital Region),Paranaque City,-,-,-,0
+NCR (National Capital Region),Pasay City,-,-,-,0
+NCR (National Capital Region),Pasig City,-,-,-,0
+NCR (National Capital Region),Quezon City,-,-,-,0
+NCR (National Capital Region),San Juan City,-,-,-,0
+NCR (National Capital Region),Taguig City,-,-,-,0
+NCR (National Capital Region),Valenzuela City,-,-,-,0
+NCR (National Capital Region),Pateros,-,-,-,0
+CAR (Cordillera Administrative Region),CAR (Cordillera Administrative Region),77913,3712,830883,912508
+CAR (Cordillera Administrative Region),Abra,728,15,3976,4719
+CAR (Cordillera Administrative Region),Apayao,107,127,4639,4873
+CAR (Cordillera Administrative Region),Benguet,11552,202,144878,156632
+CAR (Cordillera Administrative Region),Ifugao,24964,152,37658,62774
+CAR (Cordillera Administrative Region),Kalinga,3175, -   ,28344,31519
+CAR (Cordillera Administrative Region),Mountain Province,8456, -   ,26456,34912
+CAR (Cordillera Administrative Region),Baguio City,28931,3216,584932,617079
+I (Ilocos Region),Total,36172,586,633712,670470
+I (Ilocos Region),Ilocos Norte,11792,312,200848,212952
+I (Ilocos Region),Batac,21,237,1549,1807
+I (Ilocos Region),Currimao,469, -   ,21955,22424
+I (Ilocos Region),Laoag City,2142,55,74670,76867
+I (Ilocos Region),Pagudpud,8212,20,79058,87290
+I (Ilocos Region),Paoay,647, -   ,18806,19453
+I (Ilocos Region),Pasuquin,84, -   ,1964,2048
+I (Ilocos Region),San Nicolas,217, -   ,2846,3063
+I (Ilocos Region),Ilocos Sur,5518,70,102965,108553
+I (Ilocos Region),Candon City,31, -   ,3467,3498
+I (Ilocos Region),Sinait, -   , -   ,791,791
+I (Ilocos Region),Vigan City,5487,70,98707,104264
+I (Ilocos Region),La Union,9191,155,74629,83975
+I (Ilocos Region),Agoo,4, -   ,3269,3273
+I (Ilocos Region),Aringay,216,54,837,1107
+I (Ilocos Region),Bauang,5861, -   ,31714,37575
+I (Ilocos Region),Caba,53, -   ,2566,2619
+I (Ilocos Region),Luna, -   , -   ,979,979
+I (Ilocos Region),Naguilian,11, -   ,988,999
+I (Ilocos Region),Pugo,357, -   ,3103,3460
+I (Ilocos Region),Rosario,18, -   ,3312,3330
+I (Ilocos Region),San Fernando City,243,101,16543,16887
+I (Ilocos Region),San Juan,2396, -   ,9744,12140
+I (Ilocos Region),Santol, -   , -   ,583,583
+I (Ilocos Region),Sto. Tomas,32, -   ,343,375
+I (Ilocos Region),Sudipen, -   , -   ,648,648
+I (Ilocos Region),Pangasinan,9671,49,255270,264990
+I (Ilocos Region),Alaminos,774, -   ,6831,7605
+I (Ilocos Region),Bolinao,7449, -   ,82850,90299
+I (Ilocos Region),Dagupan,803, -   ,92256,93059
+I (Ilocos Region),Lingayen,602,49,57279,57930
+I (Ilocos Region),Urdaneta,43, -   ,16054,16097
+II (Cagayan Valley),Total,12694,0,374749,387443
+II (Cagayan Valley),Batanes,521, -   ,2892,3413
+II (Cagayan Valley),Cagayan ,6536, -   ,185539,192075
+II (Cagayan Valley),Tuguegarao City,1271, -   ,122827,124098
+II (Cagayan Valley),Others,5265, -   ,62712,67977
+II (Cagayan Valley),Isabela,2244, -   ,96902,99146
+II (Cagayan Valley),Cauayan City,1521, -   ,38931,40452
+II (Cagayan Valley),Santiago City,416, -   ,33230,33646
+II (Cagayan Valley),Others,307, -   ,24741,25048
+II (Cagayan Valley),Nueva Vizcaya,3355, -   ,86306,89661
+II (Cagayan Valley),Quirino,38, -   ,3110,3148
+III (Central Luzon),Total,344329,10233,1719532,2074094
+III (Central Luzon),Aurora,1208, -   ,68046,69254
+III (Central Luzon),Bataan,46, -   ,48467,48513
+III (Central Luzon),Bulacan,1675,442,56410,58527
+III (Central Luzon),Nueva Ecija,2149,201,8099,10449
+III (Central Luzon),Pampanga,227110,7628,251857,486595
+III (Central Luzon),Clark,227110,7628,251857,486595
+III (Central Luzon),Tarlac,4776,1663,9374,15813
+III (Central Luzon),Zambales,41947, -   ,1224942,1266889
+III (Central Luzon),SMBA,41947, -   ,1224942,1266889
+III (Central Luzon),Angeles City,44813,299,36482,81594
+III (Central Luzon),Olongapo City,20605, -   ,15855,36460
+IV-A (CALABARZON),Region IV-A  CALABARZON,80753,5308,1207221,1293282
+IV-A (CALABARZON),Batangas,48975,4696,349144,402815
+IV-A (CALABARZON),Cavite,4796, -   ,58694,63490
+IV-A (CALABARZON),Laguna,23846,612,608408,632866
+IV-A (CALABARZON),Quezon,2590, -   ,147637,150227
+IV-A (CALABARZON),Rizal,546, -   ,43338,43884
+IV-A (CALABARZON),Antipolo City, -   , -   ,7357,7357
+IV-A (CALABARZON),Tanay,546, -   ,35981,36527
+IV-A (CALABARZON),Lucena City, -   , -   , -   , -   
+IV-B (MIMAROPA),Total,211534,9514,911808,1132856
+IV-B (MIMAROPA),Marinduque,42, -   ,2761,2803
+IV-B (MIMAROPA),Occidental Mindoro,3492, -   ,90345,93837
+IV-B (MIMAROPA),Abra de Ilog,63,,253,316
+IV-B (MIMAROPA),Calintaan,94,,1048,1142
+IV-B (MIMAROPA),Lubang,134,,28673,28807
+IV-B (MIMAROPA),Mamburao,102,,2639,2741
+IV-B (MIMAROPA),Sablayan,3099,,14472,17571
+IV-B (MIMAROPA),Others, -   , -   ,43260,43260
+IV-B (MIMAROPA),Oriental Mindoro,21269, -   ,175949,197218
+IV-B (MIMAROPA),Baco,2, -   ,1196,1198
+IV-B (MIMAROPA),Bansud,6, -   ,146,152
+IV-B (MIMAROPA),Bongabong,95, -   ,895,990
+IV-B (MIMAROPA),Bulalacao,30, -   ,130,160
+IV-B (MIMAROPA),Calapan City,1887, -   ,56441,58328
+IV-B (MIMAROPA),Gloria,14, -   ,389,403
+IV-B (MIMAROPA),Mansalay,2, -   ,265,267
+IV-B (MIMAROPA),Naujan, -   , -   ,1097,1097
+IV-B (MIMAROPA),Pinamalayan,3, -   ,1922,1925
+IV-B (MIMAROPA),Puerto Galera,18717, -   ,103763,122480
+IV-B (MIMAROPA),Roxas,449, -   ,7737,8186
+IV-B (MIMAROPA),San Teodoro,4, -   ,285,289
+IV-B (MIMAROPA),Victoria,60, -   ,1683,1743
+IV-B (MIMAROPA),Palawan,47004,8,127051,174063
+IV-B (MIMAROPA),Araceli,138, -   , -   ,138
+IV-B (MIMAROPA),Brookes Point, -   , -   ,20455,20455
+IV-B (MIMAROPA),Cagayancillo,1321, -   ,212,1533
+IV-B (MIMAROPA),Coron,11994,5,72670,84669
+IV-B (MIMAROPA),Cuyo,163,3,2775,2941
+IV-B (MIMAROPA),El Nido,24768, -   ,21465,46233
+IV-B (MIMAROPA),San Vicente,6554,,1992,8546
+IV-B (MIMAROPA),Taytay,2066, -   ,7482,9548
+IV-B (MIMAROPA),Others, -   , -   , -   , -   
+IV-B (MIMAROPA),Romblon,7045, -   ,3857,10902
+IV-B (MIMAROPA),Odiongan,39, -   ,1253,1292
+IV-B (MIMAROPA),San Jose,7006, -   ,2604,9610
+IV-B (MIMAROPA),Puerto Princesa City,132682,9506,511845,654033
+V (Bicol Region),Total,712707,60179,2911919,3684805
+V (Bicol Region),Albay,170416,5,353411,523832
+V (Bicol Region),Legazpi City,164340, -   ,268002,432342
+V (Bicol Region),Others,6076,5,85409,91490
+V (Bicol Region),Camarines Norte,30494,32253,128171,190918
+V (Bicol Region),Daet, -   , -   , -   , -   
+V (Bicol Region),Others,,,, -   
+V (Bicol Region),Camarines Sur,485550, -   ,2005609,2491159
+V (Bicol Region),Catanduanes,5955,22451,99823,128229
+V (Bicol Region),Masbate ,1609,1776,173582,176967
+V (Bicol Region),Sorsogon ,18683,3694,151323,173700
+VI (Western Visayas),Total,606521,58169,2434328,3099018
+VI (Western Visayas),Aklan,478064,42094,787358,1307516
+VI (Western Visayas),Boracay,473286,42094,690872,1206252
+VI (Western Visayas),Kalibo,4764, -   ,96210,100974
+VI (Western Visayas),Tangalan,14, -   ,276,290
+VI (Western Visayas),Others, -   , -   , -   , -   
+VI (Western Visayas),Antique,408,621,13477,14506
+VI (Western Visayas),San Jose,173,1,7779,7953
+VI (Western Visayas),Culasi,95, -   ,4034,4129
+VI (Western Visayas),Anini-y,140,620,1664,2424
+VI (Western Visayas),Capiz,2402, -   ,92635,95037
+VI (Western Visayas),Guimaras,2175, -   ,59013,61188
+VI (Western Visayas),Iloilo Province,2116, -   ,78068,80184
+VI (Western Visayas),Ajuy,65, -   ,431,496
+VI (Western Visayas),Carles,191, -   ,4646,4837
+VI (Western Visayas),Oton,10, -   ,807,817
+VI (Western Visayas),Guimbal, -   , -   ,20597,20597
+VI (Western Visayas),San Juaquin,6, -   ,1913,1919
+VI (Western Visayas),Others,1844, -   ,49674,51518
+VI (Western Visayas),Negros Occidental,23781,2511,537875,564167
+VI (Western Visayas),Bacolod City,69792,12943,366720,449455
+VI (Western Visayas),Iloilo City,27783, -   ,499182,526965
+VII (Central Visayas),Total,1161575,16121,1750385,2928081
+VII (Central Visayas),Bohol,105400,549,250421,356370
+VII (Central Visayas),Anda,161,5,99,265
+VII (Central Visayas),Baclayon,53,5,1155,1213
+VII (Central Visayas),Carmen,682,0,1405,2087
+VII (Central Visayas),Catigbian,12,0,77,89
+VII (Central Visayas),Danao,190,0,1110,1300
+VII (Central Visayas),Dauis,19546,65,39046,58657
+VII (Central Visayas),Jagna,540,0,7463,8003
+VII (Central Visayas),Loon,1056,0,410,1466
+VII (Central Visayas),Maribojoc,167,0,360,527
+VII (Central Visayas),Panglao,65842,283,73155,139280
+VII (Central Visayas),Tagbilaran,16452,183,113301,129936
+VII (Central Visayas),Talibon,44,,1429,1473
+VII (Central Visayas),Tubigon,646,0,11280,11926
+VII (Central Visayas),Valencia,9,8,131,148
+VII (Central Visayas),Cebu,68305,514,87928,156747
+VII (Central Visayas),Alcoy,606,0,1763,2369
+VII (Central Visayas),Alegria,-,-,-,0
+VII (Central Visayas),Badian,5291,0,9847,15138
+VII (Central Visayas),Bantayan,4452,8,11974,16434
+VII (Central Visayas),Bogo, -   , -   , -   , -   
+VII (Central Visayas),Borbon,51, -   ,522,573
+VII (Central Visayas),Boljoon,138, -   ,2182,2320
+VII (Central Visayas),Cordova,9670, -   ,8420,18090
+VII (Central Visayas),Daanbantayan,1706,159,381,2246
+VII (Central Visayas),Dalaguete,222, -   ,11674,11896
+VII (Central Visayas),Danao City,4390,78,17404,21872
+VII (Central Visayas),Moalboal,14009, -   ,12325,26334
+VII (Central Visayas),Oslob,974,236,1708,2918
+VII (Central Visayas),Poro, -   , -   , -   , -   
+VII (Central Visayas),San Fernando,13996, -   ,102,14098
+VII (Central Visayas),San Francisco, -   , -   , -   , -   
+VII (Central Visayas),San Remegio,437, -   ,965,1402
+VII (Central Visayas),Santander,1063, -   ,1227,2290
+VII (Central Visayas),Sogod,9253, -   ,5259,14512
+VII (Central Visayas),Talisay,2047,33,2175,4255
+VII (Central Visayas),Negros Oriental,43665,4587,259728,307980
+VII (Central Visayas),Amlan,238,0,556,794
+VII (Central Visayas),Bacong,113,0,181,294
+VII (Central Visayas),Bais,577,23,783,1383
+VII (Central Visayas),Bayawan,306,0,8254,8560
+VII (Central Visayas),Canlaon,278,0,9492,9770
+VII (Central Visayas),Dauin,7848,7,4055,11910
+VII (Central Visayas),Dumaguete,26376,4546,181781,212703
+VII (Central Visayas),Mabinay,1118,0,41580,42698
+VII (Central Visayas),Manjuyod,154,0,1617,1771
+VII (Central Visayas),San Jose,66,0,882,948
+VII (Central Visayas),Siaton,933,0,2771,3704
+VII (Central Visayas),Sibulan,724,0,4960,5684
+VII (Central Visayas),Tanjay,130,11,838,979
+VII (Central Visayas),Valencia,229,0,20,249
+VII (Central Visayas),Zamboanguita,4575,0,1958,6533
+VII (Central Visayas),Region VII (CENTRAL VISAYAS),-,-,-,-
+VII (Central Visayas),Siquijor,15207,0,18201,33408
+VII (Central Visayas),E. Villanueva,127,0,143,270
+VII (Central Visayas),Larena,1703,0,3126,4829
+VII (Central Visayas),Lazi,211,0,95,306
+VII (Central Visayas),Maria,555,0,3062,3617
+VII (Central Visayas),San Juan,10651,0,5511,16162
+VII (Central Visayas),Siquijor,1960,0,6264,8224
+VII (Central Visayas),Cebu City,333083,7797,850873,1191753
+VII (Central Visayas),Lapu-lapu City,587201,2430,254939,844570
+VII (Central Visayas),Mandaue City,8714,244,28295,37253
+VIII (Eastern Visayas),Total,27578,1212,461682,490472
+VIII (Eastern Visayas),Biliran,718, -   ,3012,3730
+VIII (Eastern Visayas),Almeria,60, -   ,141,201
+VIII (Eastern Visayas),Caibiran,3,-,200,203
+VIII (Eastern Visayas),Cabucgayan, -   , -   ,43,43
+VIII (Eastern Visayas),Culaba,-,-,27,27
+VIII (Eastern Visayas),Kawayan,2, -   ,48,50
+VIII (Eastern Visayas),Maripipi, -   ,-,-, -   
+VIII (Eastern Visayas),Naval,653, -   ,2553,3206
+VIII (Eastern Visayas),Eastern Samar,449, -   ,11797,12246
+VIII (Eastern Visayas),Borongan City,57, -   ,6754,6811
+VIII (Eastern Visayas),Guiuan,392, -   ,5043,5435
+VIII (Eastern Visayas),Others,-,-,-,-
+VIII (Eastern Visayas),Leyte,10739, -   ,131474,142213
+VIII (Eastern Visayas),Abuyog, -   , -   ,16411,16411
+VIII (Eastern Visayas),Bato , -   , -   ,3088,3088
+VIII (Eastern Visayas),Hilongos, -   , -   ,5019,5019
+VIII (Eastern Visayas),Inopacan,151, -   ,1104,1255
+VIII (Eastern Visayas),Isabel,205, -   ,5382,5587
+VIII (Eastern Visayas),Kanangga, -   , -   ,1703,1703
+VIII (Eastern Visayas),Baybay City,260, -   ,31344,31604
+VIII (Eastern Visayas),Ormoc City,10123, -   ,67423,77546
+VIII (Eastern Visayas),Others,-,-,-,-
+VIII (Eastern Visayas),Northern Samar,318, -   ,49055,49373
+VIII (Eastern Visayas),Allen,57,-,3545,3602
+VIII (Eastern Visayas),Biri,88,-,499,587
+VIII (Eastern Visayas),Capul,20,-,75,95
+VIII (Eastern Visayas),Catarman,126, -   ,28098,28224
+VIII (Eastern Visayas),Palapag,-,-,40,40
+VIII (Eastern Visayas),San Antonio,27,-,16346,16373
+VIII (Eastern Visayas),San Roque, -   ,-,452,452
+VIII (Eastern Visayas),Samar,3966, -   ,28201,32167
+VIII (Eastern Visayas),Calbayog City,3917, -   ,19864,23781
+VIII (Eastern Visayas),Catbalogan, -   , -   ,7379,7379
+VIII (Eastern Visayas),Basey,23,-,547,570
+VIII (Eastern Visayas),Marabut,26, -   ,411,437
+VIII (Eastern Visayas),Others, -   , -   , -   , -   
+VIII (Eastern Visayas),Southern Leyte,3937,410,55722,60069
+VIII (Eastern Visayas),Hinunangan,418, -   ,2144,2562
+VIII (Eastern Visayas),Hinundayan,31, -   ,154,185
+VIII (Eastern Visayas),Limasawa,90,-,502,592
+VIII (Eastern Visayas),Maasin City,1663,410,27501,29574
+VIII (Eastern Visayas),Macrohon,1106, -   ,3189,4295
+VIII (Eastern Visayas),Padre Burgos,200, -   ,121,321
+VIII (Eastern Visayas),Pintuyan,46, -   ,435,481
+VIII (Eastern Visayas),Saint Bernard,130, -   ,1217,1347
+VIII (Eastern Visayas),Sogod,253, -   ,20459,20712
+VIII (Eastern Visayas),Others, -   , -   , -   , -   
+VIII (Eastern Visayas),Tacloban City,7451,802,182421,190674
+IX (Zamboanga Peninsula),Total,53754,33375,571645,658774
+IX (Zamboanga Peninsula),Zamboanga del Norte,4301,433,182301,187035
+IX (Zamboanga Peninsula),Dapitan City,1264,109,52148,53521
+IX (Zamboanga Peninsula),Dipolog City,3037,324,130153,133514
+IX (Zamboanga Peninsula),Zamboanga del Sur,225,39,55307,55571
+IX (Zamboanga Peninsula),Pagadian City,225,39,55307,55571
+IX (Zamboanga Peninsula),Zamboanga Sibugay, -   , -   ,45632,45632
+IX (Zamboanga Peninsula),Isabela City, -   , -   , -   , -   
+IX (Zamboanga Peninsula),Zamboanga City ,49228,32903,288405,370536
+X (Northern Mindanao),Total,50918,10091,1421811,1482820
+X (Northern Mindanao),Bukidnon,2209,84,94787,97080
+X (Northern Mindanao),Malaybalay City,913,57,28056,29026
+X (Northern Mindanao),Valencia City,94,0,66048,66142
+X (Northern Mindanao),Others,1202,27,683,1912
+X (Northern Mindanao),Camiguin,8670,647,390902,400219
+X (Northern Mindanao),Lanao del Norte ,78, -   ,33338,33416
+X (Northern Mindanao),Misamis Occidental ,3058,13,269709,272780
+X (Northern Mindanao),Ozamis City,1434,13,224155,225602
+X (Northern Mindanao),Tangub City,24, -   ,6344,6368
+X (Northern Mindanao),Others,1600, -   ,39210,40810
+X (Northern Mindanao),Misamis Oriental,346,187,43239,43772
+X (Northern Mindanao),Gingoog City,177,187,40917,41281
+X (Northern Mindanao),Others,169, -   ,2322,2491
+X (Northern Mindanao),Cagayan de Oro City,35636,9010,505560,550206
+X (Northern Mindanao),Iligan City,921,150,84276,85347
+XI (Davao Region),Total,84134,10674,1480192,1575000
+XI (Davao Region),Compostela Valley,738, -   ,49960,50698
+XI (Davao Region),Davao del Norte,1117,70,378797,379984
+XI (Davao Region),Island Garden City of Samal, -   , -   , -   , -   
+XI (Davao Region),Panabo City, -   , -   , -   , -   
+XI (Davao Region),Tagum City, -   , -   , -   , -   
+XI (Davao Region),Others,1117,70,378797,379984
+XI (Davao Region),Davao del Sur,818, -   ,33456,34274
+XI (Davao Region),Davao Oriental,380, -   ,34664,35044
+XI (Davao Region),Davao City,81081,10604,983315,1075000
+XII (SOCCSKSARGEN),Total,12666,1,268807,281474
+XII (SOCCSKSARGEN),North Cotabato,130,0,41762,41892
+XII (SOCCSKSARGEN),Kidapawan City,130,0,41762,41892
+XII (SOCCSKSARGEN),Others,0,0,0,0
+XII (SOCCSKSARGEN),Sarangani,5762,1,27312,33075
+XII (SOCCSKSARGEN),South Cotabato,561,0,92635,93196
+XII (SOCCSKSARGEN),Koronadal City,383,0,56362,56745
+XII (SOCCSKSARGEN),Others,178,0,36273,36451
+XII (SOCCSKSARGEN),Sultan Kudarat,222,0,11400,11622
+XII (SOCCSKSARGEN),Tacurong City,71,0,9655,9726
+XII (SOCCSKSARGEN),Others,151,0,1745,1896
+XII (SOCCSKSARGEN),Cotabato City,1730,0,35322,37052
+XII (SOCCSKSARGEN),General Santos City,4261,0,60376,64637
+Region XIII (CARAGA),Region XIII (CARAGA),42154,3146,699347,744647
+Region XIII (CARAGA),Agusan del Norte,869,0,20038,20907
+Region XIII (CARAGA),Cabadbaran City,618,0,9219,9837
+Region XIII (CARAGA),Others,251,0,10819,11070
+Region XIII (CARAGA),Agusan del Sur,196, -   ,72960,73156
+Region XIII (CARAGA),Dinagat Islands,149, -   ,3969,4118
+Region XIII (CARAGA),Surigao del Norte,29242,1164,212063,242469
+Region XIII (CARAGA),Surigao City,18704,637,179624,198965
+Region XIII (CARAGA),Others,10538,527,32439,43504
+Region XIII (CARAGA),Surigao del Sur,919, -   ,137113,82859
+Region XIII (CARAGA),Bislig City,340, -   ,44676,45016
+Region XIII (CARAGA),Tandag City,285, -   ,37558,37843
+Region XIII (CARAGA),Others,294, -   ,54879,55173
+Region XIII (CARAGA),Butuan City,10779,1982,253204,265965
+Grand Total,Grand Total,5028804,242369,18587233,23858406
+,,,,,
+DISTRIBUTION OF REGIONAL TRAVELLERS IN THE PHILIPPINES,,,,,
+January-December 2012,,,,,
+Source of Data:  Accommodation Establishments as submitted to Department Tourism Regional Offices,,,,,
+"Prepared by:  Tourism Research and Statistics Division, Office of Tourism Development Planning, DEPARTMENT OF TOURISM",,,,,
+As of 7 August 2013,,,,,

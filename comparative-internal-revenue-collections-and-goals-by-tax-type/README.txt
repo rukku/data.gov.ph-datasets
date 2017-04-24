@@ -1,0 +1,1 @@
+Cumulative Collections and Goals by Type of Taxes Notes: 1. Goal based on RMO No. 1-2013, 2. CY 2013 collection based on BTr and 1209 reports as of April 21, 2014, Prepared by Research and Statistics Division

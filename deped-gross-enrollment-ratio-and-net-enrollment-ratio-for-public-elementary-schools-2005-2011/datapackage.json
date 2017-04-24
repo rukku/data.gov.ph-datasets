@@ -1,0 +1,46 @@
+{
+  "author": "Department of Education", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ddCkOZNgykNCTB7tws4s/deped_gross_enrollment_ratio_and_net_enrollment_ratio_for_public_elementary_schools_2005_to_2011.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2005-12/31/2011"
+  }, 
+  "id": "c472b3a6-00fb-49dc-9b37-438481d2da85", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Education", 
+  "maintainer_email": "action@deped.gov.ph", 
+  "name": "deped-gross-enrollment-ratio-and-net-enrollment-ratio-for-public-elementary-schools-2005-2011", 
+  "notes": "This dataset contains the gross enrollment ratio and net enrollment ratio for public elementary schools for the year 2005 to 2011.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-07T13:47:25.303301", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "75cda63f-c273-464b-8a27-d411272712a1", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Gross Enrollment Ratio and Net Enrollment Ratio for Public Elementary School 2005-2011", 
+      "package_id": "c472b3a6-00fb-49dc-9b37-438481d2da85", 
+      "position": 0, 
+      "resource_group_id": "50e6f25b-1122-4536-adb4-b72227adc140", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ddCkOZNgykNCTB7tws4s/deped_gross_enrollment_ratio_and_net_enrollment_ratio_for_public_elementary_schools_2005_to_2011.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Education"
+  ], 
+  "title": "Gross Enrollment Ratio and Net Enrollment Ratio for Public Elementary Schools 2005-2011", 
+  "url": "", 
+  "version": ""
+}

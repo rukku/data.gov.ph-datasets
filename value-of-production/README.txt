@@ -1,0 +1,1 @@
+This dataset contains the value of production of agricultural products by type/environment/species, by region and by province. This time-series includes the most recent data, covering the period from 1996 to the latest available quarter/year.

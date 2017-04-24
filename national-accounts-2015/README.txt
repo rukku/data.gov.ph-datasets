@@ -1,0 +1,1 @@
+This dataset contains the gross domestic product by industrial origin and by expenditure shares at current and constant 2000 prices. The Philippine System of National Accounts (PSNA) follows the 2008 SNA recommendations to the fullest extent possible.

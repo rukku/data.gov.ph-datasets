@@ -1,0 +1,46 @@
+{
+  "author": "Land Transportation Franchising and Regulatory Board", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/3aG0Xpqg3x1S3aJUKf5i/provincialbusfranchises2015.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2015-03/31/2015"
+  }, 
+  "id": "9ea9991a-64e0-48c6-83bb-5776f1b72166", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Management Information Division", 
+  "maintainer_email": "jonahrut@hotmail.com", 
+  "name": "provincial-bus-franchises-2015", 
+  "notes": "This data set contains the list of provincial bus operators and their corresponding case numbers, number of units, and routes as of March 2015.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T17:29:43.839100", 
+      "description": "This data set contains the list of provincial bus operators and their corresponding case numbers, number of units, and routes as of March 2015.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "08c5b16f-7b1b-40e3-8c10-1fe170887a6d", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Provincial Bus Franchises", 
+      "package_id": "9ea9991a-64e0-48c6-83bb-5776f1b72166", 
+      "position": 0, 
+      "resource_group_id": "1ca50555-8d70-4166-86c7-d5818a8ca12a", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/3aG0Xpqg3x1S3aJUKf5i/provincialbusfranchises2015.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Provincial Bus Franchises 2015", 
+  "url": "", 
+  "version": ""
+}

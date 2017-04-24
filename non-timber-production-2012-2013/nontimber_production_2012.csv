@@ -1,0 +1,39 @@
+region,province,almaciga_resin_kilo,anahaw_leaves_piece,anahaw_poles_piece,bamboo_poles_piece,buri_midribs_kilo,nipa_leaves_piece,nipa_shingles_piece,diliman_and_other_vinces_piece,split_rattan_kilo,unsplit_rattan_lumen
+CAR,Abra, - , - , - ,995, - , - , - , - , - , - 
+CAR,Benguet, - , - , - ,55, - , - , - , - , - , - 
+CAR,Ifugao, - , - , - ,232, - , - , - , - , - , - 
+CAR,Kalinga, - , - , - , - , - , - , - , - , - , - 
+I (Ilocos Region),Ilocos Norte, - , - , - ,2160, - , - , - , - , - , - 
+I (Ilocos Region),Ilocos Sur, - , - , - ,910, - , - , - , - , - , - 
+I (Ilocos Region),La Union, - , - , - ,102315, - , - , - , - , - , - 
+I (Ilocos Region),Pangasinan, - , - , - ,398737, - , - , - , - , - , - 
+II (Cagayan Valley),Cagayan, - , - , - , - , - , - ,600000, - , - ,100000
+II (Cagayan Valley),Isabela, - , - , - , - , - , - , - , - , - ,69478
+II (Cagayan Valley),Quirino, - , - , - , - , - , - , - , - , - ,126930
+III (Central Luzon),Aurora, - , - , - , - , - , - , - , - ,750,4540
+III (Central Luzon),Tarlac, - , - , - ,108100, - , - , - , - , - , - 
+IV-A (CALABARZON),Batangas, - , - , - ,108050, - , - , - , - , - , - 
+IV-A (CALABARZON),Laguna, - , - ,1320,14180, - , - , - , - , - , - 
+IV-A (CALABARZON),Quezon, - , - ,19590,65760, - ,60000,326000, - , - ,67500
+IV-B (MIMAROPA),Occidental Mindoro, - , - , - , - ,15000, - ,7800, - , - , - 
+IV-B (MIMAROPA),Palawan,575873, - , - , - , - , - , - , - ,1394,479642
+V (Bicol Region),Albay, - , - ,600, - , - , - , - , - , - , - 
+V (Bicol Region),Camarines Norte, - ,38400,1547,2829, - , - , - , - , - , - 
+V (Bicol Region),Camarines Sur, - ,8000,2840,7560, - , - ,628500, - , - , - 
+V (Bicol Region),Catanduanes, - ,3000, - , - , - , - , - , - , - ,44676
+V (Bicol Region),Masbate, - , - , - ,20, - , - , - , - , - , - 
+V (Bicol Region),Sorsogon, - , - , - , - , - , - ,777000, - , - , - 
+VI (Western Visayas),Capiz, - , - , - , - , - , - ,7540000, - , - , - 
+VI (Western Visayas),Negros Occidental, - , - , - , - , - , - ,1345000, - , - , - 
+VIII (Eastern Visayas),Eastern Samar, - , - , - , - , - , - , - , - , - ,152888
+VIII (Eastern Visayas),Samar (Western Samar),96000, - , - , - , - , - , - , - , - , - 
+IX (Zamboanga Peninsula),Zamboanga del Norte, - , - , - , - , - , - , - , - , - ,20994
+XI (Davao Region),Compostela Valley, - , - , - , - , - , - , - , - , - ,15000
+XI (Davao Region),Davao del Norte, - , - , - , - , - , - , - , - , - ,35000
+XI (Davao Region),Davao del Sur, - , - , - ,8300, - , - , - , - , - , - 
+XI (Davao Region),Davao Oriental, - , - , - , - , - , - , - , - , - ,643625
+XII (SOCCSKSARGEN),Sarangani, - , - , - ,3135, - , - , - , - , - , - 
+XII (SOCCSKSARGEN),South Cotabato, - , - , - ,317558, - , - , - , - , - , - 
+XII (SOCCSKSARGEN),Sultan Kudarat, - , - , - ,2450, - , - , - , - , - , - 
+XIII (Caraga),Agusan del Sur, - , - , - , - , - , - , - , - ,180253,951018
+XIII (Caraga),Surigao del Norte, - , - , - , - , - , - , - , - , - , - 

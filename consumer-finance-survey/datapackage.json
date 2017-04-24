@@ -1,0 +1,68 @@
+{
+  "author": "Bangko Sentral ng Pilipinas", 
+  "author_email": "bspmail@bsp.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/XguUHluWHklCNuut4K0X/metho_cfs.docx", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "96e0004b-d109-48b7-8c14-397073d51e85", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Expectations Survey and Leading Indicators Group (ESLIG)", 
+  "maintainer_email": "esligdes@bsp.gov.ph", 
+  "name": "consumer-finance-survey", 
+  "notes": "This dataset contains information on the demographic characteristics of the households and their profile, their assets and liabilities, including their residences, other real property, vehicles and other non-financial assets, financial assets, insurance and pension, inheritance, credit cards and other loans. The dataset also contains households' income and expenditures; work and income; and businesses; their preferences and behaviors toward savings and use of extra money.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-15T09:32:39.041912", 
+      "description": "", 
+      "format": "DOCX", 
+      "hash": "", 
+      "id": "ac979f0e-06ef-4bd8-a79a-740504ecf667", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Methodology", 
+      "package_id": "96e0004b-d109-48b7-8c14-397073d51e85", 
+      "position": 0, 
+      "resource_group_id": "63ba1a5b-f47b-494d-adab-d9c9889f7dbd", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/XguUHluWHklCNuut4K0X/metho_cfs.docx", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-15T09:32:41.837966", 
+      "description": " ", 
+      "format": "PDF", 
+      "hash": "", 
+      "id": "a41671aa-804b-40e1-a663-5527301df1e3", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Consumer Finance Survey 2009", 
+      "package_id": "96e0004b-d109-48b7-8c14-397073d51e85", 
+      "position": 1, 
+      "resource_group_id": "63ba1a5b-f47b-494d-adab-d9c9889f7dbd", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://www.bsp.gov.ph/publications/regular_cfs.asp", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "Consumer Finance  Survey", 
+  "url": "", 
+  "version": ""
+}

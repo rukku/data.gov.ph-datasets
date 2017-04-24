@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=O80LUAHC", 
+  "extras": {
+    "Frequency Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1987"
+  }, 
+  "id": "dd76bf1f-56c4-44ec-8ae4-6d53be04edc6", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "palay-and-corn---area-harvested-", 
+  "notes": "This dataset contains the area harvested of palay and corn by ecosystem/croptype, by quarter, by semester, by region and by province. This time-series includes the most recent data, covering the period from 1987 to the latest available quarter/year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-12T13:15:58.265084", 
+      "description": "This dataset contains the area harvested of palay and corn by ecosystem/croptype, by quarter, by semester, by region and by province.  This time-series includes the most recent data, covering the period from 1987 to the latest available quarter/year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "a1e3d093-9eb0-4aaf-99c3-8bce6c1b7a9d", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Palay and Corn: Area Harvested by Ecosystem/Croptype, by Quarter, by Semester, by Region and by Province", 
+      "package_id": "dd76bf1f-56c4-44ec-8ae4-6d53be04edc6", 
+      "position": 0, 
+      "resource_group_id": "f82f7bc1-672d-4374-9ac9-f36c4c27bd06", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=O80LUAHC", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Palay and Corn - Area Harvested", 
+  "url": null, 
+  "version": null
+}

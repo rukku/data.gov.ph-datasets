@@ -1,0 +1,552 @@
+year,region,country of origin,dimensions,php_per_board_foot
+2013,National,Brazil,"2""x4""x8'",43
+2013,National,Malaysia,"2""x4""x8'",42.32
+2013,National,Papua New Guinea,"2""x4""x8'",44.35
+2013,National,Solomon Islands,"2""x4""x8'",40.64
+2013,NCR,Brazil,"2""x4""x8'",38
+2013,NCR,Malaysia,"2""x4""x8'",39.21
+2013,NCR,Papua New Guinea,"2""x4""x8'",55
+2013,NCR,Solomon Islands,"2""x4""x8'",41
+2013,I (Ilocos Region),Brazil,"2""x4""x8'",-
+2013,I (Ilocos Region),Malaysia,"2""x4""x8'",39.96
+2013,I (Ilocos Region),Papua New Guinea,"2""x4""x8'",46
+2013,I (Ilocos Region),Solomon Islands,"2""x4""x8'",45
+2013,II (Cagayan Valley),Brazil,"2""x4""x8'",-
+2013,II (Cagayan Valley),Malaysia,"2""x4""x8'",40.17
+2013,II (Cagayan Valley),Papua New Guinea,"2""x4""x8'",-
+2013,II (Cagayan Valley),Solomon Islands,"2""x4""x8'",-
+2013,III (Central Luzon),Brazil,"2""x4""x8'",48
+2013,III (Central Luzon),Malaysia,"2""x4""x8'",36.56
+2013,III (Central Luzon),Papua New Guinea,"2""x4""x8'",41.5
+2013,III (Central Luzon),Solomon Islands,"2""x4""x8'",38.55
+2013,IV-A (CALABARZON),Brazil,"2""x4""x8'",-
+2013,IV-A (CALABARZON),Malaysia,"2""x4""x8'",44.55
+2013,IV-A (CALABARZON),Papua New Guinea,"2""x4""x8'",34.9
+2013,IV-A (CALABARZON),Solomon Islands,"2""x4""x8'",37.99
+2013,IV-B (MIMAROPA),Brazil,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Malaysia,"2""x4""x8'",42
+2013,IV-B (MIMAROPA),Papua New Guinea,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Solomon Islands,"2""x4""x8'",-
+2013,V (Bicol Region),Brazil,"2""x4""x8'",-
+2013,V (Bicol Region),Malaysia,"2""x4""x8'",45.61
+2013,V (Bicol Region),Papua New Guinea,"2""x4""x8'",-
+2013,V (Bicol Region),Solomon Islands,"2""x4""x8'",-
+2013,VI (Western Visayas),Brazil,"2""x4""x8'",-
+2013,VI (Western Visayas),Malaysia,"2""x4""x8'",41.78
+2013,VI (Western Visayas),Papua New Guinea,"2""x4""x8'",-
+2013,VI (Western Visayas),Solomon Islands,"2""x4""x8'",-
+2013,VII (Central Visayas),Brazil,"2""x4""x8'",-
+2013,VII (Central Visayas),Malaysia,"2""x4""x8'",40.9
+2013,VII (Central Visayas),Papua New Guinea,"2""x4""x8'",-
+2013,VII (Central Visayas),Solomon Islands,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Brazil,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Malaysia,"2""x4""x8'",52.5
+2013,VIII (Eastern Visayas),Papua New Guinea,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Solomon Islands,"2""x4""x8'",-
+2012,National,Brazil,"2""x4""x8'",48.25
+2012,National,Malaysia,"2""x4""x8'",64.05
+2012,National,Papua New Guinea,"2""x4""x8'",39.17
+2012,National,Solomon Islands,"2""x4""x8'",37.91
+2012,NCR,Brazil,"2""x4""x8'",-
+2012,NCR,Malaysia,"2""x4""x8'",60.5
+2012,NCR,Papua New Guinea,"2""x4""x8'",-
+2012,NCR,Solomon Islands,"2""x4""x8'",32
+2012,I (Ilocos Region),Brazil,"2""x4""x8'",-
+2012,I (Ilocos Region),Malaysia,"2""x4""x8'",89.67
+2012,I (Ilocos Region),Papua New Guinea,"2""x4""x8'",46
+2012,I (Ilocos Region),Solomon Islands,"2""x4""x8'",38
+2012,II (Cagayan Valley),Brazil,"2""x4""x8'",-
+2012,II (Cagayan Valley),Malaysia,"2""x4""x8'",60.38
+2012,II (Cagayan Valley),Papua New Guinea,"2""x4""x8'",-
+2012,II (Cagayan Valley),Solomon Islands,"2""x4""x8'",-
+2012,III (Central Luzon),Brazil,"2""x4""x8'",48
+2012,III (Central Luzon),Malaysia,"2""x4""x8'",72.93
+2012,III (Central Luzon),Papua New Guinea,"2""x4""x8'",37
+2012,III (Central Luzon),Solomon Islands,"2""x4""x8'",44.62
+2012,IV-A (CALABARZON),Brazil,"2""x4""x8'",48.5
+2012,IV-A (CALABARZON),Malaysia,"2""x4""x8'",88.71
+2012,IV-A (CALABARZON),Papua New Guinea,"2""x4""x8'",34.5
+2012,IV-A (CALABARZON),Solomon Islands,"2""x4""x8'",37
+2012,IV-B (MIMAROPA),Brazil,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Malaysia,"2""x4""x8'",40.77
+2012,IV-B (MIMAROPA),Papua New Guinea,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Solomon Islands,"2""x4""x8'",-
+2012,V (Bicol Region),Brazil,"2""x4""x8'",-
+2012,V (Bicol Region),Malaysia,"2""x4""x8'",83.67
+2012,V (Bicol Region),Papua New Guinea,"2""x4""x8'",-
+2012,V (Bicol Region),Solomon Islands,"2""x4""x8'",-
+2012,VI (Western Visayas),Brazil,"2""x4""x8'",-
+2012,VI (Western Visayas),Malaysia,"2""x4""x8'",38.9
+2012,VI (Western Visayas),Papua New Guinea,"2""x4""x8'",-
+2012,VI (Western Visayas),Solomon Islands,"2""x4""x8'",-
+2012,VII (Central Visayas),Brazil,"2""x4""x8'",-
+2012,VII (Central Visayas),Malaysia,"2""x4""x8'",40.9
+2012,VII (Central Visayas),Papua New Guinea,"2""x4""x8'",-
+2012,VII (Central Visayas),Solomon Islands,"2""x4""x8'",-
+2011,National,Brazil,"2""x4""x8'",42.88
+2011,National,Indonesia,"2""x4""x8'",35.33
+2011,National,Malaysia,"2""x4""x8'",42.17
+2011,National,Papua New Guinea,"2""x4""x8'",40.04
+2011,National,Solomon Islands,"2""x4""x8'",39.46
+2011,NCR,Brazil,"2""x4""x8'",41.75
+2011,NCR,Indonesia,"2""x4""x8'",-
+2011,NCR,Malaysia,"2""x4""x8'",37.78
+2011,NCR,Papua New Guinea,"2""x4""x8'",-
+2011,NCR,Solomon Islands,"2""x4""x8'",38
+2011,CAR,Brazil,"2""x4""x8'",-
+2011,CAR,Indonesia,"2""x4""x8'",-
+2011,CAR,Malaysia,"2""x4""x8'",34
+2011,CAR,Papua New Guinea,"2""x4""x8'",-
+2011,CAR,Solomon Islands,"2""x4""x8'",-
+2011,I (Ilocos Region),Brazil,"2""x4""x8'",-
+2011,I (Ilocos Region),Indonesia,"2""x4""x8'",-
+2011,I (Ilocos Region),Malaysia,"2""x4""x8'",41.57
+2011,I (Ilocos Region),Papua New Guinea,"2""x4""x8'",43.42
+2011,I (Ilocos Region),Solomon Islands,"2""x4""x8'",38.17
+2011,II (Cagayan Valley),Brazil,"2""x4""x8'",-
+2011,II (Cagayan Valley),Indonesia,"2""x4""x8'",-
+2011,II (Cagayan Valley),Malaysia,"2""x4""x8'",38.47
+2011,II (Cagayan Valley),Papua New Guinea,"2""x4""x8'",-
+2011,II (Cagayan Valley),Solomon Islands,"2""x4""x8'",-
+2011,III (Central Luzon),Brazil,"2""x4""x8'",44
+2011,III (Central Luzon),Indonesia,"2""x4""x8'",-
+2011,III (Central Luzon),Malaysia,"2""x4""x8'",37.04
+2011,III (Central Luzon),Papua New Guinea,"2""x4""x8'",41.19
+2011,III (Central Luzon),Solomon Islands,"2""x4""x8'",44.66
+2011,IV-A (CALABARZON),Brazil,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Indonesia,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Malaysia,"2""x4""x8'",41.67
+2011,IV-A (CALABARZON),Papua New Guinea,"2""x4""x8'",35.5
+2011,IV-A (CALABARZON),Solomon Islands,"2""x4""x8'",37
+2011,IV-B (MIMAROPA),Brazil,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Indonesia,"2""x4""x8'",35.33
+2011,IV-B (MIMAROPA),Malaysia,"2""x4""x8'",53
+2011,IV-B (MIMAROPA),Papua New Guinea,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Solomon Islands,"2""x4""x8'",-
+2011,V (Bicol Region),Brazil,"2""x4""x8'",-
+2011,V (Bicol Region),Indonesia,"2""x4""x8'",-
+2011,V (Bicol Region),Malaysia,"2""x4""x8'",41.84
+2011,V (Bicol Region),Papua New Guinea,"2""x4""x8'",-
+2011,V (Bicol Region),Solomon Islands,"2""x4""x8'",-
+2011,VI (Western Visayas),Brazil,"2""x4""x8'",-
+2011,VI (Western Visayas),Indonesia,"2""x4""x8'",-
+2011,VI (Western Visayas),Malaysia,"2""x4""x8'",47.17
+2011,VI (Western Visayas),Papua New Guinea,"2""x4""x8'",-
+2011,VI (Western Visayas),Solomon Islands,"2""x4""x8'",-
+2011,VII (Central Visayas),Brazil,"2""x4""x8'",-
+2011,VII (Central Visayas),Indonesia,"2""x4""x8'",-
+2011,VII (Central Visayas),Malaysia,"2""x4""x8'",40.9
+2011,VII (Central Visayas),Papua New Guinea,"2""x4""x8'",-
+2011,VII (Central Visayas),Solomon Islands,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Brazil,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Indonesia,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Malaysia,"2""x4""x8'",50.42
+2011,VIII (Eastern Visayas),Papua New Guinea,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Solomon Islands,"2""x4""x8'",-
+2010,National,Brazil,"2""x4""x8'",32.7
+2010,National,Indonesia,"2""x4""x8'",40
+2010,National,Malaysia,"2""x4""x8'",41.23
+2010,National,Papua New Guinea,"2""x4""x8'",37.92
+2010,National,Solomon Islands,"2""x4""x8'",37.5
+2010,NCR,Brazil,"2""x4""x8'",35.39
+2010,NCR,Indonesia,"2""x4""x8'",-
+2010,NCR,Malaysia,"2""x4""x8'",35.84
+2010,NCR,Papua New Guinea,"2""x4""x8'",-
+2010,NCR,Solomon Islands,"2""x4""x8'",43.83
+2010,CAR,Brazil,"2""x4""x8'",-
+2010,CAR,Indonesia,"2""x4""x8'",-
+2010,CAR,Malaysia,"2""x4""x8'",30.65
+2010,CAR,Papua New Guinea,"2""x4""x8'",-
+2010,CAR,Solomon Islands,"2""x4""x8'",-
+2010,I (Ilocos Region),Brazil,"2""x4""x8'",-
+2010,I (Ilocos Region),Indonesia,"2""x4""x8'",-
+2010,I (Ilocos Region),Malaysia,"2""x4""x8'",33.72
+2010,I (Ilocos Region),Papua New Guinea,"2""x4""x8'",39.25
+2010,I (Ilocos Region),Solomon Islands,"2""x4""x8'",36.83
+2010,III (Central Luzon),Brazil,"2""x4""x8'",30
+2010,III (Central Luzon),Indonesia,"2""x4""x8'",-
+2010,III (Central Luzon),Malaysia,"2""x4""x8'",32.33
+2010,III (Central Luzon),Papua New Guinea,"2""x4""x8'",37
+2010,III (Central Luzon),Solomon Islands,"2""x4""x8'",30.34
+2010,IV-A (CALABARZON),Brazil,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Indonesia,"2""x4""x8'",40
+2010,IV-A (CALABARZON),Malaysia,"2""x4""x8'",33.33
+2010,IV-A (CALABARZON),Papua New Guinea,"2""x4""x8'",37.5
+2010,IV-A (CALABARZON),Solomon Islands,"2""x4""x8'",39
+2010,IV-B (MIMAROPA),Brazil,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Indonesia,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Malaysia,"2""x4""x8'",52.96
+2010,IV-B (MIMAROPA),Papua New Guinea,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Solomon Islands,"2""x4""x8'",-
+2010,V (Bicol Region),Brazil,"2""x4""x8'",-
+2010,V (Bicol Region),Indonesia,"2""x4""x8'",-
+2010,V (Bicol Region),Malaysia,"2""x4""x8'",45.67
+2010,V (Bicol Region),Papua New Guinea,"2""x4""x8'",-
+2010,V (Bicol Region),Solomon Islands,"2""x4""x8'",-
+2010,VI (Western Visayas),Brazil,"2""x4""x8'",-
+2010,VI (Western Visayas),Indonesia,"2""x4""x8'",-
+2010,VI (Western Visayas),Malaysia,"2""x4""x8'",51.85
+2010,VI (Western Visayas),Papua New Guinea,"2""x4""x8'",-
+2010,VI (Western Visayas),Solomon Islands,"2""x4""x8'",-
+2010,VII (Central Visayas),Brazil,"2""x4""x8'",-
+2010,VII (Central Visayas),Indonesia,"2""x4""x8'",-
+2010,VII (Central Visayas),Malaysia,"2""x4""x8'",40.9
+2010,VII (Central Visayas),Papua New Guinea,"2""x4""x8'",-
+2010,VII (Central Visayas),Solomon Islands,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Brazil,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Indonesia,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Malaysia,"2""x4""x8'",55
+2010,VIII (Eastern Visayas),Papua New Guinea,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Solomon Islands,"2""x4""x8'",-
+2009,National,Brazil,"2""x4""x8'",36.67
+2009,National,Indonesia,"2""x4""x8'",40
+2009,National,Malaysia,"2""x4""x8'",35.73
+2009,National,Papua New Guinea,"2""x4""x8'",37.1
+2009,National,Solomon Islands,"2""x4""x8'",36.19
+2009,NCR,Brazil,"2""x4""x8'",35.33
+2009,NCR,Indonesia,"2""x4""x8'",-
+2009,NCR,Malaysia,"2""x4""x8'",34.13
+2009,NCR,Papua New Guinea,"2""x4""x8'",-
+2009,NCR,Solomon Islands,"2""x4""x8'",42
+2009,CAR,Brazil,"2""x4""x8'",-
+2009,CAR,Indonesia,"2""x4""x8'",-
+2009,CAR,Malaysia,"2""x4""x8'",29.5
+2009,CAR,Papua New Guinea,"2""x4""x8'",-
+2009,CAR,Solomon Islands,"2""x4""x8'",-
+2009,I (Ilocos Region),Brazil,"2""x4""x8'",-
+2009,I (Ilocos Region),Indonesia,"2""x4""x8'",-
+2009,I (Ilocos Region),Malaysia,"2""x4""x8'",34.14
+2009,I (Ilocos Region),Papua New Guinea,"2""x4""x8'",38.83
+2009,I (Ilocos Region),Solomon Islands,"2""x4""x8'",36.42
+2009,III (Central Luzon),Brazil,"2""x4""x8'",38
+2009,III (Central Luzon),Indonesia,"2""x4""x8'",-
+2009,III (Central Luzon),Malaysia,"2""x4""x8'",31.36
+2009,III (Central Luzon),Papua New Guinea,"2""x4""x8'",37
+2009,III (Central Luzon),Solomon Islands,"2""x4""x8'",29.66
+2009,IV-A (CALABARZON),Brazil,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Indonesia,"2""x4""x8'",40
+2009,IV-A (CALABARZON),Malaysia,"2""x4""x8'",30.27
+2009,IV-A (CALABARZON),Papua New Guinea,"2""x4""x8'",35.46
+2009,IV-A (CALABARZON),Solomon Islands,"2""x4""x8'",36.67
+2009,IV-B (MIMAROPA),Brazil,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Indonesia,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Malaysia,"2""x4""x8'",38.54
+2009,IV-B (MIMAROPA),Papua New Guinea,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Solomon Islands,"2""x4""x8'",-
+2009,V (Bicol Region),Brazil,"2""x4""x8'",-
+2009,V (Bicol Region),Indonesia,"2""x4""x8'",-
+2009,V (Bicol Region),Malaysia,"2""x4""x8'",44.67
+2009,V (Bicol Region),Papua New Guinea,"2""x4""x8'",-
+2009,V (Bicol Region),Solomon Islands,"2""x4""x8'",-
+2009,VI (Western Visayas),Brazil,"2""x4""x8'",-
+2009,VI (Western Visayas),Indonesia,"2""x4""x8'",-
+2009,VI (Western Visayas),Malaysia,"2""x4""x8'",38.04
+2009,VI (Western Visayas),Papua New Guinea,"2""x4""x8'",-
+2009,VI (Western Visayas),Solomon Islands,"2""x4""x8'",-
+2009,VII (Central Visayas),Brazil,"2""x4""x8'",-
+2009,VII (Central Visayas),Indonesia,"2""x4""x8'",-
+2009,VII (Central Visayas),Malaysia,"2""x4""x8'",40.9
+2009,VII (Central Visayas),Papua New Guinea,"2""x4""x8'",-
+2009,VII (Central Visayas),Solomon Islands,"2""x4""x8'",-
+2008,National,Brazil,"2""x4""x8'",34.99
+2008,National,Malaysia,"2""x4""x8'",33.85
+2008,National,Papua New Guinea,"2""x4""x8'",35.47
+2008,National,Solomon Islands,"2""x4""x8'",39.75
+2008,NCR,Brazil,"2""x4""x8'",34.99
+2008,NCR,Malaysia,"2""x4""x8'",33.59
+2008,NCR,Papua New Guinea,"2""x4""x8'",-
+2008,NCR,Solomon Islands,"2""x4""x8'",53.5
+2008,CAR,Brazil,"2""x4""x8'",-
+2008,CAR,Malaysia,"2""x4""x8'",27.23
+2008,CAR,Papua New Guinea,"2""x4""x8'",-
+2008,CAR,Solomon Islands,"2""x4""x8'",-
+2008,I (Ilocos Region),Brazil,"2""x4""x8'",-
+2008,I (Ilocos Region),Malaysia,"2""x4""x8'",33.07
+2008,I (Ilocos Region),Papua New Guinea,"2""x4""x8'",37.25
+2008,I (Ilocos Region),Solomon Islands,"2""x4""x8'",36.67
+2008,III (Central Luzon),Brazil,"2""x4""x8'",-
+2008,III (Central Luzon),Malaysia,"2""x4""x8'",31.31
+2008,III (Central Luzon),Papua New Guinea,"2""x4""x8'",37
+2008,III (Central Luzon),Solomon Islands,"2""x4""x8'",35
+2008,IV-A (CALABARZON),Brazil,"2""x4""x8'",-
+2008,IV-A (CALABARZON),Malaysia,"2""x4""x8'",27.98
+2008,IV-A (CALABARZON),Papua New Guinea,"2""x4""x8'",32.17
+2008,IV-A (CALABARZON),Solomon Islands,"2""x4""x8'",33.83
+2008,IV-B (MIMAROPA),Brazil,"2""x4""x8'",-
+2008,IV-B (MIMAROPA),Malaysia,"2""x4""x8'",29.75
+2008,IV-B (MIMAROPA),Papua New Guinea,"2""x4""x8'",-
+2008,IV-B (MIMAROPA),Solomon Islands,"2""x4""x8'",-
+2008,V (Bicol Region),Brazil,"2""x4""x8'",-
+2008,V (Bicol Region),Malaysia,"2""x4""x8'",41.79
+2008,V (Bicol Region),Papua New Guinea,"2""x4""x8'",-
+2008,V (Bicol Region),Solomon Islands,"2""x4""x8'",-
+2008,VI (Western Visayas),Brazil,"2""x4""x8'",-
+2008,VI (Western Visayas),Malaysia,"2""x4""x8'",28.86
+2008,VI (Western Visayas),Papua New Guinea,"2""x4""x8'",-
+2008,VI (Western Visayas),Solomon Islands,"2""x4""x8'",-
+2008,VII (Central Visayas),Brazil,"2""x4""x8'",-
+2008,VII (Central Visayas),Malaysia,"2""x4""x8'",41.93
+2008,VII (Central Visayas),Papua New Guinea,"2""x4""x8'",-
+2008,VII (Central Visayas),Solomon Islands,"2""x4""x8'",-
+2008,VIII (Eastern Visayas),Brazil,"2""x4""x8'",-
+2008,VIII (Eastern Visayas),Malaysia,"2""x4""x8'",43
+2008,VIII (Eastern Visayas),Papua New Guinea,"2""x4""x8'",-
+2008,VIII (Eastern Visayas),Solomon Islands,"2""x4""x8'",-
+2007,National,Brazil,"2""x4""x8'",34.94
+2007,National,Malaysia,"2""x4""x8'",31.87
+2007,National,Papua New Guinea,"2""x4""x8'",35.27
+2007,National,Solomon Islands,"2""x4""x8'",39.01
+2007,NCR,Brazil,"2""x4""x8'",34.25
+2007,NCR,Malaysia,"2""x4""x8'",30.63
+2007,NCR,Papua New Guinea,"2""x4""x8'",-
+2007,NCR,Solomon Islands,"2""x4""x8'",37.8
+2007,CAR,Brazil,"2""x4""x8'",-
+2007,CAR,Malaysia,"2""x4""x8'",26.5
+2007,CAR,Papua New Guinea,"2""x4""x8'",-
+2007,CAR,Solomon Islands,"2""x4""x8'",-
+2007,I (Ilocos Region),Brazil,"2""x4""x8'",-
+2007,I (Ilocos Region),Malaysia,"2""x4""x8'",32.55
+2007,I (Ilocos Region),Papua New Guinea,"2""x4""x8'",37.31
+2007,I (Ilocos Region),Solomon Islands,"2""x4""x8'",35.5
+2007,II (Cagayan Valley),Brazil,"2""x4""x8'",-
+2007,II (Cagayan Valley),Malaysia,"2""x4""x8'",28.25
+2007,II (Cagayan Valley),Papua New Guinea,"2""x4""x8'",-
+2007,II (Cagayan Valley),Solomon Islands,"2""x4""x8'",-
+2007,III (Central Luzon),Brazil,"2""x4""x8'",38.57
+2007,III (Central Luzon),Malaysia,"2""x4""x8'",31.05
+2007,III (Central Luzon),Papua New Guinea,"2""x4""x8'",36.5
+2007,III (Central Luzon),Solomon Islands,"2""x4""x8'",32.75
+2007,IV-A (CALABARZON),Brazil,"2""x4""x8'",-
+2007,IV-A (CALABARZON),Malaysia,"2""x4""x8'",27.6
+2007,IV-A (CALABARZON),Papua New Guinea,"2""x4""x8'",32
+2007,IV-A (CALABARZON),Solomon Islands,"2""x4""x8'",34
+2007,IV-B (MIMAROPA),Brazil,"2""x4""x8'",-
+2007,IV-B (MIMAROPA),Malaysia,"2""x4""x8'",31
+2007,IV-B (MIMAROPA),Papua New Guinea,"2""x4""x8'",-
+2007,IV-B (MIMAROPA),Solomon Islands,"2""x4""x8'",-
+2007,V (Bicol Region),Brazil,"2""x4""x8'",32
+2007,V (Bicol Region),Malaysia,"2""x4""x8'",43.8
+2007,V (Bicol Region),Papua New Guinea,"2""x4""x8'",-
+2007,V (Bicol Region),Solomon Islands,"2""x4""x8'",55
+2007,VI (Western Visayas),Brazil,"2""x4""x8'",-
+2007,VI (Western Visayas),Malaysia,"2""x4""x8'",33.95
+2007,VI (Western Visayas),Papua New Guinea,"2""x4""x8'",-
+2007,VI (Western Visayas),Solomon Islands,"2""x4""x8'",-
+2007,VII (Central Visayas),Brazil,"2""x4""x8'",-
+2007,VII (Central Visayas),Malaysia,"2""x4""x8'",41.25
+2007,VII (Central Visayas),Papua New Guinea,"2""x4""x8'",-
+2007,VII (Central Visayas),Solomon Islands,"2""x4""x8'",-
+2007,VIII (Eastern Visayas),Brazil,"2""x4""x8'",-
+2007,VIII (Eastern Visayas),Malaysia,"2""x4""x8'",24
+2007,VIII (Eastern Visayas),Papua New Guinea,"2""x4""x8'",-
+2007,VIII (Eastern Visayas),Solomon Islands,"2""x4""x8'",-
+2006,National,Brazil,"2""x4""x8'",32.64
+2006,National,Indonesia,"2""x4""x8'",31.62
+2006,National,Malaysia,"2""x4""x8'",27.65
+2006,National,Papua New Guinea,"2""x4""x8'",34.15
+2006,National,Solomon Islands,"2""x4""x8'",34.58
+2006,NCR,Brazil,"2""x4""x8'",29.62
+2006,NCR,Indonesia,"2""x4""x8'",-
+2006,NCR,Malaysia,"2""x4""x8'",28.48
+2006,NCR,Papua New Guinea,"2""x4""x8'",-
+2006,NCR,Solomon Islands,"2""x4""x8'",34.33
+2006,CAR,Brazil,"2""x4""x8'",-
+2006,CAR,Indonesia,"2""x4""x8'",-
+2006,CAR,Malaysia,"2""x4""x8'",25.94
+2006,CAR,Papua New Guinea,"2""x4""x8'",-
+2006,CAR,Solomon Islands,"2""x4""x8'",-
+2006,I (Ilocos Region),Brazil,"2""x4""x8'",-
+2006,I (Ilocos Region),Indonesia,"2""x4""x8'",36
+2006,I (Ilocos Region),Malaysia,"2""x4""x8'",27.97
+2006,I (Ilocos Region),Papua New Guinea,"2""x4""x8'",36.5
+2006,I (Ilocos Region),Solomon Islands,"2""x4""x8'",37
+2006,II (Cagayan Valley),Brazil,"2""x4""x8'",-
+2006,II (Cagayan Valley),Indonesia,"2""x4""x8'",-
+2006,II (Cagayan Valley),Malaysia,"2""x4""x8'",30
+2006,II (Cagayan Valley),Papua New Guinea,"2""x4""x8'",-
+2006,II (Cagayan Valley),Solomon Islands,"2""x4""x8'",-
+2006,III (Central Luzon),Brazil,"2""x4""x8'",34.29
+2006,III (Central Luzon),Indonesia,"2""x4""x8'",25
+2006,III (Central Luzon),Malaysia,"2""x4""x8'",27.41
+2006,III (Central Luzon),Papua New Guinea,"2""x4""x8'",35.56
+2006,III (Central Luzon),Solomon Islands,"2""x4""x8'",32.75
+2006,IV-A (CALABARZON),Brazil,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Indonesia,"2""x4""x8'",33.87
+2006,IV-A (CALABARZON),Malaysia,"2""x4""x8'",28.11
+2006,IV-A (CALABARZON),Papua New Guinea,"2""x4""x8'",30.4
+2006,IV-A (CALABARZON),Solomon Islands,"2""x4""x8'",30.33
+2006,V (Bicol Region),Brazil,"2""x4""x8'",34
+2006,V (Bicol Region),Indonesia,"2""x4""x8'",-
+2006,V (Bicol Region),Malaysia,"2""x4""x8'",34.29
+2006,V (Bicol Region),Papua New Guinea,"2""x4""x8'",-
+2006,V (Bicol Region),Solomon Islands,"2""x4""x8'",38.5
+2006,VI (Western Visayas),Brazil,"2""x4""x8'",-
+2006,VI (Western Visayas),Indonesia,"2""x4""x8'",-
+2006,VI (Western Visayas),Malaysia,"2""x4""x8'",33.14
+2006,VI (Western Visayas),Papua New Guinea,"2""x4""x8'",-
+2006,VI (Western Visayas),Solomon Islands,"2""x4""x8'",-
+2006,VII (Central Visayas),Brazil,"2""x4""x8'",-
+2006,VII (Central Visayas),Indonesia,"2""x4""x8'",-
+2006,VII (Central Visayas),Malaysia,"2""x4""x8'",28.4
+2006,VII (Central Visayas),Papua New Guinea,"2""x4""x8'",-
+2006,VII (Central Visayas),Solomon Islands,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Brazil,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Indonesia,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Malaysia,"2""x4""x8'",25
+2006,VIII (Eastern Visayas),Papua New Guinea,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Solomon Islands,"2""x4""x8'",-
+2005,National,Brazil,"2""x4""x8'",31.07
+2005,National,Indonesia,"2""x4""x8'",28.63
+2005,National,Malaysia,"2""x4""x8'",26.93
+2005,National,Papua New Guinea,"2""x4""x8'",31.22
+2005,National,Solomon Islands,"2""x4""x8'",30.82
+2005,NCR,Brazil,"2""x4""x8'",28.24
+2005,NCR,Indonesia,"2""x4""x8'",34
+2005,NCR,Malaysia,"2""x4""x8'",25.8
+2005,NCR,Papua New Guinea,"2""x4""x8'",-
+2005,NCR,Solomon Islands,"2""x4""x8'",29.04
+2005,CAR,Brazil,"2""x4""x8'",-
+2005,CAR,Indonesia,"2""x4""x8'",-
+2005,CAR,Malaysia,"2""x4""x8'",24.65
+2005,CAR,Papua New Guinea,"2""x4""x8'",-
+2005,CAR,Solomon Islands,"2""x4""x8'",-
+2005,I (Ilocos Region),Brazil,"2""x4""x8'",34.67
+2005,I (Ilocos Region),Indonesia,"2""x4""x8'",-
+2005,I (Ilocos Region),Malaysia,"2""x4""x8'",30.74
+2005,I (Ilocos Region),Papua New Guinea,"2""x4""x8'",36.75
+2005,I (Ilocos Region),Solomon Islands,"2""x4""x8'",30.89
+2005,II (Cagayan Valley),Brazil,"2""x4""x8'",34
+2005,II (Cagayan Valley),Indonesia,"2""x4""x8'",-
+2005,II (Cagayan Valley),Malaysia,"2""x4""x8'",27.06
+2005,II (Cagayan Valley),Papua New Guinea,"2""x4""x8'",-
+2005,II (Cagayan Valley),Solomon Islands,"2""x4""x8'",-
+2005,III (Central Luzon),Brazil,"2""x4""x8'",27.85
+2005,III (Central Luzon),Indonesia,"2""x4""x8'",22.78
+2005,III (Central Luzon),Malaysia,"2""x4""x8'",25.71
+2005,III (Central Luzon),Papua New Guinea,"2""x4""x8'",29.24
+2005,III (Central Luzon),Solomon Islands,"2""x4""x8'",29.58
+2005,IV-A (CALABARZON),Brazil,"2""x4""x8'",-
+2005,IV-A (CALABARZON),Indonesia,"2""x4""x8'",30.75
+2005,IV-A (CALABARZON),Malaysia,"2""x4""x8'",26.72
+2005,IV-A (CALABARZON),Papua New Guinea,"2""x4""x8'",27.67
+2005,IV-A (CALABARZON),Solomon Islands,"2""x4""x8'",28.09
+2005,IV-B (MIMAROPA),Brazil,"2""x4""x8'",-
+2005,IV-B (MIMAROPA),Indonesia,"2""x4""x8'",27
+2005,IV-B (MIMAROPA),Malaysia,"2""x4""x8'",-
+2005,IV-B (MIMAROPA),Papua New Guinea,"2""x4""x8'",-
+2005,IV-B (MIMAROPA),Solomon Islands,"2""x4""x8'",-
+2005,V (Bicol Region),Brazil,"2""x4""x8'",-
+2005,V (Bicol Region),Indonesia,"2""x4""x8'",-
+2005,V (Bicol Region),Malaysia,"2""x4""x8'",29.67
+2005,V (Bicol Region),Papua New Guinea,"2""x4""x8'",-
+2005,V (Bicol Region),Solomon Islands,"2""x4""x8'",36.49
+2005,VI (Western Visayas),Brazil,"2""x4""x8'",33.67
+2005,VI (Western Visayas),Indonesia,"2""x4""x8'",-
+2005,VI (Western Visayas),Malaysia,"2""x4""x8'",31.49
+2005,VI (Western Visayas),Papua New Guinea,"2""x4""x8'",-
+2005,VI (Western Visayas),Solomon Islands,"2""x4""x8'",-
+2005,VII (Central Visayas),Brazil,"2""x4""x8'",-
+2005,VII (Central Visayas),Indonesia,"2""x4""x8'",-
+2005,VII (Central Visayas),Malaysia,"2""x4""x8'",26.6
+2005,VII (Central Visayas),Papua New Guinea,"2""x4""x8'",-
+2005,VII (Central Visayas),Solomon Islands,"2""x4""x8'",-
+2005,VIII (Eastern Visayas),Brazil,"2""x4""x8'",28
+2005,VIII (Eastern Visayas),Indonesia,"2""x4""x8'",-
+2005,VIII (Eastern Visayas),Malaysia,"2""x4""x8'",26.25
+2005,VIII (Eastern Visayas),Papua New Guinea,"2""x4""x8'",-
+2005,VIII (Eastern Visayas),Solomon Islands,"2""x4""x8'",-
+2005,XIII (Caraga),Brazil,"2""x4""x8'",-
+2005,XIII (Caraga),Indonesia,"2""x4""x8'",-
+2005,XIII (Caraga),Malaysia,"2""x4""x8'",21.5
+2005,XIII (Caraga),Papua New Guinea,"2""x4""x8'",-
+2005,XIII (Caraga),Solomon Islands,"2""x4""x8'",-
+2004,National,Brazil,"2""x4""x8'",26.19
+2004,National,Indonesia,"2""x4""x8'",22.16
+2004,National,Malaysia,"2""x4""x8'",24.34
+2004,National,Papua New Guinea,"2""x4""x8'",24.67
+2004,National,Solomon Islands,"2""x4""x8'",25.35
+2004,NCR,Brazil,"2""x4""x8'",25.14
+2004,NCR,Indonesia,"2""x4""x8'",22.27
+2004,NCR,Malaysia,"2""x4""x8'",24.3
+2004,NCR,Papua New Guinea,"2""x4""x8'",-
+2004,NCR,Solomon Islands,"2""x4""x8'",24.72
+2004,CAR,Brazil,"2""x4""x8'",-
+2004,CAR,Indonesia,"2""x4""x8'",-
+2004,CAR,Malaysia,"2""x4""x8'",21.46
+2004,CAR,Papua New Guinea,"2""x4""x8'",-
+2004,CAR,Solomon Islands,"2""x4""x8'",-
+2004,I (Ilocos Region),Brazil,"2""x4""x8'",27.17
+2004,I (Ilocos Region),Indonesia,"2""x4""x8'",-
+2004,I (Ilocos Region),Malaysia,"2""x4""x8'",24.46
+2004,I (Ilocos Region),Papua New Guinea,"2""x4""x8'",27.33
+2004,I (Ilocos Region),Solomon Islands,"2""x4""x8'",26.42
+2004,II (Cagayan Valley),Brazil,"2""x4""x8'",26
+2004,II (Cagayan Valley),Indonesia,"2""x4""x8'",-
+2004,II (Cagayan Valley),Malaysia,"2""x4""x8'",21.44
+2004,II (Cagayan Valley),Papua New Guinea,"2""x4""x8'",-
+2004,II (Cagayan Valley),Solomon Islands,"2""x4""x8'",-
+2004,III (Central Luzon),Brazil,"2""x4""x8'",23.19
+2004,III (Central Luzon),Indonesia,"2""x4""x8'",22.17
+2004,III (Central Luzon),Malaysia,"2""x4""x8'",21.9
+2004,III (Central Luzon),Papua New Guinea,"2""x4""x8'",23.85
+2004,III (Central Luzon),Solomon Islands,"2""x4""x8'",24.18
+2004,IV-A (CALABARZON),Brazil,"2""x4""x8'",25.77
+2004,IV-A (CALABARZON),Indonesia,"2""x4""x8'",22.04
+2004,IV-A (CALABARZON),Malaysia,"2""x4""x8'",24.13
+2004,IV-A (CALABARZON),Papua New Guinea,"2""x4""x8'",22.83
+2004,IV-A (CALABARZON),Solomon Islands,"2""x4""x8'",23.92
+2004,IV-B (MIMAROPA),Brazil,"2""x4""x8'",-
+2004,IV-B (MIMAROPA),Indonesia,"2""x4""x8'",-
+2004,IV-B (MIMAROPA),Malaysia,"2""x4""x8'",27
+2004,IV-B (MIMAROPA),Papua New Guinea,"2""x4""x8'",-
+2004,IV-B (MIMAROPA),Solomon Islands,"2""x4""x8'",-
+2004,V (Bicol Region),Brazil,"2""x4""x8'",-
+2004,V (Bicol Region),Indonesia,"2""x4""x8'",-
+2004,V (Bicol Region),Malaysia,"2""x4""x8'",-
+2004,V (Bicol Region),Papua New Guinea,"2""x4""x8'",-
+2004,V (Bicol Region),Solomon Islands,"2""x4""x8'",27.5
+2004,VI (Western Visayas),Brazil,"2""x4""x8'",29.85
+2004,VI (Western Visayas),Indonesia,"2""x4""x8'",-
+2004,VI (Western Visayas),Malaysia,"2""x4""x8'",26.14
+2004,VI (Western Visayas),Papua New Guinea,"2""x4""x8'",-
+2004,VI (Western Visayas),Solomon Islands,"2""x4""x8'",-
+2004,VII (Central Visayas),Brazil,"2""x4""x8'",-
+2004,VII (Central Visayas),Indonesia,"2""x4""x8'",-
+2004,VII (Central Visayas),Malaysia,"2""x4""x8'",26.6
+2004,VII (Central Visayas),Papua New Guinea,"2""x4""x8'",-
+2004,VII (Central Visayas),Solomon Islands,"2""x4""x8'",-
+2004,VIII (Eastern Visayas),Brazil,"2""x4""x8'",-
+2004,VIII (Eastern Visayas),Indonesia,"2""x4""x8'",-
+2004,VIII (Eastern Visayas),Malaysia,"2""x4""x8'",26
+2004,VIII (Eastern Visayas),Papua New Guinea,"2""x4""x8'",-
+2004,VIII (Eastern Visayas),Solomon Islands,"2""x4""x8'",-
+2003,National,Indonesia,"2""x4""x8'",21.08
+2003,National,Malaysia,"2""x4""x8'",20.98
+2003,National,Solomon Islands,"2""x4""x8'",24.1
+2003,NCR,Indonesia,"2""x4""x8'",23
+2003,NCR,Malaysia,"2""x4""x8'",14
+2003,NCR,Solomon Islands,"2""x4""x8'",21.17
+2003,CAR,Indonesia,"2""x4""x8'",-
+2003,CAR,Malaysia,"2""x4""x8'",20.37
+2003,CAR,Solomon Islands,"2""x4""x8'",-
+2003,I (Ilocos Region),Indonesia,"2""x4""x8'",21
+2003,I (Ilocos Region),Malaysia,"2""x4""x8'",23.67
+2003,I (Ilocos Region),Solomon Islands,"2""x4""x8'",24.43
+2003,II (Cagayan Valley),Indonesia,"2""x4""x8'",-
+2003,II (Cagayan Valley),Malaysia,"2""x4""x8'",21.5
+2003,II (Cagayan Valley),Solomon Islands,"2""x4""x8'",-
+2003,III (Central Luzon),Indonesia,"2""x4""x8'",-
+2003,III (Central Luzon),Malaysia,"2""x4""x8'",20.76
+2003,III (Central Luzon),Solomon Islands,"2""x4""x8'",23.61
+2003,IV-A (CALABARZON),Indonesia,"2""x4""x8'",19.25
+2003,IV-A (CALABARZON),Malaysia,"2""x4""x8'",20
+2003,IV-A (CALABARZON),Solomon Islands,"2""x4""x8'",-
+2003,V (Bicol Region),Indonesia,"2""x4""x8'",-
+2003,V (Bicol Region),Malaysia,"2""x4""x8'",-
+2003,V (Bicol Region),Solomon Islands,"2""x4""x8'",27.19
+2003,VIII (Eastern Visayas),Indonesia,"2""x4""x8'",-
+2003,VIII (Eastern Visayas),Malaysia,"2""x4""x8'",26
+2003,VIII (Eastern Visayas),Solomon Islands,"2""x4""x8'",-
+2003,XIII (Caraga),Indonesia,"2""x4""x8'",-
+2003,XIII (Caraga),Malaysia,"2""x4""x8'",21.5
+2003,XIII (Caraga),Solomon Islands,"2""x4""x8'",-

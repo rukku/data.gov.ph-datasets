@@ -1,0 +1,1 @@
+Mining Tenements Control Map for Region 4-B

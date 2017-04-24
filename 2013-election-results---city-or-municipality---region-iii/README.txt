@@ -1,0 +1,1 @@
+This dataset contains the list of candidates of city or municipality election of region III for the year 2013.

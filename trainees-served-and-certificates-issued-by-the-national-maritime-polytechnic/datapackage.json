@@ -1,0 +1,46 @@
+{
+  "author": "Department of Labor and Employment", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/OOVuOmIysSNsPYmpBC7a/doletraineesservdandcertissuedbynmp1986-2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1986-12/31/2012"
+  }, 
+  "id": "48a81ef8-80ec-4157-99c6-6fe963f98b7d", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bureau of Labor and Employment Statistics - Data Bank", 
+  "maintainer_email": "bles_tsd@dole.gov.ph", 
+  "name": "trainees-served-and-certificates-issued-by-the-national-maritime-polytechnic", 
+  "notes": "This dataset contains the number of trainees served and number of certificate issued by the National Maritime Polytechnic from 1986 to 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-08T16:00:31.755186", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "0cb5fafe-db6b-4bd9-adcc-878d4af3e4fb", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "TRAINEES SERVED AND CERTIFICATES ISSUED BY THE NATIONAL MARITIME POLYTECHNIC", 
+      "package_id": "48a81ef8-80ec-4157-99c6-6fe963f98b7d", 
+      "position": 0, 
+      "resource_group_id": "777242dc-f425-4468-b4ff-e7934f778ca2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/OOVuOmIysSNsPYmpBC7a/doletraineesservdandcertissuedbynmp1986-2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Employment"
+  ], 
+  "title": "Trainees Served and Certificates Issued by the National Maritime Polytechnic", 
+  "url": "", 
+  "version": ""
+}

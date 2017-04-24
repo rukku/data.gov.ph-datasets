@@ -1,0 +1,69 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/edc4c970-518a-49ff-aeba-2c2f4ad6af04/resource/0cb9669b-2cbb-4de6-a5bb-f4062736e811/download/NSCBCUSTOMARYLAWSPRACTICES.xlsx", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "edc4c970-518a-49ff-aeba-2c2f4ad6af04", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-customary-laws-practices", 
+  "notes": "Indigenous People's Rights - Customary Laws/Practices", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T23:35:26.751411", 
+      "description": "Indigenous People's Rights - Customary Laws/Practices", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "0cb9669b-2cbb-4de6-a5bb-f4062736e811", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - CUSTOMARY LAWS/PRACTICES", 
+      "package_id": "edc4c970-518a-49ff-aeba-2c2f4ad6af04", 
+      "position": 0, 
+      "resource_group_id": "96e683dd-553a-4ce1-bd3b-d9ccd0440ad7", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/edc4c970-518a-49ff-aeba-2c2f4ad6af04/resource/0cb9669b-2cbb-4de6-a5bb-f4062736e811/download/NSCBCUSTOMARYLAWSPRACTICES.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T23:35:49.739764", 
+      "description": "Indigenous People's Rights - Customary Laws/Practices", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "f1cb7dc5-2519-4c93-9b6b-1d6887cbb587", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - CUSTOMARY LAWS/PRACTICES", 
+      "package_id": "edc4c970-518a-49ff-aeba-2c2f4ad6af04", 
+      "position": 1, 
+      "resource_group_id": "96e683dd-553a-4ce1-bd3b-d9ccd0440ad7", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/edc4c970-518a-49ff-aeba-2c2f4ad6af04/resource/f1cb7dc5-2519-4c93-9b6b-1d6887cbb587/download/NSCBCUSTOMARYLAWSPRACTICES.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Population"
+  ], 
+  "title": "NSCB - CUSTOMARY LAWS/PRACTICES", 
+  "url": "", 
+  "version": ""
+}

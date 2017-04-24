@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/s9QfZgMfzwtzYy86L5vh/siquijorprov_irau_2012_q4.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "10/01/2012-12/31/2012"
+  }, 
+  "id": "cbe723d2-9faf-4360-8910-7306fca33cea", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization---siquijor-province-", 
+  "notes": "This dataset contains report of the internal revenue allotment utilization of Siquijor province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T16:52:36.362516", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "ae11ab5c-b35c-4381-b63d-08a54c37ce74", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Siquijor Province IRAU", 
+      "package_id": "cbe723d2-9faf-4360-8910-7306fca33cea", 
+      "position": 0, 
+      "resource_group_id": "1b7eb974-69f1-49d8-9986-ee2dab42fa0f", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/s9QfZgMfzwtzYy86L5vh/siquijorprov_irau_2012_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "INTERNAL REVENUE ALLOTMENT UTILIZATION - Siquijor Province", 
+  "url": "", 
+  "version": ""
+}

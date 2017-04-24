@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Internal Revenue", 
+  "author_email": "contact_us@cctr.bir.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/aVzCSWJ5jOjhHOGQCPSN/bircomintrevcolgoalsimpofc2012-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2015"
+  }, 
+  "id": "d3be239b-3295-4f6f-9f56-f6a4b0e397ed", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Research and Statistics Division", 
+  "maintainer_email": "josephine.vargas@bir.gov.ph", 
+  "name": "comparative-internal-revenue-collections-and-goals-by-implementing-office", 
+  "notes": "Cumulative Collections and Goals by RR's\r\nNotes: 1. Goal based on RMO No. 1-2013, 2. CY 2013 collection based on 1209 reports as of May 26, 2014, Prepared by: Research and Statistics Division", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-06T14:26:50.922651", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "d197c679-e0ab-4e76-8c79-20f7ce38db52", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "COMPARATIVE INTERNAL REVENUE COLLECTIONS AND GOALS BY IMPLEMENTING OFFICE", 
+      "package_id": "d3be239b-3295-4f6f-9f56-f6a4b0e397ed", 
+      "position": 0, 
+      "resource_group_id": "459ce6d6-8710-4117-bbc2-70a1d73ace9d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/aVzCSWJ5jOjhHOGQCPSN/bircomintrevcolgoalsimpofc2012-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Public Finance"
+  ], 
+  "title": "Comparative Internal Revenue Collections and Goals by Implementing Office", 
+  "url": "", 
+  "version": ""
+}

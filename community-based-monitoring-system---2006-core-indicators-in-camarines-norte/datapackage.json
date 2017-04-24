@@ -1,0 +1,46 @@
+{
+  "author": "Local Government of Camarines Norte", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/LHIVHsp5F6ySmWw19IDG/CBMS Camarines Norte 2006.csv", 
+  "extras": {
+    "Granularity": "Barangay", 
+    "Temporal Date": "01/01/2006-12/31/2006"
+  }, 
+  "id": "1776b6d5-11b8-4486-ade1-ccd4f44b81e4", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "CBMS Network Coordinating Team", 
+  "maintainer_email": "info@napc.gov.ph", 
+  "name": "community-based-monitoring-system---2006-core-indicators-in-camarines-norte", 
+  "notes": "This dataset contains barangay-level information on the 14 core indicators of CBMS in the province of Camarines Norte. These 14 indicators are: (1) malnourished children 0 to 5 years old; (2) death of children 0 to 4 years old; (3) death of women due to pregnancy-related causes; (4) households without access to safe water; (5) households without access to sanitary toilet facilities; (6) households living in makeshift housing; (7) households who are informal settlers; (8) children aged 6 to 12 not attending elementary school; (9) children aged 13 to 16 not attending secondary school; (10) children aged 6 to 16 not attending school; (11) population who are unemployed; (12) households with income below poverty threshold; (13) households with income below food threshold; and (14) households who experienced food shortage. The data shows magnitude and proportion per barangay in each indicator; magnitude refers to the actual count of individuals/households in a given sample of the population while proportion refers to the percentage of the magnitude relative to the total count in a given sample of the population.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-01-12T13:17:49.599070", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "d2e09bf1-9a83-4366-ada4-ae0095217ab1", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "CBMS - 2006 Core Indicator in Camarines Norte", 
+      "package_id": "1776b6d5-11b8-4486-ade1-ccd4f44b81e4", 
+      "position": 0, 
+      "resource_group_id": "768bd3b8-806a-4c26-be4f-9769a87c25a4", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/LHIVHsp5F6ySmWw19IDG/CBMS Camarines Norte 2006.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Population"
+  ], 
+  "title": "Community-Based Monitoring System - 2006 Core Indicators in Camarines Norte", 
+  "url": "http://maps.napc.gov.ph/drupal/", 
+  "version": ""
+}

@@ -1,0 +1,1 @@
+Regional distribution of Loan Portfolio (Loans and Receivables - Others, net of allowance for credit losses) of the Philippine Banking System.  2001-2011

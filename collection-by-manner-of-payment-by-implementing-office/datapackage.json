@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Internal Revenue", 
+  "author_email": "contact_us@cctr.bir.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/TxArnHfzh7B0hY1N4N59/bircolmanpaymentimpofc2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2015"
+  }, 
+  "id": "d82ac3fa-a073-46d0-9ce1-d62fa2b11151", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Research and Statistics Division", 
+  "maintainer_email": "josephine.vargas@bir.gov.ph", 
+  "name": "collection-by-manner-of-payment-by-implementing-office", 
+  "notes": "Cumulative Collection by Manner of Payment from RRs\r\nNote: CY 2013 collection based on 1209 reports as of May 26, 2014, Prepared by: Research and Statistics Division", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-06T14:33:26.726743", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "8dc12306-8941-46d5-8654-76a0616c8106", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "COLLECTION BY MANNER OF PAYMENT BY IMPLEMENTING OFFICE", 
+      "package_id": "d82ac3fa-a073-46d0-9ce1-d62fa2b11151", 
+      "position": 0, 
+      "resource_group_id": "c73a99a8-43df-42a6-8a2f-2aa99bee4e72", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/TxArnHfzh7B0hY1N4N59/bircolmanpaymentimpofc2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Public Finance"
+  ], 
+  "title": "Collection by Manner of Payment by Implementing Office", 
+  "url": "", 
+  "version": ""
+}

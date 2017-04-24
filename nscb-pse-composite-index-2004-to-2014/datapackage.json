@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/609c3dd8-38d9-4278-937e-76d4f1bba50c/resource/1cac5a34-4b6e-487f-8bd7-b86cad6f4060/download/NSCBPSECompositeIndex2004to2014.xlsx", 
+  "extras": {
+    "Frequency of Update": "Monthly", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "609c3dd8-38d9-4278-937e-76d4f1bba50c", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-pse-composite-index-2004-to-2014", 
+  "notes": "Philippine Stock Exchange - Composite Index from 2004 to 2014", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T11:28:39.920476", 
+      "description": "Philippine Stock Exchange - Composite Index from 2004 to 2014", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "1cac5a34-4b6e-487f-8bd7-b86cad6f4060", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - PSE COMPOSITE INDEX - 2004 TO 2014", 
+      "package_id": "609c3dd8-38d9-4278-937e-76d4f1bba50c", 
+      "position": 0, 
+      "resource_group_id": "13d0da4c-4697-481b-81b2-567648813c3e", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/609c3dd8-38d9-4278-937e-76d4f1bba50c/resource/1cac5a34-4b6e-487f-8bd7-b86cad6f4060/download/NSCBPSECompositeIndex2004to2014.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "NSCB - PSE COMPOSITE INDEX - 2004 TO 2014", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,1 @@
+This dataset contains the area harvested of palay and corn by ecosystem/croptype, by quarter, by semester, by region and by province. This time-series includes the most recent data, covering the period from 1987 to the latest available quarter/year.

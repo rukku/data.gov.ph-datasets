@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13489979.862644,1588830.843243,1,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22Sanitary%20landfill%20site%22,%22geoportal:denr_landfill%22,1,%22SanitaryLandfillSites%22,0,null]]}", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "9ecb720f-4ab1-4cfb-9249-af1d154f5778", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "sanitary-landfill-site", 
+  "notes": "The DENR - Sanitary Landfill Sites is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Department of Environment and Natural Resources.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-31T15:28:44.858414", 
+      "description": "The DENR - Sanitary Landfill Sites is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Department of Environment and Natural Resources.", 
+      "format": "PDF", 
+      "hash": "", 
+      "id": "206aa8cf-d126-4b26-b6de-22eba7ab5991", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "SANITARY LANDFILL SITE", 
+      "package_id": "9ecb720f-4ab1-4cfb-9249-af1d154f5778", 
+      "position": 0, 
+      "resource_group_id": "d7d6c3fa-d79a-40f4-9bc5-5bb14bd17ed7", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13489979.862644,1588830.843243,1,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22Sanitary%20landfill%20site%22,%22geoportal:denr_landfill%22,1,%22SanitaryLandfillSites%22,0,null]]}", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "SANITARY LANDFILL SITE", 
+  "url": "", 
+  "version": ""
+}

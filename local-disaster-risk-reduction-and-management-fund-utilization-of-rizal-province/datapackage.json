@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/nbXUOa4FpYIPcA2h4jLm/rizal_province_ldrrmf_12312012_q4.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "10/01/2012-12/31/2012"
+  }, 
+  "id": "54fab6a8-8fe5-4d9b-ba58-962f394f36ab", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-rizal-province", 
+  "notes": "This dataset contains report of local disaster risk reduction and management fund utilization of Rizal province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-25T10:57:53.286682", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "174aaa2d-c917-485e-bb22-e0516378bf1d", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Quezon Province LDRRMF ", 
+      "package_id": "54fab6a8-8fe5-4d9b-ba58-962f394f36ab", 
+      "position": 0, 
+      "resource_group_id": "f75f664b-3df9-4e43-b76f-604cf2d8b07d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/nbXUOa4FpYIPcA2h4jLm/rizal_province_ldrrmf_12312012_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization of Rizal Province", 
+  "url": "", 
+  "version": ""
+}

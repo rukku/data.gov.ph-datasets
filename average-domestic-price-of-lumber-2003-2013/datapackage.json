@@ -1,0 +1,68 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/umoCkORaQkAS7gqKncxd/ave_domestic_price_lumber_imported_2003-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/3002-12/31/2013"
+  }, 
+  "id": "4d08ee07-f1ee-49e3-bf01-5c0aea278334", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "average-domestic-price-of-lumber-2003-2013", 
+  "notes": "This dataset contains the average domestic price lumber imported and price lumber local from the year 2003 to 2013. *In cubic meter", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T15:51:04.281151", 
+      "description": "This dataset contains the average domestic price lumber imported from the year 2003 to 2013. *In cubic meter", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "3be70d7b-ae4d-4432-81c0-a9c11f867a05", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Average Domestic Price of Lumber Imported 2003-2013", 
+      "package_id": "4d08ee07-f1ee-49e3-bf01-5c0aea278334", 
+      "position": 0, 
+      "resource_group_id": "1d814179-e9ab-47fb-9c8c-becd94e6be8d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/umoCkORaQkAS7gqKncxd/ave_domestic_price_lumber_imported_2003-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T15:51:07.889917", 
+      "description": "This dataset contains the average domestic price lumber local from the year 2003 to 2013. *In cubic meter", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "3724adfe-e83d-4140-be56-0cb301db2d58", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Average Domestic Price of Lumber Local 2003-2013", 
+      "package_id": "4d08ee07-f1ee-49e3-bf01-5c0aea278334", 
+      "position": 1, 
+      "resource_group_id": "1d814179-e9ab-47fb-9c8c-becd94e6be8d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/shlXsZ4XTUtIaoO48qE1/ave_domestic_price_lumber_local_2003-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Average Domestic Price of Lumber 2003-2013", 
+  "url": "", 
+  "version": ""
+}

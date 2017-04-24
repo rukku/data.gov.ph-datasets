@@ -1,0 +1,47 @@
+{
+  "author": "National Economic and Development Authority - Systems Data and Analysis Division", 
+  "author_email": "mes-sdad@neda.gov.ph", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/fcd89609-d95a-46af-ad5c-d419c99c8218/resource/c4041207-0bd6-469d-9667-0b3ce3a53201/download/FinancialPerformanceofActiveODALoansasofJune2014Dataset.csv", 
+  "extras": {
+    "Frequency of Update": "Quarterly", 
+    "Granularity": "National", 
+    "Temporal Date": "2014-01-01, 2014-06-30"
+  }, 
+  "id": "fcd89609-d95a-46af-ad5c-d419c99c8218", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Omar O. Dumdum", 
+  "maintainer_email": "oodumdum@neda.gov.ph", 
+  "name": "financial-performance-of-active-oda-loans", 
+  "notes": "Provides quarterly financial performance of ODA Loans in terms of the Disbursement Rate, Availment Rate, Disbursement Ratio, and Utilization Rate. The dataset also contains basic information about the loans such as loan title, signing date, effectivity date, closing date, development partner, implementing agency, sector, location, status, time elapsed, loan amount, net commitment, cancellations, availment backlog, and loan balance.\r\n", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-15T11:13:20.440983", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "c4041207-0bd6-469d-9667-0b3ce3a53201", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Financial Performance of Active ODA Loans as of June 2014 (Dataset).csv", 
+      "package_id": "fcd89609-d95a-46af-ad5c-d419c99c8218", 
+      "position": 0, 
+      "resource_group_id": "e75863cb-3b69-4b99-b64b-1dff5d772a7f", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/fcd89609-d95a-46af-ad5c-d419c99c8218/resource/c4041207-0bd6-469d-9667-0b3ce3a53201/download/FinancialPerformanceofActiveODALoansasofJune2014Dataset.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "Financial Performance of Active ODA Loans", 
+  "url": "http://www.neda.gov.ph/", 
+  "version": ""
+}

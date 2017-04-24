@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Finance", 
+  "author_email": "blgf@blgf.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/kjx9Stt3ESAHrVGAC334/ari_by_province_2009-2010.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2009-12/31/2014"
+  }, 
+  "id": "45186179-adf6-4a6e-a948-f3a3b110fa9c", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bureau of Local Government Finance- Local Financial Data Analysis Division", 
+  "maintainer_email": "rev.blgf@gmail.com", 
+  "name": "annual-regular-income-of-local-government-units", 
+  "notes": "Total\u00a0amount\u00a0of\u00a0income\u00a0earned\u00a0annually. Gross annual income\u00a0represents\u00a0the amount of\u00a0money\u00a0a\u00a0person\u00a0earns\u00a0in one year from all\u00a0sources\u00a0before taxes. Note: Cells with dash (-) sign are classified as Municipality on that year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-04-25T11:20:01.350372", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "5c9e2bf0-a058-438d-8f3e-69dfc9202bad", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2009-2014 Annual Regular Income - Province", 
+      "package_id": "45186179-adf6-4a6e-a948-f3a3b110fa9c", 
+      "position": 0, 
+      "resource_group_id": "65820d99-e75c-49e3-b5a6-29ae5e413d12", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/kjx9Stt3ESAHrVGAC334/ari_by_province_2009-2010.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Public Finance"
+  ], 
+  "title": "Annual Regular Income of Local Government Units", 
+  "url": "", 
+  "version": ""
+}

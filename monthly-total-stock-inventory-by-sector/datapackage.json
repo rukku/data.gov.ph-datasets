@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=A40PNCNV", 
+  "extras": {
+    "Frequency Update": "Monthly", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1980-2015"
+  }, 
+  "id": "6294037a-1b01-4b11-ba9b-19e6f371f282", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "monthly-total-stock-inventory-by-sector", 
+  "notes": "This dataset contains the monthly total stock inventory of rice and corn by sector. This time-series includes the most recent data, covering the period from 1980 to the latest available month/year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-07T09:40:24.081193", 
+      "description": "This dataset contains the monthly total stock inventory of rice and corn by sector. This time-series includes the most recent data, covering the period from 1980 to the latest available month/year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "98f321e6-0433-46b6-823c-f6ea6ff05ec2", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Rice and Corn: Monthly Total Stock Inventory by Sector", 
+      "package_id": "6294037a-1b01-4b11-ba9b-19e6f371f282", 
+      "position": 0, 
+      "resource_group_id": "600900a1-c60a-4bdc-88c9-eb1944cc8177", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=A40PNCNV", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Monthly Total Stock Inventory by Sector", 
+  "url": null, 
+  "version": null
+}

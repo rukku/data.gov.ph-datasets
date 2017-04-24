@@ -1,0 +1,480 @@
+particulars,amt_actual,amt_adj,amt_prop,level,bold,year,sort_ord,ord_tag,sect_cd,ssect_cd,agy_type,owner_cd,dept,agy,owner_dsc,amt_actual_orig,amt_adj_orig,amt_prop_orig
+ECONOMIC SERVICES,380727992,361669886,438410610,1,1,2012,,0,1,,,,,,,380727992,361669886,438410610
+,,,,0,0,2012,,0,,,,,,,,,,
+Agriculture and Agrarian Reform,86238603,65970478,99623782,2,1,2012,,0,1,02,,,,,,86238603,65970478,99623782
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,45418383,48271613,70196672,3,1,2012,,0,1,02,DEPT,,,,,45418383,48271613,70196672
+      Department of Agriculture,34724071,35198376,54066820,4,0,2012,,0,1,02,DEPT,,Department of Agriculture,Department of Agriculture,,34724071,35198376,54066820
+             Office of the Secretary,29903890,30581608,50220417,0,0,2012,1,0,1,02,DEPT,OSEC-DA,Department of Agriculture,Office of the Secretary,,29903890,30581608,50220417
+             Agricultural Credit Policy Council,25980,25710,27532,0,0,2012,2,0,1,02,DEPT,ACPC,Department of Agriculture,Agricultural Credit Policy Council,,25980,25710,27532
+             Bureau of Fisheries and Aquatic Resources,2469462,2366619,2520194,0,0,2012,3,0,1,02,DEPT,BFAR,Department of Agriculture,Bureau of Fisheries and Aquatic Resources,,2469462,2366619,2520194
+             Philippine Center for Postharvest Development
+                and Mechanization,150426,101477,140040,0,0,2012,4,0,1,02,DEPT,BUPHIRE,Department of Agriculture,Philippine Center for Postharvest Development and Mechanization,,150426,101477,140040
+             Cotton Development Administration,53580,57663,53830,0,0,2012,5,0,1,02,DEPT,CODA,Department of Agriculture,Cotton Development Administration,,53580,57663,53830
+             Fertilizer and Pesticide Authority,53373,49518,53019,0,0,2012,6,0,1,02,DEPT,FPA,Department of Agriculture,Fertilizer and Pesticide Authority,,53373,49518,53019
+             Fiber Industry Development Authority,232314,214906,219619,0,0,2012,7,0,1,02,DEPT,FIDA,Department of Agriculture,Fiber Industry Development Authority,,232314,214906,219619
+             Livestock Development Council,17452,17677,18662,0,0,2012,8,0,1,02,DEPT,LDC,Department of Agriculture,Livestock Development Council,,17452,17677,18662
+             National Agricultural and Fishery Council,890623,935813,85941,0,0,2012,9,0,1,02,DEPT,NAFC,Department of Agriculture,National Agricultural and Fishery Council,,890623,935813,85941
+             National Meat Inspection Service ,219756,242062,228095,0,0,2012,10,0,1,02,DEPT,NMIC,Department of Agriculture,National Meat Inspection Service ,,219756,242062,228095
+             Philippine Carabao Center,707215,605323,499471,0,0,2012,11,0,1,02,DEPT,PCARC,Department of Agriculture,Philippine Carabao Center,,707215,605323,499471
+      Department of Agrarian Reform,10273404,12739306,15783501,0,0,2012,12,0,1,02,DEPT,OSEC-DAR,Department of Agrarian Reform,,,10273404,12739306,15783501
+      Department of Science and Technology,420908,333931,346351,4,0,2012,,0,1,02,DEPT,,Department of Science and Technology,Department of Science and Technology,,420908,333931,346351
+"             Philippine Council for Agriculture, Forestry and
+                Natural Resources Research and Development",318593,296216,296493,0,0,2012,13,0,1,02,DEPT,PCAFNRD,Department of Science and Technology,"Philippine Council for Agriculture, Forestry and Natural Resources Research and Development",,318593,296216,296493
+             Philippine Council for Aquatic and Marine Research
+                and Development,102315,37715,49858,0,0,2012,14,0,1,02,DEPT,PCAMRD,Department of Science and Technology,Philippine Council for Aquatic and Marine Research and Development,,102315,37715,49858
+   Budgetary Support to Government Corporations,40820220,3442759,7726699,3,1,2012,,0,1,02,BSGC,,,,,40820220,3442759,7726699
+      National Agribusiness Corporation,20000,0,0,0,0,2012,15,0,1,02,BSGC,NABCOR,National Agribusiness Corporation,,,20000,0,0
+      National Dairy Authority,52200,51619,170472,0,0,2012,16,0,1,02,BSGC,NDA,National Dairy Authority,,,52200,51619,170472
+      National Food Authority,38394086,2500000,4000000,0,0,2012,17,0,1,02,BSGC,NFA,National Food Authority,,,38394086,2500000,4000000
+      National Irrigation Administration,0,0,2060598,0,0,2012,18,0,1,02,BSGC,NIA,National Irrigation Administration,,,0,0,2060598
+      National Tobacco Administration,478990,77454,219200,0,0,2012,19,0,1,02,BSGC,NTA,National Tobacco Administration,,,478990,77454,219200
+      Philippine Coconut Authority,593086,549915,692757,0,0,2012,20,0,1,02,BSGC,PCOA,Philippine Coconut Authority,,,593086,549915,692757
+      Philippine Crop Insurance Corporation,144271,113771,183771,0,0,2012,21,0,1,02,BSGC,PCIC-DA,Philippine Crop Insurance Corporation,,,144271,113771,183771
+      Philippine Rice Research Institute,418000,91000,340901,0,0,2012,22,0,1,02,BSGC,PRRI,Philippine Rice Research Institute,,,418000,91000,340901
+      Southern Philippines Development Authority,30000,59000,59000,0,0,2012,23,0,1,02,BSGC,SPDA,Southern Philippines Development Authority,,,30000,59000,59000
+      Bases Conversion Development Authority,689587,0,0,0,0,2012,24,0,1,02,BSGC,BCDA,Bases Conversion Development Authority,,,689587,0,0
+   Other Special Purpose Funds,0,14256106,21700411,3,1,2012,,0,1,02,OSPF,,,,,0,14256106,21700411
+      Calamity Fund,0,755000,1132500,0,0,2012,25,0,1,02,OSPF,CF,Calamity Fund,,,0,755000,1132500
+      Miscellaneous Personnel Benefits Fund,0,1554466,2232781,0,0,2012,26,0,1,02,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,1554466,2232781
+      Priority Development Assistance Fund,0,6696640,6770080,0,0,2012,27,0,1,02,OSPF,PDAF,Priority Development Assistance Fund,,,0,6696640,6770080
+      Payapa at Masaganang Pamayanan Fund,0,0,0,0,0,2012,28,0,1,02,OSPF,PAMANA,Payapa at Masaganang Pamayanan Fund,,,0,0,0
+      Tax Expenditures Fund,0,5250000,11565050,0,0,2012,29,0,1,02,OSPF,TEF,Tax Expenditures Fund,,,0,5250000,11565050
+Natural Resources and Environment,14341573,13088273,19660012,2,1,2012,,0,1,04,,,,,,14341573,13088273,19660012
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,14245716,11791817,17808301,3,1,2012,,0,1,04,DEPT,,,,,14245716,11791817,17808301
+      Department of Environment and Natural Resources,11681952,11499072,17369713,4,0,2012,,0,1,04,DEPT,,Department of Environment and Natural Resources,Department of Environment and Natural Resources,,11681952,11499072,17369713
+             Office of the Secretary,9588338,9347590,14868267,0,0,2012,30,0,1,04,DEPT,OSEC-DENR,Department of Environment and Natural Resources,Office of the Secretary,,9588338,9347590,14868267
+             Environmental Management Bureau,620647,752279,832679,0,0,2012,31,0,1,04,DEPT,EMB,Department of Environment and Natural Resources,Environmental Management Bureau,,620647,752279,832679
+             Mines and Geo-Sciences Bureau,655910,717439,742494,0,0,2012,32,0,1,04,DEPT,MGB,Department of Environment and Natural Resources,Mines and Geo-Sciences Bureau,,655910,717439,742494
+             National Mapping and Resource Information Authority,817057,681764,926273,0,0,2012,33,0,1,04,DEPT,NAMRIA,Department of Environment and Natural Resources,National Mapping and Resource Information Authority,,817057,681764,926273
+      Other Executive Offices,2446562,196617,356858,4,0,2012,,0,1,04,DEPT,,Other Executive Offices,Other Executive Offices,,2446562,196617,356858
+             Pasig River Rehabilitation Commission,2441109,157737,293578,0,0,2012,34,0,1,04,DEPT,PRRC,Other Executive Offices,Pasig River Rehabilitation Commission,,2441109,157737,293578
+             Climate Change Commission,5453,38880,63280,0,0,2012,35,0,1,04,DEPT,NCCC,Other Executive Offices,Climate Change Commission,,5453,38880,63280
+      Department of Science and Technology,117202,96128,81730,4,0,2012,,0,1,04,DEPT,,Department of Science and Technology,Department of Science and Technology,,117202,96128,81730
+             Forest Products Research and Development Institute,117202,96128,81730,0,0,2012,36,0,1,04,DEPT,FPRDI,Department of Science and Technology,Forest Products Research and Development Institute,,117202,96128,81730
+   Budgetary Support to Government Corporations,95857,0,0,3,1,2012,,0,1,04,BSGC,,,,,95857,0,0
+      Laguna Lake Development Authority,857,0,0,0,0,2012,37,0,1,04,BSGC,LLDA,Laguna Lake Development Authority,,,857,0,0
+      Natural Resources Development Corporation,95000,0,0,0,0,2012,38,0,1,04,BSGC,NRDC,Natural Resources Development Corporation,,,95000,0,0
+   Other Special Purpose Funds,0,1296456,1851711,3,1,2012,,0,1,04,OSPF,,,,,0,1296456,1851711
+      Miscellaneous Personnel Benefits Fund,0,1271836,1826821,0,0,2012,39,0,1,04,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,1271836,1826821
+      Priority Development Assistance Fund,0,24620,24890,0,0,2012,40,0,1,04,OSPF,PDAF,Priority Development Assistance Fund,,,0,24620,24890
+Trade and Industry,5303218,4259887,6043034,2,1,2012,,0,1,05,,,,,,5303218,4259887,6043034
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,3819955,3138998,4009941,3,1,2012,,0,1,05,DEPT,,,,,3819955,3138998,4009941
+      Department of Science and Technology,783685,575657,1225280,4,0,2012,,0,1,05,DEPT,,Department of Science and Technology,Department of Science and Technology,,783685,575657,1225280
+             Industrial Technology Development Institute,211959,172753,245638,0,0,2012,41,0,1,05,DEPT,ITDI,Department of Science and Technology,Industrial Technology Development Institute,,211959,172753,245638
+             Metals Industry Research and Development Center,140034,128078,244504,0,0,2012,42,0,1,05,DEPT,MIRDC,Department of Science and Technology,Metals Industry Research and Development Center,,140034,128078,244504
+"             Philippine Council for Industry, Energy and Emerging
+                Technology Research and Development",273002,141500,595852,0,0,2012,43,0,1,05,DEPT,PCIEERD,Department of Science and Technology,"Philippine Council for Industry, Energy and Emerging Technology Research and Development",,273002,141500,595852
+             Philippine Textile Research Institute,77377,60345,53627,0,0,2012,44,0,1,05,DEPT,PTRI,Department of Science and Technology,Philippine Textile Research Institute,,77377,60345,53627
+             Technology Application and Promotion Institute,81313,72981,85659,0,0,2012,45,0,1,05,DEPT,TAPI,Department of Science and Technology,Technology Application and Promotion Institute,,81313,72981,85659
+      Department of Trade and Industry,3036270,2563341,2784661,4,0,2012,,0,1,05,DEPT,,Department of Trade and Industry,Department of Trade and Industry,,3036270,2563341,2784661
+             Office of the Secretary,2644813,2179700,2351799,0,0,2012,46,0,1,05,DEPT,OSEC-DTI,Department of Trade and Industry,Office of the Secretary,,2644813,2179700,2351799
+             Board of Investments,235980,233562,231049,0,0,2012,47,0,1,05,DEPT,BOI,Department of Trade and Industry,Board of Investments,,235980,233562,231049
+             Construction Industry Authority of the Philippines,44843,42968,50360,0,0,2012,48,0,1,05,DEPT,CIAP,Department of Trade and Industry,Construction Industry Authority of the Philippines,,44843,42968,50360
+             Construction Manpower Development Foundation,22833,21372,22390,0,0,2012,49,0,1,05,DEPT,CMDF,Department of Trade and Industry,Construction Manpower Development Foundation,,22833,21372,22390
+             Philippine Trade Training Center,38897,35157,75252,0,0,2012,50,0,1,05,DEPT,PTTC,Department of Trade and Industry,Philippine Trade Training Center,,38897,35157,75252
+             Product Development and Design Center of the Philippines,48904,50582,53811,0,0,2012,51,0,1,05,DEPT,PDDCP,Department of Trade and Industry,Product Development and Design Center of the Philippines,,48904,50582,53811
+   Budgetary Support to Government Corporations,1483263,687336,1504613,3,1,2012,,0,1,05,BSGC,,,,,1483263,687336,1504613
+      Cagayan Economic Zone Authority,1114450,294550,915503,0,0,2012,52,0,1,05,BSGC,CEZA,Cagayan Economic Zone Authority,,,1114450,294550,915503
+      Center for International Trade Expositions and Missions,73746,79686,88510,0,0,2012,53,0,1,05,BSGC,CITEM,Center for International Trade Expositions and Missions,,,73746,79686,88510
+"      Food Terminal, Incorporated",40898,0,0,0,0,2012,54,0,1,05,BSGC,FTI,"Food Terminal, Incorporated",,,40898,0,0
+      Cottage Industry Technology Center,10000,8000,8000,0,0,2012,55,0,1,05,BSGC,CITC,Cottage Industry Technology Center,,,10000,8000,8000
+      Aurora Pacific Economic Zone and Freeport Authority (formerly ASEZA),122500,145000,332500,0,0,2012,56,0,1,05,BSGC,ASEZA,Aurora Pacific Economic Zone and Freeport Authority (formerly ASEZA),,,122500,145000,332500
+      Zamboanga City Special Economic Zone Authority,30000,60100,60100,0,0,2012,57,0,1,05,BSGC,ZCSEZA,Zamboanga City Special Economic Zone Authority,,,30000,60100,60100
+      Small Business Corporation,91669,0,0,0,0,2012,58,0,1,05,BSGC,SBGFC,Small Business Corporation,,,91669,0,0
+      Authority of the Freeport Area of Bataan,0,100000,100000,0,0,2012,60,0,1,05,BSGC,AFAB,Authority of the Freeport Area of Bataan,,,0,100000,100000
+   Other Special Purpose Funds,0,433553,528480,3,1,2012,,0,1,05,OSPF,,,,,0,433553,528480
+      Miscellaneous Personnel Benefits Fund,0,211973,304470,0,0,2012,61,0,1,05,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,211973,304470
+      Priority Development Assistance Fund,0,221580,224010,0,0,2012,62,0,1,05,OSPF,PDAF,Priority Development Assistance Fund,,,0,221580,224010
+Tourism,1692223,1832673,2252688,2,1,2012,,0,1,06,,,,,,1692223,1832673,2252688
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,1502223,1452015,1654198,3,1,2012,,0,1,06,DEPT,,,,,1502223,1452015,1654198
+      Department of Tourism,1502223,1452015,1654198,4,0,2012,,0,1,06,DEPT,,Department of Tourism,Department of Tourism,,1502223,1452015,1654198
+             Office of the Secretary,1316672,1303978,1382413,0,0,2012,63,0,1,06,DEPT,OSEC-DOT,Department of Tourism,Office of the Secretary,,1316672,1303978,1382413
+             Intramuros Administration,43715,32766,35052,0,0,2012,64,0,1,06,DEPT,IA,Department of Tourism,Intramuros Administration,,43715,32766,35052
+             National Parks Development Committee,141836,115271,236733,0,0,2012,65,0,1,06,DEPT,NPDC,Department of Tourism,National Parks Development Committee,,141836,115271,236733
+   Budgetary Support to Government Corporations,190000,310000,497000,3,1,2012,,0,1,06,BSGC,,,,,190000,310000,497000
+      Cultural Center of the Philippines,105000,200000,202000,0,0,2012,66,0,1,06,BSGC,CCP,Cultural Center of the Philippines,,,105000,200000,202000
+      Development Academy of the Philippines,20000,45000,45000,0,0,2012,67,0,1,06,BSGC,DAP,Development Academy of the Philippines,,,20000,45000,45000
+      Philippine Convention and Visitors Corporation,27085,0,0,0,0,2012,68,0,1,06,BSGC,PCVC,Philippine Convention and Visitors Corporation,,,27085,0,0
+      Tourism Promotions Board,37915,65000,250000,0,0,2012,69,0,1,06,BSGC,TPB,Tourism Promotions Board,,,37915,65000,250000
+   Other Special Purpose Funds,0,70658,101490,3,1,2012,,0,1,06,OSPF,,,,,0,70658,101490
+      Miscellaneous Personnel Benefits Fund,0,70658,101490,0,0,2012,70,0,1,06,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,70658,101490
+Power and Energy,2420250,1784114,11838895,2,1,2012,,0,1,07,,,,,,2420250,1784114,11838895
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,1374088,1713456,9168905,3,1,2012,,0,1,07,DEPT,,,,,1374088,1713456,9168905
+      Department of Energy,987830,1366640,8814727,0,0,2012,71,0,1,07,DEPT,OSEC-DOE,Department of Energy,,,987830,1366640,8814727
+      Department of Science and Technology,154006,140646,140461,4,0,2012,,0,1,07,DEPT,,Department of Science and Technology,Department of Science and Technology,,154006,140646,140461
+             Philippine Nuclear Research Institute,154006,140646,140461,0,0,2012,72,0,1,07,DEPT,PNRI,Department of Science and Technology,Philippine Nuclear Research Institute,,154006,140646,140461
+      Other Executive Offices,232252,206170,213717,4,0,2012,,0,1,07,DEPT,,Other Executive Offices,Other Executive Offices,,232252,206170,213717
+             Energy Regulatory Commission,232252,206170,213717,0,0,2012,73,0,1,07,DEPT,ERC,Other Executive Offices,Energy Regulatory Commission,,232252,206170,213717
+   Budgetary Support to Government Corporations,1046162,0,2568500,3,1,2012,,0,1,07,BSGC,,,,,1046162,0,2568500
+      National Transmission Corporation,1024563,0,0,0,0,2012,74,0,1,07,BSGC,TRANSCO,National Transmission Corporation,,,1024563,0,0
+      National Electrification Administration,21599,0,2568500,0,0,2012,75,0,1,07,BSGC,NEA,National Electrification Administration,,,21599,0,2568500
+   Other Special Purpose Funds,0,70658,101490,3,1,2012,,0,1,07,OSPF,,,,,0,70658,101490
+      Miscellaneous Personnel Benefits Fund,0,70658,101490,0,0,2012,76,0,1,07,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,70658,101490
+Water Resources Development and Flood Control,18462835,14576985,16704626,2,1,2012,,0,1,08,,,,,,18462835,14576985,16704626
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,18460133,14426985,16374196,3,1,2012,,0,1,08,DEPT,,,,,18460133,14426985,16374196
+      Department of Public Works and Highways,18415872,14381883,16320441,4,0,2012,,0,1,08,DEPT,,Department of Public Works and Highways,Department of Public Works and Highways,,18415872,14381883,16320441
+             Office of the Secretary,18415872,14381883,16320441,0,0,2012,77,0,1,08,DEPT,OSEC-DPWH,Department of Public Works and Highways,Office of the Secretary,,18415872,14381883,16320441
+      Department of Environment and Natural Resources,44261,45102,53755,4,0,2012,,0,1,08,DEPT,,Department of Environment and Natural Resources,Department of Environment and Natural Resources,,44261,45102,53755
+             National Water Resources Board,44261,45102,53755,0,0,2012,78,0,1,08,DEPT,NWRB-DENR,Department of Environment and Natural Resources,National Water Resources Board,,44261,45102,53755
+   Budgetary Support to Government Corporations,2702,0,0,3,1,2012,,0,1,08,BSGC,,,,,2702,0,0
+      Local Water Utilities Administration,2702,0,0,0,0,2012,79,0,1,08,BSGC,LWUA,Local Water Utilities Administration,,,2702,0,0
+   Other Special Purpose Funds,0,150000,330430,3,1,2012,,0,1,08,OSPF,,,,,0,150000,330430
+      Tax Expenditures Fund,0,150000,330430,0,0,2012,80,0,1,08,OSPF,TEF,Tax Expenditures Fund,,,0,150000,330430
+      General Fund Adjustments,0,0,0,0,0,2012,81,0,1,08,OSPF,GFA,General Fund Adjustments,,,0,0,0
+"Communications, Roads and Other Transport",146185409,145301166,167487894,2,1,2012,,0,1,09,,,,,,146185409,145301166,167487894
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,145156417,129691818,144928433,3,1,2012,,0,1,09,DEPT,,,,,145156417,129691818,144928433
+      Department of Public Works and Highways,122819697,95916096,108844789,4,0,2012,,0,1,09,DEPT,,Department of Public Works and Highways,Department of Public Works and Highways,,122819697,95916096,108844789
+             Office of the Secretary,122819697,95916096,108844789,0,0,2012,82,0,1,09,DEPT,OSEC-DPWH,Department of Public Works and Highways,Office of the Secretary,,122819697,95916096,108844789
+      Department of Transportation and Communications,20151385,32346069,34574484,4,0,2012,,0,1,09,DEPT,,Department of Transportation and Communications,Department of Transportation and Communications,,20151385,32346069,34574484
+             Office of the Secretary,19384898,31630623,33728059,0,0,2012,83,0,1,09,DEPT,OSEC-DOTC,Department of Transportation and Communications,Office of the Secretary,,19384898,31630623,33728059
+             Civil Aeronautics Board,46789,40556,49971,0,0,2012,84,0,1,09,DEPT,CAB,Department of Transportation and Communications,Civil Aeronautics Board,,46789,40556,49971
+             Maritime Industry Authority,355377,339722,383743,0,0,2012,85,0,1,09,DEPT,MARINA,Department of Transportation and Communications,Maritime Industry Authority,,355377,339722,383743
+             Office of Transportation Cooperatives,14448,14679,15707,0,0,2012,86,0,1,09,DEPT,OTC,Department of Transportation and Communications,Office of Transportation Cooperatives,,14448,14679,15707
+             Office for Transportation Security,336147,307191,383462,0,0,2012,87,0,1,09,DEPT,OTS,Department of Transportation and Communications,Office for Transportation Security,,336147,307191,383462
+             Toll Regulatory Board,13726,13298,13542,0,0,2012,88,0,1,09,DEPT,TRB-DOTC,Department of Transportation and Communications,Toll Regulatory Board,,13726,13298,13542
+      Department of Science and Technology,1900955,1226368,1288163,4,0,2012,,0,1,09,DEPT,,Department of Science and Technology,Department of Science and Technology,,1900955,1226368,1288163
+             Information and Communications Technology Office,1900955,1226368,1288163,0,0,2012,89,0,1,09,DEPT,ICTO,Department of Science and Technology,Information and Communications Technology Office,,1900955,1226368,1288163
+      Other Executive Offices,284380,203285,220997,4,0,2012,,0,1,09,DEPT,,Other Executive Offices,Other Executive Offices,,284380,203285,220997
+             National Telecommunications Commission,284380,203285,220997,0,0,2012,90,0,1,09,DEPT,NTC-OEO,Other Executive Offices,National Telecommunications Commission,,284380,203285,220997
+   Budgetary Support to Government Corporations,1028992,131000,301000,3,1,2012,,0,1,09,BSGC,,,,,1028992,131000,301000
+      Philippine National Railways,348656,131000,0,0,0,2012,91,0,1,09,BSGC,PNR,Philippine National Railways,,,348656,131000,0
+      North Luzon Railways Corporation,399060,0,0,0,0,2012,92,0,1,09,BSGC,NLRC-BSGC,North Luzon Railways Corporation,,,399060,0,0
+      Philippine Postal Corporation,281276,0,301000,0,0,2012,93,0,1,09,BSGC,PPC,Philippine Postal Corporation,,,281276,0,301000
+   Other Special Purpose Funds,0,15478348,22258461,3,1,2012,,0,1,09,OSPF,,,,,0,15478348,22258461
+      Calamity Fund,0,1990000,2985000,0,0,2012,94,0,1,09,OSPF,CF,Calamity Fund,,,0,1990000,2985000
+      Miscellaneous Personnel Benefits Fund,0,1483808,2131291,0,0,2012,95,0,1,09,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,1483808,2131291
+      Priority Development Assistance Fund,0,7804540,7890130,0,0,2012,96,0,1,09,OSPF,PDAF,Priority Development Assistance Fund,,,0,7804540,7890130
+      Tax Expenditures Fund,0,4200000,9252040,0,0,2012,97,0,1,09,OSPF,TEF,Tax Expenditures Fund,,,0,4200000,9252040
+Other Economic Services,13053050,14425829,19141321,2,1,2012,,0,1,10,,,,,,13053050,14425829,19141321
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,1560682,2470439,2265798,3,1,2012,,0,1,10,DEPT,,,,,1560682,2470439,2265798
+      Department of Science and Technology,1503922,2418418,2209746,4,0,2012,,0,1,10,DEPT,,Department of Science and Technology,Department of Science and Technology,,1503922,2418418,2209746
+             Office of the Secretary,1344317,2281426,2048514,0,0,2012,98,0,1,10,DEPT,OSEC-DOST,Department of Science and Technology,Office of the Secretary,,1344317,2281426,2048514
+             Advanced Science and Technology Institute,70824,55451,80917,0,0,2012,99,0,1,10,DEPT,ASTI,Department of Science and Technology,Advanced Science and Technology Institute,,70824,55451,80917
+             National Academy of Science and Technology,43160,37842,42787,0,0,2012,100,0,1,10,DEPT,NAST,Department of Science and Technology,National Academy of Science and Technology,,43160,37842,42787
+             Science and Technology Information Institute,45621,43699,37528,0,0,2012,101,0,1,10,DEPT,STII,Department of Science and Technology,Science and Technology Information Institute,,45621,43699,37528
+      Department of Environment and Natural Resources,56760,52021,56052,4,0,2012,,0,1,10,DEPT,,Department of Environment and Natural Resources,Department of Environment and Natural Resources,,56760,52021,56052
+             Palawan Council for Sustainable Development Staff,56760,52021,56052,0,0,2012,102,0,1,10,DEPT,PCSDS,Department of Environment and Natural Resources,Palawan Council for Sustainable Development Staff,,56760,52021,56052
+   Budgetary Support to Government Corporations,47250,13606,94138,3,1,2012,,0,1,10,BSGC,,,,,47250,13606,94138
+      Equity/Subsidy (Unallocated),0,13606,13606,0,0,2012,103,0,1,10,BSGC,SBSGC,Budgetary Support to Government Corporations,,,0,13606,13606
+      Budgetary Support to Government Corporations,47250,0,80532,4,0,2012,,0,1,10,BSGC,,Budgetary Support to Government Corporations,Budgetary Support to Government Corporations,,47250,0,80532
+             Credit Information Corporation,17500,0,66032,0,0,2012,104,0,1,10,BSGC,CIC,Budgetary Support to Government Corporations,Credit Information Corporation,,17500,0,66032
+             Philippine Center for Economic Development,29750,0,14500,0,0,2012,105,0,1,10,BSGC,PCED,Budgetary Support to Government Corporations,Philippine Center for Economic Development,,29750,0,14500
+   Other Special Purpose Funds,11445118,11941784,16781385,3,1,2012,,0,1,10,OSPF,,,,,11445118,11941784,16781385
+      Allocations to Local Government Units,11445118,11871126,16679895,4,0,2012,,0,1,10,OSPF,,Allocations to Local Government Units,Allocations to Local Government Units,,11445118,11871126,16679895
+             Special Shares of Local Government Units in the Proceeds of National Taxes,11445118,11871126,16679895,0,0,2012,106,0,1,10,OSPF,PNT,Allocations to Local Government Units,Special Shares of Local Government Units in the Proceeds of National Taxes,,11445118,11871126,16679895
+      Miscellaneous Personnel Benefits Fund,0,70658,101490,0,0,2012,107,0,1,10,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,70658,101490
+,,,,0,0,,,0,,,,,,,,,,
+Subsidy to Local Government Units,93030832,100430484,95658357,0,1,2012,108,0,1,11,,IRA,,,,93030832,100430484,95658357
+,,,,0,0,,,0,,,,,,,,,,
+SOCIAL SERVICES,447271933,521445654,575770424,1,1,2012,,0,2,,,,,,,447271933,521445654,575770424
+,,,,0,0,2012,,0,,,,,,,,,,
+"Education, Culture and Manpower Development",225087482,271492981,308950395,2,1,2012,,0,2,12,,,,,,225087482,271492981,308950395
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,225087482,237817564,262059723,3,1,2012,,0,2,12,DEPT,,,,,225087482,237817564,262059723
+      Department of Education,190319085,206271018,228871181,4,0,2012,,0,2,12,DEPT,,Department of Education,Department of Education,,190319085,206271018,228871181
+             Office of the Secretary,190086305,206037470,228538290,0,0,2012,109,0,2,12,DEPT,OSEC-DECS,Department of Education,Office of the Secretary,,190086305,206037470,228538290
+             Philippine High School for the Arts,45917,56435,59537,0,0,2012,110,0,2,12,DEPT,PHSA,Department of Education,Philippine High School for the Arts,,45917,56435,59537
+             National Council for Children's Television,10608,6343,6605,0,0,2012,111,0,2,12,DEPT,NCCT-DECS,Department of Education,National Council for Children's Television,,10608,6343,6605
+             National Museum,154252,148903,244666,0,0,2012,112,0,2,12,DEPT,NM,Department of Education,National Museum,,154252,148903,244666
+             National Book Development Board,22003,21867,22083,0,0,2012,113,0,2,12,DEPT,NBDB-DECS,Department of Education,National Book Development Board,,22003,21867,22083
+      State Universities and Colleges,26404083,23725535,23608964,0,0,2012,114,0,2,12,DEPT,SUCS,State Universities and Colleges,,,26404083,23725535,23608964
+      Department of the Interior and Local Government,1191744,1185926,1230247,4,0,2012,,0,2,12,DEPT,,Department of the Interior and Local Government,Department of the Interior and Local Government,,1191744,1185926,1230247
+             Local Government Academy,89016,106503,86650,0,0,2012,115,0,2,12,DEPT,LGA,Department of the Interior and Local Government,Local Government Academy,,89016,106503,86650
+             Philippine Public Safety College,1102728,1079423,1143597,0,0,2012,116,0,2,12,DEPT,PPSC,Department of the Interior and Local Government,Philippine Public Safety College,,1102728,1079423,1143597
+      Department of Labor and Employment,3141565,3049319,2968261,4,0,2012,,0,2,12,DEPT,,Department of Labor and Employment,Department of Labor and Employment,,3141565,3049319,2968261
+             National Maritime Polytechnic,73572,95906,114155,0,0,2012,117,0,2,12,DEPT,NMP,Department of Labor and Employment,National Maritime Polytechnic,,73572,95906,114155
+             Technical Education and Skills Development Authority,3067993,2953413,2854106,0,0,2012,118,0,2,12,DEPT,TESDA,Department of Labor and Employment,Technical Education and Skills Development Authority,,3067993,2953413,2854106
+      Department of National Defense,50826,58557,52990,4,0,2012,,0,2,12,DEPT,,Department of National Defense,Department of National Defense,,50826,58557,52990
+             National Defense College of the Philippines,50826,58557,52990,0,0,2012,119,0,2,12,DEPT,NDCP,Department of National Defense,National Defense College of the Philippines,,50826,58557,52990
+      Department of Science and Technology,1311736,990280,2075047,4,0,2012,,0,2,12,DEPT,,Department of Science and Technology,Department of Science and Technology,,1311736,990280,2075047
+             Philippine Science High School,590785,479001,705435,0,0,2012,120,0,2,12,DEPT,PSHS,Department of Science and Technology,Philippine Science High School,,590785,479001,705435
+             Science Education Institute,720951,511279,1369612,0,0,2012,121,0,2,12,DEPT,SEI,Department of Science and Technology,Science Education Institute,,720951,511279,1369612
+      Other Executive Offices,2668443,2536929,3253033,4,0,2012,,0,2,12,DEPT,,Other Executive Offices,Other Executive Offices,,2668443,2536929,3253033
+             Commission on Higher Education,1660425,1694772,2207484,0,0,2012,122,0,2,12,DEPT,CHED,Other Executive Offices,Commission on Higher Education,,1660425,1694772,2207484
+             Commission on the Filipino Language,32903,32657,37506,0,0,2012,123,0,2,12,DEPT,CFL-OEO,Other Executive Offices,Commission on the Filipino Language,,32903,32657,37506
+             National Commission for Culture and the Arts,616525,534380,730405,5,0,2012,,0,2,12,DEPT,,Other Executive Offices,National Commission for Culture and the Arts,National Commission for Culture and the Arts,616525,534380,730405
+                 National Commission for Culture and the Arts (Proper),336036,268936,332206,0,0,2012,124,0,2,12,DEPT,NCCA-PROPER,Other Executive Offices,National Commission for Culture and the Arts,National Commission for Culture and the Arts (Proper),336036,268936,332206
+                 National Historical Commission of the Philippines (National Historical Institute),115092,90665,167730,0,0,2012,125,0,2,12,DEPT,NHI-NCCA,Other Executive Offices,National Commission for Culture and the Arts,National Historical Commission of the Philippines (National Historical Institute),115092,90665,167730
+                 The National Library of the Philippines (The National Library),98090,94897,141698,0,0,2012,126,0,2,12,DEPT,NL-NCCA,Other Executive Offices,National Commission for Culture and the Arts,The National Library of the Philippines (The National Library),98090,94897,141698
+                 National Archives of the Philippines (formerly Records
+                    Management and Archives Office),67307,79882,88771,0,0,2012,127,0,2,12,DEPT,RMAO-NCCA,Other Executive Offices,National Commission for Culture and the Arts,National Archives of the Philippines (formerly Records Management and Archives Office),67307,79882,88771
+             Philippine Sports Commission,253411,197874,208526,0,0,2012,128,0,2,12,DEPT,PSCOM,Other Executive Offices,Philippine Sports Commission,,253411,197874,208526
+             Film Development Council of the Philippines,105179,77246,69112,0,0,2012,129,0,2,12,DEPT,FDCP,Other Executive Offices,Film Development Council of the Philippines,,105179,77246,69112
+   Other Special Purpose Funds,0,33675417,46890672,3,1,2012,,0,2,12,OSPF,,,,,0,33675417,46890672
+      Department of Education - School Building Program,0,1000000,1000000,0,0,2012,130,0,2,12,OSPF,DECS-BEFP,Department of Education - School Building Program,,,0,1000000,1000000
+      Calamity Fund,0,230000,345000,0,0,2012,131,0,2,12,OSPF,CF,Calamity Fund,,,0,230000,345000
+      Miscellaneous Personnel Benefits Fund,0,29958797,43031782,0,0,2012,132,0,2,12,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,29958797,43031782
+      Priority Development Assistance Fund,0,2486620,2513890,0,0,2012,133,0,2,12,OSPF,PDAF,Priority Development Assistance Fund,,,0,2486620,2513890
+Health,30997955,38391524,49903270,2,1,2012,,0,2,13,,,,,,30997955,38391524,49903270
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,26348159,34364941,44825259,3,1,2012,,0,2,13,DEPT,,,,,26348159,34364941,44825259
+      Department of Health,25170053,33131691,43395914,4,0,2012,,0,2,13,DEPT,,Department of Health,Department of Health,,25170053,33131691,43395914
+             Office of the Secretary,24359796,32522520,42771536,0,0,2012,134,0,2,13,DEPT,OSEC-DOH,Department of Health,Office of the Secretary,,24359796,32522520,42771536
+             Commission on Population,327462,298124,299455,0,0,2012,135,0,2,13,DEPT,POPCOM-DOH,Department of Health,Commission on Population,,327462,298124,299455
+             National Nutrition Council,482795,311047,324923,0,0,2012,136,0,2,13,DEPT,NNC-DOH,Department of Health,National Nutrition Council,,482795,311047,324923
+      Other Executive Offices,145727,165168,170842,4,0,2012,,0,2,13,DEPT,,Other Executive Offices,Other Executive Offices,,145727,165168,170842
+             Dangerous Drugs Board,145727,165168,170842,0,0,2012,137,0,2,13,DEPT,DDB-OEO,Other Executive Offices,Dangerous Drugs Board,,145727,165168,170842
+      Department of National Defense,792156,848060,836767,4,0,2012,,0,2,13,DEPT,,Department of National Defense,Department of National Defense,,792156,848060,836767
+             Veterans Memorial Medical Center,792156,848060,836767,0,0,2012,138,0,2,13,DEPT,PVAO-VMMC,Department of National Defense,Veterans Memorial Medical Center,,792156,848060,836767
+      Department of Science and Technology,240223,220022,421736,4,0,2012,,0,2,13,DEPT,,Department of Science and Technology,Department of Science and Technology,,240223,220022,421736
+             Food and Nutrition Research Institute,117200,141236,159448,0,0,2012,139,0,2,13,DEPT,FNRI,Department of Science and Technology,Food and Nutrition Research Institute,,117200,141236,159448
+             Philippine Council for Health Research and Development,123023,78786,262288,0,0,2012,140,0,2,13,DEPT,PCHRD,Department of Science and Technology,Philippine Council for Health Research and Development,,123023,78786,262288
+   Budgetary Support to Government Corporations,4649796,797360,894360,3,1,2012,,0,2,13,BSGC,,,,,4649796,797360,894360
+      Local Water Utilities Administration,0,0,0,0,0,2012,141,0,2,13,BSGC,LWUA-DOH,Local Water Utilities Administration,,,0,0,0
+      Lung Center of the Philippines,184205,157560,157560,0,0,2012,142,0,2,13,BSGC,LCP,Lung Center of the Philippines,,,184205,157560,157560
+      National Kidney and Transplant Institute,305341,162800,164800,0,0,2012,143,0,2,13,BSGC,NKI,National Kidney and Transplant Institute,,,305341,162800,164800
+      Philippine Children`s Medical Center,269920,318000,345000,0,0,2012,144,0,2,13,BSGC,PCMD,Philippine Children`s Medical Center,,,269920,318000,345000
+      Philippine Heart Center,303557,122000,187000,0,0,2012,145,0,2,13,BSGC,PHC,Philippine Heart Center,,,303557,122000,187000
+      Philippine Institute of Traditional and Alternative Health Care,40000,37000,40000,0,0,2012,146,0,2,13,BSGC,PITAHC,Philippine Institute of Traditional and Alternative Health Care,,,40000,37000,40000
+      Philippine Health Insurance Corporation,3546773,0,0,0,0,2012,147,0,2,13,BSGC,PHIC,Philippine Health Insurance Corporation,,,3546773,0,0
+   Other Special Purpose Funds,0,3229223,4183651,3,1,2012,,0,2,13,OSPF,,,,,0,3229223,4183651
+      Miscellaneous Personnel Benefits Fund,0,1625123,2334271,0,0,2012,148,0,2,13,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,1625123,2334271
+      Calamity Fund,0,100000,150000,0,0,2012,149,0,2,13,OSPF,CF,Calamity Fund,,,0,100000,150000
+      Tax Expenditures Fund,0,150000,330430,0,0,2012,150,0,2,13,OSPF,TEF,Tax Expenditures Fund,,,0,150000,330430
+      Priority Development Assistance Fund,0,1354100,1368950,0,0,2012,151,0,2,13,OSPF,PDAF,Priority Development Assistance Fund,,,0,1354100,1368950
+"Social Security, Welfare and Employment",80231415,94105041,104452483,2,1,2012,,0,2,14,,,,,,80231415,94105041,104452483
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,21444008,52055561,62296082,3,1,2012,,0,2,14,DEPT,,,,,21444008,52055561,62296082
+      Department of Justice,1335346,1270681,1457100,4,0,2012,,0,2,14,DEPT,,Department of Justice,Department of Justice,,1335346,1270681,1457100
+             Public Attorney's Office,1335346,1270681,1457100,0,0,2012,152,0,2,14,DEPT,PAO,Department of Justice,Public Attorney's Office,,1335346,1270681,1457100
+      Department of Labor and Employment,3449694,3092202,3610482,4,0,2012,,0,2,14,DEPT,,Department of Labor and Employment,Department of Labor and Employment,,3449694,3092202,3610482
+             Office of the Secretary,2281066,1993499,2363322,0,0,2012,153,0,2,14,DEPT,OSEC-DOLE,Department of Labor and Employment,Office of the Secretary,,2281066,1993499,2363322
+             Institute for Labor Studies,23392,21928,26181,0,0,2012,154,0,2,14,DEPT,ILS,Department of Labor and Employment,Institute for Labor Studies,,23392,21928,26181
+             National Conciliation and Mediation Board,132057,127772,154677,0,0,2012,155,0,2,14,DEPT,NCMB,Department of Labor and Employment,National Conciliation and Mediation Board,,132057,127772,154677
+             National Labor Relations Commission,558357,492831,567952,0,0,2012,156,0,2,14,DEPT,NLRC,Department of Labor and Employment,National Labor Relations Commission,,558357,492831,567952
+             National Wages and Productivity Commission,138300,144817,173834,0,0,2012,157,0,2,14,DEPT,NWPC,Department of Labor and Employment,National Wages and Productivity Commission,,138300,144817,173834
+             Philippine Overseas Employment Administration,316522,311355,324516,0,0,2012,158,0,2,14,DEPT,POEA,Department of Labor and Employment,Philippine Overseas Employment Administration,,316522,311355,324516
+      Department of National Defense,352243,13043843,7461096,4,0,2012,,0,2,14,DEPT,,Department of National Defense,Department of National Defense,,352243,13043843,7461096
+             Philippine Veterans Affairs Office (Proper),352243,13043843,7461096,0,0,2012,159,0,2,14,DEPT,AFP-PVAO,Department of National Defense,Philippine Veterans Affairs Office (Proper),,352243,13043843,7461096
+      Department of Social Welfare and Development,16046547,34348726,49423664,4,0,2012,,0,2,14,DEPT,,Department of Social Welfare and Development,Department of Social Welfare and Development,,16046547,34348726,49423664
+             Office of the Secretary,15893869,34207874,49272410,0,0,2012,160,0,2,14,DEPT,OSEC-DSWD,Department of Social Welfare and Development,Office of the Secretary,,15893869,34207874,49272410
+             Council for the Welfare of Children,22645,23411,28994,0,0,2012,161,0,2,14,DEPT,CWCY,Department of Social Welfare and Development,Council for the Welfare of Children,,22645,23411,28994
+             Inter-Country Adoption Board,29009,24977,25960,0,0,2012,162,0,2,14,DEPT,ICAB,Department of Social Welfare and Development,Inter-Country Adoption Board,,29009,24977,25960
+             National Youth Commission,66526,63156,64880,0,0,2012,163,0,2,14,DEPT,NYC-DSWD,Department of Social Welfare and Development,National Youth Commission,,66526,63156,64880
+             National Council on Disability Affairs,34498,29308,31420,0,0,2012,164,0,2,14,DEPT,NCWDP,Department of Social Welfare and Development,National Council on Disability Affairs,,34498,29308,31420
+      Other Executive Offices,260178,300109,343740,4,0,2012,,0,2,14,DEPT,,Other Executive Offices,Other Executive Offices,,260178,300109,343740
+             Commission on Filipinos Overseas,50776,50853,56137,0,0,2012,165,0,2,14,DEPT,CFO-OEO,Other Executive Offices,Commission on Filipinos Overseas,,50776,50853,56137
+             Philippine Commission on Women (National Commission
+                on the Role of Filipino Women),81415,111552,103285,0,0,2012,166,0,2,14,DEPT,NCRFW,Other Executive Offices,Philippine Commission on Women (National Commission on the Role of Filipino Women),,81415,111552,103285
+             National Anti-Poverty Commission,60943,73851,102856,0,0,2012,167,0,2,14,DEPT,NAPC,Other Executive Offices,National Anti-Poverty Commission,,60943,73851,102856
+             Presidential Commission for the Urban Poor,67044,63853,81462,0,0,2012,168,0,2,14,DEPT,PCUP,Other Executive Offices,Presidential Commission for the Urban Poor,,67044,63853,81462
+   Other Special Purpose Funds,58787407,42049480,42156401,3,1,2012,,0,2,14,OSPF,,,,,58787407,42049480,42156401
+      Miscellaneous Personnel Benefits Fund,0,565260,811920,0,0,2012,169,0,2,14,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,565260,811920
+      Calamity Fund,0,720000,1080000,0,0,2012,170,0,2,14,OSPF,CF,Calamity Fund,,,0,720000,1080000
+      Retirement Benefits Fund (Pension and Gratuity Fund),58787407,35000000,34437891,0,0,2012,171,0,2,14,OSPF,PGF,Retirement Benefits Fund (Pension and Gratuity Fund),,,58787407,35000000,34437891
+      Contingent Fund,0,77000,77000,0,0,2012,172,0,2,14,OSPF,COF,Contingent Fund,,,0,77000,77000
+      Payapa at Masaganang Pamayanan Fund,0,0,0,0,0,2012,173,0,2,14,OSPF,PAMANA,Payapa at Masaganang Pamayanan Fund,,,0,0,0
+      Priority Development Assistance Fund,0,5687220,5749590,0,0,2012,174,0,2,14,OSPF,PDAF,Priority Development Assistance Fund,,,0,5687220,5749590
+Housing and Community Development,7145076,5737467,7078484,2,1,2012,,0,2,15,,,,,,7145076,5737467,7078484
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,309639,291809,345969,3,1,2012,,0,2,15,DEPT,,,,,309639,291809,345969
+      Other Executive Offices,309639,291809,345969,4,0,2012,,0,2,15,DEPT,,Other Executive Offices,Other Executive Offices,,309639,291809,345969
+             Housing and Land Use Regulatory Board,211473,178076,217545,0,0,2012,175,0,2,15,DEPT,HLURB,Other Executive Offices,Housing and Land Use Regulatory Board,,211473,178076,217545
+             Housing and Urban Development Coordinating Council,98166,113733,128424,0,0,2012,176,0,2,15,DEPT,HUDCC,Other Executive Offices,Housing and Urban Development Coordinating Council,,98166,113733,128424
+   Budgetary Support to Government Corporations,6835437,5375000,6631025,3,1,2012,,0,2,15,BSGC,,,,,6835437,5375000,6631025
+      Home Guaranty Corporation,600000,500000,500000,0,0,2012,177,0,2,15,BSGC,HIGC,Home Guaranty Corporation,,,600000,500000,500000
+      National Home Mortgage Finance Corporation,900000,500000,500000,0,0,2012,178,0,2,15,BSGC,NHMFC,National Home Mortgage Finance Corporation,,,900000,500000,500000
+      National Housing Authority,3423040,4375000,5631025,0,0,2012,179,0,2,15,BSGC,NHA,National Housing Authority,,,3423040,4375000,5631025
+      National Livelihood Development Corporation,1912397,0,0,0,0,2012,180,0,2,15,BSGC,LIVECOR,National Livelihood Development Corporation,,,1912397,0,0
+   Other Special Purpose Funds,0,70658,101490,3,1,2012,,0,2,15,OSPF,,,,,0,70658,101490
+      Miscellaneous Personnel Benefits Fund,0,70658,101490,0,0,2012,181,0,2,15,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,70658,101490
+Land Distribution,4028400,3966110,2500000,2,1,2012,,0,2,16,,,,,,4028400,3966110,2500000
+,,,,0,0,2012,,0,,,,,,,,,,
+   Other Special Purpose Funds,4028400,3966110,2500000,3,1,2012,,0,2,16,OSPF,,,,,4028400,3966110,2500000
+      Agrarian Reform Fund,4028400,3966110,2500000,4,0,2012,,0,2,16,OSPF,,Agrarian Reform Fund,Agrarian Reform Fund,,4028400,3966110,2500000
+             Land Bank of the Philippines,4028400,3966110,2500000,0,0,2012,182,0,2,16,OSPF,LBP,Agrarian Reform Fund,Land Bank of the Philippines,,4028400,3966110,2500000
+Other Social Services,1434726,1583163,1761242,2,1,2012,,0,2,17,,,,,,1434726,1583163,1761242
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,1434726,1346570,1431882,3,1,2012,,0,2,17,DEPT,,,,,1434726,1346570,1431882
+      Other Executive Offices,1098980,1061104,1152099,4,0,2012,,0,2,17,DEPT,,Other Executive Offices,Other Executive Offices,,1098980,1061104,1152099
+             National Commission on Indigenous Peoples,709679,691127,758106,0,0,2012,183,0,2,17,DEPT,NCIP,Other Executive Offices,National Commission on Indigenous Peoples,,709679,691127,758106
+             National Commission on Muslim Filipinos (Office on Muslim Affairs),389301,369977,393993,0,0,2012,184,0,2,17,DEPT,OMA,Other Executive Offices,National Commission on Muslim Filipinos (Office on Muslim Affairs),,389301,369977,393993
+      Commission on Human Rights,335746,285466,279783,0,0,2012,185,0,2,17,DEPT,CHR,Commission on Human Rights,,,335746,285466,279783
+   Other Special Purpose Funds,0,236593,329360,3,1,2012,,0,2,17,OSPF,,,,,0,236593,329360
+      Miscellaneous Personnel Benefits Fund,0,211973,304470,0,0,2012,186,0,2,17,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,211973,304470
+      Priority Development Assistance Fund,0,24620,24890,0,0,2012,187,0,2,17,OSPF,PDAF,Priority Development Assistance Fund,,,0,24620,24890
+,,,,0,0,,,0,,,,,,,,,,
+Subsidy to Local Government Units,98346879,106169368,101124549,0,1,2012,188,0,2,18,,IRA,,,,98346879,106169368,101124549
+,,,,0,0,,,0,,,,,,,,,,
+DEFENSE,72181154,101448913,113116838,1,1,2012,,0,3,,,,,,,72181154,101448913,113116838
+,,,,0,0,2012,,0,,,,,,,,,,
+Domestic Security,72181154,101448913,113116838,2,1,2012,,0,3,19,,,,,,72181154,101448913,113116838
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,71932572,90623255,97335440,3,1,2012,,0,3,19,DEPT,,,,,71932572,90623255,97335440
+      Department of National Defense,71932572,90623255,97335440,4,0,2012,,0,3,19,DEPT,,Department of National Defense,Department of National Defense,,71932572,90623255,97335440
+             DND Proper (Office of the Secretary),532937,316608,690307,0,0,2012,189,0,3,19,DEPT,OSEC-DND,Department of National Defense,DND Proper (Office of the Secretary),,532937,316608,690307
+             Armed Forces of the Philippines,70999854,89875721,95988219,5,0,2012,,0,3,19,DEPT,,Department of National Defense,Armed Forces of the Philippines,Armed Forces of the Philippines,70999854,89875721,95988219
+"                 General Headquarters, AFP and AFP Wide Service
+                    Support Units (AFPWSSUS)",11663817,34732305,37896847,0,0,2012,190,0,3,19,DEPT,AFP-GHQ,Department of National Defense,Armed Forces of the Philippines,"General Headquarters, AFP and AFP Wide Service Support Units (AFPWSSUS)",11663817,34732305,37896847
+                 Philippine Air Force (Air Force),10562870,10166488,10576799,0,0,2012,191,0,3,19,DEPT,AFP-PAF,Department of National Defense,Armed Forces of the Philippines,Philippine Air Force (Air Force),10562870,10166488,10576799
+                 Philippine Army (Land Forces),36783992,33607948,35414458,0,0,2012,192,0,3,19,DEPT,AFP-PA,Department of National Defense,Armed Forces of the Philippines,Philippine Army (Land Forces),36783992,33607948,35414458
+                 Philippine Navy (Naval Forces),11989175,11368980,12100115,0,0,2012,193,0,3,19,DEPT,AFP-PN,Department of National Defense,Armed Forces of the Philippines,Philippine Navy (Naval Forces),11989175,11368980,12100115
+             Government Arsenal,399781,430926,656914,0,0,2012,194,0,3,19,DEPT,GA,Department of National Defense,Government Arsenal,,399781,430926,656914
+   Budgetary Support to Government Corporations,248582,0,0,3,1,2012,,0,3,19,BSGC,,,,,248582,0,0
+      AFP Commissary and Exchange Service,248582,0,0,0,0,2012,195,0,3,19,BSGC,AFPCES,AFP Commissary and Exchange Service,,,248582,0,0
+   Other Special Purpose Funds,0,10825658,15781398,3,1,2012,,0,3,19,OSPF,,,,,0,10825658,15781398
+      Miscellaneous Personnel Benefits Fund,0,10386658,14919038,0,0,2012,196,0,3,19,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,10386658,14919038
+      Contingent Fund,0,14000,14000,0,0,2012,197,0,3,19,OSPF,COF,Contingent Fund,,,0,14000,14000
+      Calamity Fund,0,125000,187500,0,0,2012,198,0,3,19,OSPF,CF,Calamity Fund,,,0,125000,187500
+      Tax Expenditures Fund,0,300000,660860,0,0,2012,199,0,3,19,OSPF,TEF,Tax Expenditures Fund,,,0,300000,660860
+,,,,0,0,,,0,,,,,,,,,,
+GENERAL PUBLIC SERVICES,269294349,288345546,332595128,1,1,2012,,0,4,,,,,,,269294349,288345546,332595128
+,,,,0,0,2012,,0,,,,,,,,,,
+General Administration,89214952,79776773,109906927,2,1,2012,,0,4,21,,,,,,89214952,79776773,109906927
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,84785995,65752169,90944849,3,1,2012,,0,4,21,DEPT,,,,,84785995,65752169,90944849
+      Congress of the Philippines,9262552,8723033,8877878,4,0,2012,,0,4,21,DEPT,,Congress of the Philippines,Congress of the Philippines,,9262552,8723033,8877878
+             Senate,2650913,2693824,2739987,0,0,2012,200,0,4,21,DEPT,SP,Congress of the Philippines,Senate,,2650913,2693824,2739987
+             Senate Electoral Tribunal,120501,101273,90043,0,0,2012,201,0,4,21,DEPT,SET,Congress of the Philippines,Senate Electoral Tribunal,,120501,101273,90043
+             Commission on Appointments,367347,397038,416991,0,0,2012,202,0,4,21,DEPT,CA,Congress of the Philippines,Commission on Appointments,,367347,397038,416991
+             House of Representatives,6008645,5412825,5527022,0,0,2012,203,0,4,21,DEPT,HR,Congress of the Philippines,House of Representatives,,6008645,5412825,5527022
+             House Electoral Tribunal,115146,118073,103835,0,0,2012,204,0,4,21,DEPT,HET,Congress of the Philippines,House Electoral Tribunal,,115146,118073,103835
+      Office of the President,2388816,2478248,2721817,0,0,2012,205,0,4,21,DEPT,OP-PROPER,Office of the President,,,2388816,2478248,2721817
+      Office of the Vice-President,175321,187805,404802,0,0,2012,206,0,4,21,DEPT,OVP,Office of the Vice-President,,,175321,187805,404802
+      Department of Budget and Management,1673816,780880,865508,4,0,2012,,0,4,21,DEPT,,Department of Budget and Management,Department of Budget and Management,,1673816,780880,865508
+             Office of the Secretary,1673816,757303,841863,0,0,2012,207,0,4,21,DEPT,OSEC-DBM,Department of Budget and Management,Office of the Secretary,,1673816,757303,841863
+             Government Procurement Policy Board - Technical Support Office,0,23577,23645,0,0,2012,208,0,4,21,DEPT,GPPB-TSO,Department of Budget and Management,Government Procurement Policy Board - Technical Support Office,,0,23577,23645
+      Department of Finance,19818964,12480922,23567682,4,0,2012,,0,4,21,DEPT,,Department of Finance,Department of Finance,,19818964,12480922,23567682
+             Office of the Secretary,2247432,1959422,1566320,0,0,2012,209,0,4,21,DEPT,OSEC-DOF,Department of Finance,Office of the Secretary,,2247432,1959422,1566320
+             Bureau of Customs,2404993,1959827,9441273,0,0,2012,210,0,4,21,DEPT,BOC,Department of Finance,Bureau of Customs,,2404993,1959827,9441273
+             Bureau of Internal Revenue,6459130,6993597,10722070,0,0,2012,211,0,4,21,DEPT,BIR,Department of Finance,Bureau of Internal Revenue,,6459130,6993597,10722070
+             Bureau of Local Government Finance,201564,188900,181402,0,0,2012,212,0,4,21,DEPT,BLGF,Department of Finance,Bureau of Local Government Finance,,201564,188900,181402
+             Bureau of the Treasury,7723903,629713,543961,0,0,2012,213,0,4,21,DEPT,BTR,Department of Finance,Bureau of the Treasury,,7723903,629713,543961
+             Central Board of Assessment Appeals,9758,8878,9278,0,0,2012,214,0,4,21,DEPT,CBAA,Department of Finance,Central Board of Assessment Appeals,,9758,8878,9278
+             Insurance Commission,119207,143241,207966,0,0,2012,215,0,4,21,DEPT,IC,Department of Finance,Insurance Commission,,119207,143241,207966
+             Privatization and Management Office,31495,28651,28651,0,0,2012,216,0,4,21,DEPT,PMO,Department of Finance,Privatization and Management Office,,31495,28651,28651
+             National Tax Research Center,41476,39786,42612,0,0,2012,217,0,4,21,DEPT,NTRC,Department of Finance,National Tax Research Center,,41476,39786,42612
+             Cooperative Development Authority,304736,274305,321930,0,0,2012,218,0,4,21,DEPT,CDA-DOF,Department of Finance,Cooperative Development Authority,,304736,274305,321930
+             Securities and Exchange Commission,272270,254602,502219,0,0,2012,219,0,4,21,DEPT,SEC,Department of Finance,Securities and Exchange Commission,,272270,254602,502219
+             Special National Public Reconstruction Commission,3000,0,0,0,0,2012,220,0,4,21,DEPT,SNPRC,Department of Finance,Special National Public Reconstruction Commission,,3000,0,0
+      Department of Foreign Affairs,9662056,11101166,10988147,4,0,2012,,0,4,21,DEPT,,Department of Foreign Affairs,Department of Foreign Affairs,,9662056,11101166,10988147
+             Office of the Secretary,9603132,11047320,10924823,0,0,2012,221,0,4,21,DEPT,OSEC-DFA,Department of Foreign Affairs,Office of the Secretary,,9603132,11047320,10924823
+             Foreign Service Institute,39243,35189,43199,0,0,2012,222,0,4,21,DEPT,FSI,Department of Foreign Affairs,Foreign Service Institute,,39243,35189,43199
+             Technical Cooperation Council of the Philippines,4170,3299,3404,0,0,2012,223,0,4,21,DEPT,TCCP,Department of Foreign Affairs,Technical Cooperation Council of the Philippines,,4170,3299,3404
+             UNESCO National Commission of the Philippines,15511,15358,16721,0,0,2012,224,0,4,21,DEPT,UNESCO,Department of Foreign Affairs,UNESCO National Commission of the Philippines,,15511,15358,16721
+      Department of Justice,1151130,895454,1050727,4,0,2012,,0,4,21,DEPT,,Department of Justice,Department of Justice,,1151130,895454,1050727
+             Bureau of Immigration,568960,400533,486187,0,0,2012,225,0,4,21,DEPT,BI,Department of Justice,Bureau of Immigration,,568960,400533,486187
+             Office of the Government Corporate Counsel,76327,69064,83177,0,0,2012,226,0,4,21,DEPT,OGCC,Department of Justice,Office of the Government Corporate Counsel,,76327,69064,83177
+             Office of the Solicitor General,505843,425857,481363,0,0,2012,227,0,4,21,DEPT,OSG,Department of Justice,Office of the Solicitor General,,505843,425857,481363
+      Department of the Interior and Local Government,2718380,2734691,5643212,4,0,2012,,0,4,21,DEPT,,Department of the Interior and Local Government,Department of the Interior and Local Government,,2718380,2734691,5643212
+             Office of the Secretary,2718380,2734691,5643212,0,0,2012,228,0,4,21,DEPT,OSEC-DILG,Department of the Interior and Local Government,Office of the Secretary,,2718380,2734691,5643212
+      Department of Public Works and Highways,424982,331890,376626,4,0,2012,,0,4,21,DEPT,,Department of Public Works and Highways,Department of Public Works and Highways,,424982,331890,376626
+             Office of the Secretary,424982,331890,376626,0,0,2012,229,0,4,21,DEPT,OSEC-DPWH,Department of Public Works and Highways,Office of the Secretary,,424982,331890,376626
+      Department of Science and Technology,1010860,1321271,1559945,4,0,2012,,0,4,21,DEPT,,Department of Science and Technology,Department of Science and Technology,,1010860,1321271,1559945
+             National Research Council of the Philippines,40171,40003,56260,0,0,2012,230,0,4,21,DEPT,NRCP,Department of Science and Technology,National Research Council of the Philippines,,40171,40003,56260
+"             Philippine Atmospheric, Geophysical and Astronomical
+                Services Administration",789404,1075601,1283646,0,0,2012,231,0,4,21,DEPT,PAGASA,Department of Science and Technology,"Philippine Atmospheric, Geophysical and Astronomical Services Administration",,789404,1075601,1283646
+             Philippine Institute of Volcanology and Seismology,181285,205667,220039,0,0,2012,232,0,4,21,DEPT,PIVS,Department of Science and Technology,Philippine Institute of Volcanology and Seismology,,181285,205667,220039
+      National Economic and Development Authority,4100709,2187700,2968687,4,0,2012,,0,4,21,DEPT,,National Economic and Development Authority,National Economic and Development Authority,,4100709,2187700,2968687
+             Office of the Director-General,754392,763407,825241,0,0,2012,233,0,4,21,DEPT,ODG,National Economic and Development Authority,Office of the Director-General,,754392,763407,825241
+             National Statistical Coordination Board,97629,90263,92587,0,0,2012,234,0,4,21,DEPT,NSCB,National Economic and Development Authority,National Statistical Coordination Board,,97629,90263,92587
+             National Statistics Office,3170600,1238091,1734177,0,0,2012,235,0,4,21,DEPT,NSO,National Economic and Development Authority,National Statistics Office,,3170600,1238091,1734177
+             Philippine National Volunteer Service Coordinating Agency,12537,13586,13955,0,0,2012,236,0,4,21,DEPT,PNVSCA,National Economic and Development Authority,Philippine National Volunteer Service Coordinating Agency,,12537,13586,13955
+             Public-Private Partnership Center of the Philippines,0,0,225720,0,0,2012,237,0,4,21,DEPT,PPPCP,National Economic and Development Authority,Public-Private Partnership Center of the Philippines,,0,0,225720
+             Statistical Research and Training Center,17737,35866,27224,0,0,2012,238,0,4,21,DEPT,SRTC,National Economic and Development Authority,Statistical Research and Training Center,,17737,35866,27224
+             Tariff Commission,47814,46487,49783,0,0,2012,239,0,4,21,DEPT,TARIFF,National Economic and Development Authority,Tariff Commission,,47814,46487,49783
+      Presidential Communications Operations Office,1143835,976157,1047946,4,0,2012,,0,4,21,DEPT,,Presidential Communications Operations Office,Presidential Communications Operations Office,,1143835,976157,1047946
+             Presidential Communications Operations Office (Proper),129390,99137,124151,0,0,2012,240,0,4,21,DEPT,PROP,Presidential Communications Operations Office,Presidential Communications Operations Office (Proper),,129390,99137,124151
+             Bureau of Broadcast Services,323832,292653,277772,0,0,2012,241,0,4,21,DEPT,BBS,Presidential Communications Operations Office,Bureau of Broadcast Services,,323832,292653,277772
+             Bureau of Communications Services,31994,28952,32078,0,0,2012,242,0,4,21,DEPT,BCS,Presidential Communications Operations Office,Bureau of Communications Services,,31994,28952,32078
+             National Printing Office,163565,136964,144549,0,0,2012,243,0,4,21,DEPT,NPO,Presidential Communications Operations Office,National Printing Office,,163565,136964,144549
+             News and Information Bureau,110599,91073,95686,0,0,2012,244,0,4,21,DEPT,NIB,Presidential Communications Operations Office,News and Information Bureau,,110599,91073,95686
+             Philippine Information Agency,276689,249569,243201,0,0,2012,245,0,4,21,DEPT,PIA,Presidential Communications Operations Office,Philippine Information Agency,,276689,249569,243201
+             Presidential Broadcast Staff (RTVM),107766,77809,130509,0,0,2012,246,0,4,21,DEPT,PBS-RTVM,Presidential Communications Operations Office,Presidential Broadcast Staff (RTVM),,107766,77809,130509
+      Other Executive Offices,1760467,1636130,1900872,4,0,2012,,0,4,21,DEPT,,Other Executive Offices,Other Executive Offices,,1760467,1636130,1900872
+             Games and Amusements Board,65193,62077,65990,0,0,2012,249,0,4,21,DEPT,GAAB,Other Executive Offices,Games and Amusements Board,,65193,62077,65990
+             Movie and Television Review and Classification Board,46418,43774,43109,0,0,2012,250,0,4,21,DEPT,MTRCB,Other Executive Offices,Movie and Television Review and Classification Board,,46418,43774,43109
+             Mindanao Development Authority,57826,56164,60016,0,0,2012,251,0,4,21,DEPT,MDA,Other Executive Offices,Mindanao Development Authority,,57826,56164,60016
+             National Intelligence Coordinating Agency,492589,442346,458616,0,0,2012,252,0,4,21,DEPT,NICA,Other Executive Offices,National Intelligence Coordinating Agency,,492589,442346,458616
+             National Security Council,70142,63295,75541,0,0,2012,253,0,4,21,DEPT,NSC,Other Executive Offices,National Security Council,,70142,63295,75541
+             Presidential Communications Development and Strategic Planning Office,2353,50000,53301,0,0,2012,254,0,4,21,DEPT,PCDSPO,Other Executive Offices,Presidential Communications Development and Strategic Planning Office,,2353,50000,53301
+             Philippine Racing Commission,103319,104042,105800,0,0,2012,255,0,4,21,DEPT,PRACOM,Other Executive Offices,Philippine Racing Commission,,103319,104042,105800
+             Presidential Legislative Liaison Office,20989,20811,23835,0,0,2012,256,0,4,21,DEPT,PLLO,Other Executive Offices,Presidential Legislative Liaison Office,,20989,20811,23835
+             Presidential Management Staff,273595,227153,261826,0,0,2012,257,0,4,21,DEPT,PMS,Other Executive Offices,Presidential Management Staff,,273595,227153,261826
+             Philippine Drug Enforcement Agency,582200,519885,679777,0,0,2012,258,0,4,21,DEPT,PDEA,Other Executive Offices,Philippine Drug Enforcement Agency,,582200,519885,679777
+             Optical Media Board,35247,36893,42962,0,0,2012,259,0,4,21,DEPT,VRB,Other Executive Offices,Optical Media Board,,35247,36893,42962
+             Anti-Money Laundering Council,10596,9690,30099,0,0,2012,260,0,4,21,DEPT,AMLC,Other Executive Offices,Anti-Money Laundering Council,,10596,9690,30099
+      Department of Labor and Employment,521902,474122,659516,4,0,2012,,0,4,21,DEPT,,Department of Labor and Employment,Department of Labor and Employment,,521902,474122,659516
+             Professional Regulation Commission,521902,474122,659516,0,0,2012,261,0,4,21,DEPT,PRC-DOLE,Department of Labor and Employment,Professional Regulation Commission,,521902,474122,659516
+      Joint Legislative-Executive Councils,914,2185,2137,0,0,2012,262,0,4,21,DEPT,LEDAC,Joint Legislative-Executive Councils,,,914,2185,2137
+      Civil Service Commission,771015,713858,698942,4,0,2012,,0,4,21,DEPT,,Civil Service Commission,Civil Service Commission,,771015,713858,698942
+         Civil Service Commission,729273,670823,648843,4,0,2012,263,0,4,21,DEPT,CSCOM,Civil Service Commission,Civil Service Commission,,729273,670823,648843
+             Career Executive Service Board,41742,43035,50099,0,0,2012,264,0,4,21,DEPT,CESB,Civil Service Commission,Career Executive Service Board,,41742,43035,50099
+      Commission on Audit,4766491,4493173,5150948,0,0,2012,265,0,4,21,DEPT,COA,Commission on Audit,,,4766491,4493173,5150948
+      Commission on Elections,12792504,2380683,9990834,0,0,2012,266,0,4,21,DEPT,COMELEC,Commission on Elections,,,12792504,2380683,9990834
+      Autonomous Region in Muslim Mindanao,10641281,11852801,12468623,4,0,2012,,0,4,21,DEPT,,Autonomous Region in Muslim Mindanao,Autonomous Region in Muslim Mindanao,,10641281,11852801,12468623
+             Autonomous Regional Government in Muslim Mindanao,10641281,11852801,12468623,0,0,2012,267,0,4,21,DEPT,ARMM,Autonomous Region in Muslim Mindanao,Autonomous Regional Government in Muslim Mindanao,,10641281,11852801,12468623
+   Budgetary Support to Government Corporations,4428957,25300,33000,3,1,2012,,0,4,21,BSGC,,,,,4428957,25300,33000
+      Philippine Institute for Development Studies,19200,25300,33000,0,0,2012,268,0,4,21,BSGC,PIDS,Philippine Institute for Development Studies,,,19200,25300,33000
+"      People`s Television Network, Incorporated",4039,0,0,0,0,2012,269,0,4,21,BSGC,PTV4,"People`s Television Network, Incorporated",,,4039,0,0
+      Development Bank of the Philippines,2447,0,0,0,0,2012,270,0,4,21,BSGC,DBP,Development Bank of the Philippines,,,2447,0,0
+      Philippine Deposit Insurance Corporation,4403271,0,0,0,0,2012,271,0,4,21,BSGC,PDIC,Philippine Deposit Insurance Corporation,,,4403271,0,0
+   Other Special Purpose Funds,0,13999304,18929079,3,1,2012,,0,4,21,OSPF,,,,,0,13999304,18929079
+      Calamity Fund,0,305000,457500,0,0,2012,272,0,4,21,OSPF,CF,Calamity Fund,,,0,305000,457500
+      Contingent Fund,0,833000,833000,0,0,2012,273,0,4,21,OSPF,COF,Contingent Fund,,,0,833000,833000
+      Miscellaneous Personnel Benefits Fund,0,11375864,16339899,0,0,2012,274,0,4,21,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,11375864,16339899
+      Payapa at Masaganang Pamayanan Fund,0,0,0,0,0,2012,275,0,4,21,OSPF,PAMANA,Payapa at Masaganang Pamayanan Fund,,,0,0,0
+      Priority Development Assistance Fund,0,295440,298680,0,0,2012,276,0,4,21,OSPF,PDAF,Priority Development Assistance Fund,,,0,295440,298680
+      E-Government Fund,0,1190000,1000000,0,0,2012,277,0,4,21,OSPF,E-GOV,E-Government Fund,,,0,1190000,1000000
+Public Order and Safety,95254519,118398278,130079512,2,1,2012,,0,4,22,,,,,,95254519,118398278,130079512
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,95254519,105934821,112171753,3,1,2012,,0,4,22,DEPT,,,,,95254519,105934821,112171753
+      Department of Justice,6516129,6228750,7138752,4,0,2012,,0,4,22,DEPT,,Department of Justice,Department of Justice,,6516129,6228750,7138752
+             Office of the Secretary,2716520,2609014,3318644,0,0,2012,278,0,4,22,DEPT,OSEC-DOJ,Department of Justice,Office of the Secretary,,2716520,2609014,3318644
+             Bureau of Corrections,1393550,1546628,1591907,0,0,2012,279,0,4,22,DEPT,BCOR,Department of Justice,Bureau of Corrections,,1393550,1546628,1591907
+             Land Registration Authority,1015039,790201,854004,0,0,2012,280,0,4,22,DEPT,LRA,Department of Justice,Land Registration Authority,,1015039,790201,854004
+             National Bureau of Investigation,906889,826439,888866,0,0,2012,281,0,4,22,DEPT,NBI,Department of Justice,National Bureau of Investigation,,906889,826439,888866
+             Parole and Probation Administration,484131,456468,485331,0,0,2012,282,0,4,22,DEPT,PPA,Department of Justice,Parole and Probation Administration,,484131,456468,485331
+      Department of the Interior and Local Government,73018302,84192999,89312700,4,0,2012,,0,4,22,DEPT,,Department of the Interior and Local Government,Department of the Interior and Local Government,,73018302,84192999,89312700
+             Bureau of Fire Protection,6648314,8221809,8570678,0,0,2012,283,0,4,22,DEPT,BFP,Department of the Interior and Local Government,Bureau of Fire Protection,,6648314,8221809,8570678
+             Bureau of Jail Management and Penology,4588890,5153053,5617353,0,0,2012,284,0,4,22,DEPT,BJMP,Department of the Interior and Local Government,Bureau of Jail Management and Penology,,4588890,5153053,5617353
+             Philippine National Police,60427743,69475778,73757868,0,0,2012,285,0,4,22,DEPT,PNP,Department of the Interior and Local Government,Philippine National Police,,60427743,69475778,73757868
+             National Police Commission,1353355,1342359,1366801,0,0,2012,286,0,4,22,DEPT,NAPOLCOM,Department of the Interior and Local Government,National Police Commission,,1353355,1342359,1366801
+      Department of National Defense,272289,96393,1228012,4,0,2012,,0,4,22,DEPT,,Department of National Defense,Department of National Defense,,272289,96393,1228012
+             Office of Civil Defense,272289,96393,1228012,0,0,2012,287,0,4,22,DEPT,OCD,Department of National Defense,Office of Civil Defense,,272289,96393,1228012
+      The Judiciary,14266347,14307390,13706389,4,0,2012,,0,4,22,DEPT,,The Judiciary,The Judiciary,,14266347,14307390,13706389
+             Supreme Court of the Philippines and the Lower Courts,12487474,12783344,12109397,0,0,2012,288,0,4,22,DEPT,SCPLC,The Judiciary,Supreme Court of the Philippines and the Lower Courts,,12487474,12783344,12109397
+                 Presidential Electoral Tribunal,58557,67377,39955,0,0,2012,289,0,4,22,DEPT,PET,The Judiciary,Supreme Court of the Philippines and the Lower Courts,Presidential Electoral Tribunal,58557,67377,39955
+             Sandiganbayan,345098,329549,334556,0,0,2012,290,0,4,22,DEPT,SB,The Judiciary,Sandiganbayan,,345098,329549,334556
+             Court of Appeals,1058584,946596,1029584,0,0,2012,291,0,4,22,DEPT,CAP,The Judiciary,Court of Appeals,,1058584,946596,1029584
+             Court of Tax Appeals,316634,180524,192897,0,0,2012,292,0,4,22,DEPT,CTA,The Judiciary,Court of Tax Appeals,,316634,180524,192897
+      Office of the Ombudsman,1181452,1109289,785900,0,0,2012,293,0,4,22,DEPT,OMB,Office of the Ombudsman,,,1181452,1109289,785900
+   Other Special Purpose Funds,0,12463457,17907759,3,1,2012,,0,4,22,OSPF,,,,,0,12463457,17907759
+      Calamity Fund,0,775000,1162500,0,0,2012,294,0,4,22,OSPF,CF,Calamity Fund,,,0,775000,1162500
+      Contingent Fund,0,76000,76000,0,0,2012,295,0,4,22,OSPF,COF,Contingent Fund,,,0,76000,76000
+      Miscellaneous Personnel Benefits Fund,0,11587837,16644369,0,0,2012,296,0,4,22,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,11587837,16644369
+      Priority Development Assistance Fund,0,24620,24890,0,0,2012,297,0,4,22,OSPF,PDAF,Priority Development Assistance Fund,,,0,24620,24890
+Other General Public Services,10400213,9826109,16082003,2,1,2012,,0,4,23,,,,,,10400213,9826109,16082003
+,,,,0,0,2012,,0,,,,,,,,,,
+   Department/Agencies,1900247,1309974,2041585,3,1,2012,,0,4,23,DEPT,,,,,1900247,1309974,2041585
+      Other Executive Offices,365533,235880,569639,4,0,2012,,0,4,23,DEPT,,Other Executive Offices,Other Executive Offices,,365533,235880,569639
+             Governance Commission for Government-Owned and Controlled Corporations,0,0,0,0,0,2012,298,0,4,23,DEPT,GCG,Other Executive Offices,Governance Commission for Government-Owned and Controlled Corporations,,0,0,0
+      Department of Justice,141194,93101,96477,4,0,2012,,0,4,23,DEPT,,Department of Justice,Department of Justice,,141194,93101,96477
+             Presidential Commission on Good Government,141194,93101,96477,0,0,2012,299,0,4,23,DEPT,PCGG-DOJ,Department of Justice,Presidential Commission on Good Government,,141194,93101,96477
+             Office of the Presidential Adviser on the Peace Process,365533,235880,569639,0,0,2012,300,0,4,23,DEPT,OPAPP,Other Executive Offices,Office of the Presidential Adviser on the Peace Process,,365533,235880,569639
+      Allocations to Local Government Units,1393520,980993,1375469,4,0,2012,,0,4,23,DEPT,,Allocations to Local Government Units,Allocations to Local Government Units,,1393520,980993,1375469
+             Metropolitan Manila Development Authority,1393520,980993,1375469,0,0,2012,301,0,4,23,DEPT,S_MMDA,Allocations to Local Government Units,Metropolitan Manila Development Authority,,1393520,980993,1375469
+   Other Special Purpose Funds,8499966,8516135,14040418,3,1,2012,,0,4,23,OSPF,,,,,8499966,8516135,14040418
+      Allocations to Local Government Units,8499966,250000,250000,4,0,2012,,0,4,23,OSPF,,Allocations to Local Government Units,Allocations to Local Government Units,,8499966,250000,250000
+             Barangay Officials Death Benefits Fund,0,50000,50000,0,0,2012,302,0,4,23,OSPF,BODBF,Allocations to Local Government Units,Barangay Officials Death Benefits Fund,,0,50000,50000
+             Financial Subsidy to Local Government Units,3900056,200000,200000,0,0,2012,303,0,4,23,OSPF,FSLGU,Allocations to Local Government Units,Financial Subsidy to Local Government Units,,3900056,200000,200000
+             Special Financial Assistance to Local Government Units,4599910,0,0,0,0,2012,304,0,4,23,OSPF,SFALGU,Allocations to Local Government Units,Special Financial Assistance to Local Government Units,,4599910,0,0
+      International Commitments Fund,0,3174820,2683248,0,0,2012,305,0,4,23,OSPF,ICF,International Commitments Fund,,,0,3174820,2683248
+      Miscellaneous Personnel Benefits Fund,0,141315,202980,0,0,2012,306,0,4,23,OSPF,MPBF,Miscellaneous Personnel Benefits Fund,,,0,141315,202980
+      Tax Expenditures Fund,0,4950000,10904190,0,0,2012,307,0,4,23,OSPF,TEF,Tax Expenditures Fund,,,0,4950000,10904190
+,,,,0,0,,,0,,,,,,,,,,
+Subsidy to Local Government Units,74424666,80344387,76526686,0,1,2012,308,0,4,24,,IRA,,,,74424666,80344387,76526686
+,,,,0,0,,,0,,,,,,,,,,
+NET LENDING,9258000,15000000,23000000,0,1,2012,309,0,5,25,,NET,,,,9258000,15000000,23000000
+,,,,0,0,,,0,,,,,,,,,,
+DEBT-SERVICE-INTEREST PAYMENTS,294244000,357090000,333107000,0,1,2012,310,0,6,26,,DSF,,,,294244000,357090000,333107000
+,,,,0,0,,,0,,,,,,,,,,
+GRAND TOTAL,1472977429,1645000000,1816000000,10,1,,,0,,,,,,,,1472977429,1645000000,1816000000

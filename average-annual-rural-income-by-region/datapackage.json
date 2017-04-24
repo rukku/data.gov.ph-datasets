@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=R50OTFHI", 
+  "extras": {
+    "Frequency Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1985-12/31/2000"
+  }, 
+  "id": "f2be00cd-2484-4fb5-9d11-5fd63ca63b99", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "average-annual-rural-income-by-region", 
+  "notes": "This dataset contains the average annual rural income by region. This time-series includes the most recent data, covering the period from 1985 to the latest available year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-05T09:59:26.810834", 
+      "description": "This dataset contains the average annual rural income by region. This time-series includes the most recent data, covering the period from 1985 to the latest available year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "db01c448-7e1e-4c58-8b6e-5c258d1352f6", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Average Annual Rural Income by Region", 
+      "package_id": "f2be00cd-2484-4fb5-9d11-5fd63ca63b99", 
+      "position": 0, 
+      "resource_group_id": "f7a21408-fa58-481b-8abc-afc50b9ea9c2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=R50OTFHI", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Average Annual Rural Income by Region", 
+  "url": null, 
+  "version": null
+}

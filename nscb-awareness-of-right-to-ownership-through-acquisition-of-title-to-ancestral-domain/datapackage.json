@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/75e085ac-dd13-4fab-932c-31e8596b571b/resource/af9e8845-cd8c-4eaa-bea1-cd639dcd7660/download/NSCBAWARENESSOFRIGHTTOOWNERSHIPTHROUGHACQUISITIONOFTITLETOANCESTRALDOMAIN.xlsx", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "75e085ac-dd13-4fab-932c-31e8596b571b", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-awareness-of-right-to-ownership-through-acquisition-of-title-to-ancestral-domain", 
+  "notes": "Indigenous People\u2019s Rights - Awareness of Right to Ownership through Acquisition of Title to Ancestral Domain", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T22:43:01.941702", 
+      "description": "Indigenous People\u2019s Rights - Awareness of Right to Ownership through Acquisition of Title to Ancestral Domain", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "af9e8845-cd8c-4eaa-bea1-cd639dcd7660", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - AWARENESS OF RIGHT TO OWNERSHIP THROUGH ACQUISITION OF TITLE TO ANCESTRAL DOMAIN", 
+      "package_id": "75e085ac-dd13-4fab-932c-31e8596b571b", 
+      "position": 0, 
+      "resource_group_id": "dbc07b9c-0be1-4913-9246-2967e75d6e55", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/75e085ac-dd13-4fab-932c-31e8596b571b/resource/af9e8845-cd8c-4eaa-bea1-cd639dcd7660/download/NSCBAWARENESSOFRIGHTTOOWNERSHIPTHROUGHACQUISITIONOFTITLETOANCESTRALDOMAIN.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Population"
+  ], 
+  "title": "NSCB - AWARENESS OF RIGHT TO OWNERSHIP THROUGH ACQUISITION OF TITLE TO ANCESTRAL DOMAIN", 
+  "url": "", 
+  "version": ""
+}

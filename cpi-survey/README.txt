@@ -1,0 +1,1 @@
+This data set contains information on Philippine residents' holdings of equity and debt securities issued by non-residents.

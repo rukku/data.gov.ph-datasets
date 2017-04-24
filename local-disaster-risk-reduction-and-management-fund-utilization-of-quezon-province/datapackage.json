@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/lEdDYs5wPLl2tzh4nSf7/quezon_province_ldrrmf_12312012_q4.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "01/01/12-12/31/12"
+  }, 
+  "id": "1f96816b-2f45-4903-b51d-86393c60d638", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-quezon-province", 
+  "notes": "This dataset contains report of local disaster risk reduction and management fund utilization of Quezon province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-26T13:27:58.526399", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "709c7938-324f-477d-9584-82d3ac6c4bb0", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Quezon Province LDRRMF", 
+      "package_id": "1f96816b-2f45-4903-b51d-86393c60d638", 
+      "position": 0, 
+      "resource_group_id": "33602f03-817f-4dbf-a7c1-92bc412d8f05", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/lEdDYs5wPLl2tzh4nSf7/quezon_province_ldrrmf_12312012_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-26T13:28:05.197040", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "feffc667-989a-4ca2-9dbc-875a156b3cf4", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 3 - Quezon Province LDRRMF", 
+      "package_id": "1f96816b-2f45-4903-b51d-86393c60d638", 
+      "position": 1, 
+      "resource_group_id": "33602f03-817f-4dbf-a7c1-92bc412d8f05", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/MyRteQKqvg54Xlp5gD1d/quezon_province_ldrrmf_09302012_q3.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Infrastructure"
+  ], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization of Quezon Province", 
+  "url": "", 
+  "version": ""
+}

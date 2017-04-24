@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Finance", 
+  "author_email": "blgf@blgf.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/WICLZDPzXL3qRMPIeEKS/budget_operations_statement_city_1996.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1996- 12/31/1996"
+  }, 
+  "id": "d2ef1316-260a-4c04-9a56-893c193ae885", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bureau of Local Government Finance- Local Financial Data Analysis Division", 
+  "maintainer_email": "rev.blgf@gmail.com", 
+  "name": "1996-budget-operations-statement-", 
+  "notes": "The Budget Operations Statement is a financial report submitted by the Local Government Units to the Bureau of Local Government Finance prior to CY 2001. The LGUs reports were consolidated by the Bureau and served as the primary data on financial conditions of the LGUs. Note: amounts in million pesos", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-04-22T15:54:51.926592", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "4abc8b6b-288c-4951-8097-70c17d23abd3", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "1996 Budget Operations Statement  - City", 
+      "package_id": "d2ef1316-260a-4c04-9a56-893c193ae885", 
+      "position": 0, 
+      "resource_group_id": "11931c21-a5ce-4d44-a509-c708248ee5f6", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/WICLZDPzXL3qRMPIeEKS/budget_operations_statement_city_1996.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-04-22T15:55:35.913547", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "1e14069d-c0f3-4d99-87bf-6c09bb9f88f9", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "1996 Budget Operations Statement  - City", 
+      "package_id": "d2ef1316-260a-4c04-9a56-893c193ae885", 
+      "position": 1, 
+      "resource_group_id": "11931c21-a5ce-4d44-a509-c708248ee5f6", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/WICLZDPzXL3qRMPIeEKS/budget_operations_statement_city_1996.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Public Finance"
+  ], 
+  "title": "1996 Budget Operations Statement", 
+  "url": "", 
+  "version": ""
+}

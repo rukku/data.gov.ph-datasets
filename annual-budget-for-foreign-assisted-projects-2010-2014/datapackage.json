@@ -1,0 +1,46 @@
+{
+  "author": "Department of Transportation and Communications", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/zBDPqqClvC01qk32ooB7/dotcannualbudgetforeign-assistedprojects2010-2014.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2010-12/31/2014"
+  }, 
+  "id": "06381965-7d76-4d4f-9209-1073862f29ca", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Office of the Secretary - Public Information Division", 
+  "maintainer_email": "dotcpid@gmail.com", 
+  "name": "annual-budget-for-foreign-assisted-projects-2010-2014", 
+  "notes": "This data set contains the list of the Department's foreign-assisted infrastructure projects and the budget (in thousand Pesos) allocated to each project from 2010 to 2014.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T16:53:44.816803", 
+      "description": "This data set contains the list of the Department's foreign-assisted infrastructure projects and the budget (in thousand Pesos) allocated to each project from 2010 to 2014.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "c094c80e-d91d-4ed3-aec4-2001705224d8", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Annual Budget for Foreign-Assisted Projects 2010-2014", 
+      "package_id": "06381965-7d76-4d4f-9209-1073862f29ca", 
+      "position": 0, 
+      "resource_group_id": "3e4a0768-f8e5-4c9b-add5-35df3246056f", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/zBDPqqClvC01qk32ooB7/dotcannualbudgetforeign-assistedprojects2010-2014.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Annual Budget for Foreign-Assisted Projects 2010-2014", 
+  "url": "", 
+  "version": ""
+}

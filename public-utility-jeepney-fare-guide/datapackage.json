@@ -1,0 +1,46 @@
+{
+  "author": "Land Transportation Franchising and Regulatory Board (LTFRB)", 
+  "author_email": "complaint.ltfrb.gov.ph@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/bKOIYyknvzwAIc16SDSn/puj_fare_guide_2011.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "03/09/2011-2015"
+  }, 
+  "id": "43fd0a7c-12a4-436d-b8ed-21f32d5007b3", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "contact@ltfrb.gov.ph", 
+  "name": "public-utility-jeepney-fare-guide", 
+  "notes": "Contains fare matrices for Public Utility Jeepney for Metro Manila.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-05T11:05:43.378344", 
+      "description": "Contains fare matrices for Public Utility Jeepney for Metro Manila.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "093e9366-a1aa-444f-816e-e13d0dd89a0e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Public Utility Jeepney Fare Guide", 
+      "package_id": "43fd0a7c-12a4-436d-b8ed-21f32d5007b3", 
+      "position": 0, 
+      "resource_group_id": "facd3cf5-48f8-4fac-a309-ad6847911202", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/bKOIYyknvzwAIc16SDSn/puj_fare_guide_2011.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Public Utility Jeepney Fare Guide", 
+  "url": "", 
+  "version": ""
+}

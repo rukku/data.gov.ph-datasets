@@ -1,0 +1,1 @@
+This dataset contains the updated average production costs and returns of agricultural products by season and by region. This time-series includes the most recent data, covering the period from  2009 to the latest available year.

@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/f9d2ae02-1f9c-44c3-a7ae-1bd24d6c4bb3/resource/841c4332-a32e-46ea-8bfb-0ab3eccb614a/download/NSCBCOREINFLATIONRATE2003to2014.xlsx", 
+  "extras": {
+    "Frequency of Update": "Monthly", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "f9d2ae02-1f9c-44c3-a7ae-1bd24d6c4bb3", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-core-inflation-rate-2003-to-2014", 
+  "notes": "Core Inflation Rate from 2003 to 2014", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T11:24:07.932497", 
+      "description": "Core Inflation Rate from 2003 to 2014", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "841c4332-a32e-46ea-8bfb-0ab3eccb614a", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - CORE INFLATION RATE - 2003 TO 2014", 
+      "package_id": "f9d2ae02-1f9c-44c3-a7ae-1bd24d6c4bb3", 
+      "position": 0, 
+      "resource_group_id": "e4fb9aa7-cef3-453c-913e-5aaef56084d9", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/f9d2ae02-1f9c-44c3-a7ae-1bd24d6c4bb3/resource/841c4332-a32e-46ea-8bfb-0ab3eccb614a/download/NSCBCOREINFLATIONRATE2003to2014.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "NSCB - CORE INFLATION RATE - 2003 TO 2014", 
+  "url": "", 
+  "version": ""
+}

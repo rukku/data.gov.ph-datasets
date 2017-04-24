@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/9e60b143-79c2-4c36-8df7-3c020f0e023b/resource/c41ba581-a759-4e6e-b41c-ef5fe51ea978/download/NSCBCONSUMERPRICEINDEXFORALLINCOMEHOUSEHOLDSANDHEADLINEINFLATIONRATES2004to2014.xlsx", 
+  "extras": {
+    "Frequency of Update": "Monthly", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "9e60b143-79c2-4c36-8df7-3c020f0e023b", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-consumer-price-index-for-all-income-households-and-headline-inflation-rates-2004-to-2014", 
+  "notes": "NSCB-Consumer Price Index for all Income Households and Headline Inflation Rates from 2004 to 2014", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T23:10:02.725166", 
+      "description": "NSCB-Consumer Price Index for all Income Households and Headline Inflation Rates from 2004 to 2014", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "c41ba581-a759-4e6e-b41c-ef5fe51ea978", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - CONSUMER PRICE INDEX FOR ALL INCOME HOUSEHOLDS AND HEADLINE INFLATION RATES - 2004 TO 2014", 
+      "package_id": "9e60b143-79c2-4c36-8df7-3c020f0e023b", 
+      "position": 0, 
+      "resource_group_id": "764138a9-14d8-4592-8111-87a87118b848", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/9e60b143-79c2-4c36-8df7-3c020f0e023b/resource/c41ba581-a759-4e6e-b41c-ef5fe51ea978/download/NSCBCONSUMERPRICEINDEXFORALLINCOMEHOUSEHOLDSANDHEADLINEINFLATIONRATES2004to2014.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "NSCB - CONSUMER PRICE INDEX FOR ALL INCOME HOUSEHOLDS AND HEADLINE INFLATION RATES - 2004 TO 2014", 
+  "url": "", 
+  "version": ""
+}

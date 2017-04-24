@@ -1,0 +1,1 @@
+This dataset contains extreme weather records of events such as temperature, rainfall, wind and pressure. Note: Temperature measured in celcius; rainfall in millimetre(mm); wind in meters per second(mps); sea level pressure in millibars (mbs).

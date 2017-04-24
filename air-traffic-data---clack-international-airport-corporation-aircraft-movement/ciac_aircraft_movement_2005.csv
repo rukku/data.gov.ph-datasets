@@ -1,0 +1,15 @@
+flight_type,airline_operator,january,february,march,april,may,june,july,august,september,october,november,december,grand_total
+Domestic,Asian Spirit,22,6,13,14,19,8,10,6,8,6,8,11,131
+Domestic,Asiana Airlines,3,3,1,1,-,-,-,-,-,-,-,-,8
+Domestic,Seair,47,43,56,58,56,41,49,46,47,46,49,51,589
+Domestic,Total,72,52,70,73,75,49,59,52,55,52,57,62,728
+International,Air Asia,-,-,-,98,99,84,87,85,86,86,115,124,864
+International,Asiana Airlines,42,37,43,42,44,42,45,44,39,44,42,44,508
+International,CRJ Airways,-,-,-,-,-,-,-,22,24,28,22,26,122
+International,Far Eastern Air Transport (FAT),-,-,-,-,-,-,4,16,18,18,-,-,56
+International,Hong Kong Express,-,-,-,-,-,-,-,17,4,-,-,-,21
+International,Tiger Airways,-,-,-,24,26,38,48,72,60,65,120,133,586
+International,Total,42,37,43,164,169,164,184,256,231,241,299,327,2157
+G. Aviation,G. Aviation,520,537,318,498,673,275,291,168,304,619,479,286,4968
+Military,Military,-,-,-,-,-,-,-,-,-,-,-,-,-
+Grand Total,Grand Total,634,626,431,735,917,488,534,476,590,912,835,675,7853

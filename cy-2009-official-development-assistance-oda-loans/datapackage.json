@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/83b8b5d9-c66e-4923-8cc9-7319ddf3e63d/resource/cb362047-947c-4eb2-aede-350933789dcb/download/cy2009odaloans.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "83b8b5d9-c66e-4923-8cc9-7319ddf3e63d", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "cy-2009-official-development-assistance-oda-loans", 
+  "notes": "CY 2009 OFFICIAL DEVELOPMENT ASSISTANCE (ODA) LOANS\r\n", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-03T19:54:16.561173", 
+      "description": "This dataset contains the Official Development Assistance (ODA) Loans for the year 2009.", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "cb362047-947c-4eb2-aede-350933789dcb", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "CY 2009 OFFICIAL DEVELOPMENT ASSISTANCE (ODA) LOANS", 
+      "package_id": "83b8b5d9-c66e-4923-8cc9-7319ddf3e63d", 
+      "position": 0, 
+      "resource_group_id": "8e859535-ed8c-4558-a499-e36fe0f0705d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/83b8b5d9-c66e-4923-8cc9-7319ddf3e63d/resource/cb362047-947c-4eb2-aede-350933789dcb/download/cy2009odaloans.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "CY 2009 OFFICIAL DEVELOPMENT ASSISTANCE (ODA) LOANS", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,1 @@
+This dataset contains the average annual expenditures of farm households by type of expenses and by region.

@@ -1,0 +1,114 @@
+region,suc,number_of_faculty,number_of_students,faculty_student_ratio
+I (Ilocos Region),Don Mariano Marcos Memorial State University,595,14320,1 is to 24
+I (Ilocos Region),Ilocos Sur Polytechnic State College,150,4068,1 is to 27
+I (Ilocos Region),Mariano Marcos State University,461,11706,1 is to 25
+I (Ilocos Region),North Luzon Philippines State College,87,2271,1 is to 26
+I (Ilocos Region),Pangasinan State University,564,22229,1 is to 39
+I (Ilocos Region),University of Northern Philippines,471,9953,1 is to 21
+II (Cagayan Valley),Batanes State College,37,316,1 is to 9
+II (Cagayan Valley),Cagayan State University,975,35478,1 is to 36
+II (Cagayan Valley),Isabela State University,928,22220,1 is to 24
+II (Cagayan Valley),Nueva Vizcaya State University,331,7969,1 is to 24
+II (Cagayan Valley),Quirino State College,89,1945,1 is to 22
+III (Central Luzon),Aurora State College of Technology,86,1964,1 is to 23
+III (Central Luzon),Bataan Peninsula State University,508,14350,1 is to 28
+III (Central Luzon),Bulacan Agricultural State College,106,2750,1 is to 26
+III (Central Luzon),Bulacan State University,959,35525,1 is to 37
+III (Central Luzon),Central Luzon State University,444,10354,1 is to 23
+III (Central Luzon),Don Honorio Ventura Technological State University,307,12724,1 is to 41
+III (Central Luzon),Nueva Ecija University of Science and Technology,473,26834,1 is to 57
+III (Central Luzon),Pampanga Agricultural College,174,4040,1 is to 23
+III (Central Luzon),Philippine Merchant Marine Academy,68,913,1 is to 13
+III (Central Luzon),Ramon Magsaysay Technological University,390,8027,1 is to 21
+III (Central Luzon),Tarlac College of Agriculture,164,3125,1 is to 19
+III (Central Luzon),Tarlac State University,303,15601,1 is to 51
+IV-A (CALABARZON),Batangas State University,824,27920,1 is to 34
+IV-A (CALABARZON),Cavite State University,827,24849,1 is to 30
+IV-A (CALABARZON),Laguna State Polytechnic University,580,15547,1 is to 27
+IV-A (CALABARZON),Southern Luzon State University,458,14929,1 is to 33
+IV-A (CALABARZON),University of Rizal System,622,18908,1 is to 30
+V (Bicol Region),Bicol University,778,22195,1 is to 29
+V (Bicol Region),Camarines Norte State College,259,7030,1 is to 27
+V (Bicol Region),Camarines Sur Polytechnic College,161,6747,1 is to 42
+V (Bicol Region),Catanduanes State College,263,7406,1 is to 28
+V (Bicol Region),Central Bicol State University of Agriculture,377,8659,1 is to 23
+V (Bicol Region),Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology,90,3073,1 is to 34
+V (Bicol Region),Partido State University,268,5846,1 is to 22
+V (Bicol Region),Sorsogon State College,247,8593,1 is to 35
+VI (Western Visayas),Aklan State University,371,8482,1 is to 23
+VI (Western Visayas),Capiz State University,558,10362,1 is to 19
+VI (Western Visayas),Carlos C. Hilado Memorial State College,371,14473,1 is to 39
+VI (Western Visayas),Guimaras State College,109,4011,1 is to 37
+VI (Western Visayas),Iloilo State College of Fisheries,223,4730,1 is to 21
+VI (Western Visayas),Negros State College of Agriculture,156,6125,1 is to 39
+VI (Western Visayas),Northern Iloilo Polytechnic State College,376,8515,1 is to 23
+VI (Western Visayas),Northern Negros State College of Science and Technology,115,3451,1 is to 30
+VI (Western Visayas),University of Antique,123,10159,1 is to 83
+VI (Western Visayas),West Visayas State University,872,17921,1 is to 21
+VI (Western Visayas),Western Visayas College of Science and Technology,495,11695,1 is to 24
+VII (Central Visayas),Bohol Island State University,423,13629,1 is to 32
+VII (Central Visayas),Cebu Normal University,234,7862,1 is to 34
+VII (Central Visayas),Cebu Technological University,923,27856,1 is to 30
+VII (Central Visayas),Negros Oriental State University,424,20889,1 is to 49
+VII (Central Visayas),Siquijor State College,86,2418,1 is to 28
+VIII (Eastern Visayas),Eastern Samar State University,406,11278,1 is to 28
+VIII (Eastern Visayas),Eastern Visayas State University,481,16671,1 is to 35
+VIII (Eastern Visayas),Leyte Normal University,211,6373,1 is to 30
+VIII (Eastern Visayas),Naval State University,303,7654,1 is to 25
+VIII (Eastern Visayas),Northwest Samar State University,239,7224,1 is to 30
+VIII (Eastern Visayas),Palompon Institute of Technology,193,4241,1 is to 22
+VIII (Eastern Visayas),Samar State University,213,4689,1 is to 22
+VIII (Eastern Visayas),Southern Leyte State University,292,7521,1 is to 26
+VIII (Eastern Visayas),University of Eastern Philippines,387,12148,1 is to 31
+VIII (Eastern Visayas),Visayas State University,502,9681,1 is to 19
+IX (Zamboanga Peninsula),J. H. Cerilles State College,412,8384,1 is to 20
+IX (Zamboanga Peninsula),Jose Rizal Memorial State University,366,9477,1 is to 26
+IX (Zamboanga Peninsula),Western Mindanao State University,551,25057,1 is to 45
+IX (Zamboanga Peninsula),Zamboanga City State Polytechnic College,97,4807,1 is to 50
+IX (Zamboanga Peninsula),Zamboanga State College of Marine Sciences and Technology,131,6124,1 is to 47
+X (Northern Mindanao),Bukidnon State University,1247,22330,1 is to 18
+X (Northern Mindanao),Camiguin Polytechnic State College,98,2925,1 is to 30
+X (Northern Mindanao),Central Mindanao University,363,9867,1 is to 27
+X (Northern Mindanao),Mindanao University of Science and Technology,423,8903,1 is to 21
+X (Northern Mindanao),Misamis Oriental State College of Agriculture and Technology,57,1015,1 is to 18
+X (Northern Mindanao),MSU - Iligan Institute of Technology,642,11837,1 is to 18
+X (Northern Mindanao),Northwestern Mindanao State College of Science and Technology,50,3354,1 is to 67
+XI (Davao Region),Davao del Norte State College,73,1210,1 is to 17
+XI (Davao Region),Davao Oriental State College of Science and Technology,219,5745,1 is to 26
+XI (Davao Region),"Southern Philippines Agri-Business, Marine and Aquatic School of Technology",111,2453,1 is to 22
+XI (Davao Region),University of Southeastern Philippines,404,14549,1 is to 36
+XII (SOCCSKSARGEN),Cotabato City State Polytechnic College,137,5845,1 is to 43
+XII (SOCCSKSARGEN),Cotabato Foundation College of Science and Technology,79,2728,1 is to 35
+XII (SOCCSKSARGEN),Sultan Kudarat State University,341,9682,1 is to 28
+XII (SOCCSKSARGEN),University of Southern Mindanao,394,14516,1 is to 37
+NCR (National Capital Region),"Eulogio ""Amang"" Rodriguez Institute of Science and Technology",140,16759,1 is to 120
+NCR (National Capital Region),Marikina Polytechnic College,149,3660,1 is to 25
+NCR (National Capital Region),Philippine Normal University,433,12196,1 is to 28
+NCR (National Capital Region),Philippine State College of Aeronautics,177,6362,1 is to 36
+NCR (National Capital Region),Polytechnic University of the Philippines,1828,67541,1 is to 37
+NCR (National Capital Region),Rizal Technological University,470,21395,1 is to 46
+NCR (National Capital Region),Technological University of the Philippines,747,22087,1 is to 30
+NCR (National Capital Region),University of the Philippines System,3605,55332,1 is to 15
+CAR (Cordillera Administrative Region),Abra State Institute of Science and Technology,172,3165,1 is to 18
+CAR (Cordillera Administrative Region),Apayao State College,95,1574,1 is to 17
+CAR (Cordillera Administrative Region),Benguet State University,295,8455,1 is to 29
+CAR (Cordillera Administrative Region),Ifugao State University,256,7258,1 is to 28
+CAR (Cordillera Administrative Region),Kalinga Apayao State College,208,4405,1 is to 21
+CAR (Cordillera Administrative Region),Mountain Province State Polytechnic College,214,4748,1 is to 22
+ARMM (Autonomous Region of Muslim Mindanao),Adiong Memorial Polytechnic College,10,1606,1 is to 161
+ARMM (Autonomous Region of Muslim Mindanao),Basilan State College,190,3923,1 is to 21
+ARMM (Autonomous Region of Muslim Mindanao),Mindanao State University - Main,1502,35042,1 is to 23
+ARMM (Autonomous Region of Muslim Mindanao),MSU - Tawi-Tawi College of Technology and Oceanography,126,2061,1 is to 16
+ARMM (Autonomous Region of Muslim Mindanao),Sulu State College,172,5229,1 is to 30
+ARMM (Autonomous Region of Muslim Mindanao),Tawi-Tawi Regional Agricultural College,ND,5589,ND
+XIII (Caraga Region),Agusan del Sur State College of Agriculture and Technology,57,2134,1 is to 37
+XIII (Caraga Region),Caraga State University,255,5540,1 is to 22
+XIII (Caraga Region),Surigao del Sur State University,333,8876,1 is to 27
+XIII (Caraga Region),Surigao State College of Technology,240,7750,1 is to 32
+IV-B (MIMAROPA),Marinduque State College,168,5315,1 is to 32
+IV-B (MIMAROPA),Mindoro State College of Agriculture and Technology,197,4965,1 is to 25
+IV-B (MIMAROPA),Occidental Mindoro State College,283,8567,1 is to 30
+IV-B (MIMAROPA),Palawan State University,763,17019,1 is to 22
+IV-B (MIMAROPA),Romblon State University,345,7213,1 is to 21
+IV-B (MIMAROPA),Western Philippines University,300,7109,1 is to 24
+Grand Total,Grand Total,43435,1234125,1 is to 28

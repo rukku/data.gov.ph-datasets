@@ -1,0 +1,1 @@
+The DENR - Parcel Data is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Department of Environment and Natural Resources.

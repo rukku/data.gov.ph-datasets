@@ -1,0 +1,1 @@
+This dataset contains information on the physical status, financial status and performance (fund utilization, time elapsed) of active ODA grant-assisted projects, as well as their basic profile data such as project title, implemneting agency, funding instituion or development partner, an project start and end dates.

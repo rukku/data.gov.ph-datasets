@@ -1,0 +1,47 @@
+{
+  "author": "National Economic and Development Authority - Systems Data and Analysis Division", 
+  "author_email": "mes-sdad@neda.gov.ph", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/0895861b-7db5-4969-bf42-efb363440eff/resource/01bd3726-f7dc-42e3-a7a6-a300064e4d06/download/MajorCapitalProgramsandProjectsApprovedbytheICCNEDABoard.csv", 
+  "extras": {
+    "Frequency of Update": "Quarterly", 
+    "Granularity": "National", 
+    "Temporal Date": "2010-06, 2015-09"
+  }, 
+  "id": "0895861b-7db5-4969-bf42-efb363440eff", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Omar O. Dumdum", 
+  "maintainer_email": "oodumdum@neda.gov.ph", 
+  "name": "major-capital-programs-and-projects-approved-by-the-icc-neda-board", 
+  "notes": "List of major capital programs and projects approved by the Investment Coordination Committee and the NEDA Board.\r\n", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-15T11:18:11.933314", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "01bd3726-f7dc-42e3-a7a6-a300064e4d06", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Major Capital Programs and Projects Approved by the ICC_NEDA Board.csv", 
+      "package_id": "0895861b-7db5-4969-bf42-efb363440eff", 
+      "position": 0, 
+      "resource_group_id": "3be7c368-58e7-4ced-84e9-e1a6483b3fa5", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/0895861b-7db5-4969-bf42-efb363440eff/resource/01bd3726-f7dc-42e3-a7a6-a300064e4d06/download/MajorCapitalProgramsandProjectsApprovedbytheICCNEDABoard.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Infrastructure"
+  ], 
+  "title": "Major Capital Programs and Projects Approved by the ICC/NEDA Board", 
+  "url": "http://www.neda.gov.ph/", 
+  "version": ""
+}

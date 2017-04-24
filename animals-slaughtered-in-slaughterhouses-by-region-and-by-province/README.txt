@@ -1,0 +1,1 @@
+This dataset contains the number of heads of livestock animals slaughtered in slaughterhouses by region and by province. This time-series includes the most recent data, covering the period from 1982 to the latest available quarter/year.

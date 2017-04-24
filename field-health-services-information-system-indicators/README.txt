@@ -1,0 +1,1 @@
+This contains dataset on selected health indicators reported through the routine health information system of the DOH.  Service delivery indicators and mortality and morbidity data are available in the dataset and summarized at the national and regional levels.

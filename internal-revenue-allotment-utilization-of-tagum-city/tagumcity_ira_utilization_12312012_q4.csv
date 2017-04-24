@@ -1,0 +1,1530 @@
+program_or_project,activity,code,appropriation,allotment,appropriation_balance,obligation,allotment_balance
+General Fund Proper,-,-,-,-,-,-,-
+Office of the Mayor- Admin,-,1011,114796680.2,110240279.2,4556400.99,101962889.5,8277389.76
+Office of the Mayor- Admin- Personal Services,-,-,15378919.83,15378919.83,-,14963041.46,415878.37
+Office of the Mayor- Admin- Personal Services,Salaries and Wages-Regular,701,6897780,6897780,-,6743982.53,153797.47
+Office of the Mayor- Admin- Personal Services,Salaries and Wages-Casual,705,5056939.68,5056939.68,-,5056442.08,497.6
+Office of the Mayor- Admin- Personal Services,PERA,711,544000,544000,-,530909.1,13090.9
+Office of the Mayor- Admin- Personal Services,Representation Allowance,713,159600,159600,-,159600,-
+Office of the Mayor- Admin- Personal Services,Transportation Allowance,714,66000,66000,-,66000,-
+Office of the Mayor- Admin- Personal Services,Clothing Allowance,715,104000,104000,-,88000,16000
+Office of the Mayor- Admin- Personal Services,Overtime and Night Pay,723,908194.19,908194.19,-,770999.31,137194.88
+Office of the Mayor- Admin- Personal Services,Cash gift,724,112500,112500,-,111000,1500
+Office of the Mayor- Admin- Personal Services,Year-End Bonus,725,573747,573747,-,554535,19212
+Office of the Mayor- Admin- Personal Services,Life and Retirement Insurance Contributions,731,827733.96,827733.96,-,763601.57,64132.39
+Office of the Mayor- Admin- Personal Services,PAG-IBIG Contributions,732,27200,27200,-,25375,1825
+Office of the Mayor- Admin- Personal Services,PHILHEALTH Contributions,733,74025,74025,-,67425,6600
+Office of the Mayor- Admin- Personal Services,ECC Contributions,734,27200,27200,-,25171.87,2028.13
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,-,-,67794511.77,67794511.77,-,64341121.92,3453389.85
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Travel Expenses-Local,751,3998519.04,3998519.04,-,3982350.29,16168.75
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Travel Expenses-Foreign,752,658000,658000,-,616000,42000
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Training Expenses,753,2307985.18,2307985.18,-,1922087.49,385897.69
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Office Supplies Expense,755,6430111.5,6430111.5,-,6335956.31,94155.19
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Gasoline Expenses,761,11818773.79,11818773.79,-,11716983.36,101790.43
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Oil and Lubricants,761,3000000,3000000,-,1989760.93,1010239.07
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Other Supplies Expenses,765,2024000,2024000,-,1856360.5,167639.5
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Telephone Expense Landline,772,679200,679200,-,527173.97,152026.03
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Telephone Expense Mobile,773,1150000,1150000,-,1081969.61,68030.39
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Internet Expense,774,930310.8,930310.8,-,703542.39,226768.41
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Membership Dues and Cont. to Org.,778,50000,50000,-,1950,48050
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Awards and Indemnities,779,50000,50000,-,-,50000
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Advertising Expenses,780,380000,380000,-,322324.4,57675.6
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Representation Expenses,783,285300,285300,-,272072,13228
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Subscription Expenses,786,50000,50000,-,46351,3649
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Repair and Maintenance- Other Structures(Reference number:  014-01-12),815,514000,514000,-,511990.96,2009.04
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Repair and Maintenance-Office Equipment,821,130000,130000,-,92208.83,37791.17
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Repair and Maintenance- Furniture and Fixtures,822,10000,10000,-,-,10000
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Repair and Maintenance- IT Equipment and Software,823,330000,330000,-,194726,135274
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Repair and Maintenance- Communication Equipment,829,50000,50000,-,48210,1790
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Repair and Maintenance- Fire Fighting Equipment,835,72500,72500,-,-,72500
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Repair and Maintenance- Other Machineries and Equipment,840,292920,292920,-,256668.25,36251.75
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Repair and Maintenance- Motor Vehicles,841,4052830,4052830,-,3854005.75,198824.25
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,"Repair and Maintenance- Other Property, Plant and Equipment",850,60000,60000,-,59130,870
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Repair and Maintenance- Musical Instrument,850,100000,100000,-,95800,4200
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Subsidies and Donations,878,-,-,-,-,-
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Subsidy to COMELEC,-,100000,100000,-,20974.4,79025.6
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Subsidy to DRH,-,1000000,1000000,-,1000000,-
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Subsidy to Home for the Aged,-,150000,150000,-,100000,50000
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Subsidy to Philippine National Red Cross,-,100000,100000,-,100000,-
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Subsidy to Philippine Tuberculosis Society,-,300000,300000,-,300000,-
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Subsidy to League Cities of the Philippines,-,200000,200000,-,200000,-
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Subsidy to DIDP,-,500000,500000,-,500000,-
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Subsidy to ABC,-,1000000,1000000,-,982171.33,17828.67
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Subsidy to NGOs,-,200000,200000,-,200000,-
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Donations,-,20000,20000,-,20000,-
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Confidential Expenses,881,9500000,9500000,-,9500000,-
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Intelligence Expenses,882,9500000,9500000,-,9500000,-
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Extraordinary Expenses,883,520430,520430,-,515589,4841
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Fidelity Bond Premiums,892,70000,70000,-,67650,2350
+Office of the Mayor- Admin- Maintenance and Other Operating Expenses,Other Maintenance and Operating Expenses,969,5209631.46,5209631.46,-,4847115.15,362516.31
+Office of the Mayor- Admin- Financial Expenses,-,-,4573144,1073143.01,3500000.99,1073143.01,-
+Office of the Mayor- Admin- Financial Expenses,Interest Expenses,975,3697613,197612.32,3500000.68,197612.32,-
+Office of the Mayor- Admin- Financial Expenses,Loans Payable,444,875531,875530.69,0.31,875530.69,-
+Office of the Mayor- Admin- Capital Outlay,-,-,27050104.62,25993704.62,1056400,21585583.08,4408121.54
+Office of the Mayor- Admin- Capital Outlay,Office Equipment,221,270000,100000,170000,81895,18105
+Office of the Mayor- Admin- Capital Outlay,Furniture and Fixtures,222,-,-,-,-,-
+Office of the Mayor- Admin- Capital Outlay,"Furniture and Fixtures- Fab. Shop, Motorpool (Reference number: 058-02-12)",-,1000000,1000000,-,763940,236060
+Office of the Mayor- Admin- Capital Outlay,IT Equipment and Software,223,1740000,1740000,-,1525994,214006
+Office of the Mayor- Admin- Capital Outlay,"Basketball Ring or Board at Motorpool, Tagum City (Reference number: 0101-02-12)",235,1000000,1000000,-,965650.46,34349.54
+Office of the Mayor- Admin- Capital Outlay,Motor Vehicles,241,3258635.13,3258635.13,-,3258635.13,-
+Office of the Mayor- Admin- Capital Outlay,"Other Property, Plant and Equipment",250,1380000,1380000,-,999122,380878
+Office of the Mayor- Admin- Capital Outlay,Development and Maintenance of New City Hall,215,6480945.71,6480945.71,-,6098822.3,382123.41
+Office of the Mayor- Admin- Capital Outlay,"Development and Maintenance of New City Hall- Construction Of Bleacher Canopy, Brgy. Apokon (Reference number: 0120-03-12)",-,-,3000000,-,2967161.1,32838.9
+Office of the Mayor- Admin- Capital Outlay,Development and Maintenance of New City Hall- Brgy. Apokon (Reference number: 145-04-12),-,-,1480945.71,-,1480845,100.71
+Office of the Mayor- Admin- Capital Outlay,"Development and Maintenance of New City Hall- (Atrium Stage Flooring) New City Hall, Brgy. Apokon (Reference number: 259-09-12)",-,-,1500000,-,1486419.2,13580.8
+Office of the Mayor- Admin- Capital Outlay,"Development and Maintenance of New City Hall- Construction of Pathway, Brgy. Apokon (Reference number: 276-10-12)",-,-,500000,-,164397,335603
+Office of the Mayor- Admin- Capital Outlay,Street Furniture and Fixture- Installation of Signage Post along National Highway (Reference number: 0129-03-12),215,1086400,1000000,86400,999901,99
+Office of the Mayor- Admin- Capital Outlay,"Fabrication of Roding Machine- Eng'g Service Center, Brgy. Mag. East (Reference number: 277-10-12 )",226,100000,100000,-,94440,5560
+Office of the Mayor- Admin- Capital Outlay,Fabrication of Roding Machine- Communication Equipment,229,76000,76000,-,60715,15285
+Office of the Mayor- Admin- Capital Outlay,"Fabrication of Furnitures and Fixtures- Eng'g Service Center, Brgy. Mag East (Reference number: 264-09-12)",260,22374.01,22374.01,-,22213.5,160.51
+Office of the Mayor- Admin- Capital Outlay,"Fabrication of Benches- Eng'g Service Center, Brgy. Mag East (Reference number: 263-09-12)",260,21282.62,21282.62,-,21150,132.62
+Office of the Mayor- Admin- Capital Outlay,"Fabrication of Bleachers- Eng'g Service Center, Brgy. Mag East (Reference number: 261-09-12)",260,35324.15,35324.15,-,35109,215.15
+Office of the Mayor- Admin- Capital Outlay,"Fabrication of Sidecars- Eng'g Service Center, Brgy. Mag East (Reference number: 262-09-12)",260,29143,29143,-,28871.5,271.5
+Office of the Mayor- Admin- Capital Outlay,"Fabrication of Sports Facilities- Team and Court Events Sports (Goal, Net and Post), Various Location within Tagum City (Reference number: 256-09-12)",260,50000,50000,-,28948,21052
+Office of the Mayor- Admin- Capital Outlay,ConstructionOr Completion of Multi-Purpose Bldg.,215,10000000,9200000,800000,6102586.69,3097413.31
+Office of the Mayor- Admin- Capital Outlay,"ConstructionOr Completion of Multi-Purpose Bldg.- Police/Fire Station, Punzalan Avenue, Brgy. Mag. South (Reference number: 0124-03-12)",-,-,400000,-,399836,164
+Office of the Mayor- Admin- Capital Outlay,ConstructionOr Completion of Multi-Purpose Bldg.- (NCH Annex Bldg. - Canopy) Brgy. Apokon (Reference number: 0167-05-12),-,-,3000000,-,2895214.25,104785.75
+Office of the Mayor- Admin- Capital Outlay,"ConstructionOr Completion of Multi-Purpose Bldg.- New City Hall Site, Brgy. Apokon (Reference number: 0181-05-12)",-,-,2000000,-,1944892.75,55107.25
+Office of the Mayor- Admin- Capital Outlay,"ConstructionOr Completion of Multi-Purpose Bldg.- Police or Fire Station, Punzalan Avenue, Brgy. Mag. South (Reference number: 0202-06-12)",-,-,350000,-,344863,5137
+Office of the Mayor- Admin- Capital Outlay,"ConstructionOr Completion of Multi-Purpose Bldg.- Construction of Bleacher Main Roof New City Hall Site, Brgy. Apokon ( Reference number: 258-09-12 )",-,-,3450000,-,517780.69,2932219.31
+Office of the Mayor- Admin- Capital Outlay,ConstructionOr Completion of Multi-Purpose Bldg.- Fabrication of Giant Christmas Tree (Reference number:235-08-12),260,500000,500000,-,497589.5,2410.5
+Office of the City Mayor- City Investment Promotion Office,-,1011-2,1322886.96,1322886.96,-,1265202.19,57684.77
+Office of the City Mayor- City Investment Promotion Office- Personal Services,-,-,1072886.96,1072886.96,-,1065202.19,7684.77
+Office of the City Mayor- City Investment Promotion Office- Personal Services,Salaries and Wages-Regular,701,512340,512340,-,510213,2127
+Office of the City Mayor- City Investment Promotion Office- Personal Services,Salaries and Wages-Casual,705,339270.96,339270.96,-,335697.68,3573.28
+Office of the City Mayor- City Investment Promotion Office- Personal Services,PERA,711,48000,48000,-,48000,-
+Office of the City Mayor- City Investment Promotion Office- Personal Services,Clothing Allowance,715,8000,8000,-,8000,-
+Office of the City Mayor- City Investment Promotion Office- Personal Services,Overtime and Night Pay,723,40000,40000,-,39445.45,554.55
+Office of the City Mayor- City Investment Promotion Office- Personal Services,Cash Gift,724,10000,10000,-,10000,-
+Office of the City Mayor- City Investment Promotion Office- Personal Services,Year- End Bonus,725,42695,42695,-,42138,557
+Office of the City Mayor- City Investment Promotion Office- Personal Services,Life and Retirement Insurance Contributions,731,61481,61481,-,60745.56,735.44
+Office of the City Mayor- City Investment Promotion Office- Personal Services,PAG-IBIG Contributions,732,2400,2400,-,2400,-
+Office of the City Mayor- City Investment Promotion Office- Personal Services,PHILHEALTH Contributions,733,6300,6300,-,6162.5,137.5
+Office of the City Mayor- City Investment Promotion Office- Personal Services,ECC Contributions,734,2400,2400,-,2400,-
+Office of the City Mayor- City Investment Promotion Office- Maintenance and Other Operating Expenses,-,-,250000,250000,-,200000,50000
+Office of the City Mayor- City Investment Promotion Office- Maintenance and Other Operating Expenses,Advertising Expenses,782,200000,200000,-,200000,-
+Office of the City Mayor- City Investment Promotion Office- Maintenance and Other Operating Expenses,Rent Expenses,782,50000,50000,-,-,50000
+City Tourism Office,-,1011-3,1119686.87,1119686.87,-,1075395.44,44291.43
+City Tourism Office- Personal Services,-,-,1119686.87,1119686.87,-,1075395.44,44291.43
+City Tourism Office- Personal Services,Salaries and Wages-Regular,701,633563,633563,-,613856.36,19706.64
+City Tourism Office- Personal Services,Salaries and Wages-Casual,705,274011.05,274011.05,-,258164.13,15846.92
+City Tourism Office- Personal Services,PERA,711,50000,50000,-,47727.27,2272.73
+City Tourism Office- Personal Services,Clothing Allowance,715,12000,12000,-,8000,4000
+City Tourism Office- Personal Services,Cash Gift,724,10000,10000,-,10000,-
+City Tourism Office- Personal Services,Year- End Bonus,725,51372,51372,-,51372,-
+City Tourism Office- Personal Services,Life and Retirement Insurance Contributions,731,76028.32,76028.32,-,73975.68,2052.64
+City Tourism Office- Personal Services,PAG-IBIG Contributions,732,2500,2500,-,2400,100
+City Tourism Office- Personal Services,PHILHEALTH Contributions,733,7712.5,7712.5,-,7500,212.5
+City Tourism Office- Personal Services,ECC Contributions,734,2500,2500,-,2400,100
+Office of the City Mayor- Special Community Development Programs Divisions,-,1011-4,3005599.01,3005599.01,-,2954063.61,51535.4
+Office of the City Mayor- Special Community Development Programs Divisions- Personal Services,-,-,3005599.01,3005599.01,-,2954063.61,51535.4
+Office of the City Mayor- Special Community Development Programs Divisions- Personal Services,Salaries and Wages-Regular,701,1732422,1732422,-,1698329,34093
+Office of the City Mayor- Special Community Development Programs Divisions- Personal Services,Salaries and Wages-Casual,705,684981.69,684981.69,-,678535.13,6446.56
+Office of the City Mayor- Special Community Development Programs Divisions- Personal Services,PERA,711,146000,146000,-,144000,2000
+Office of the City Mayor- Special Community Development Programs Divisions- Personal Services,Clothing Allowance,715,28000,28000,-,24000,4000
+Office of the City Mayor- Special Community Development Programs Divisions- Personal Services,Cash Gift,724,30000,30000,-,30000,-
+Office of the City Mayor- Special Community Development Programs Divisions- Personal Services,Year End Bonus,725,141829,141829,-,141500,329
+Office of the City Mayor- Special Community Development Programs Divisions- Personal Services,Life and Retirement Insurance Contributions,731,207891.32,207891.32,-,203799.48,4091.84
+Office of the City Mayor- Special Community Development Programs Divisions- Personal Services,PAG-IBIG Contributions,732,7300,7300,-,7200,100
+Office of the City Mayor- Special Community Development Programs Divisions- Personal Services,PHILHEALTH Contributions,733,19875,19875,-,19500,375
+Office of the City Mayor- Special Community Development Programs Divisions- Personal Services,ECC Contributions,734,7300,7300,-,7200,100
+Office of the City Mayor- BAC,-,-,-,-,-,-,-
+Secretariat,-,1011-5,2609286.05,2609286.05,-,2573125.94,36160.11
+Secretariat-Personal Services,-,-,2609286.05,2609286.05,-,2573125.94,36160.11
+Secretariat-Personal Services,Salaries and Wages-Regular,701,541497,541497,-,525217.95,16279.05
+Secretariat-Personal Services,Salaries and Wages-Casual,705,848177.4,848177.4,-,839244.2,8933.2
+Secretariat-Personal Services,PERA,711,68000,68000,-,66000,2000
+Secretariat-Personal Services,Clothing Allowance,715,12000,12000,-,8000,4000
+Secretariat-Personal Services,Honoraria,720,999690.25,999690.25,-,998690.25,1000
+Secretariat-Personal Services,Cash Gift,724,15000,15000,-,15000,-
+Secretariat-Personal Services,Year-End Bonus,725,46753,46753,-,46753,-
+Secretariat-Personal Services,Life and Retirement Insurance Contributions,731,64980.4,64980.4,-,61583.04,3397.36
+Secretariat-Personal Services,PAG-IBIG Contributions,732,3400,3400,-,3300,100
+Secretariat-Personal Services,PHILHEALTH Contributions,733,6388,6388,-,6037.5,350.5
+Secretariat-Personal Services,ECC Contributions,734,3400,3400,-,3300,100
+Office of the City Jail Warden,-,1012,86400,86400,-,86400,-
+Office of the City Jail Warden- Maintenance and Other Operating Expenses,-,-,86400,86400,-,86400,-
+Office of the City Jail Warden- Maintenance and Other Operating Expenses,Donations,878,86400,86400,-,86400,-
+Office of the City Mayor- City Civil Security Services,-,1013,862228.76,862228.76,-,852147.56,10081.2
+Office of the City Mayor- City Civil Security Services- Personal Services,-,-,862228.76,862228.76,-,852147.56,10081.2
+Office of the City Mayor- City Civil Security Services- Personal Services,Salaries and Wages-Casual,705,862228.76,862228.76,-,852147.56,10081.2
+Office of the City Mayor- Business Permit and Licensing Division,-,1015,3506748.8,3506748.8,-,3008177.32,498571.48
+Office of the City Mayor- Business Permit and Licensing Division- Personal Services,-,-,3190528.4,3190528.4,-,2991956.92,198571.48
+Office of the City Mayor- Business Permit and Licensing Division- Personal Services,Salaries and Wages-Regular,701,1835682,1835682,-,1756083,79599
+Office of the City Mayor- Business Permit and Licensing Division- Personal Services,Salaries and Wages-Casual,705,682287,682287,-,595130.44,87156.56
+Office of the City Mayor- Business Permit and Licensing Division- Personal Services,PERA,711,176000,176000,-,170000,6000
+Office of the City Mayor- Business Permit and Licensing Division- Personal Services,Clothing Allowance,715,24000,24000,-,20000,4000
+Office of the City Mayor- Business Permit and Licensing Division- Personal Services,Cash Gift,724,50000,50000,-,39750,10250
+Office of the City Mayor- Business Permit and Licensing Division- Personal Services,Year- End Bonus,725,163439,163439,-,162289.3,1149.7
+Office of the City Mayor- Business Permit and Licensing Division- Personal Services,Life and Retirement Insurance Contributions,731,220282.4,220282.4,-,211366.68,8915.72
+Office of the City Mayor- Business Permit and Licensing Division- Personal Services,PAG-IBIG Contributions,732,8800,8800,-,8500,300
+Office of the City Mayor- Business Permit and Licensing Division- Personal Services,PHILHEALTH Contributions,733,21238,21238,-,20337.5,900.5
+Office of the City Mayor- Business Permit and Licensing Division- Personal Services,ECC Contributions,734,8800,8800,-,8500,300
+Office of the City Mayor- Business Permit and Licensing Division- Maintenance and Other Operating Expenses,-,-,300000,300000,-,-,300000
+Office of the City Mayor- Business Permit and Licensing Division- Maintenance and Other Operating Expenses,Printed Forms,755,300000,300000,-,-,300000
+Office of the City Mayor- Business Permit and Licensing Division- Capital Outlay,-,-,16220.4,16220.4,-,16220.4,-
+Office of the City Mayor- Business Permit and Licensing Division- Capital Outlay,Office Equipment- Binder Machine,221,16220.4,16220.4,-,16220.4,-
+Legislative Department Office of the City Vice Mayor,-,1016,9604617.05,9604617.05,-,9452462.67,152154.38
+Legislative Department Office of the City Vice Mayor- Personal Services,-,-,4545921.03,4545921.03,-,4482089.25,63831.78
+Legislative Department Office of the City Vice Mayor- Personal Services,Salaries and Wages-Regular,701,2535264,2535264,-,2488163.55,47100.45
+Legislative Department Office of the City Vice Mayor- Personal Services,Salaries and Wages-Casual,705,1023106.39,1023106.39,-,1020693.55,2412.84
+Legislative Department Office of the City Vice Mayor- Personal Services,PERA,711,242000,242000,-,237545.45,4454.55
+Legislative Department Office of the City Vice Mayor- Personal Services,Representation Allowance,713,84000,84000,-,84000,-
+Legislative Department Office of the City Vice Mayor- Personal Services,Clothing Allowance,715,40000,40000,-,40000,-
+Legislative Department Office of the City Vice Mayor- Personal Services,Cash Gift,724,50000,50000,-,50000,-
+Legislative Department Office of the City Vice Mayor- Personal Services,Year- End Bonus,725,214943,214943,-,213110,1833
+Legislative Department Office of the City Vice Mayor- Personal Services,Life and Retirement Insurance Contributions,731,304232.64,304232.64,-,297271.61,6961.03
+Legislative Department Office of the City Vice Mayor- Personal Services,PAG-IBIG Contributions,732,12100,12100,-,11900,200
+Legislative Department Office of the City Vice Mayor- Personal Services,PHILHEALTH Contributions,733,28175,28175,-,27575,600
+Legislative Department Office of the City Vice Mayor- Personal Services,ECC Contributions,734,12100,12100,-,11830.09,269.91
+Legislative Department Office of the City Vice Mayor- Maintenance and Other Operating Expenses,-,-,5058696.02,5058696.02,-,4970373.42,88322.6
+Legislative Department Office of the City Vice Mayor- Maintenance and Other Operating Expenses,Traveling Expenses - Local,751,963626.46,963626.46,-,957758.26,5868.2
+Legislative Department Office of the City Vice Mayor- Maintenance and Other Operating Expenses,Training Expenses,753,892194,892194,-,867932,24262
+Legislative Department Office of the City Vice Mayor- Maintenance and Other Operating Expenses,Gasoline Expenses,761,1817151.06,1817151.06,-,1816207.31,943.75
+Legislative Department Office of the City Vice Mayor- Maintenance and Other Operating Expenses,Other Supplies Expenses,765,15085,15085,-,15036.9,48.1
+Legislative Department Office of the City Vice Mayor- Maintenance and Other Operating Expenses,Telephone Expenses-Landline,772,168468.4,168468.4,-,143105.86,25362.54
+Legislative Department Office of the City Vice Mayor- Maintenance and Other Operating Expenses,Telephone Expenses-Mobile,773,324000,324000,-,324000,-
+Legislative Department Office of the City Vice Mayor- Maintenance and Other Operating Expenses,Membership Dues and Cont. to Org.,778,10000,10000,-,10000,-
+Legislative Department Office of the City Vice Mayor- Maintenance and Other Operating Expenses,Subscription Expenses,786,20000,20000,-,19950,50
+Legislative Department Office of the City Vice Mayor- Maintenance and Other Operating Expenses,Subsidy to VMLP,878,300000,300000,-,299968.64,31.36
+Legislative Department Office of the City Vice Mayor- Maintenance and Other Operating Expenses,Fidelity Bond Premiums,892,14250,14250,-,14250,-
+Legislative Department Office of the City Vice Mayor- Maintenance and Other Operating Expenses,Other Maintenance and Operating Expenses,969,533921.1,533921.1,-,502164.45,31756.65
+Office of the SP Legislative,-,1021,19236989.46,19236989.46,-,19159795.2,77194.26
+Office of the SP Legislative- Personal Services,-,-,18582489.46,18582489.46,-,18551507.79,30981.67
+Office of the SP Legislative- Personal Services,Salaries and Wages-Regular,701,10282764,10282764,-,10278067,4697
+Office of the SP Legislative- Personal Services,Salaries and Wages-Casual,705,4470096.46,4470096.46,-,4448312.11,21784.35
+Office of the SP Legislative- Personal Services,PERA,711,576000,576000,-,576000,-
+Office of the SP Legislative- Personal Services,Representation Allowance,713,792000,792000,-,792000,-
+Office of the SP Legislative- Personal Services,Clothing Allowance,715,96000,96000,-,96000,-
+Office of the SP Legislative- Personal Services,Cash Gift,724,120000,120000,-,120000,-
+Office of the SP Legislative- Personal Services,Year- End Bonus,725,856897,856897,-,856897,-
+Office of the SP Legislative- Personal Services,Life and Retirement Insurance Contributions,731,1233932,1233932,-,1233931.68,0.32
+Office of the SP Legislative- Personal Services,PAG-IBIG Contributions,732,28800,28800,-,28800,-
+Office of the SP Legislative- Personal Services,PHILHEALTH Contributions,733,97200,97200,-,92700,4500
+Office of the SP Legislative- Personal Services,ECC Contributions,734,28800,28800,-,28800,-
+Office of the SP Legislative- Maintenance and Other Operating Expenses,-,-,654500,654500,-,608287.41,46212.59
+Office of the SP Legislative- Maintenance and Other Operating Expenses,Membership Dues and Cont. to Org.,778,-,-,-,-,-
+Office of the SP Legislative- Maintenance and Other Operating Expenses,Subscription Expenses,786,12000,12000,-,6000,6000
+Office of the SP Legislative- Maintenance and Other Operating Expenses,Subsidy to PCL,878,434000,434000,-,398067,35933
+Office of the SP Legislative- Maintenance and Other Operating Expenses,Subsidy to NMYL,878,-,-,-,-,-
+Office of the SP Legislative- Maintenance and Other Operating Expenses,Subsidy to 4L,878,208500,208500,-,204220.41,4279.59
+Office of the SP Secretariat,-,1022,6052059.87,6052059.87,-,5363764.04,688295.83
+Office of the SP Secretariat- Personal Services,-,-,6012359.87,6012359.87,-,5324104.04,688255.83
+Office of the SP Secretariat- Personal Services,Salaries and Wages-Regular,701,4035387,4035387,-,3503240.45,532146.55
+Office of the SP Secretariat- Personal Services,Salaries and Wages-Casual,705,545907.17,545907.17,-,545511.17,396
+Office of the SP Secretariat- Personal Services,PERA,711,292000,292000,-,260000,32000
+Office of the SP Secretariat- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+Office of the SP Secretariat- Personal Services,Transportation Allowance,714,66000,66000,-,66000,-
+Office of the SP Secretariat- Personal Services,Clothing Allowance,715,56000,56000,-,44000,12000
+Office of the SP Secretariat- Personal Services,Cash Gift,724,60000,60000,-,55000,5000
+Office of the SP Secretariat- Personal Services,Year- End Bonus,725,333406,333406,-,294471,38935
+Office of the SP Secretariat- Personal Services,Life and Retirement Insurance Contributions,731,484247.2,484247.2,-,424181.42,60065.78
+Office of the SP Secretariat- Personal Services,PAG-IBIG Contributions,732,14600,14600,-,13200,1400
+Office of the SP Secretariat- Personal Services,PHILHEALTH Contributions,733,44212.5,44212.5,-,39300,4912.5
+Office of the SP Secretariat- Personal Services,ECC Contributions,734,14600,14600,-,13200,1400
+Office of the SP Secretariat- Maintenance and Other Operating Expenses,-,-,39700,39700,-,39660,40
+Office of the SP Secretariat- Maintenance and Other Operating Expenses,Postage and Deliveries,771,1000,1000,-,1000,-
+Office of the SP Secretariat- Maintenance and Other Operating Expenses,Advertising Expenses,786,32900,32900,-,32900,-
+Office of the SP Secretariat- Maintenance and Other Operating Expenses,Printing and Binding Expenses,781,5800,5800,-,5760,40
+Human Resource and MGT Office,-,1032,5904967.28,5904967.28,-,5407075.06,497892.22
+Human Resource and MGT Office- Personal Services,-,-,5858967.28,5858967.28,-,5362075.46,496891.82
+Human Resource and MGT Office- Personal Services,Salaries and Wages-Regular,701,3800418,3800418,-,3431297,369121
+Human Resource and MGT Office- Personal Services,Salaries and Wages-Casual,705,721333.88,721333.88,-,714187.32,7146.56
+Human Resource and MGT Office- Personal Services,PERA,711,308000,308000,-,282000,26000
+Human Resource and MGT Office- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+Human Resource and MGT Office- Personal Services,Clothing Allowance,715,52000,52000,-,44000,8000
+Human Resource and MGT Office- Personal Services,Cash Gift,724,65000,65000,-,60000,5000
+Human Resource and MGT Office- Personal Services,Year- End Bonus,725,317801,317801,-,288733,29068
+Human Resource and MGT Office- Personal Services,Life and Retirement Insurance Contributions,731,456051.4,456051.4,-,410795.64,45255.76
+Human Resource and MGT Office- Personal Services,PAG-IBIG Contributions,732,15400,15400,-,14100,1300
+Human Resource and MGT Office- Personal Services,PHILHEALTH Contributions,733,41563,41563,-,36862.5,4700.5
+Human Resource and MGT Office- Personal Services,ECC Contributions,734,15400,15400,-,14100,1300
+Human Resource and MGT Office- Maintenance and Other Operating Expenses,-,-,46000,46000,-,44999.6,1000.4
+Human Resource and MGT Office- Maintenance and Other Operating Expenses,Printed Forms Expenses,756,40000,40000,-,39999.6,0.4
+Human Resource and MGT Office- Maintenance and Other Operating Expenses,Membership Dues and Cont. to Org.,778,6000,6000,-,5000,1000
+Office of the City Planning and Development Coordinator,-,1041,4568134.52,4568134.52,-,4482736.46,85398.06
+Office of the City Planning and Development Coordinator- Personal Services,-,-,4567134.52,4567134.52,-,4482736.46,84398.06
+Office of the City Planning and Development Coordinator- Personal Services,Salaries and Wages-Regular,701,3161337,3161337,-,3141744.72,19592.28
+Office of the City Planning and Development Coordinator- Personal Services,Salaries and Wages-Casual,705,243878.18,243878.18,-,243159,719.18
+Office of the City Planning and Development Coordinator- Personal Services,PERA,711,236000,236000,-,234000,2000
+Office of the City Planning and Development Coordinator- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+Office of the City Planning and Development Coordinator- Personal Services,Transportation Allowance,714,66000,66000,-,11000,55000
+Office of the City Planning and Development Coordinator- Personal Services,Clothing Allowance,715,40000,40000,-,36000,4000
+Office of the City Planning and Development Coordinator- Personal Services,Cash Gift,724,50000,50000,-,50000,-
+Office of the City Planning and Development Coordinator- Personal Services,Year- End Bonus,725,266458,266458,-,266152,306
+Office of the City Planning and Development Coordinator- Personal Services,Life and Retirement Insurance Contributions,731,379360.84,379360.84,-,376968.24,2392.6
+Office of the City Planning and Development Coordinator- Personal Services,PAG-IBIG Contributions,732,11800,11800,-,11700,100
+Office of the City Planning and Development Coordinator- Personal Services,PHILHEALTH Contributions,733,34500.5,34500.5,-,34312.5,188
+Office of the City Planning and Development Coordinator- Personal Services,ECC Contributions,734,11800,11800,-,11700,100
+Office of the City Planning and Development Coordinator- Maintenance and Other Operating Expenses,-,-,1000,1000,-,-,1000
+Office of the City Planning and Development Coordinator- Maintenance and Other Operating Expenses,Postage and Deliveries,772,1000,1000,-,-,1000
+Ofiice of the City Civil Registrar,-,1051,4021245.38,4021245.38,-,3852221.44,169023.94
+Ofiice of the City Civil Registrar- Personal Services,-,-,3916245.38,3916245.38,-,3844993.44,71251.94
+Ofiice of the City Civil Registrar- Personal Services,Salaries and Wages-Regular,701,2542347,2542347,-,2496016,46331
+Ofiice of the City Civil Registrar- Personal Services,Salaries and Wages-Casual,705,508906.44,508906.44,-,503546.52,5359.92
+Ofiice of the City Civil Registrar- Personal Services,PERA,711,172000,172000,-,168000,4000
+Ofiice of the City Civil Registrar- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+Ofiice of the City Civil Registrar- Personal Services,Clothing Allowance,715,36000,36000,-,28000,8000
+Ofiice of the City Civil Registrar- Personal Services,Cash Gift,724,35000,35000,-,35000,-
+Ofiice of the City Civil Registrar- Personal Services,Year- End Bonus,725,207747,207747,-,207479,268
+Ofiice of the City Civil Registrar- Personal Services,Life and Retirement Insurance Contributions,731,305082.44,305082.44,-,298801.92,6280.52
+Ofiice of the City Civil Registrar- Personal Services,PAG-IBIG Contributions,732,8600,8600,-,8400,200
+Ofiice of the City Civil Registrar- Personal Services,PHILHEALTH Contributions,733,25962.5,25962.5,-,25350,612.5
+Ofiice of the City Civil Registrar- Personal Services,ECC Contributions,734,8600,8600,-,8400,200
+Ofiice of the City Civil Registrar- Maintenance and Other Operating Expenses,-,-,105000,105000,-,7228,97772
+Ofiice of the City Civil Registrar- Maintenance and Other Operating Expenses,Printed Forms,755,100000,100000,-,2235,97765
+Ofiice of the City Civil Registrar- Maintenance and Other Operating Expenses,Postage and Deliveries,771,5000,5000,-,4993,7
+Office of the City General Services,-,1061,8627282.87,8627282.87,-,7792503.29,834779.58
+Office of the City General Services- Personal Services,-,-,4660582.62,4660582.62,-,4347927.82,312654.8
+Office of the City General Services- Personal Services,Salaries and Wages-Regular,701,2820336,2820336,-,2559406.21,260929.79
+Office of the City General Services- Personal Services,Salaries and Wages-Casual,705,847869.48,847869.48,-,845636.28,2233.2
+Office of the City General Services- Personal Services,PERA,711,218000,218000,-,206000,12000
+Office of the City General Services- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+Office of the City General Services- Personal Services,Clothing Allowance,715,40000,40000,-,36000,4000
+Office of the City General Services- Personal Services,Cash Gift,724,45000,45000,-,45000,-
+Office of the City General Services- Personal Services,Year- End Bonus,725,233699,233699,-,233699,-
+Office of the City General Services- Personal Services,Life and Retirement Insurance Contributions,731,338440.64,338440.64,-,307646.64,30794
+Office of the City General Services- Personal Services,PAG-IBIG Contributions,732,10900,10900,-,10675,225
+Office of the City General Services- Personal Services,PHILHEALTH Contributions,733,29437.5,29437.5,-,27475,1962.5
+Office of the City General Services- Personal Services,ECC Contributions,734,10900,10900,-,10389.69,510.31
+Office of the City General Services- Maintenance and Other Operating Expenses,-,-,3966700.25,3966700.25,-,3444575.47,522124.78
+Office of the City General Services- Maintenance and Other Operating Expenses,Telephone Expenses Landline,772,17000,17000,-,16614.64,385.36
+Office of the City General Services- Maintenance and Other Operating Expenses,Internet Expenses,774,18000,18000,-,16409.8,1590.2
+Office of the City General Services- Maintenance and Other Operating Expenses,Fidelity Bond Premium,892,22500,22500,-,22500,-
+Office of the City General Services- Maintenance and Other Operating Expenses,Insurance Expense (Gov't. Vehicles),893,2329200.25,2329200.25,-,2266525.02,62675.23
+Office of the City General Services- Maintenance and Other Operating Expenses,Insurance Expense (Gov't. Bldgs.),893,500000,500000,-,233472,266528
+Office of the City General Services- Maintenance and Other Operating Expenses,Registration of Gov't. Vehicles,969,800000,800000,-,698495.01,101504.99
+Office of the City General Services- Maintenance and Other Operating Expenses,Registration of Firearms,969,200000,200000,-,139202,60798
+Office of the City General Services- Maintenance and Other Operating Expenses,Registration-Communication Equipment,969,80000,80000,-,51357,28643
+Office of the City Budget Officer,-,1071,6340409.08,6340409.08,-,6093071.08,247338
+Office of the City Budget Officer- Personal Services,-,-,6060409.08,6060409.08,-,5979817.33,80591.75
+Office of the City Budget Officer- Personal Services,Salaries and Wages-Regular,701,3919173,3919173,-,3862434.24,56738.76
+Office of the City Budget Officer- Personal Services,Salaries and Wages-Casual,705,678541.92,678541.92,-,671395.36,7146.56
+Office of the City Budget Officer- Personal Services,PERA,711,308000,308000,-,306000,2000
+Office of the City Budget Officer- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+Office of the City Budget Officer- Personal Services,Clothing Allowance,715,52000,52000,-,48000,4000
+Office of the City Budget Officer- Personal Services,Overtime and Night Pay,723,100000,100000,-,99800.67,199.33
+Office of the City Budget Officer- Personal Services,Cash Gift,724,65000,65000,-,65000,-
+Office of the City Budget Officer- Personal Services,Year- End Bonus,725,326905,326905,-,324951,1954
+Office of the City Budget Officer- Personal Services,Life and Retirement Insurance Contributions,731,470301.16,470301.16,-,462436.06,7865.1
+Office of the City Budget Officer- Personal Services,PAG-IBIG Contributions,732,15400,15400,-,15300,100
+Office of the City Budget Officer- Personal Services,PHILHEALTH Contributions,733,43688,43688,-,43200,488
+Office of the City Budget Officer- Personal Services,ECC Contributions,734,15400,15400,-,15300,100
+Office of the City Budget Officer- Maintenance and Other Operating Expenses,-,-,280000,280000,-,113253.75,166746.25
+Office of the City Budget Officer- Maintenance and Other Operating Expenses,Membership Dues and Cont. to Org.,778,15000,15000,-,13000,2000
+Office of the City Budget Officer- Maintenance and Other Operating Expenses,Printing and Binding Expenses,781,250000,250000,-,95000,155000
+Office of the City Budget Officer- Maintenance and Other Operating Expenses,Fidelity Bond Premium,892,15000,15000,-,5253.75,9746.25
+Office of the City Accountant,-,1081,7719255.88,7719255.88,-,7645171.08,74084.8
+Office of the City Accountant- Personal Services,-,-,7631905.88,7631905.88,-,7576651.08,55254.8
+Office of the City Accountant- Personal Services,Salaries and Wages-Regular,701,5009691,5009691,-,4979965.91,29725.09
+Office of the City Accountant- Personal Services,Salaries and Wages-Casual,705,682287,682287,-,678272.76,4014.24
+Office of the City Accountant- Personal Services,PERA,711,460000,460000,-,455727.27,4272.73
+Office of the City Accountant- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+Office of the City Accountant- Personal Services,Clothing Allowance,715,72000,72000,-,64000,8000
+Office of the City Accountant- Personal Services,Overtime and Night Pay,723,100000,100000,-,100000,-
+Office of the City Accountant- Personal Services,Cash Gift,724,100000,100000,-,100000,-
+Office of the City Accountant- Personal Services,Year- End Bonus,725,438276,438276,-,436465,1811
+Office of the City Accountant- Personal Services,Life and Retirement Insurance Contributions,731,601163.88,601163.88,-,594757.64,6406.24
+Office of the City Accountant- Personal Services,PAG-IBIG Contributions,732,23000,23000,-,22800,200
+Office of the City Accountant- Personal Services,PHILHEALTH Contributions,733,56488,56488,-,55862.5,625.5
+Office of the City Accountant- Personal Services,ECC Contributions,734,23000,23000,-,22800,200
+Office of the City Accountant- Maintenance and Other Operating Expenses,-,-,70400,70400,-,51570,18830
+Office of the City Accountant- Maintenance and Other Operating Expenses,Membership Dues and Cont. to Org.,778,10400,10400,-,10400,-
+Office of the City Accountant- Maintenance and Other Operating Expenses,Printing and Binding Expenses,781,60000,60000,-,41170,18830
+Office of the City Accountant- Capital Outlay,-,-,16950,16950,-,16950,-
+Office of the City Accountant- Capital Outlay,Office Equipment - Fax Machine,221,16950,16950,-,16950,-
+Office of the City Treasurer,-,1091,14023131.22,14023131.22,-,11983572.17,2039559.05
+Office of the City Treasurer- Personal Services,-,-,10201131.22,10201131.22,-,8984114.67,1217016.55
+Office of the City Treasurer- Personal Services,Salaries and Wages-Regular,701,6538105,6538105,-,5718951.81,819153.19
+Office of the City Treasurer- Personal Services,Salaries and Wages-Casual,705,1187448.36,1187448.36,-,1174596.88,12851.48
+Office of the City Treasurer- Personal Services,PERA,711,518000,518000,-,449000,69000
+Office of the City Treasurer- Personal Services,Representation Allowance,713,114000,114000,-,66000,48000
+Office of the City Treasurer- Personal Services,Transportation Allowance,714,48000,48000,-,-,48000
+Office of the City Treasurer- Personal Services,Clothing Allowance,715,104000,104000,-,76000,28000
+Office of the City Treasurer- Personal Services,Overtime and Night Pay,723,140000,140000,-,134293.03,5706.97
+Office of the City Treasurer- Personal Services,Cash Gift,724,107500,107500,-,96125,11375
+Office of the City Treasurer- Personal Services,Year- End Bonus,725,534029,534029,-,483025.9,51003.1
+Office of the City Treasurer- Personal Services,Life and Retirement Insurance Contributions,731,784573.36,784573.36,-,678506.3,106067.06
+Office of the City Treasurer- Personal Services,PAG-IBIG Contributions,732,26100,26100,-,22500,3600
+Office of the City Treasurer- Personal Services,PHILHEALTH Contributions,733,73275.5,73275.5,-,62587.5,10688
+Office of the City Treasurer- Personal Services,ECC Contributions,734,26100,26100,-,22528.25,3571.75
+Office of the City Treasurer- Maintenance and Other Operating Expenses,-,-,3700000,3700000,-,2957347.5,742652.5
+Office of the City Treasurer- Maintenance and Other Operating Expenses,Office Supplies Expenses-Item for sale,755,800000,800000,-,788150,11850
+Office of the City Treasurer- Maintenance and Other Operating Expenses,Accountable Forms,756,2500000,2500000,-,1878375,621625
+Office of the City Treasurer- Maintenance and Other Operating Expenses,Postage and Deliveries,771,10000,10000,-,8120,1880
+Office of the City Treasurer- Maintenance and Other Operating Expenses,Memb. Dues and Cont. to Org.,778,20000,20000,-,9350,10650
+Office of the City Treasurer- Maintenance and Other Operating Expenses,Advertising Expenses,780,150000,150000,-,150000,-
+Office of the City Treasurer- Maintenance and Other Operating Expenses,Transportation and Delivery Expenses,784,20000,20000,-,12540,7460
+Office of the City Treasurer- Maintenance and Other Operating Expenses,Fidelity Bond Premiums,892,200000,200000,-,110812.5,89187.5
+Office of the City Treasurer- Capital Outlay,-,-,122000,122000,-,42110,79890
+Office of the City Treasurer- Capital Outlay,Office Equipment - Calculator (Heavy Duty),221,50000,50000,-,6450,43550
+Office of the City Treasurer- Capital Outlay,IT Equipment and Software - Printer,223,72000,72000,-,35660,36340
+Office of the City Assessor,-,1101,5901352.4,5901352.4,-,5805193.83,96158.57
+Office of the City Assessor- Personal Services,-,-,5880352.4,5880352.4,-,5805193.83,75158.57
+Office of the City Assessor- Personal Services,Salaries and Wages-Regular,701,3699660,3699660,-,3691185.82,8474.18
+Office of the City Assessor- Personal Services,Salaries and Wages-Casual,705,847877.4,847877.4,-,838944.2,8933.2
+Office of the City Assessor- Personal Services,PERA,711,288000,288000,-,281727.27,6272.73
+Office of the City Assessor- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+Office of the City Assessor- Personal Services,Clothing Allowance,715,48000,48000,-,48000,-
+Office of the City Assessor- Personal Services,Overtime and Night Pay,723,50000,50000,-,-,50000
+Office of the City Assessor- Personal Services,Cash Gift,724,60000,60000,-,60000,-
+Office of the City Assessor- Personal Services,Year- End Bonus,725,308305,308305,-,307748,557
+Office of the City Assessor- Personal Services,Life and Retirement Insurance Contributions,731,443960,443960,-,443188.54,771.46
+Office of the City Assessor- Personal Services,PAG-IBIG Contributions,732,14400,14400,-,14400,-
+Office of the City Assessor- Personal Services,PHILHEALTH Contributions,733,39750,39750,-,39600,150
+Office of the City Assessor- Personal Services,ECC Contributions,734,14400,14400,-,14400,-
+Office of the City Assessor-Maintenance and Other Operating Expenses,-,-,21000,21000,-,-,21000
+Office of the City Assessor-Maintenance and Other Operating Expenses,Postage and Deliveries,771,5000,5000,-,-,5000
+Office of the City Assessor-Maintenance and Other Operating Expenses,Membership Dues and Cont to Org.,778,6000,6000,-,-,6000
+Office of the City Assessor-Maintenance and Other Operating Expenses,Printing and Binding Expenses,781,10000,10000,-,-,10000
+Commision on Audit,-,1111,150000,150000,-,149975.05,24.95
+Commision on Audit- Maintenance and Other Operating Expenses,-,-,150000,150000,-,149975.05,24.95
+Commision on Audit- Maintenance and Other Operating Expenses,Auditing Services,792,150000,150000,-,149975.05,24.95
+Office of the City Mayor- Public Information Division,-,1121,2775513.58,2775513.58,-,2457664,317849.58
+Office of the City Mayor- Public Information Division- Personal Services,-,-,1989393.58,1989393.58,-,1834132.5,155261.08
+Office of the City Mayor- Public Information Division- Personal Services,Salaries and Wages-Regular,701,1311273,1311273,-,1195513,115760
+Office of the City Mayor- Public Information Division- Personal Services,Salaries and Wages-Casual,705,169635.48,169635.48,-,169276.84,358.64
+Office of the City Mayor- Public Information Division- Personal Services,PERA,711,98000,98000,-,80000,18000
+Office of the City Mayor- Public Information Division- Personal Services,Clothing Allowance,715,20000,20000,-,16000,4000
+Office of the City Mayor- Public Information Division- Personal Services,Overtime and Night Pay,723,80000,80000,-,79999.6,0.4
+Office of the City Mayor- Public Information Division- Personal Services,Cash Gift,724,20000,20000,-,20000,-
+Office of the City Mayor- Public Information Division- Personal Services,Year- End Bonus,725,108344,108344,-,108344,-
+Office of the City Mayor- Public Information Division- Personal Services,Life and Retirement Insurance Contributions,731,157353.6,157353.6,-,143461.56,13892.04
+Office of the City Mayor- Public Information Division- Personal Services,PAG-IBIG Contributions,732,4900,4900,-,4000,900
+Office of the City Mayor- Public Information Division- Personal Services,PHILHEALTH Contributions,733,14987.5,14987.5,-,13537.5,1450
+Office of the City Mayor- Public Information Division- Personal Services,ECC Contributions,734,4900,4900,-,4000,900
+Office of the City Mayor- Public Information Division- Maintenance and Other Operating Expenses,-,-,586120,586120,-,425247,160873
+Office of the City Mayor- Public Information Division- Maintenance and Other Operating Expenses,Other Supplies Expense,765,6000,6000,-,6000,-
+Office of the City Mayor- Public Information Division- Maintenance and Other Operating Expenses,"Cable, Satellite and Radio Expenses",775,390120,390120,-,277725,112395
+Office of the City Mayor- Public Information Division- Maintenance and Other Operating Expenses,Printing and Binding Expenses,781,110000,110000,-,68000,42000
+Office of the City Mayor- Public Information Division- Maintenance and Other Operating Expenses,Subscription Expenses,786,80000,80000,-,73522,6478
+Office of the City Mayor- Public Information Division- Capital Outlay,-,-,200000,200000,-,198284.5,1715.5
+Office of the City Mayor- Public Information Division- Capital Outlay,Books,224,200000,200000,-,198284.5,1715.5
+City Legal Officer,-,1131,1409021.96,1409021.96,-,1354189.72,54832.24
+City Legal Officer- Personal Services,-,-,1319021.96,1319021.96,-,1319021.72,0.24
+City Legal Officer- Personal Services,Salaries and Wages-Regular,701,693948,693948,-,693948,-
+City Legal Officer- Personal Services,Salaries and Wages-Casual,705,340270.96,340270.96,-,340270.96,-
+City Legal Officer- Personal Services,PERA,711,48000,48000,-,48000,-
+City Legal Officer- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+City Legal Officer- Personal Services,Clothing Allowance,715,8000,8000,-,8000,-
+City Legal Officer- Personal Services,Cash Gift,724,10000,10000,-,10000,-
+City Legal Officer- Personal Services,Year- End Bonus,725,57829,57829,-,57829,-
+City Legal Officer- Personal Services,Life and Retirement Insurance Contributions,731,83274,83274,-,83273.76,0.24
+City Legal Officer- Personal Services,PAG-IBIG Contributions,732,2400,2400,-,2400,-
+City Legal Officer- Personal Services,PHILHEALTH Contributions,733,6900,6900,-,6900,-
+City Legal Officer- Personal Services,ECC Contributions,734,2400,2400,-,2400,-
+City Legal Officer- Maintenance and Other Operating Expenses,-,-,50000,50000,-,-,50000
+City Legal Officer- Maintenance and Other Operating Expenses,Office Books,755,50000,50000,-,-,50000
+City Legal Officer- Maintenance and Other Operating Expenses,Professional Services - Legal Services,791,-,-,-,-,-
+City Legal Officer- Capital Outlay,-,-,40000,40000,-,35168,4832
+City Legal Officer- Capital Outlay,Software (LEX LIBRES),223,40000,40000,-,35168,4832
+Office of the City Prosecutor,-,1141,1171068.96,1171068.96,-,1160051.96,11017
+Office of the City Prosecutor- Personal Services,-,-,333068.96,333068.96,-,333068.96,6
+Office of the City Prosecutor- Personal Services,Salaries and Wages-Casual,705,333068.96,333068.96,-,333068.96,6
+Office of the City Prosecutor- Maintenance and Other Operating Expenses,-,-,838000,838000,-,826989,11011
+Office of the City Prosecutor- Maintenance and Other Operating Expenses,Internet Expenses,774,12000,12000,-,10989,1011
+Office of the City Prosecutor- Maintenance and Other Operating Expenses,Subscription Expenses(Computer Anti-Virus),786,10000,10000,-,-,10000
+Office of the City Prosecutor- Maintenance and Other Operating Expenses,Donations,878,816000,816000,-,816000,-
+Office of the Regional Trial Court,-,1151,269000,269000,-,244000,25000
+Office of the Regional Trial Court- Maintenance and Other Operating Expenses,-,-,269000,269000,-,244000,25000
+Office of the Regional Trial Court- Maintenance and Other Operating Expenses,Donations,878,269000,269000,-,244000,25000
+Municipal Trial Court in Cities,-,1158,503670.96,503670.96,-,497181.36,6489.6
+Municipal Trial Court in Cities- Personal Services,-,-,339270.96,339270.96,-,339270.96,-
+Municipal Trial Court in Cities- Personal Services,Salaries and Wages-Casual,705,339270.96,339270.96,-,339270.96,-
+Municipal Trial Court in Cities- Maintenance and Other Operating Expenses,-,-,164400,164400,-,157910.4,6489.6
+Municipal Trial Court in Cities- Maintenance and Other Operating Expenses,Telephone Expenses-Landline,772,12000,12000,-,5510.4,6489.6
+Municipal Trial Court in Cities- Maintenance and Other Operating Expenses,Telephone Expenses-Mobile,773,6000,6000,-,6000,-
+Municipal Trial Court in Cities- Maintenance and Other Operating Expenses,Internet Expenses,774,-,-,-,-,-
+Municipal Trial Court in Cities- Maintenance and Other Operating Expenses,Donations,878,146400,146400,-,146400,-
+Office of the PNP or Traffic Officer,-,1181-1,212200,212200,-,207585.2,4614.8
+Office of the PNP or Traffic Officer- Maintenance and Other Operating Expenses,-,-,182200,182200,-,180429.2,1770.8
+Office of the PNP or Traffic Officer- Maintenance and Other Operating Expenses,Military and Police Supplies Expense,764,116000,116000,-,115770,230
+Office of the PNP or Traffic Officer- Maintenance and Other Operating Expenses,Telephone Expenses-Landline,772,23000,23000,-,21459.2,1540.8
+Office of the PNP or Traffic Officer- Maintenance and Other Operating Expenses,Repair and Maintenance - Military and Police Equipment,834,-,-,-,-,-
+Office of the PNP or Traffic Officer- Maintenance and Other Operating Expenses,Donations,878,43200,43200,-,43200,-
+Office of the PNP or Traffic Officer- Capital Outlay,-,-,30000,30000,-,27156,2844
+Office of the PNP or Traffic Officer- Capital Outlay,"Other Property, Plant and Equipment - Camera",250,30000,30000,-,27156,2844
+Office of the City Mayor- Traffic Enforcement Services,-,1181-2,2118967,2118967,-,2033376.02,85590.98
+Office of the City Mayor- Traffic Enforcement Services- Personal Services,-,-,2118967,2118967,-,2033376.02,85590.98
+Office of the City Mayor- Traffic Enforcement Services- Personal Services,Salaries and Wages-Casual,705,2118967,2118967,-,2033376.02,85590.98
+Office of the City Fire Marshall,-,1191,97900,97900,-,91339.09,6560.91
+Office of the City Fire Marshall- Maintenance and Other Operating Expenses,-,-,97900,97900,-,91339.09,6560.91
+Office of the City Fire Marshall- Maintenance and Other Operating Expenses,Telephone Expenses-Landline,772,11500,11500,-,4939.09,6560.91
+Office of the City Fire Marshall- Maintenance and Other Operating Expenses,Donations,878,86400,86400,-,86400,-
+Office of the City Fire Marshall- Non- Office,-,1919,20287823.97,20287823.97,-,19918447.52,369376.45
+Office of the City Fire Marshall- Maintenance and Other Operating Expenses,-,-,20287823.97,20287823.97,-,19918447.52,369376.45
+Office of the City Fire Marshall- Maintenance and Other Operating Expenses,Water Expenses,-,400000,400000,-,350359.41,49640.59
+Office of the City Fire Marshall- Maintenance and Other Operating Expenses,Electricity Expenses,-,19887823.97,19887823.97,-,19568088.11,319735.86
+Office of the City DILG Director,-,1999,43200,43200,-,43200,-
+Office of the City DILG Director- Maintenance and Other Operating Expenses,-,-,43200,43200,-,43200,-
+Office of the City DILG Director- Maintenance and Other Operating Expenses,Donations,878,43200,43200,-,43200,-
+City Health Office,-,4411,21646836.12,21646836.12,-,20224892.33,1421943.79
+City Health Office- Personal Services,-,-,21477836.12,21477836.12,-,20068799.13,1409036.99
+City Health Office- Personal Services,Salaries and Wages-Regular,701,8808978,8808978,-,8571579.32,237398.68
+City Health Office- Personal Services,Salaries and Wages-Casual,705,3372109.8,3372109.8,-,3338295.48,33814.32
+City Health Office- Personal Services,PERA,711,722000,722000,-,701909.09,20090.91
+City Health Office- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+City Health Office- Personal Services,Clothing Allowance,715,124000,124000,-,120000,4000
+City Health Office- Personal Services,BHW Clothing Allowance,715,225000,225000,-,199000,26000
+City Health Office- Personal Services,Subsistence Allowance,716,558000,558000,-,498350,59650
+City Health Office- Personal Services,Laundry Allowance,716,55800,55800,-,52650,3150
+City Health Office- Personal Services,BHW Subsistence Allowance,716,4050000,4050000,-,3519000,531000
+City Health Office- Personal Services,Hazard Pay,721,935778,935778,-,501284,434494
+City Health Office- Personal Services,BHW Hazard Allowance,721,398000,398000,-,398000,-
+City Health Office- Personal Services,Overtime and Night Pay,723,50000,50000,-,49668.3,331.7
+City Health Office- Personal Services,Cash Gift,724,150000,150000,-,145000,5000
+City Health Office- Personal Services,Year- End Bonus,725,729917,729917,-,709149,20768
+City Health Office- Personal Services,Life and Retirement Insurance Contributions,731,1057078.32,1057078.32,-,1028251.44,28826.88
+City Health Office- Personal Services,PAG-IBIG Contributions,732,36100,36100,-,35100,1000
+City Health Office- Personal Services,Philhealth Contirbutions,733,102975,102975,-,100462.5,2512.5
+City Health Office- Personal Services,ECC Contributions,734,36100,36100,-,35100,1000
+City Health Office- Maintenance and Other Operating Expenses,-,-,18000,18000,-,15031.2,2968.8
+City Health Office- Maintenance and Other Operating Expenses,Telephone Expenses-Landline,772,18000,18000,-,15031.2,2968.8
+City Health Office- Capital Outlay,-,-,151000,151000,-,141062,9938
+City Health Office- Capital Outlay,Risographing Machine,233,100000,100000,-,100000,-
+City Health Office- Capital Outlay,Blood Weighing Scale,233,6000,6000,-,-,6000
+City Health Office- Capital Outlay,"Digital BP Apparatus, Desk type",233,45000,45000,-,41062,3938
+Office of the City Mayor- Health and Sanitation Services,-,6522,6743305.48,6743305.48,-,6622493.2,120812.28
+Office of the City Mayor- Health and Sanitation Services- Personal Services,-,-,4853305.48,4853305.48,-,4759493.3,93812.18
+Office of the City Mayor- Health and Sanitation Services- Personal Services,Salaries and Wages-Casual,705,4556905.48,4556905.48,-,4487644.84,69260.64
+Office of the City Mayor- Health and Sanitation Services- Personal Services,Hazard Pay,721,143400,143400,-,125762.9,17637.1
+Office of the City Mayor- Health and Sanitation Services- Personal Services,Overtime and Night Pay,723,153000,153000,-,146085.56,6914.44
+Office of the City Mayor- Health and Sanitation Services- Maintenance and Other Operating Expenses,-,-,1890000,1890000,-,1862999.9,27000.1
+Office of the City Mayor- Health and Sanitation Services- Maintenance and Other Operating Expenses,Telephone Expenses - Landline,772,6000,6000,-,5510.4,489.6
+Office of the City Mayor- Health and Sanitation Services- Maintenance and Other Operating Expenses,Rent Expense (Dumpsite),782,84000,84000,-,84000,-
+Office of the City Mayor- Health and Sanitation Services- Maintenance and Other Operating Expenses,Repairs and Maintenance - Other Transportation Equipment,848,1800000,1800000,-,1773489.5,26510.5
+Social Welfare and Development Office,-,7611,4215843.82,4215843.82,-,4028150.33,187693.49
+Social Welfare and Development Office- Personal Services,-,-,2378843.82,2378843.82,-,2351447.33,27396.49
+Social Welfare and Development Office- Personal Services,Salaries and Wages-Regular,701,1789304,1789304,-,1770463.64,18840.36
+Social Welfare and Development Office- Personal Services,PERA,711,92000,92000,-,89909.09,2090.91
+Social Welfare and Development Office- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+Social Welfare and Development Office- Personal Services,Clothing Allowance,715,16000,16000,-,12000,4000
+Social Welfare and Development Office- Personal Services,Cash Gift,724,20000,20000,-,20000,-
+Social Welfare and Development Office- Personal Services,Year- End Bonus,725,154760,154760,-,154760,-
+Social Welfare and Development Office- Personal Services,Life and Retirement Insurance Contributions,731,214717.32,214717.32,-,212664.6,2052.72
+Social Welfare and Development Office- Personal Services,PAG-IBIG Contributions,732,4600,4600,-,4500,100
+Social Welfare and Development Office- Personal Services,PHILHEALTH Contributions,732,16862.5,16862.5,-,16650,212.5
+Social Welfare and Development Office- Personal Services,ECC Contributions,734,4600,4600,-,4500,100
+Social Welfare and Development Office- Maintenance and Other Operating Expenses,-,-,1637000,1637000,-,1497203,139797
+Social Welfare and Development Office- Maintenance and Other Operating Expenses,Paupers Burial,878,600000,600000,-,560500,39500
+Social Welfare and Development Office- Maintenance and Other Operating Expenses,Burial Assistance (Veterans),878,75000,75000,-,31000,44000
+Social Welfare and Development Office- Maintenance and Other Operating Expenses,Fire or Shelter Victims Assistance,878,400000,400000,-,398000,2000
+Social Welfare and Development Office- Maintenance and Other Operating Expenses,Child and Youth Welfare Offender Fund,878,50000,50000,-,5703,44297
+Social Welfare and Development Office- Maintenance and Other Operating Expenses,Luntiang Paraiso Welfare Fund,878,100000,100000,-,100000,-
+Social Welfare and Development Office- Maintenance and Other Operating Expenses,Donations (CO # 83),878,412000,412000,-,402000,10000
+Social Welfare and Development Office- Capital Outlay,-,-,200000,200000,-,179500,20500
+Social Welfare and Development Office- Capital Outlay,Assistive Devices,250,200000,200000,-,179500,20500
+Office of the City Agriculturist,-,8711,7442882.1,7442882.1,-,6923103.87,519778.23
+Office of the City Agriculturist- Personal Services,-,-,5424232.1,5424232.1,-,5271937.02,152295.08
+Office of the City Agriculturist- Personal Services,Salaries and Wages-Regular,701,3864081,3864081,-,3754667.55,109413.45
+Office of the City Agriculturist- Personal Services,Salaries and Wages-Casual,705,169365.48,169365.48,-,167578.84,1786.64
+Office of the City Agriculturist- Personal Services,PERA,711,326000,326000,-,317454.56,8545.44
+Office of the City Agriculturist- Personal Services,Represantation Allowance,713,66000,66000,-,66000,-
+Office of the City Agriculturist- Personal Services,Clothing Allowance,715,60000,60000,-,44000,16000
+Office of the City Agriculturist- Personal Services,Cash Gift,724,70000,70000,-,70000,-
+Office of the City Agriculturist- Personal Services,Year End Bonus,725,326557,326557,-,325087,1470
+Office of the City Agriculturist- Personal Services,Life and Retirement Insurance Contributions,731,463691.12,463691.12,-,450424.07,13267.05
+Office of the City Agriculturist- Personal Services,Pag-ibig Contributions,732,16300,16300,-,16025,275
+Office of the City Agriculturist- Personal Services,PHILHEALTH Contributions,733,45937.5,45937.5,-,44800,1137.5
+Office of the City Agriculturist- Personal Services,ECC Contirbutions,734,16300,16300,-,15900,400
+Office of the City Agriculturist- Maintenance and Other Operating Expenses,-,-,1143650,1143650,-,899005.44,244644.56
+Office of the City Agriculturist- Maintenance and Other Operating Expenses,Traveling Expenses - Local (Beneficiaries),751,75000,75000,-,-,75000
+Office of the City Agriculturist- Maintenance and Other Operating Expenses,Training Expenses (Beneficiaries),753,75000,75000,-,62574,12426
+Office of the City Agriculturist- Maintenance and Other Operating Expenses,Gasoline Expenses (Watercraft),761,500000,500000,-,375434.54,124565.46
+Office of the City Agriculturist- Maintenance and Other Operating Expenses,Repairs and Maintenance-Diving Equipment,840,20000,20000,-,19850,150
+Office of the City Agriculturist- Maintenance and Other Operating Expenses,Repairs and Maintenance-Watercraft,844,150000,150000,-,144385,5615
+Office of the City Agriculturist- Maintenance and Other Operating Expenses,Repairs and Maintenance-Farm Machineries,827,323650,323650,-,296761.9,26888.1
+Office of the City Agriculturist- Capital Outlay,-,-,875000,875000,-,752161.41,122838.59
+Office of the City Agriculturist- Capital Outlay,Other Structures,215,500000,500000,-,382111.41,117888.59
+Office of the City Agriculturist- Capital Outlay,Other Structures- Bodega and Working Shed- Construction of Potting Shed at Energy Park ( Reference number: 0144-04-12),-,-,230000,-,226511.41,3488.59
+Office of the City Agriculturist- Capital Outlay,"Other Structures- Bodega and Working Shed- Energy Park, Brgy Apokon (Reference number: 291-11-12)",-,-,175000,-,103425,71575
+Office of the City Agriculturist- Capital Outlay,"Other Structures- Bodega and Working Shed- Construction of Trellis Shed for Grapes Vines at Energy Park, Brgy. Apokon ( Reference number: 305-11-12 )",-,-,85000,-,42311,42689
+-,"Other Structures- Bodega and Working Shed- Construction of Working Shed for Aviary Personnel, Energy Park, Brgy. Apokon ( Reference number: 305-11-12 )",-,-,10000,-,9864,136
+Office of the City Agriculturist- Capital Outlay,Agricultural Equipment,227,110000,110000,-,110000,-
+Office of the City Agriculturist- Capital Outlay,Fish Laboratory Equipment (Oxygen Meter),227,100000,100000,-,98000,2000
+Office of the City Agriculturist- Capital Outlay,Diving Equipment,240,150000,150000,-,148550,1450
+Office of the City Agriculturist- Capital Outlay,"Other Property, Plant and Equipment",250,-,-,-,-,-
+Office of the City Agriculturist- Capital Outlay,"Other Property, Plant and Equipment- Welding Machine",-,10000,10000,-,9000,1000
+Office of the City Agriculturist- Capital Outlay,"Other Property, Plant and Equipment- Grinder",-,5000,5000,-,4500,500
+Office of the City Veterenarian,-,8721,2747405,2747405,-,2282247.91,465157.09
+Office of the City Veterenarian- Personal Services,-,-,2747405,2747405,-,2276737.51,464667.49
+Office of the City Veterenarian- Personal Services,Salaries and Wages-Regular,701,1834728,1834728,-,1659561.55,175166.45
+Office of the City Veterenarian- Personal Services,Salaries and Wages-Casual,705,272915,272915,-,61392.23,211522.77
+Office of the City Veterenarian- Personal Services,PERA,711,120000,120000,-,96909.1,23090.9
+Office of the City Veterenarian- Personal Services,Representation Allowance,713,66000,66000,-,60500,5500
+Office of the City Veterenarian- Personal Services,Clothing Allowance,715,20000,20000,-,16000,4000
+Office of the City Veterenarian- Personal Services,Cash Gift,724,25000,25000,-,20000,5000
+Office of the City Veterenarian- Personal Services,Year- End Bonus,725,152894,152894,-,137706,15188
+Office of the City Veterenarian- Personal Services,Life and Retirement Insurance Contributions,731,220168,220168,-,199142.45,21025.55
+Office of the City Veterenarian- Personal Services,PAG-IBIG Contributions,732,6000,6000,-,4900,1100
+Office of the City Veterenarian- Personal Services,PHILHEALTH Contributions,733,17700,17700,-,15762.5,1937.5
+Office of the City Veterenarian- Personal Services,ECC Contributions,734,6000,6000,-,4863.68,1136.32
+Office of the City Veterenarian- Maintenance and Other Operating Expenses,-,-,6000,6000,-,5510.4,489.6
+Office of the City Veterenarian- Maintenance and Other Operating Expenses,Telephone Expenses - Landline,772,6000,6000,-,5510.4,489.6
+City Environment and Natural Resources,-,8731,4316305.08,4316305.08,-,4260619.04,55686.04
+City Environment and Natural Resources- Personal Services,-,-,4316305.08,4316305.08,-,4255108.64,55196.44
+City Environment and Natural Resources- Personal Services,Salaries and Wages-Regular,701,2531391,2531391,-,2487244,44147
+City Environment and Natural Resources- Personal Services,Salaries and Wages-Casual,705,863399.92,863399.92,-,863053.36,346.56
+City Environment and Natural Resources- Personal Services,PERA,711,206000,206000,-,206000,-
+City Environment and Natural Resources- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+City Environment and Natural Resources- Personal Services,Clothing Allowance,715,32000,32000,-,28000,4000
+City Environment and Natural Resources- Personal Services,Cash Gift,724,45000,45000,-,45000,-
+City Environment and Natural Resources- Personal Services,Year- End Bonus,725,215071,215071,-,214386,685
+City Environment and Natural Resources- Personal Services,Life and Retirement Insurance Contributions,731,303768.16,303768.16,-,298325.28,5442.88
+City Environment and Natural Resources- Personal Services,PAG-IBIG Contributions,732,10300,10300,-,10200,100
+City Environment and Natural Resources- Personal Services,PHILHEALTH Contributions,733,27075,27075,-,26700,375
+City Environment and Natural Resources- Personal Services,ECC Contributions,734,10300,10300,-,10200,100
+City Environment and Natural Resources- Maintenance and Other Operating Expenses,-,-,6000,6000,-,5510.4,489.6
+City Environment and Natural Resources- Maintenance and Other Operating Expenses,Telephone Expenses Landline,772,6000,6000,-,5510.4,489.6
+Office of the City Architect,-,8741,4558524,4558524,-,4239051.17,319472.83
+Office of the City Architect- Personal Services,-,-,4408524,4408524,-,4239051.17,169472.83
+Office of the City Architect- Personal Services,Salaries and Wages-Regular,701,2672679,2672679,-,2648809.2,23869.8
+Office of the City Architect- Personal Services,Salaries and Wages-Casual,705,818744,818744,-,678175.89,140568.11
+Office of the City Architect- Personal Services,PERA,711,186000,186000,-,186000,-
+Office of the City Architect- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+Office of the City Architect- Personal Services,Clothing Allowance,715,28000,28000,-,28000,-
+Office of the City Architect- Personal Services,Cash Gift,724,40000,40000,-,40000,-
+Office of the City Architect- Personal Services,Year- End Bonus,725,228829,228829,-,226659,2170
+Office of the City Architect- Personal Services,Life and Retirement Insurance Contributions,731,320722,320722,-,317857.08,2864.92
+Office of the City Architect- Personal Services,PAG-IBIG Contributions,732,9300,9300,-,9300,-
+Office of the City Architect- Personal Services,PHILHEALTH Contributions,733,28950,28950,-,28950,-
+Office of the City Architect- Personal Services,ECC Contributions,734,9300,9300,-,9300,-
+Office of the City Architect- Capital Outlay,-,-,150000,150000,-,-,150000
+Office of the City Architect- Capital Outlay,Office Equipment,221,150000,150000,-,-,150000
+CEO- Administrative Division,-,8751,152149321.7,145093158.6,7056163.09,144185303.2,907855.34
+CEO- Administrative Division- Personal Services,-,-,4628218.67,4628218.67,-,3814219.55,813999.12
+CEO- Administrative Division- Personal Services,Salaries and Wages-Regular,701,1451856,1451856,-,850970.82,600885.18
+CEO- Administrative Division- Personal Services,Salaries and Wages-Casual,705,2647751.67,2647751.67,-,2641787.77,5963.9
+CEO- Administrative Division- Personal Services,PERA,711,72000,72000,-,49818.18,22181.82
+CEO- Administrative Division- Personal Services,Representation Allowance,713,114000,114000,-,66000,48000
+CEO- Administrative Division- Personal Services,Clothing Allowance,715,12000,12000,-,8000,4000
+CEO- Administrative Division- Personal Services,Cash Gift,724,15000,15000,-,10000,5000
+CEO- Administrative Division- Personal Services,Year- End Bonus,725,120988,120988,-,70360,50628
+CEO- Administrative Division- Personal Services,Life and Retirement Insurance Contributions,731,174223,174223,-,103370.28,70852.72
+CEO- Administrative Division- Personal Services,PAG-IBIG Contributions,732,3600,3600,-,2500,1100
+CEO- Administrative Division- Personal Services,PHILHEALTH Contributions,733,13200,13200,-,8912.5,4287.5
+CEO- Administrative Division- Personal Services,ECC Contributions,734,3600,3600,-,2500,1100
+CEO- Administrative Division- Maintenance and Other Operating Expenses,-,-,316000,316000,-,222143.78,93856.22
+CEO- Administrative Division- Maintenance and Other Operating Expenses,Gasoline Expenses,761,312000,312000,-,222143.78,89856.22
+CEO- Administrative Division- Maintenance and Other Operating Expenses,Postage and Deliveries,771,2500,2500,-,-,2500
+CEO- Administrative Division- Maintenance and Other Operating Expenses,"Membership, Dues and Contribution to Organization",778,1500,1500,-,-,1500
+CEO- Administrative Division- Financial Expenses,-,-,147205103,140148939.9,7056163.09,140148939.9,-
+CEO- Administrative Division- Financial Expenses,Interest Expenses,975,40986978,35701919.92,5285058.08,35701919.92,-
+CEO- Administrative Division- Financial Expenses,Loans Payable,444,104195200,104195200,0.01,104195200,-
+CEO- Administrative Division- Financial Expenses,Documentary Stamps Expenses,972,1155000,251820,903180,251820,-
+CEO- Administrative Division- Financial Expenses,Commitment Fee,974,250000,-,250000,-,-
+CEO- Administrative Division- Financial Expenses,Other Financial Charges,979,617925,-,617925,-,-
+CEO- Construction and Maintenance Division,-,8752,247991735,247991735,-,16602348.09,231389386.9
+CEO- Construction and Maintenance Division- Personal Services,-,-,6819037.03,6819037.03,-,6721516.28,97520.75
+CEO- Construction and Maintenance Division- Personal Services,Salaries and Wages-Regular,701,2970660,2970660,-,2925213.18,45446.82
+CEO- Construction and Maintenance Division- Personal Services,Salaries and Wages-Casual,705,2446121.77,2446121.77,-,2421108.81,25012.96
+CEO- Construction and Maintenance Division- Personal Services,PERA,711,310000,310000,-,304000,6000
+CEO- Construction and Maintenance Division- Personal Services,Clothing Allowance,715,56000,56000,-,48000,8000
+CEO- Construction and Maintenance Division- Personal Services,Overtime and Night Pay,723,300000,300000,-,299208.98,791.02
+CEO- Construction and Maintenance Division- Personal Services,Cash Gift,724,65000,65000,-,65000,-
+CEO- Construction and Maintenance Division- Personal Services,Year- End Bonus,725,247750,247750,-,246457,1293
+CEO- Construction and Maintenance Division- Personal Services,Life and Retirement Insurance Contributions,731,356479.76,356479.76,-,346828.31,9651.45
+CEO- Construction and Maintenance Division- Personal Services,PAG-IBIG Contributions,732,15500,15500,-,15200,300
+CEO- Construction and Maintenance Division- Personal Services,PHILHEALTH Contributions,733,36025.5,36025.5,-,35300,725.5
+CEO- Construction and Maintenance Division- Personal Services,ECC Contributions,734,15500,15500,-,15200,300
+CEO- Construction and Maintenance Division- Maintenance and Other Operating Expenses,-,-,6086750,6086750,-,5830154.81,256595.19
+CEO- Construction and Maintenance Division- Maintenance and Other Operating Expenses,Gasoline Expenses,761,1104000,1104000,-,1087921.25,16078.75
+CEO- Construction and Maintenance Division- Maintenance and Other Operating Expenses,Telephone Expenses -Landline,772,12000,12000,-,11020.8,979.2
+CEO- Construction and Maintenance Division- Maintenance and Other Operating Expenses,"Membership,Dues and Contribution to Organization",778,9750,9750,-,-,9750
+CEO- Construction and Maintenance Division- Maintenance and Other Operating Expenses,"Fabrication of RCPC,CHB and Paving Blocks w/ Cement at Tagum City (Reference number: 002-01-12)",795,2091000,2091000,-,1981643.49,109356.51
+CEO- Construction and Maintenance Division- Maintenance and Other Operating Expenses,Repair and Maintenance - Airconditioning Facilities at Tagum City ( Reference number: 011-01-12 ),821,230000,230000,-,191656,38344
+CEO- Construction and Maintenance Division- Maintenance and Other Operating Expenses,Repair and Maintenance - Motor Vehicles,841,200000,200000,-,198288.5,1711.5
+CEO- Construction and Maintenance Division- Maintenance and Other Operating Expenses,Repair and Maintenance - Park and Plaza at Tagum City (Reference number: 005-01-12),852,528000,528000,-,449582.26,78417.74
+CEO- Construction and Maintenance Division- Maintenance and Other Operating Expenses,"Repair and Maintenance - City Gov't. Building, School Bldg. and Demolition Crew at T.C. (Reference number: 013-01-12)",811,1912000,1912000,-,1910042.51,1957.49
+CEO- Construction and Maintenance Division- Capital Outlay,-,-,235085948,235085948,-,4050677,231035271
+CEO- Construction and Maintenance Division- Capital Outlay,"Other Property, Plant and Equipment",250,-,-,-,-,-
+CEO- Construction and Maintenance Division- Capital Outlay,"Other Property, Plant and Equipment- 2 units Chainsaw",-,125000,125000,-,117700,7300
+CEO- Construction and Maintenance Division- Capital Outlay,"Other Property, Plant and Equipment- Submersible Pump",-,27648,27648,-,27000,648
+CEO- Construction and Maintenance Division- Capital Outlay,"Other Property, Plant and Equipment- Step Ladder Fiber",-,33300,33300,-,33000,300
+CEO- Construction and Maintenance Division- Capital Outlay,Completion of New City Hall Building,-,-,-,-,-,-
+CEO- Construction and Maintenance Division- Capital Outlay,Construction of New Tagum City Hall Bldg. (Reference number: 0148-04-12),211,231000000,231000000,-,-,231000000
+CEO- Construction and Maintenance Division- Capital Outlay,Development and Maintenance of New City Hall,211,-,-,-,-,-
+CEO- Construction and Maintenance Division- Capital Outlay,"Concreting of Pavement, New City Hall, Brgy. Apokon (Reference number: 233-07-12)",-,3900000,3900000,-,3872977,27023
+CEO- Motorpool Division,-,8754,70644857.9,70644857.9,-,70192567.39,452290.51
+CEO- Motorpool Division- Personal Services,-,-,12257433.98,12257433.98,-,12203754.66,53679.32
+CEO- Motorpool Division- Personal Services,Salaries and Wages-Regular,701,2111009,2111009,-,2077519.45,33489.55
+CEO- Motorpool Division- Personal Services,Salaries and Wages-Casual,705,8743161.16,8743161.16,-,8741736.52,1424.64
+CEO- Motorpool Division- Personal Services,PERA,711,268000,268000,-,264000,4000
+CEO- Motorpool Division- Personal Services,Clothing Allowance,715,52000,52000,-,44000,8000
+CEO- Motorpool Division- Personal Services,Overtime and Night Pay,723,550000,550000,-,549153.86,846.14
+CEO- Motorpool Division- Personal Services,Cash Gift,724,55000,55000,-,55000,-
+CEO- Motorpool Division- Personal Services,Year- End Bonus,725,173680,173680,-,172853,827
+CEO- Motorpool Division- Personal Services,Life and Retirement Insurance Contributions,731,253321.32,253321.32,-,248954.33,4366.99
+CEO- Motorpool Division- Personal Services,PAG-IBIG Contributions,732,13400,13400,-,13200,200
+CEO- Motorpool Division- Personal Services,PHILHEALTH Contributions,733,24462.5,24462.5,-,24137.5,325
+CEO- Motorpool Division- Personal Services,ECC Contributions,734,13400,13400,-,13200,200
+CEO- Motorpool Division- Maintenance and Other Operating Expenses,-,-,56760765.68,56760765.68,-,56434740.73,326024.95
+CEO- Motorpool Division- Maintenance and Other Operating Expenses,Gasoline Expenses,761,26990383.18,26990383.18,-,26774858.95,215524.23
+CEO- Motorpool Division- Maintenance and Other Operating Expenses,Oil and Lubricants,761,1500000,1500000,-,1485714.73,14285.27
+CEO- Motorpool Division- Maintenance and Other Operating Expenses,Other Supplies Expense,765,24400,24400,-,19330,5070
+CEO- Motorpool Division- Maintenance and Other Operating Expenses,Telephone Expenses-Landline,772,12000,12000,-,11921.9,78.1
+CEO- Motorpool Division- Maintenance and Other Operating Expenses,Repair and Maintenance - Construction and Heavy Equipment,830,28033982.5,28033982.5,-,27979926.15,54056.35
+CEO- Motorpool Division- Maintenance and Other Operating Expenses,Repair and Maintenance - Motor Vehicles,841,100000,100000,-,91779,8221
+CEO- Motorpool Division- Maintenance and Other Operating Expenses,"Repair and Maintenance - Water Treatment Facilities at Motorpool Compound, Tipaz, Mag. East (Reference number:0092-02-12)",854,100000,100000,-,71210,28790
+CEO- Motorpool Division- Capital Outlay,-,-,1626658.24,1626658.24,-,1554072,72586.24
+CEO- Motorpool Division- Capital Outlay,Construction and Heavy Equipment,230,-,-,-,-,-
+CEO- Motorpool Division- Capital Outlay,Construction and Heavy Equipment- Lathe Machine,-,-,-,-,-,-
+CEO- Motorpool Division- Capital Outlay,Development of Motorpool,215,1626658.24,1626658.24,-,1554072,72586.24
+CEO- Motorpool Division- Capital Outlay,"Fab. Or Installation of Band Saw and Welding Shop, Motorpool, Brgy. East (Reference number: 0091-02-12)",-,-,1500000,-,1498793,1207
+CEO- Motorpool Division- Capital Outlay,"Development of Motorpool, Motorpool, Brgy. East (Reference number: 0177-05-12)",-,-,126658.24,-,55279,71379.24
+CEO- Building and Industrial Safety Division,-,8756,2295248,2295248,-,2221639.27,73608.73
+CEO- Building and Industrial Safety Division- Personal Services,-,-,2098548,2098548,-,2087655.78,10892.22
+CEO- Building and Industrial Safety Division- Personal Services,Salaries and Wages-Regular,701,1584186,1584186,-,1576821.02,7364.98
+CEO- Building and Industrial Safety Division- Personal Services,PERA,711,114000,114000,-,112000,2000
+CEO- Building and Industrial Safety Division- Personal Services,Clothing Allowance,715,16000,16000,-,16000,-
+CEO- Building and Industrial Safety Division- Personal Services,Cash Gift,724,25000,25000,-,25000,-
+CEO- Building and Industrial Safety Division- Personal Services,Year- End Bonus,725,139634,139634,-,138976,658
+CEO- Building and Industrial Safety Division- Personal Services,Life and Retirement Insurance,731,190103,190103,-,189233.76,869.24
+CEO- Building and Industrial Safety Division- Personal Services,PAG-IBIG Contributions,732,5700,5700,-,5700,-
+CEO- Building and Industrial Safety Division- Personal Services,PHILHEALTH Contributions,733,18225,18225,-,18225,-
+CEO- Building and Industrial Safety Division- Personal Services,ECC Contributions,734,5700,5700,-,5700,-
+CEO- Building and Industrial Safety Division- Maintenance and Other Operating Expenses,-,-,196700,196700,-,133983.49,62716.51
+CEO- Building and Industrial Safety Division- Maintenance and Other Operating Expenses,Gasoline Expenses,761,180000,180000,-,126362.25,53637.75
+CEO- Building and Industrial Safety Division- Maintenance and Other Operating Expenses,Postage and Deliveries,771,5000,5000,-,115,4885
+CEO- Building and Industrial Safety Division- Maintenance and Other Operating Expenses,Telephone Expense-Landline,772,7600,7600,-,7506.24,93.76
+CEO- Building and Industrial Safety Division- Maintenance and Other Operating Expenses,"Membership, Dues and Contribution to Organization",778,4100,4100,-,-,4100
+CEO- Industrial Plant Division,-,8757,5275313.14,5275313.14,-,4996417.06,278896.08
+CEO- Industrial Plant Division- Personal Services,-,-,3573313.14,3573313.14,-,3522278.29,51034.85
+CEO- Industrial Plant Division- Personal Services,Salaries and Wages-Regular,701,1352169,1352169,-,1339546.64,12622.36
+CEO- Industrial Plant Division- Personal Services,Salaries and Wages-Casual,705,1048993.2,1048993.2,-,1038116.32,10876.88
+CEO- Industrial Plant Division- Personal Services,PERA,711,122000,122000,-,120000,2000
+CEO- Industrial Plant Division- Personal Services,Clothing Allowance,715,24000,24000,-,20000,4000
+CEO- Industrial Plant Division- Personal Services,Overtime and Night Pay,723,700000,700000,-,682653.21,17346.79
+CEO- Industrial Plant Division- Personal Services,Cash Gift,724,25000,25000,-,25000,-
+CEO- Industrial Plant Division- Personal Services,Year- End Bonus,725,111528,111528,-,110624,904
+CEO- Industrial Plant Division- Personal Services,Life and Retirement Insurance,731,162260.44,162260.44,-,159338.12,2922.32
+CEO- Industrial Plant Division- Personal Services,PAG-IBIG Contributions,732,6100,6100,-,6000,100
+CEO- Industrial Plant Division- Personal Services,PHILHEALTH Contributions,733,15162.5,15162.5,-,15000,162.5
+CEO- Industrial Plant Division- Personal Services,ECC Contributions,734,6100,6100,-,6000,100
+CEO- Industrial Plant Division- Maintenance and Other Operating Expenses,-,-,712000,712000,-,484138.77,227861.23
+CEO- Industrial Plant Division- Maintenance and Other Operating Expenses,Gasoline Expenses,761,264000,264000,-,97674.18,166325.82
+CEO- Industrial Plant Division- Maintenance and Other Operating Expenses,Telephone Expense-Landline,772,6000,6000,-,1377.6,4622.4
+CEO- Industrial Plant Division- Maintenance and Other Operating Expenses,"Membership, Dues and Contribution to Organization",778,2000,2000,-,-,2000
+CEO- Industrial Plant Division- Maintenance and Other Operating Expenses,"Repairs and Maintenance - Asphalt Plant at Motorpool Completion Tipaz, Mag. East (Reference number: 042-01-12)",815,440000,440000,-,385086.99,54913.01
+CEO- Industrial Plant Division- Capital Outlay,-,-,990000,990000,-,990000,-
+CEO- Industrial Plant Division- Capital Outlay,Other Machineries and Equipment- Laboratory Equipment,240,990000,990000,-,990000,-
+Statutory and Mandatory Obligation- 5% Calamity Fund,-,9919,42662732.97,42662732.97,-,41556758.69,1105974.28
+Statutory and Mandatory Obligation- Maintenance and Other Operating Expenses,-,-,12582954.74,12582954.74,-,12582954.74,-
+Statutory and Mandatory Obligation- Maintenance and Other Operating Expenses,Other Maintenance and Operating Expenses,969,12211497,12211497,-,12211497,-
+Statutory and Mandatory Obligation- Maintenance and Other Operating Expenses,Quick Response Fund,969,371457.74,371457.74,-,371457.74,-
+Statutory and Mandatory Obligation- Capital Outlay,-,-,30079778.23,30079778.23,-,28973803.95,1105974.28
+Statutory and Mandatory Obligation- Capital Outlay,Construction or Rehabilitation and CHB Lining of Drainage,255,30079778.23,30079778.23,-,28973803.95,1105974.28
+Statutory and Mandatory Obligation- Capital Outlay,Brgy. Bincungan (Reference number: 0097-02-12 ),-,-,1000000,-,968565,31435
+Statutory and Mandatory Obligation- Capital Outlay,"Infront of Luis Lina E/S, Brgy. Canocotan (Reference number:0106-03-12)",-,-,350000,-,350000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Purok Café, Brgy. Visayan Village (Reference number: 0107-03-12)",-,-,300000,-,300000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Cervantes, Brgy. Magugpo South (Reference number: 0108-03-12)",-,-,100000,-,100000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Mel Village, Brgy. Visayan Village (Reference number: 0109-03-12)",-,-,300000,-,300000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Purok Macopa, Brgy. Visayan Village (Reference number: 0110-03-12)",-,-,165000,-,165000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Magugpo Creek, Brgy. Mag. Poblacion (Reference number: 0111-03-12)",-,-,1000000,-,1000000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Purok 4 (near Suaybaguio Rina E/S),Brgy. La Filipina(Reference number:0112-03-12)",-,-,300000,-,300000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Mag. Creek,Corsini to STI(sa Tabing Ilog), Brgy. Magugpo Poblacion ( Reference number: 0113-03-12 )",-,-,1000000,-,1000000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Purok1 (Highway), Brgy Canocotan (Reference number: 0114-03-12)",-,-,1000000,-,1000000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Sison Subd. (Main Road), Brgy. Mag. South (Reference number:0115-03-12)",-,-,300000,-,300000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Near Brgy. Hall, Brgy.La Filipina ( Reference number: 0116-03-12)",-,-,500000,-,500000,-
+Statutory and Mandatory Obligation- Capital Outlay,"City Homes-Tipaz, Brgy. Mag. East (Reference number: 0118-03-12)",-,-,1000000,-,1000000,-
+Statutory and Mandatory Obligation- Capital Outlay,Ramos St. (To Bishop Regan Hospital-Left Side) Brgy. Mag. East ( Reference number: 0119-03-12 ),-,-,275000,-,275000,-
+Statutory and Mandatory Obligation- Capital Outlay,Rabe Subd. (along Rama Residence)Brgy. Visayan Village Reference number: 0123-03-12,-,-,160000,-,160000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Purok Sampaguita (Road 3), Brgy. Mag. West (Reference number: 0125-03-12)",-,-,260000,-,260000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Timog Road-Purok Pioneer Road (Back of Camella Homes), Brgy. Visayan Village ( Reference number: 0126-03-12 )",-,-,500000,-,500000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Purok 56 to DANECO Office,Brgy. Mag. East (Reference number: 0136-04-12)",-,-,225000,-,225000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Purok 6 (Palmera), Brgy. San Isidro (Reference number: 0137-04-12)",-,-,173000,-,173000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Purok 3D-Abatayo Compound, Brgy San Miguel(Reference number:0138-04-12)",-,-,500000,-,500000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Nat'l H-way (Along G-Mall to Conpinco Bldg. to Jollibee Crossing,Brgy. Mag. East ( Reference number: 0139-04-12 )",-,-,750000,-,750000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Boundary Purok Cogon, Brgy. San Miguel, Brgy. Visayan Village ( Reference number: 0140-04-12 )",-,-,500000,-,500000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Villa Margarita, Brgy. Mankilam (Reference number: 0141-04-12)",-,-,300000,-,300000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Magugpo Creek, Near Rizal Elem Sch., Brgy. Mag. South Reference number: 0142-04-12",-,-,1000000,-,818401.08,181598.92
+Statutory and Mandatory Obligation- Capital Outlay,"Purok 3, Brgy. Busaon ( Reference number: 0149-04-12 )",-,-,500000,-,500000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Sitio Talaba, Brgy. Bincungan (Reference number: 0151-04-12)",-,-,2000000,-,2000000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Cristo Rey Subd., Brgy. Mag. West (Reference number: 0152-04-12)",-,-,300000,-,300000,-
+Statutory and Mandatory Obligation- Capital Outlay,Greenland Subd. Brgy. Mankliam (Reference number: 0153-04-12),-,-,300000,-,300000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Along Bernardo Concepcion Lot to Glorious Property, Brgy. La Filipina ( Reference number: 0154-04-12 )",-,-,1000000,-,1000000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Dredging of Madaum River, Brgy. Madaum Reference number: 0133A-03-12",-,-,500000,-,451326.57,48673.43
+Statutory and Mandatory Obligation- Capital Outlay,"Purok Pinya, Northeagle, brgy. Visayan Village Reference number: 0163-05-12",-,-,300000,-,300000,-
+Statutory and Mandatory Obligation- Capital Outlay,"DANECO Subd., Brgy. Mag. East (Reference number: 0165-05-12)",-,-,200000,-,200000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Purok Garcia-Purok Bautista,, Brgy. Mankilam Reference number: 0169-05-12",-,-,300000,-,300000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Gazmen Road to Purok Talisay, Brgy. La Filipina Reference number: 0170-05-12",-,-,500000,-,500000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Marquez Road (near San Lorenzo Ruiz Academy), Brgy. Apokon ( Reference number: 0173-05-12)",-,-,335000,-,239310,95690
+Statutory and Mandatory Obligation- Capital Outlay,"Purok Buli to Cogon, Brgy. Visayan Village Reference number: 0174-05-12",-,-,300000,-,300000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Purok Lemonsito to Purok Garcia, Brgy. Mankilam Reference number: 0183-05-12",-,-,500000,-,500000,-
+Statutory and Mandatory Obligation- Capital Outlay,"New City Hall (Hijo River), Brgy. Apokon Reference number: 0184-05-12",-,-,2000000,-,1957726.85,42273.15
+Statutory and Mandatory Obligation- Capital Outlay,"Purok Pagbati or Pagmamahal, Brgy. Visayan Village Reference number: 0185-05-12",-,-,100000,-,100000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Dredgeing of Madaum River, Brgy. Madaum ( Reference number: 188-05-12 )",-,-,999640,-,934132.9,65507.1
+Statutory and Mandatory Obligation- Capital Outlay,"Purok 4 (Back of PNP Sub-Station), Brgy. San Miguel Reference number: 208-06-12",-,-,500000,-,500000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Purok Sunshine, Brgy. Visayan Village (Reference number: 209-06-12)",-,-,300000,-,300000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Liboganon Road, Brgy. Liboganon (Reference number: 096-02-12",-,-,1000000,-,924600.25,75399.75
+Statutory and Mandatory Obligation- Capital Outlay,Nat'l H-way Across Brgy Hall(Magdum) (Reference number: 212-07-12),-,-,100000,-,100000,-
+Statutory and Mandatory Obligation- Capital Outlay,"St. Therese, Brgy. Cuambogan (Reference number: 213-07-12)",-,-,500000,-,500000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Purok Durian, Brgy. Mankilam (Reference number:214-07-12)",-,-,200000,-,200000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Purok Katipunan, Brgy. Madaum (Reference number: 215-07-12)",-,-,500000,-,500000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Desilting of Liboganon River Sitio Talaba, Brgy. Bincungan Reference number: 216-07-12",-,-,400000,-,342025,57975
+Statutory and Mandatory Obligation- Capital Outlay,"Purok Magsanoc, Brgy. Mankilam( Reference number: 218-07-12 )",-,-,200000,-,200000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Country Homes, Brgy. Mankilam (Reference number: 219-07-12)",-,-,600000,-,600000,-
+Statutory and Mandatory Obligation- Capital Outlay,"Nat'l H-way (NBI Office), Brgy. Visayan Village Reference number: 217-07-12",-,-,280000,-,132468,147532
+Statutory and Mandatory Obligation- Capital Outlay,"Gemini Subd., Brgy. Apokon (Reference number: 246-09-12)",-,-,108954.49,-,105714.28,3240.21
+Statutory and Mandatory Obligation- Capital Outlay,"Sobrecarey Nat'l H-way, Brgy. Visayan Village Reference number: 272-10-12",-,-,1020000,-,804016,215984
+Statutory and Mandatory Obligation- Capital Outlay,"Nat'l. H-way (along Perez Bldg.), Brgy. Visayan Village Reference number: 271-10-12",-,-,300000,-,235673,64327
+Statutory and Mandatory Obligation- Capital Outlay,"Sison, Brgy. Mag. South ( Reference number: 287-11-12 )",-,-,121298,-,108362.6,12935.4
+Statutory and Mandatory Obligation- Capital Outlay,"Basco, Brgy. Mag. South (Reference number: 288-11-12 )",-,-,121298,-,110778.28,10519.72
+Statutory and Mandatory Obligation- Capital Outlay,"Beside DANECO Office, Brgy. Mag. East (Reference number: 289-11-12)",-,-,168000,-,146101.4,21898.6
+Statutory and Mandatory Obligation- Capital Outlay,Purok 5 Apokon ( Reference number: 307-11-12 ),-,-,100000,-,69015,30985
+Statutory and Mandatory Obligation- Capital Outlay,Construction or Rehabilitation of Drainage,-,-,1467587.74,-,1467587.74,-
+MPBF,-,9931,12970585,12920585,50000,12318723.68,601861.32
+MPBF- Personal Services,-,-,12970585,12920585,50000,12318723.68,601861.32
+MPBF- Personal Services,Lumpsum Appro for Reorganization,701,-,-,-,-,-
+MPBF- Personal Services,Productivity Incentive Allowance,717,1099585,1099585,-,1068000,31585
+MPBF- Personal Services,Pensions and Retirement Benefits,740,-,-,-,-,-
+MPBF- Personal Services,Terminal Leave Benefits,742,3000000,3000000,-,2857902.74,142097.26
+MPBF- Personal Services,Loyalty Pay,749,460000,460000,-,415000,45000
+MPBF- Personal Services,Maternity Leave Benefits,749,50000,-,50000,-,-
+MPBF- Personal Services,Monetization of Leave Credits,749,4000000,4000000,-,3628020.94,371979.06
+MPBF- Personal Services,Extra Hazard Premium,749,-,-,-,-,-
+MPBF- Personal Services,Productivity Enhancement Incentive,749,4361000,4361000,-,4349800,11200
+Aid to Barangays,-,9995,2630000,2630000,-,2630000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,-,-,2630000,2630000,-,2630000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations,874,-,-,-,-,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Bincungan,-,50000,50000,-,50000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Busaon,-,50000,50000,-,50000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Canocotan,-,50000,50000,-,50000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Cuambugan,-,50000,50000,-,50000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Liboganon,-,50000,50000,-,50000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- New Balamban,-,50000,50000,-,50000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Nueva Fuerza,-,50000,50000,-,50000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Pagsabangan,-,50000,50000,-,50000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Pandapan,-,50000,50000,-,50000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- San Agustin,-,50000,50000,-,50000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- San Isidro,-,50000,50000,-,50000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- La Filipina,-,25000,25000,-,25000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Magdum,-,25000,25000,-,25000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- San Miguel,-,25000,25000,-,25000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Magugpo East,-,500000,500000,-,500000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Magugpo West,-,500000,500000,-,500000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Magugpo North,-,500000,500000,-,500000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Magugpo South,-,500000,500000,-,500000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Apokon,-,1000,1000,-,1000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Madaum,-,1000,1000,-,1000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Mankilam,-,1000,1000,-,1000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Visayan Village,-,1000,1000,-,1000,-
+Aid to Barangays- Maintenance and Other Operating Expenses,Donations- Magugpo Poblacion,-,1000,1000,-,1000,-
+Asphalt and Concrete Batching Plant,-,8859,30000000,6446652.72,23553347.28,6405774.22,40878.5
+Asphalt and Concrete Batching Plant- Maintenance and Other Operating Expenses,-,-,-,6446652.72,23553347.28,6405774.22,40878.5
+Asphalt and Concrete Batching Plant- Maintenance and Other Operating Expenses,Cost of Construction,-,-,-,-,-,-
+Asphalt and Concrete Batching Plant- Maintenance and Other Operating Expenses,Other Maintenance and Operating Expenses,969,-,-,-,-,-
+Asphalt and Concrete Batching Plant- Maintenance and Other Operating Expenses,"Asphalt Overlay along Daang Maharlika Road ( Carmen-Panabo Section ), Panabo City (Reference number: 001-01-12_",-,-,4078691,-,4074853.07,3837.93
+Asphalt and Concrete Batching Plant- Maintenance and Other Operating Expenses,"Asphalt Overlay or Repair and Rehab of Daang Maharlika ( Carmen - Guadalupe Sec ), Carmen, Davao del Norte (Reference number: 0146-04-12)",-,-,445987.7,-,445939.4,48.3
+Asphalt and Concrete Batching Plant- Maintenance and Other Operating Expenses,"Repair or Rehabilitation Of Daang Maharlika Rd. (Guadalupe Sec.) Carmen, Davao del Norte ( Reference number: 207-06-12 )",-,-,1882240,-,1845881.75,36358.25
+Asphalt and Concrete Batching Plant- Maintenance and Other Operating Expenses,Asphalting of roads at Brgy. Manambulan ( Rd. Going sub-office of D.A. Region) Tugbok District (Reference number: 223-07-12),-,-,39734.02,-,39100,634.02
+Total General Fund Proper,-,-,866638223.4,831422312.1,35215911.36,578662067.3,252760244.8
+Locally Funded Projects,-,-,-,-,-,-,-
+Office of the City Mayor,-,1011,81545280.28,81115280.28,430000,76358484.16,4756796.12
+Office of the City Mayor- Quick Response Fund,-,-,300000,300000,-,300000,-
+Office of the City Mayor- Quick Response Fund,Other Maintenance and Operating Expenses,969,300000,300000,-,300000,-
+Office of the City Mayor- Tri- Media Fund,-,-,375630.17,375630.17,-,299540,76090.17
+Office of the City Mayor- Tri- Media Fund,Traveling Expenses,751,40000,40000,-,3945,36055
+Office of the City Mayor- Tri- Media Fund,"Cable, Satelite and Radio Expenses",775,315630.17,315630.17,-,282975,32655.17
+Office of the City Mayor- Tri- Media Fund,Other Maintenance and Operating Expenses,969,20000,20000,-,12620,7380
+Office of the City Mayor- Civic Action Program,-,-,200000,200000,-,108076,91924
+Office of the City Mayor- Civic Action Program,Other Maintenance and Operating Expenses,969,200000,200000,-,108076,91924
+Office of the City Mayor- Local Health Board,-,-,281000,281000,-,271006,9994
+Office of the City Mayor- Local Health Board,Traveling Expenses,751,10000,10000,-,9686,314
+Office of the City Mayor- Local Health Board,Training Expenses,753,30000,30000,-,29920,80
+Office of the City Mayor- Local Health Board,Office Supplies Expense,755,5000,5000,-,-,5000
+Office of the City Mayor- Local Health Board,Donations,878,221000,221000,-,217000,4000
+Office of the City Mayor- Local Health Board,Other Maintenance and Operating Expenses,969,15000,15000,-,14400,600
+Office of the City Mayor- Cultural Program,-,-,322000,322000,-,310000,12000
+Office of the City Mayor- Cultural Program,Other Maintenance and Operating Expenses,969,322000,322000,-,310000,12000
+Office of the City Mayor- Musical Programs,-,-,635000,635000,-,608520,26480
+Office of the City Mayor- Musical Programs,Musical Instrument,250,635000,635000,-,608520,26480
+Office of the City Mayor- Minimum Basic Needs,-,-,2903538,2903538,-,2769911.8,133626.2
+Office of the City Mayor- Minimum Basic Needs,Donations,878,2903538,2903538,-,2769911.8,133626.2
+Office of the City Mayor- Operationalization of City Cooperative Developent Council (CCDC),-,-,46000,46000,-,45104,896
+Office of the City Mayor- Operationalization of City Cooperative Developent Council (CCDC),Office Supplies Expenses,755,20000,20000,-,19104,896
+Office of the City Mayor- Operationalization of City Cooperative Developent Council (CCDC),Other Maintenance and Operating Expenses,969,26000,26000,-,26000,-
+Office of the City Mayor- COOP Month Celebration,-,-,100000,100000,-,99905,95
+Office of the City Mayor- COOP Month Celebration,Other Maintenance and Operating Expenses,969,100000,100000,-,99905,95
+Office of the City Mayor- Reorganization Fund,-,-,100000,100000,-,70000,30000
+Office of the City Mayor- Reorganization Fund,Other Maintenance and Operating Expenses,969,100000,100000,-,70000,30000
+Office of the City Mayor- Operationalization of the City Appraisal Committee,-,-,50000,50000,-,19000,31000
+Office of the City Mayor- Operationalization of the City Appraisal Committee,Other Maintenance and Operating Expenses,969,50000,50000,-,19000,31000
+Office of the City Mayor- Operationalization on Housing Program,-,-,50000,50000,-,38400,11600
+Office of the City Mayor- Operationalization on Housing Program,Other Maintenance and Operating Expenses,969,50000,50000,-,38400,11600
+Office of the City Mayor- Operationalization Of GAD Council,-,-,100000,50000,50000,49860,140
+Office of the City Mayor- Operationalization Of GAD Council,Other Maintenance and Operating Expenses,969,100000,50000,50000,49860,140
+Office of the City Mayor- Consumer's Welfare Program,-,-,50000,50000,-,49795,205
+Office of the City Mayor- Consumer's Welfare Program,Other Maintenance and Operating Expense,969,50000,50000,-,49795,205
+Office of the City Mayor- Executive Legislative Agenda Development,-,-,300000,100000,200000,85186,14814
+Office of the City Mayor- Executive Legislative Agenda Development,Other Maintenance and Operating Expenses,969,300000,100000,200000,85186,14814
+Office of the City Mayor- Sports Development Program,-,-,2400837.73,2400837.73,-,2356276.47,44561.26
+Office of the City Mayor- Sports Development Program,Traveling Expenses,751,20000,20000,-,20000,-
+Office of the City Mayor- Sports Development Program,Training Expenses,753,30000,30000,-,30000,-
+Office of the City Mayor- Sports Development Program,Office Supplies Expenses,755,89958,89958,-,89956.5,1.5
+Office of the City Mayor- Sports Development Program,Gasoline Expenses,761,30000,30000,-,13456.97,16543.03
+Office of the City Mayor- Sports Development Program,Internet Expenses,774,-,-,-,-,-
+Office of the City Mayor- Sports Development Program,Other Supplies Expenses,765,1150879.73,1150879.73,-,1146016,4863.73
+Office of the City Mayor- Sports Development Program,Repair and Maintenance Of Sports Facilities or Equipment,835,50000,50000,-,49866,134
+Office of the City Mayor- Sports Development Program,Other Maintenance and Operating Exp,969,1030000,1030000,-,1006981,23019
+Office of the City Mayor- Batang Pinoy Sportsfest,-,-,70000,70000,-,66500,3500
+Office of the City Mayor- Batang Pinoy Sportsfest,Other Maintenance and Operating Expenses,969,70000,70000,-,66500,3500
+Office of the City Mayor- Araw ng Tagum Sports Activities,-,-,500000,500000,-,394774.58,105225.42
+Office of the City Mayor- Araw ng Tagum Sports Activities,Other Maintenance Operating Expenses,969,500000,500000,-,394774.58,105225.42
+Office of the City Mayor- Barangay Sports Activities,-,-,500000,500000,-,487154.54,12845.46
+Office of the City Mayor- Barangay Sports Activities,Other Maintenance Operating Expenses,969,500000,500000,-,487154.54,12845.46
+Office of the City Mayor- Nutrition Month Celebration,-,-,100000,100000,-,99996,4
+Office of the City Mayor- Nutrition Month Celebration,Other Maintenance and Operating Expenses,969,100000,100000,-,99996,4
+Office of the City Mayor- Women's Day Celebration,-,-,150000,150000,-,150000,-
+Office of the City Mayor- Women's Day Celebration,Other Maintenance and Operating Expenses,969,150000,150000,-,150000,-
+Office of the City Mayor- New Years Day Celebration,-,-,400000,400000,-,400000,-
+Office of the City Mayor- New Years Day Celebration,Other Maintenace and Operating Expenses,969,400000,400000,-,400000,-
+Office of the City Mayor- Franchising and Regulatory Board,-,-,132000,132000,-,132000,-
+Office of the City Mayor- Franchising and Regulatory Board,Other Maintenace and Operating Expenses,969,132000,132000,-,132000,-
+Office of the City Mayor- Shelter Assistance Program,-,-,2900000,2900000,-,2838136.62,61863.38
+Office of the City Mayor- Shelter Assistance Program,Donations,878,2900000,2900000,-,2838136.62,61863.38
+Office of the City Mayor- RCEP Program,-,-,6491000,6491000,-,4840158.62,1650841.38
+Office of the City Mayor- RCEP Program,Gasoline Expense,761,1000000,1000000,-,95400,904600
+Office of the City Mayor- RCEP Program,Agricultural Supplies Expenses,762,1850000,1850000,-,1713842.95,136157.05
+Office of the City Mayor- RCEP Program,Other Supplies Expenses,765,100000,100000,-,46490,53510
+Office of the City Mayor- RCEP Program,General Services,795,1091000,1091000,-,1007653.21,83346.79
+Office of the City Mayor- RCEP Program,Other Maintenace and Operating Expenses,969,100000,100000,-,95705,4295
+Office of the City Mayor- RCEP Program,Capital Outlay- Dev't of San Agustin Eco Park,252,2000000,2000000,-,1587397.46,412602.54
+Office of the City Mayor- RCEP Program,Capital Outlay- (Reference number: 104-02-12),-,-,1000000,-,925903.46,74096.54
+Office of the City Mayor- RCEP Program,Capital Outlay- (Reference number: 252-09-12),-,-,1000000,-,661494,338506
+Office of the City Mayor- RCEP Program,Capital Outlay- Motorcycle,241,250000,250000,-,250000,-
+Office of the City Mayor- RCEP Program,"Capital Outlay- Other Property, Plant and Equipment",250,100000,100000,-,43670,56330
+Office of the City Mayor- Youth Development Program,-,-,115000,115000,-,50465,64535
+Office of the City Mayor- Youth Development Program,Traveling Expenses,751,20000,20000,-,18930,1070
+Office of the City Mayor- Youth Development Program,Training Expenses,753,20000,20000,-,11536,8464
+Office of the City Mayor- Youth Development Program,Office Supplies Expenses,755,15000,15000,-,-,15000
+Office of the City Mayor- Youth Development Program,Gasoline Expense,761,30000,30000,-,14999,15001
+Office of the City Mayor- Youth Development Program,Other Maintenace and Operating Expenses,969,30000,30000,-,5000,25000
+Office of the City Mayor- Non - Formal Education-Literacy Program,-,-,150000,150000,-,144160,5840
+Office of the City Mayor- Non - Formal Education-Literacy Program,Other Maintenace and Operating Expenses,969,150000,150000,-,144160,5840
+Office of the City Mayor- Musical Literacy Program,-,-,800000,800000,-,786715,13285
+Office of the City Mayor- Musical Literacy Program,Other Maintenance and Operating Expenses,969,800000,800000,-,786715,13285
+Office of the City Mayor- Ciy Vocational or Technical Educational Scholarship Program (CIVOTESPRO),-,-,1500000,1500000,-,1495937,4063
+Office of the City Mayor- Ciy Vocational or Technical Educational Scholarship Program (CIVOTESPRO),Scholarship Expenses,754,1500000,1500000,-,1495937,4063
+Office of the City Mayor- Skills Training Program,-,-,500000,500000,-,450820,49180
+Office of the City Mayor- Skills Training Program,Training Expenses,753,500000,500000,-,450820,49180
+Office of the City Mayor- SPES Program,-,-,500000,500000,-,452970.3,47029.7
+Office of the City Mayor- SPES Program,Other Maintenance and Operating Expenses,969,500000,500000,-,452970.3,47029.7
+Office of the City Mayor- Tagum Eye Care Program,-,-,300000,300000,-,300000,-
+Office of the City Mayor- Tagum Eye Care Program,Other Maintenance and Operating Expenses,969,300000,300000,-,300000,-
+Bowling Tournament (National),-,-,400000,400000,-,394000,6000
+Bowling Tournament (National),Other Maintenance and Operating Expenses,969,400000,400000,-,394000,6000
+Peace and Order Fund: Development Of Police or Military Camp,-,215,2000000,1820000,180000,1618212.01,201787.99
+Peace and Order Fund: Development Of Police or Military Camp,Brgy. San Agustin  Reference number: 087-02-12 ),-,-,80000,-,52497,27503
+Peace and Order Fund: Development Of Police or Military Camp,10th Infantry Division (Reference number: 0122-03-12),-,-,240000,-,230342,9658
+Peace and Order Fund: Development Of Police or Military Camp,10th Infantry Division - Camp Agila (Reference number: 232-07-12),-,-,1000000,-,959027.01,40972.99
+Peace and Order Fund: Development Of Police or Military Camp,(Cons't. of Armory) 60th Infantry Batallion (Reference number: 266-09-12),-,-,500000,-,376346,123654
+Peace and Order Fund: Inter- Agency Program,-,-,25214300.23,25214300.23,-,25159966.33,54333.9
+Peace and Order Fund: Inter- Agency Program,Food Supplies Expense,758,1000000,1000000,-,948750,51250
+Peace and Order Fund: Inter- Agency Program,General Services,795,24214300.23,24214300.23,-,24211216.33,3083.9
+Peace and Order Fund: Security Program,-,-,17740911.97,17740911.97,-,17362433.58,378478.39
+Peace and Order Fund: Security Program,Security Services,797,17740911.97,17740911.97,-,17362433.58,378478.39
+Peace and Order Fund: Peacekeepers Mobilization Fund,-,-,1380000,1380000,-,1379985,15
+Peace and Order Fund: Peacekeepers Mobilization Fund,Other Maintenance and Other Operating Expenses,969,1380000,1380000,-,1379985,15
+Peace and Order Fund: Subsidy to Parole and Probation Office,-,-,119000,119000,-,116279.28,2720.72
+Peace and Order Fund: Subsidy to Parole and Probation Office,Donations,878,100000,100000,-,97279.28,2720.72
+Peace and Order Fund: Subsidy to Parole and Probation Office,Other Maintenance and Operaing Expenses,969,19000,19000,-,19000,-
+Peace and Order Fund: Operationalization of PNP Sub Station,-,-,274800,274800,-,72000,202800
+Peace and Order Fund: Operationalization of PNP Sub Station,Food SuppliesExpenses,758,120000,120000,-,64800,55200
+Peace and Order Fund: Operationalization of PNP Sub Station,Gasoline Expenses,761,130800,130800,-,-,130800
+Peace and Order Fund: Operationalization of PNP Sub Station,Telephone Expense-Mobile,773,12000,12000,-,7200,4800
+Peace and Order Fund: Operationalization of PNP Sub Station,Other Maintenance and Operating Expenses,969,12000,12000,-,-,12000
+Peace and Order Fund: Operationalization of City Peace and Order,-,-,3752560,3752560,-,2726180.78,1026379.22
+Peace and Order Fund: Operationalization of City Peace and Order,Traveling Expenses,751,50000,50000,-,39517.12,10482.88
+Peace and Order Fund: Operationalization of City Peace and Order,Training Expenses,753,140000,140000,-,139631.76,368.24
+Peace and Order Fund: Operationalization of City Peace and Order,Office Supplies Expenses,755,85000,85000,-,1863,83137
+Peace and Order Fund: Operationalization of City Peace and Order,Gasoline Expenses,761,2622400,2622400,-,1805818.09,816581.91
+Peace and Order Fund: Operationalization of City Peace and Order,Other Supplies Expenses,765,30000,30000,-,-,30000
+Peace and Order Fund: Operationalization of City Peace and Order,Telephone Expense-Landline,772,54000,54000,-,18256.81,35743.19
+Peace and Order Fund: Operationalization of City Peace and Order,Other Maintenance and Operating Expenses,969,771160,771160,-,721094,50066
+Peace and Order Fund: Operation of City Disaster Risk Reduction Management Council ( CDRRMC ),-,-,200000,200000,-,164495.16,35504.84
+Peace and Order Fund: Operation of City Disaster Risk Reduction Management Council ( CDRRMC ),Other Maintenance And Operating Expenses,969,200000,200000,-,164495.16,35504.84
+Peace and Order Fund: Children Welfare Program,-,-,704630.75,704630.75,-,688606.25,16024.5
+Peace and Order Fund: Children Welfare Program,Other Maintenance and Operating Expenses,969,704630.75,704630.75,-,688606.25,16024.5
+Peace and Order Fund: Security Fund Program,-,878,6307071.43,6307071.43,-,6035302.58,271768.85
+Peace and Order Fund: Security Fund Program,Food Supplies Expenses,758,300000,300000,-,268866.15,31133.85
+Peace and Order Fund: Security Fund Program,Gasoline Expenses,761,1000000,1000000,-,874815,125185
+Peace and Order Fund: Security Fund Program,Other Maintenance And Operating Expenses,969,100000,100000,-,61990,38010
+Peace and Order Fund: Security Fund Program,Capital Outlay- Communication Equipment,229,500000,500000,-,422560,77440
+Peace and Order Fund: Security Fund Program,Capital Outlay- Military and Police Equipment,234,250000,250000,-,250000,-
+Peace and Order Fund: Security Fund Program,Capital Outlay- Motor Vehicles,241,3474979.43,3474979.43,-,3474979.43,-
+Peace and Order Fund: Security Fund Program,Capital Outlay- Motorcycles,241,682092,682092,-,682092,-
+Peace and Order Fund: Anti- Drug Abuse Program,-,-,130000,130000,-,70655.26,59344.74
+Peace and Order Fund: Anti- Drug Abuse Program,Office Supplies Expenses,755,30000,30000,-,29808.75,191.25
+Peace and Order Fund: Anti- Drug Abuse Program,Gasoline Expenses,761,20000,20000,-,10926.51,9073.49
+Peace and Order Fund: Anti- Drug Abuse Program,Subsidy to Drug Rehabilitation Center,878,50000,50000,-,-,50000
+Peace and Order Fund: Anti- Drug Abuse Program,Other Maintenace and Operating Expenses,969,30000,30000,-,29920,80
+City Investment and Promotion Office,-,1011-2,260000,260000,-,176209.5,83790.5
+City Investment and Promotion Office- Investment Development and Promotions Program,-,-,260000,260000,-,176209.5,83790.5
+City Investment and Promotion Office- Investment Development and Promotions Program,Postage and Deliveries,771,10000,10000,-,-,10000
+City Investment and Promotion Office- Investment Development and Promotions Program,Other Maintenance and Operating Expenses,969,250000,250000,-,176209.5,73790.5
+Office of the City Tourism,-,1011-3,8603280,8603280,-,7617937.67,985342.33
+Office of the City Tourism- Tourism Program,-,-,668280,668280,-,338135,330145
+Office of the City Tourism- Tourism Program,General Services,795,68280,68280,-,-,68280
+Office of the City Tourism- Tourism Program,Other Maintenance and Operating Expenses,969,600000,600000,-,338135,261865
+Office of the City Tourism- Pakaradjan Festival,-,-,200000,200000,-,199807.4,192.6
+Office of the City Tourism- Pakaradjan Festival,Other Maintenance and Operating Expenses,969,200000,200000,-,199807.4,192.6
+Office of the City Tourism- IP's Program,-,-,200000,200000,-,198677,1323
+Office of the City Tourism- IP's Program,Other Maintenance and Operating Expenses,969,200000,200000,-,198677,1323
+Office of the City Tourism- Tagum City Summer Sportsfest,-,-,500000,500000,-,494686.16,5313.84
+Office of the City Tourism- Tagum City Summer Sportsfest,Other Maintenance and Operating Expenses,969,500000,500000,-,494686.16,5313.84
+Office of the City Tourism- Parochial Fiesta Sports Activities,-,-,500000,500000,-,493995.5,6004.5
+Office of the City Tourism- Parochial Fiesta Sports Activities,Other Maintenance and Operating Expenses,969,500000,500000,-,493995.5,6004.5
+Office of the City Tourism- Musikahan Festival,-,-,3135000,3135000,-,2823364.44,311635.56
+Office of the City Tourism- Musikahan Festival,Other Maintenance and Operating Expenses,969,3135000,3135000,-,2823364.44,311635.56
+Office of the City Tourism- Araw ng Tagum Celebration,-,-,300000,300000,-,295950,4050
+Office of the City Tourism- Araw ng Tagum Celebration,Other Maintenance and Operating Expenses,969,300000,300000,-,295950,4050
+Office of the City Tourism- Musikahan sa Barangay,-,-,200000,200000,-,173000,27000
+Office of the City Tourism- Musikahan sa Barangay,Other Maintenance Operating Expenses,969,200000,200000,-,173000,27000
+Office of the City Tourism- Binuhat Festival,-,-,300000,300000,-,299814.62,185.38
+Office of the City Tourism- Binuhat Festival,Other Maintenance and Operating Expenses,969,300000,300000,-,299814.62,185.38
+Office of the City Tourism- Durian Festival,-,-,500000,500000,-,496416.97,3583.03
+Office of the City Tourism- Durian Festival,Other Maintenance and Operating Expenses,969,500000,500000,-,496416.97,3583.03
+Office of the City Tourism- Flores de Tagumeno,-,-,200000,200000,-,199933.76,66.24
+Office of the City Tourism- Flores de Tagumeno,Other Maintenance and Operating Expenses,969,200000,200000,-,199933.76,66.24
+Office of the City Tourism- International Children and Youth Football Festival,-,-,1000000,1000000,-,749722.92,250277.08
+Office of the City Tourism- International Children and Youth Football Festival,Other Maintenance and Operating Expenses,969,1000000,1000000,-,749722.92,250277.08
+Office of the City Tourism- Indayog Dance Festival,-,-,300000,300000,-,299942.4,57.6
+Office of the City Tourism- Indayog Dance Festival,Other Maintenance and Operating Expenses,969,300000,300000,-,299942.4,57.6
+Office of the City Tourism- Kaimonan Festival,-,-,200000,200000,-,197885,2115
+Office of the City Tourism- Kaimonan Festival,Other Maintenance and Operating Expenses,969,200000,200000,-,197885,2115
+Office of the City Tourism- Holiday Tree Lighting,-,-,100000,100000,-,99386,614
+Office of the City Tourism- Holiday Tree Lighting,Other Maintenance and Operating Expenses,969,100000,100000,-,99386,614
+Office of the City Tourism- Independence Day Celebration,-,-,100000,100000,-,99000,1000
+Office of the City Tourism- Independence Day Celebration,Other Maintenance and Operating Expenses,969,100000,100000,-,99000,1000
+Office of the City Tourism- Institutionalization of Tourism and Standards,-,-,100000,100000,-,99599.5,400.5
+Office of the City Tourism- Institutionalization of Tourism and Standards,Other Maintenance and Operating Expenses,969,100000,100000,-,99599.5,400.5
+Office of the City Tourism- Tourism Code,-,-,100000,100000,-,58621,41379
+Office of the City Tourism- Tourism Code,Other Maintenance and Operating Expenses,969,100000,100000,-,58621,41379
+Special Community Development Programs Division,-,1011-4,472000,472000,-,438982.15,33017.85
+Special Community Development Programs Division- Grow Micro Program,-,-,250000,250000,-,233943.65,16056.35
+Special Community Development Programs Division- Grow Micro Program,Other Maintenance and Operating Expenses,969,250000,250000,-,233943.65,16056.35
+Special Community Development Programs Division- Jobs Fair Program,-,-,120000,120000,-,113080,6920
+Special Community Development Programs Division- Jobs Fair Program,Other Maintenance and Operating Expenses,969,120000,120000,-,113080,6920
+Special Community Development Programs Division- Special Passporting or Mobile NSO Authentication or Mobile PRC Renewal Program,-,-,102000,102000,-,91958.5,10041.5
+Special Community Development Programs Division- Special Passporting or Mobile NSO Authentication or Mobile PRC Renewal Program,Other Maintenance and Operating Expenses,969,102000,102000,-,91958.5,10041.5
+Office of the City Vice- Mayor,-,1016,600000,600000,-,568261.26,31738.74
+Office of the City Vice- Mayor- Legislative Research Program,-,-,410000,410000,-,378650.23,31349.77
+Office of the City Vice- Mayor- Legislative Research Program,Other Maintenance and Operating Expenses,969,410000,410000,-,378650.23,31349.77
+Office of the City Vice- Mayor- Legislative Publication and Documentation,-,-,90000,90000,-,89930.83,69.17
+Office of the City Vice- Mayor- Legislative Publication and Documentation,Other Maintenance and Operating Expenses,969,90000,90000,-,89930.83,69.17
+Office of the City Vice- Mayor- Operationalization of Legislative Backstopping Unit,-,-,100000,100000,-,99680.2,319.8
+Office of the City Vice- Mayor- Operationalization of Legislative Backstopping Unit,Traveling Expenses,751,20000,20000,-,20000,-
+Office of the City Vice- Mayor- Operationalization of Legislative Backstopping Unit,Training Expenses,753,30000,30000,-,30000,-
+Office of the City Vice- Mayor- Operationalization of Legislative Backstopping Unit,Office Supplies Expenses,755,40000,40000,-,39680.2,319.8
+Office of the City Vice- Mayor- Operationalization of Legislative Backstopping Unit,Other Maintenance and Operating Expenses,969,10000,10000,-,10000,-
+Office of the City Human Resource and Development,-,1032,3054000,3054000,-,2872162.25,181837.75
+Office of the City Human Resource and Development- Personnel Enhancement Program,-,-,1330000,1330000,-,1293327.5,36672.5
+Office of the City Human Resource and Development- Personnel Enhancement Program,Training Expenses (Beneficiaries),753,200000,200000,-,195947.5,4052.5
+Office of the City Human Resource and Development- Personnel Enhancement Program,Donations(Retirees Testimonial Program),878,120000,120000,-,117000,3000
+Office of the City Human Resource and Development- Personnel Enhancement Program,Other Maintenance and Operating Expenses,878,1010000,1010000,-,980380,29620
+Office of the City Human Resource and Development- Burial and or Financial Assistance to Employees,-,-,400000,400000,-,400000,-
+Office of the City Human Resource and Development- Burial and or Financial Assistance to Employees,Donations,878,400000,400000,-,400000,-
+"Office of the City Human Resource and Development- Program and Personnel Mechanism PRAISE, PERC, GM, MPP, SRP",-,-,100000,100000,-,84998.75,15001.25
+"Office of the City Human Resource and Development- Program and Personnel Mechanism PRAISE, PERC, GM, MPP, SRP",Other Maintenance and Operating Expenses,969,100000,100000,-,84998.75,15001.25
+Office of the City Human Resource and Development- Employees Sports Activities,-,-,500000,500000,-,497636,2364
+Office of the City Human Resource and Development- Employees Sports Activities,Other Maintenance and Operating Expenses,969,500000,500000,-,497636,2364
+Office of the City Human Resource and Development- Employees Health Benefit,-,-,200000,200000,-,72200,127800
+Office of the City Human Resource and Development- Employees Health Benefit,Provision for Employees Annual Health Care,-,-,-,-,-,-
+Office of the City Human Resource and Development- Employees Health Benefit,Benefit ( For Permanent or Casual ),-,-,-,-,-,-
+Office of the City Human Resource and Development- Employees Health Benefit,Other Maintenance and Operating Expenses,969,200000,200000,-,72200,127800
+Office of the City Human Resource and Development- Civil Service Month Celebration,-,-,524000,524000,-,524000,-
+Office of the City Human Resource and Development- Civil Service Month Celebration,Other Maintenance and Operating Expenses,969,524000,524000,-,524000,-
+Office of City Planning and Development,-,1041,150000,150000,-,136816.75,13183.25
+Office of City Planning and Development- Revision of Comprehensive Development and Land Use Plan,-,-,50000,50000,-,40720,9280
+Office of City Planning and Development- Revision of Comprehensive Development and Land Use Plan,Other Maintenance and Operating Expenses,969,50000,50000,-,40720,9280
+Office of City Planning and Development- Barangay Planning or Operationalization of CDC,-,-,100000,100000,-,96096.75,3903.25
+Office of City Planning and Development- Barangay Planning or Operationalization of CDC,Other Maintenance and Operating Expenses,-,100000,100000,-,96096.75,3903.25
+Office of the City Local Civil Register,-,1051,235000,235000,-,166985.1,68014.9
+Office of the City Local Civil Register- Barangay Civil Registration System (BCRS),-,-,50000,50000,-,29100,20900
+Office of the City Local Civil Register- Barangay Civil Registration System (BCRS),Training Expenses (of Lister),753,40000,40000,-,26800,13200
+Office of the City Local Civil Register- Barangay Civil Registration System (BCRS),Other Maintenance and Operating Expenses,969,10000,10000,-,2300,7700
+Office of the City Local Civil Register- Simplification of Civil Registry Docs.,-,-,30000,30000,-,15500,14500
+Office of the City Local Civil Register- Simplification of Civil Registry Docs.,Training Expenses (of Lister),753,5000,5000,-,-,5000
+Office of the City Local Civil Register- Simplification of Civil Registry Docs.,Other Maintenance and Operating Expenses,969,25000,25000,-,15500,9500
+Office of the City Local Civil Register- Records Innovation and Development,-,-,30000,30000,-,14291,15709
+Office of the City Local Civil Register- Records Innovation and Development,Office Supplies Expense,753,10000,10000,-,8391,1609
+Office of the City Local Civil Register- Records Innovation and Development,Other Maintenance and Operating Expenses,969,20000,20000,-,5900,14100
+Office of the City Local Civil Register- Mobile Civil Registration,-,-,45000,45000,-,35745.25,9254.75
+Office of the City Local Civil Register- Mobile Civil Registration,Training Expenses,-,28000,28000,-,24655,3345
+Office of the City Local Civil Register- Mobile Civil Registration,Office Supplies Expenses,-,7000,7000,-,2760,4240
+Office of the City Local Civil Register- Mobile Civil Registration,Other Maintenance and Operating Expenses,-,10000,10000,-,8330.25,1669.75
+Office of the City Local Civil Register- Capability Building for Linkages and Stakeholders,-,-,20000,20000,-,12508,7492
+Office of the City Local Civil Register- Capability Building for Linkages and Stakeholders,Office Supplies Expenses,755,10000,10000,-,5708,4292
+Office of the City Local Civil Register- Capability Building for Linkages and Stakeholders,Other Maintenance and Operating Expenses,969,10000,10000,-,6800,3200
+Office of the City Local Civil Register- Information Dissemination-Reaching-Out-Task Force,-,-,60000,60000,-,59840.85,159.15
+Office of the City Local Civil Register- Information Dissemination-Reaching-Out-Task Force,Other Maintenance and Operating Expenses,969,60000,60000,-,59840.85,159.15
+Office of the City Budget,-,1071,350000,350000,-,316262.25,33737.75
+Office of the City Budget- Local Finance Committee Research Program,-,-,350000,350000,-,316262.25,33737.75
+Office of the City Budget- Local Finance Committee Research Program,Training Expenses,753,200000,200000,-,200000,-
+Office of the City Budget- Local Finance Committee Research Program,Office Supplies Expenses,755,70000,70000,-,49416.5,20583.5
+Office of the City Budget- Local Finance Committee Research Program,Gasoline Expenses,761,30000,30000,-,24355.75,5644.25
+Office of the City Budget- Local Finance Committee Research Program,Other Maintenance and Operating Expenses,969,50000,50000,-,42490,7510
+Office of the City Accountant,-,1081,205000,205000,-,185013.75,19986.25
+Office of the City Accountant- Computerization Program,-,-,39000,39000,-,38188.75,811.25
+Office of the City Accountant- Computerization Program,Other Maintenance and Operating Expenses,969,39000,39000,-,38188.75,811.25
+Office of the City Accountant- Information Dissemination Seminar,-,-,46000,46000,-,29865,16135
+Office of the City Accountant- Information Dissemination Seminar,Training Expenses,753,46000,46000,-,29865,16135
+Office of the City Accountant- Information Dissemination Seminar for Barangay,-,-,120000,120000,-,116960,3040
+Office of the City Accountant- Information Dissemination Seminar for Barangay,Training Expenses,753,120000,120000,-,116960,3040
+Office of the City Treasurer,-,1091,850000,850000,-,700634.45,149365.55
+Office of the City Treasurer- Revenue General Tax Information,-,-,450000,450000,-,317142.67,132857.33
+Office of the City Treasurer- Revenue General Tax Information,Training Expenses,753,50000,50000,-,50000,-
+Office of the City Treasurer- Revenue General Tax Information,Office Supplies Expenses,755,50000,50000,-,33043.75,16956.25
+Office of the City Treasurer- Revenue General Tax Information,Other Maintenance and Operation Expenses,969,350000,350000,-,234098.92,115901.08
+Office of the City Treasurer- Computerization Program - BTEP and RPTA,-,-,100000,100000,-,84491.78,15508.22
+Office of the City Treasurer- Computerization Program - BTEP and RPTA,Other Maintenance and Operation Expenses,969,100000,100000,-,84491.78,15508.22
+Office of the City Treasurer- Operationalization of Committee on Public Auction,-,-,300000,300000,-,299000,1000
+Office of the City Treasurer- Operationalization of Committee on Public Auction,Other Maintenance and Operation Expenses,969,300000,300000,-,299000,1000
+Office of the City Assessor,-,1101,100000,100000,-,98070,1930
+"Office of the City Assessor- Operationalization of Revision Program (GeneralRevision of Assessment Records and Classifications), Validation and Proofreading",-,-,100000,100000,-,98070,1930
+"Office of the City Assessor- Operationalization of Revision Program (GeneralRevision of Assessment Records and Classifications), Validation and Proofreading",Other Maintenance and Operating Expenses,969,100000,100000,-,98070,1930
+Traffic Enforcement Services,-,1181,3533312.9,3533312.9,-,3361285.65,172027.25
+Traffic Enforcement Services- Traffic Enforcement Program,-,-,3533312.9,3533312.9,-,3361285.65,172027.25
+Traffic Enforcement Services- Traffic Enforcement Program,Traffic Enforcement Services,-,3533312.9,3533312.9,-,3361285.65,172027.25
+Office of the City DILG,-,-,1149720,1149720,-,1029560,120160
+Office of the City DILG- Katarungang Pambarangay,-,-,150000,150000,-,145580,4420
+Office of the City DILG- Katarungang Pambarangay,Other Maintenance and Operating Expenses,-,150000,150000,-,145580,4420
+Office of the City DILG- People's Law Enforcement Board (P L E B),-,-,368920,368920,-,289500,79420
+Office of the City DILG- People's Law Enforcement Board (P L E B),Travelling Expenses -Local,751,20000,20000,-,11100,8900
+Office of the City DILG- People's Law Enforcement Board (P L E B),Training Expenses,753,20000,20000,-,-,20000
+Office of the City DILG- People's Law Enforcement Board (P L E B),Office Supplies Expenses,755,25000,25000,-,-,25000
+Office of the City DILG- People's Law Enforcement Board (P L E B),Other Maintenance and Operating Expenses,969,303920,303920,-,278400,25520
+Office of the City DILG- City Peace and Order Council (CPOC),-,-,590800,590800,-,554480,36320
+Office of the City DILG- City Peace and Order Council (CPOC),Travelling Expenses -Local,751,22000,22000,-,14880,7120
+Office of the City DILG- City Peace and Order Council (CPOC),Training Expenses,753,22000,22000,-,6800,15200
+Office of the City DILG- City Peace and Order Council (CPOC),Office Supplies Expenses,755,14000,14000,-,-,14000
+Office of the City DILG- City Peace and Order Council (CPOC),Other Maintenance and Operating Expenses,969,532800,532800,-,532800,-
+Office of the City DILG- Strengthening of Barangay Functionaries or Barangay Leagues,-,-,20000,20000,-,20000,-
+Office of the City DILG- Strengthening of Barangay Functionaries or Barangay Leagues,Other Maintenance and Operating Expenses,969,20000,20000,-,20000,-
+Office of the City DILG- Capability of Barangay Tanod,-,-,20000,20000,-,20000,-
+Office of the City DILG- Capability of Barangay Tanod,Other Maintenance and Operating Expenses,969,20000,20000,-,20000,-
+Office of the City Health,-,4411,13294463.25,13274463.25,20000,12369922.95,904540.3
+Office of the City Health- Health Program,-,-,4900000,4900000,-,4607736.9,292263.1
+Office of the City Health- Health Program,Drugs and Medicines Expenses,759,1500000,1500000,-,1288136.35,211863.65
+Office of the City Health- Health Program,"Medical, Dental and Laboratory Supplies Expenses",760,1100000,1100000,-,1019600.55,80399.45
+Office of the City Health- Health Program,Emergency Assistance (Medicines Admission),878,2300000,2300000,-,2300000,-
+Office of the City Health- Tuberculosis Program,-,-,943800,943800,-,722044.05,221755.95
+Office of the City Health- Tuberculosis Program,Trainings Expenses,753,88000,88000,-,87800,200
+Office of the City Health- Tuberculosis Program,Office Supplies Expenses,760,25000,25000,-,25000,-
+Office of the City Health- Tuberculosis Program,Drugs and Medicines Expenses,759,700000,700000,-,516776.8,183223.2
+Office of the City Health- Tuberculosis Program,Med. and Lab. Supplies Expenses,760,100000,100000,-,63867.25,36132.75
+Office of the City Health- Tuberculosis Program,Other Maintenance and Operating Expenses,969,30800,30800,-,28600,2200
+Office of the City Health- Nutrition Program,-,-,2637500,2637500,-,2577740,59760
+Office of the City Health- Nutrition Program,Food Supplies Expenses,758,1500000,1500000,-,1488381.2,11618.8
+Office of the City Health- Nutrition Program,Donations,878,948580,948580,-,903200,45380
+Office of the City Health- Nutrition Program,Other Supplies Expense (BNS Uniform),765,35000,35000,-,35000,-
+Office of the City Health- Nutrition Program,Other Maintenance and Operating Expenses,969,153920,153920,-,151158.8,2761.2
+Office of the City Health- City Voluntary Blood Service Program,-,-,616000,616000,-,559656.48,56343.52
+Office of the City Health- City Voluntary Blood Service Program,Food Supplies Expenses,758,51000,51000,-,4700,46300
+Office of the City Health- City Voluntary Blood Service Program,Donations - DRH,878,166000,166000,-,166000,-
+Office of the City Health- City Voluntary Blood Service Program,Donations,878,370000,370000,-,361226.6,8773.4
+Office of the City Health- City Voluntary Blood Service Program,Other Maintenance and Operating Expenses,969,29000,29000,-,27729.88,1270.12
+Office of the City Health- Population Mgt. and Family Planning Program,-,-,850000,850000,-,768228.13,81771.87
+Office of the City Health- Population Mgt. and Family Planning Program,Food Supplies Expenses,758,100000,100000,-,81600,18400
+Office of the City Health- Population Mgt. and Family Planning Program,Drugs and Medicines Expenses,759,200000,200000,-,162596.5,37403.5
+Office of the City Health- Population Mgt. and Family Planning Program,Other Maintenance And Operating Expenses,969,550000,550000,-,524031.63,25968.37
+Office of the City Health- Balik Sigla Program,-,-,1779763.25,1779763.25,-,1670904.64,108858.61
+Office of the City Health- Balik Sigla Program,Trainings Expenses,753,30000,30000,-,22920,7080
+Office of the City Health- Balik Sigla Program,Medical and Laboratory Supplies Expense,760,100000,100000,-,99879,121
+Office of the City Health- Balik Sigla Program,Oher Supplies Expenses,765,20000,20000,-,13558.2,6441.8
+Office of the City Health- Balik Sigla Program,General Services,795,1529763.25,1529763.25,-,1459622.44,70140.81
+Office of the City Health- Balik Sigla Program,"Capital Outlay- Medical, Dental and Laboratory Equipment",233,100000,100000,-,74925,25075
+Office of the City Health- Lunas Ginhawa Program,-,-,915000,915000,-,885396.75,29603.25
+Office of the City Health- Lunas Ginhawa Program,Drugs and Medicines Expenses,759,700000,700000,-,696973.25,3026.75
+Office of the City Health- Lunas Ginhawa Program,Medical and Laboratory Supplies Expense,760,100000,100000,-,99995.5,4.5
+Office of the City Health- Lunas Ginhawa Program,Other Maintenance And Operating Expenses,969,15000,15000,-,13557,1443
+Office of the City Health- Lunas Ginhawa Program,Capital Outlay- Medical and Laboratory Equipment,233,100000,100000,-,74871,25129
+Office of the City Health- Schistosomiasis Prevention and Control Program,-,-,72400,72400,-,71393.5,1006.5
+Office of the City Health- Schistosomiasis Prevention and Control Program,Drugs and Medicine Expense,759,50000,50000,-,49093.5,906.5
+Office of the City Health- Schistosomiasis Prevention and Control Program,Other Maintenance And Operating Expenses,969,22400,22400,-,22300,100
+Office of the City Health- Prevention and Control of STI or HIV or AIDS,-,-,110000,110000,-,105250.5,4749.5
+Office of the City Health- Prevention and Control of STI or HIV or AIDS,Drugs and Medicine Expense,759,70000,70000,-,67940.5,2059.5
+Office of the City Health- Prevention and Control of STI or HIV or AIDS,Other Maintenance And Operating Expenses,969,40000,40000,-,37310,2690
+Office of the City Health- Rabies Prevention and Control,-,-,225000,225000,-,225000,-
+Office of the City Health- Rabies Prevention and Control,Drugs and Medicine Expenses (Vaccines),759,225000,225000,-,225000,-
+Office of the City Health- Dengue Prevention and Control,-,-,175000,175000,-,127207,47793
+Office of the City Health- Dengue Prevention and Control,Drugs and Medicine Expense,759,100000,100000,-,99727,273
+Office of the City Health- Dengue Prevention and Control,Medical and Laboratory Supplies Expenses (Larvicide),760,75000,75000,-,27480,47520
+Office of the City Health- Maternal and Child Health,-,-,50000,50000,-,49365,635
+Office of the City Health- Maternal and Child Health,Medical and Laboratory Supplies Expenses,760,50000,50000,-,49365,635
+Office of the City Health- Environment Health and Sanitation,-,-,20000,-,20000,-,-
+Office of the City Health- Environment Health and Sanitation,Other Maintenance And Operating Expenses,969,20000,-,20000,-,-
+CMO- Health and Sanitation Division,-,6522,8724455.49,8724455.49,-,8378698.43,345757.06
+CMO- Health and Sanitation Division- Health and Sanitation Program,-,-,8724455.49,8724455.49,-,8378698.43,345757.06
+CMO- Health and Sanitation Division- Health and Sanitation Program,Environment or Sanitary Services,794,8724455.49,8724455.49,-,8378698.43,345757.06
+Office of the City Social Welfare and Development,-,7611,921000,901000,20000,678451.5,222548.5
+Office of the City Social Welfare and Development- Senior Citizen Affairs,-,-,450000,450000,-,396430,53570
+Office of the City Social Welfare and Development- Senior Citizen Affairs,Donations (City Ordinance number: 139-S 2004),878,300000,300000,-,284000,16000
+Office of the City Social Welfare and Development- Senior Citizen Affairs,Other Maintenance and Operating Expense,969,150000,150000,-,112430,37570
+Office of the City Social Welfare and Development- Child Labor Program,-,-,50000,50000,-,12150,37850
+Office of the City Social Welfare and Development- Child Labor Program,Other Maintenance and Operating Expense,969,50000,50000,-,12150,37850
+Office of the City Social Welfare and Development- Disabled Welfare Program,-,-,175000,175000,-,59313.5,115686.5
+Office of the City Social Welfare and Development- Disabled Welfare Program,Other Supplies Expense,765,25000,25000,-,913.5,24086.5
+Office of the City Social Welfare and Development- Disabled Welfare Program,Donations (Prosthesis or Hearing Aid or Wheel Cart),878,75000,75000,-,19000,56000
+Office of the City Social Welfare and Development- Disabled Welfare Program,Other Maintenance and Operating Expense,969,75000,75000,-,39400,35600
+Office of the City Social Welfare and Development- Working Youth Program,-,-,50000,50000,-,41916,8084
+Office of the City Social Welfare and Development- Working Youth Program,Other Maintenance and Operating Expenses,969,50000,50000,-,41916,8084
+Office of the City Social Welfare and Development- Center for the Elderly,-,-,71000,71000,-,66000,5000
+Office of the City Social Welfare and Development- Center for the Elderly,Donations,878,66000,66000,-,66000,-
+Office of the City Social Welfare and Development- Center for the Elderly,Other Maintenance and Operating Expenses,969,5000,5000,-,-,5000
+Office of the City Social Welfare and Development- Productivity Skills Capability Building for Women - GAD,-,-,80000,80000,-,79992,8
+Office of the City Social Welfare and Development- Productivity Skills Capability Building for Women - GAD,Other Maintenance and Operating Expenses,969,80000,80000,-,79992,8
+Office of the City Social Welfare and Development- Women Welfare Program - GAD,-,-,25000,25000,-,22650,2350
+Office of the City Social Welfare and Development- Women Welfare Program - GAD,Other Maintenance and Operating Expenses,969,25000,25000,-,22650,2350
+Office of the City Social Welfare and Development- Women - Victims of Abuse Program - GAD,-,-,20000,-,20000,-,-
+Office of the City Social Welfare and Development- Women - Victims of Abuse Program - GAD,Donations,878,20000,-,20000,-,-
+Office of the City Veterinarian,-,8721,1148155.35,1148155.35,-,796930.85,351224.5
+Office of the City Veterinarian- Livestock and Poultry Production Program Livestock Outlay (Dispersal Program),-,-,440920,440920,-,286487,154433
+Office of the City Veterinarian- Livestock and Poultry Production Program Livestock Outlay (Dispersal Program),Animal or Zoological Supplies Expenses,757,300000,300000,-,180000,120000
+Office of the City Veterinarian- Livestock and Poultry Production Program Livestock Outlay (Dispersal Program),Other Supplies Expenses,765,50000,50000,-,23537,26463
+Office of the City Veterinarian- Livestock and Poultry Production Program Livestock Outlay (Dispersal Program),General Services,795,90920,90920,-,82950,7970
+Office of the City Veterinarian-Animal Health Services,-,-,280000,280000,-,202846,77154
+Office of the City Veterinarian-Animal Health Services,Animal or Zoological Supplies Expenses,757,200000,200000,-,188800,11200
+Office of the City Veterinarian-Animal Health Services,Other Supplies Expenses,765,30000,30000,-,5646,24354
+Office of the City Veterinarian-Animal Health Services,Other Maintenance And Operating Expenses,969,50000,50000,-,8400,41600
+Office of the City Veterinarian-Animal Regulatory Program,-,-,54136,54136,-,-,54136
+Office of the City Veterinarian-Animal Regulatory Program,General Services,795,54136,54136,-,-,54136
+Office of the City Veterinarian-Aviary Management Program,-,-,373099.35,373099.35,-,307597.85,65501.5
+Office of the City Veterinarian-Aviary Management Program,Animal or Zoological Supplies Expenses,757,80000,80000,-,28340.5,51659.5
+Office of the City Veterinarian-Aviary Management Program,Agricultural Supplies Expense,762,30000,30000,-,18628,11372
+Office of the City Veterinarian-Aviary Management Program,General Services,795,263099.35,263099.35,-,260629.35,2470
+Office of the City Environment and Natural Resources,-,8731,1365083,1365083,-,1358440.72,6642.28
+Office of the City Environment and Natural Resources- Research and ECC Program,-,-,50000,50000,-,45163.65,4836.35
+Office of the City Environment and Natural Resources- Research and ECC Program,Other Maintenance and Operating Expenses,969,50000,50000,-,45163.65,4836.35
+Office of the City Environment and Natural Resources- Expropriation and Titling,-,969,1315083,1315083,-,1313277.07,1805.93
+Office of the City Architect,-,8741,1826152.99,1826152.99,-,1754889.4,71263.59
+Office of the City Architect- Architect Maintenance Program,-,-,1826152.99,1826152.99,-,1754889.4,71263.59
+Office of the City Architect- Architect Maintenance Program,General Services,795,1826152.99,1826152.99,-,1754889.4,71263.59
+CEO- Motorpool Division,-,8754,7563649.65,7563649.65,-,7225795.24,337854.41
+CEO- Motorpool Division- Motorpool Maintenance Program,-,-,7563649.65,7563649.65,-,7225795.24,337854.41
+CEO- Motorpool Division- Motorpool Maintenance Program,General Services,795,7563649.65,7563649.65,-,7225795.24,337854.41
+CEO- Industrial Plant Division,-,-,6432469.5,6432469.5,-,5994557.85,437911.65
+CEO- Industrial Plant Division- Industrial Plant Maintenance Program,-,-,1706199.62,1706199.62,-,1648118.74,58080.88
+CEO- Industrial Plant Division- Industrial Plant Maintenance Program,General Services,795,1706199.62,1706199.62,-,1648118.74,58080.88
+CEO- Industrial Plant Division- Fabrication Maintenance Program,-,-,4726269.88,4726269.88,-,4346439.11,379830.77
+CEO- Industrial Plant Division- Fabrication Maintenance Program,Office Supplies Expenses,755,20000,20000,-,17379.4,2620.6
+CEO- Industrial Plant Division- Fabrication Maintenance Program,Gasoline Expenses,761,120000,120000,-,76644.34,43355.66
+CEO- Industrial Plant Division- Fabrication Maintenance Program,Other Supplies Expenses,765,10000,10000,-,9998,2
+CEO- Industrial Plant Division- Fabrication Maintenance Program,General Services,795,4526269.88,4526269.88,-,4232492.37,293777.51
+CEO- Industrial Plant Division- Fabrication Maintenance Program,Repair and Maintenance - Motor Vehicles,841,50000,50000,-,9925,40075
+Economic Enterprise,-,-,-,-,-,-,-
+Terminal Division,-,8801-64,1699623.08,1699623.08,-,1697312.1,2310.98
+Terminal Division- Sanitary Program,-,-,924630.55,924630.55,-,924200.55,430
+Terminal Division- Sanitary Program,Environment or Sanitary Services,794,924630.55,924630.55,-,924200.55,430
+Terminal Division- Security Program,-,-,774992.53,774992.53,-,773111.55,1880.98
+Terminal Division- Security Program,Security Services,797,774992.53,774992.53,-,773111.55,1880.98
+Public Market Division,-,8811-51,9740282.62,9740282.62,-,9708144.77,32137.85
+Public Market Division- Sanitation Program,-,-,5762641.99,5762641.99,-,5761363.3,1278.69
+Public Market Division- Sanitation Program,Environment or Sanitary Services,794,5762641.99,5762641.99,-,5761363.3,1278.69
+Public Market Division- Security Program,-,-,3977640.63,3977640.63,-,3946781.47,30859.16
+Public Market Division- Security Program,Security Services,797,3977640.63,3977640.63,-,3946781.47,30859.16
+TLAC or Slaughterhouse Division,-,8812,1617109.77,1617109.77,-,1616024.07,1085.7
+TLAC or Slaughterhouse Division- Sanitary Program,-,-,568673.14,568673.14,-,567987.52,685.62
+TLAC or Slaughterhouse Division- Sanitary Program,Environment or Sanitary Services,794,568673.14,568673.14,-,567987.52,685.62
+TLAC or Slaughterhouse Division- Security Program,-,-,1048436.63,1048436.63,-,1048036.55,400.08
+TLAC or Slaughterhouse Division- Security Program,Security Services,797,1048436.63,1048436.63,-,1048036.55,400.08
+Cemetery Services,-,8841,405760,405760,-,392117.65,13642.35
+Cemetery Services- Sanitation Program,-,-,405760,405760,-,392117.65,13642.35
+Cemetery Services- Sanitation Program,Environment or Sanitary Services,794,405760,405760,-,392117.65,13642.35
+Totally Locally Funded Projects,-,-,155845797.9,155375797.9,470000,145997950.5,9377847.41
+20% Development Fund,-,-,-,-,-,-,-
+Office of the City Mayor or Admin,-,1011,68899479.98,64929908.33,3969571.65,57808636.11,7121272.22
+Office of the City Mayor or Admin- Construction or Completion of Multi Purpose Building (Gym),-,215,3000000,2700000,300000,2625412.37,74587.63
+Office of the City Mayor or Admin- Construction or Completion of Multi Purpose Building (Gym),"Brgy. Hall Site, Mag. West (Reference number: 143-04-12 )",-,-,750000,-,725125,24875
+Office of the City Mayor or Admin- Construction or Completion of Multi Purpose Building (Gym),Margarita Subd. Brgy. Mankilam (Reference number: 156-04-12),-,-,750000,-,721175.49,28824.51
+Office of the City Mayor or Admin- Construction or Completion of Multi Purpose Building (Gym),"Makabayan Subd., Brgy. San Isidro (Reference number: 157-04-12)",-,-,700000,-,699741.71,258.29
+Office of the City Mayor or Admin- Construction or Completion of Multi Purpose Building (Gym),"Brgy. Hall Site, Brgy. Magdum (Reference number: 175-05-12 )",-,-,200000,-,181772,18228
+Office of the City Mayor or Admin- Construction or Completion of Multi Purpose Building (Gym),"Brgy. Hall Site, Brgy. Madaum (Reference number: 176-05-12 )",-,-,300000,-,297598.17,2401.83
+Office of the City Mayor or Admin- Water Development Program- GAD,-,254,750000,715000,35000,669108.18,45891.82
+Office of the City Mayor or Admin- Water Development Program- GAD,"Various Barangay, Tagum City (Ref.number: 054A-01-12)",-,-,500000,-,461084.96,38915.04
+Office of the City Mayor or Admin- Water Development Program- GAD,"Installation of 2"" diameter Casing Jetmatic Pump Purok 3, Brgy. Madaum (Reference number: 245-08-12)",-,-,65000,-,59605.16,5394.84
+Office of the City Mayor or Admin- Water Development Program- GAD,at Tagum City (\Reference number: 280-10-12 ),-,-,150000,-,148418.06,1581.94
+Office of the City Mayor or Admin- Construction of Bus Stop and Waiting Shed,-,251,2000000,1920000,80000,1920000,-
+Office of the City Mayor or Admin- Construction of Bus Stop and Waiting Shed,Tagum Doctor's Hospital ( 4 units ),-,-,1920000,-,1920000,-
+Office of the City Mayor or Admin- Construction of Bus Stop and Waiting Shed,"NCCC Mall (2 units) along National Highway, Tagum City (Reference number: 07-01-12 )",-,-,-,-,-,-
+Office of the City Mayor or Admin- Construction or Rehabilitation of Multi- purpose Pavement,-,202,1000000,1000000,-,967764.2,32235.8
+Office of the City Mayor or Admin- Construction or Rehabilitation of Multi- purpose Pavement,"Mencidor, Brgy. East ( Reference number: 0064-02-12)",-,-,130394.88,-,125645.11,4749.77
+Office of the City Mayor or Admin- Construction or Rehabilitation of Multi- purpose Pavement,"Purok 6-A, Brgy. Magdum (Reference number: 0065-02-12)",-,-,154035.84,-,150119.64,3916.2
+Office of the City Mayor or Admin- Construction or Rehabilitation of Multi- purpose Pavement,"Purok 1-B, Brgy. San Miguel (Reference number: 0070-02-12)",-,-,141120,-,132407.31,8712.69
+Office of the City Mayor or Admin- Construction or Rehabilitation of Multi- purpose Pavement,"Purok Lanzones, Brgy. Pandapan (Reference number: 0084-02-12)",-,-,154224,-,149231.57,4992.43
+Office of the City Mayor or Admin- Construction or Rehabilitation of Multi- purpose Pavement,"Purok Narra, Brgy. East ( Reference number: 0085-02-12)",-,-,170452.8,-,169031.48,1421.32
+Office of the City Mayor or Admin- Construction or Rehabilitation of Multi- purpose Pavement,"Purok 18-A, Brgy Madaum (Reference number: 132-03-12)",-,-,104720,-,103657.09,1062.91
+Office of the City Mayor or Admin- Construction or Rehabilitation of Multi- purpose Pavement,"Purok Cadena de Amor, Brgy. Visayan Village (Reference number: 298-11-12)",-,-,145052.48,-,137672,7380.48
+Office of the City Mayor or Admin- Asphalting of Roads,-,251,13000000,13000000,-,12583980.2,416019.8
+Office of the City Mayor or Admin- Asphalting of Roads,"Purok Kalamboan, Brgy. North(Ref.number: 060-02-12)",-,-,1260000,-,1259503.02,496.98
+Office of the City Mayor or Admin- Asphalting of Roads,"San Isidro Labrador Chapel, Purok Lanzones, Brgy. Pandapan (Reference number: 061-02-12)",-,-,294000,-,293380.32,619.68
+Office of the City Mayor or Admin- Asphalting of Roads,"Purok Tandang Sora, Brgy. Poblacion(Reference number: 062-02-12)",-,-,339136.48,-,338637.95,498.53
+Office of the City Mayor or Admin- Asphalting of Roads,Purok Narra (Rd. Going Madayag Residence) Brgy. Visayan Village (Reference number: 063-02-12),-,-,204400,-,200992.1,3407.9
+Office of the City Mayor or Admin- Asphalting of Roads,"Purok Rambutan (Melendres Compound), Brgy. East (Reference number: 066-02-12)",-,-,779400,-,779118.64,281.36
+Office of the City Mayor or Admin- Asphalting of Roads,"Purok Pioneer, Brgy. Visayan Village (Reference number: 067-02-12)",-,-,500000,-,493260.76,6739.24
+Office of the City Mayor or Admin- Asphalting of Roads,"GKK IKP Suaybaguio Dist., Brgy. North (Reference number: 068-02-12)",-,-,126000,-,121982.24,4017.76
+Office of the City Mayor or Admin- Asphalting of Roads,"Villa Rita Subd., Purok 3 Unit 5, Brgy. Apokon (Reference number:069-02-12)",-,-,500000,-,498047.62,1952.38
+Office of the City Mayor or Admin- Asphalting of Roads,"Purok Erlynville, Brgy. San Miguel (Reference number: 071-02-12)",-,-,544320,-,543722.87,597.13
+Office of the City Mayor or Admin- Asphalting of Roads,"Christ the King Cathedral Parking Space, Brgy. South (Reference number: 072-02-12)",-,-,224000,-,223057.44,942.56
+Office of the City Mayor or Admin- Asphalting of Roads,"Infront of Pagsabangan Brgy. Hall, Barangay Pagsabangan (Reference number: 073-02-12)",-,-,252756,-,245198.5,7557.5
+Office of the City Mayor or Admin- Asphalting of Roads,"Floraville-Purok Cadena de Amor Phase 3, Brgy. Visayan Village (Reference number: 074-02-12)",-,-,848000,-,845930.3,2069.7
+Office of the City Mayor or Admin- Asphalting of Roads,"Adela Subd., Purok 3 Unit 6, Brgy. Apokon(Reference number: 075-02-12)",-,-,500000,-,494798.3,5201.7
+Office of the City Mayor or Admin- Asphalting of Roads,"North Eagle IV, Brgy. Mankilam (Reference number: 076-02-12)",-,-,500000,-,498206.12,1793.88
+Office of the City Mayor or Admin- Asphalting of Roads,"Purok 3, Brgy. La Filipina (Reference number: 077-02-12)",-,-,500000,-,497453.85,2546.15
+Office of the City Mayor or Admin- Asphalting of Roads,"Purok Bulaklak 3, Brgy. North (Reference number: 078-02-12)",-,-,500000,-,499485.38,514.62
+Office of the City Mayor or Admin- Asphalting of Roads,"Purok Garcia-Greenland, Brgy. Mankilam (Reference number: 079-02-12)",-,-,1316000,-,1308397.68,7602.32
+Office of the City Mayor or Admin- Asphalting of Roads,"Purok Jumabon, Brgy. Cuambogan (Reference number: 080-02-12)",-,-,761600,-,760998.71,601.29
+Office of the City Mayor or Admin- Asphalting of Roads,"Purok 2-A(Suico Compound),Brgy. San Miguel (Reference number:081-02-12)",-,-,789600,-,786870.77,2729.23
+Office of the City Mayor or Admin- Asphalting of Roads,"Purok Malipayon (Rd. going Engr. Zaragoza Residence), Brgy. West (Reference number: 082-02-12 )",-,-,636160,-,628649.31,7510.69
+Office of the City Mayor or Admin- Asphalting of Roads,"Purok Pag-asa-Talisay, Brgy. West (Reference number: 083-02-12)",-,-,600000,-,586330.09,13669.91
+Office of the City Mayor or Admin- Asphalting of Roads,"Asphalt Overlay at Paraiso Subd., Brgy. Visayan Village (Reference number: 0131-04-12)",-,-,518107.52,-,510831.56,7275.96
+Office of the City Mayor or Admin- Asphalting of Roads,"Purok Lynville, Brgy. Mankilam (Reference number: 294-11-12)",-,-,506520,-,169126.67,337393.33
+Office of the City Mayor or Admin- Concreting of Roads,-,251,15689479.98,12500000,3189479.98,9901880.88,2598119.12
+Office of the City Mayor or Admin- Concreting of Roads,"Sator Ave.Brgy. Mankilam,T.C.(Reference number: 017-01-12)",-,-,435000,-,426239.44,8760.56
+Office of the City Mayor or Admin- Concreting of Roads,Capitol Ave. Brgy. Mankilam(Add'l Lane)(Reference number: 018-01-12),-,-,150000,-,142389.06,7610.94
+Office of the City Mayor or Admin- Concreting of Roads,"Along Davao City Central Warehouse Club (Add'l Lane),Brgy. Mag. East, T.C.(Reference number: 030-01-12)",-,-,300000,-,283342.75,16657.25
+Office of the City Mayor or Admin- Concreting of Roads,"Garcia St. (Add'l Lane),Mag. South(Reference number:020-01-12)",-,-,380000,-,377269.09,2730.91
+Office of the City Mayor or Admin- Concreting of Roads,"Circumferential Road to Gazmen Road, Brgy. La Filipina (Reference number: 026-03-12)",-,-,600000,-,595107.14,4892.86
+Office of the City Mayor or Admin- Concreting of Roads,"Garciaville, Brgy. Mankilam (Reference number: 037-01-12 )",-,-,580000,-,572851,7149
+Office of the City Mayor or Admin- Concreting of Roads,"New City Hall (NearChildren's Park),Brgy. Apokon (Reference number: 0027-01-12)",-,-,1000000,-,892349,107651
+Office of the City Mayor or Admin- Concreting of Roads,"Mel Village,Brgy. Visayan Village (Reference number: 0029-01-12)",-,-,475000,-,471663.31,3336.69
+Office of the City Mayor or Admin- Concreting of Roads,"Mirafuentes Main Road, Brgy. Mag. North (Ref. # 0032-03-12)",-,-,1000000,-,989321.5,10678.5
+Office of the City Mayor or Admin- Concreting of Roads,"Merville Subd., Brgy. Magdum (Reference number: 024-01-12)",-,-,600000,-,576394.65,23605.35
+Office of the City Mayor or Admin- Concreting of Roads,"Sison Subd., Emerald St., Brgy Mag. South Reference number: 033-01-12",-,-,240000,-,237507,2493
+Office of the City Mayor or Admin- Concreting of Roads,"Sison Subd., Gold St., Brgy. Mag. South(Reference number: 034-01-12)",-,-,370000,-,364590.5,5409.5
+Office of the City Mayor or Admin- Concreting of Roads,"Villa Verde Subd., Brgy. San Miguel ( Reference number: 035-01-12 )",-,-,500000,-,426774,73226
+Office of the City Mayor or Admin- Concreting of Roads,"Ferido Arcade, Brgy. Mag. West ( Reference number: 036-01-12 )",-,-,500000,-,412838,87162
+Office of the City Mayor or Admin- Concreting of Roads,"Sator to Teacher's Village, Brgy. Magugpo South Reference number: 019-01-12",-,-,600000,-,560252,39748
+Office of the City Mayor or Admin- Concreting of Roads,"Sagon Road, Brgy. La Filipina ( Reference number: 238-08-12 )",-,-,1500000,-,1350965,149035
+Office of the City Mayor or Admin- Concreting of Roads,"Cristo Rey Subd., Brgy. Mag.West ( Reference number: 021-01-12)",-,-,410000,-,314195.04,95804.96
+Office of the City Mayor or Admin- Concreting of Roads,"Country Homes (Mahogany and Yakal), Brgy. Mankilam Reference number: 022-01-12",-,-,500000,-,472485.56,27514.44
+Office of the City Mayor or Admin- Concreting of Roads,"Northeagle 3, Brgy. Visayan Village (Reference number: 023-01-12)",-,-,410000,-,317309.84,92690.16
+Office of the City Mayor or Admin- Concreting of Roads,"Rotary Park to BAEX, Brgy. Mag. Poblacion (Ref.number: 028-01-12)",-,-,950000,-,56781,893219
+Office of the City Mayor or Admin- Concreting of Roads,"Narisma Road, Brgy. Mag. South ( Reference number: 038-01-12 )",-,-,1000000,-,61256,938744
+Office of the City Mayor or Admin- Concreting of Alleys,-,251,1000000,1000000,-,698223,301777
+Office of the City Mayor or Admin- Concreting of Alleys,Various Purok ( Reference number: 282-10-12 ),-,-,1000000,-,698223,301777
+Office of the City Mayor or Admin- Fabrication of Park Benches,-,260,300000,300000,-,299750.75,249.25
+Office of the City Mayor or Admin- Fabrication of Park Benches,"Motorpool, Tipaz St. (Reference number: 158-04-12)",-,-,300000,-,299750.75,249.25
+Office of the City Mayor or Admin- Acquisition of Land,-,201,13000000,12739908.33,260091.67,12739908.33,-
+Office of the City Mayor or Admin- Construction of Bridges,-,251,500000,500000,-,442155.84,57844.16
+Office of the City Mayor or Admin- Construction of Bridges,"Framed Flat Slab (w/o Wingwall) Phase 1, Marquez Road (near San Lorenzo Ruiz Academy), Brgy. Apokon Reference number: 172-05-12",-,-,500000,-,442155.84,57844.16
+Office of the City Mayor or Admin- Development of Nabintad Park,-,252,500000,500000,-,380351,119649
+Office of the City Mayor or Admin- Development of Nabintad Park,Phase II Brgy. Madaum ( Reference number: 274-10-12 ),-,-,500000,-,380351,119649
+Office of the City Mayor or Admin- Development of Canocotan Circuit at Barangay Canocotan ( Ref. number: 225-07-12 ),-,205,3000000,3000000,-,505327,2494673
+Office of the City Mayor or Admin- Development of Bird Park,-,252,1500000,1500000,-,1244600.87,255399.13
+Office of the City Mayor or Admin- Development of Bird Park,"Mandapaan Creek, Brgy. New Balamban (Ref.number: 0117-03-12)",-,-,1000000,-,798024.87,201975.13
+Office of the City Mayor or Admin- Development of Bird Park,"Mandapaan, Brgy. New Balamban (Reference number: 250-09-12 )",-,-,500000,-,446576,53424
+Office of the City Mayor or Admin- Land Development and Improvement,-,202,1000000,1000000,-,984840.52,15159.48
+Office of the City Mayor or Admin- Land Development and Improvement,"City Employee's Village, Tipaz, Brgy. Mag. East Reference number: 179-05-12",-,-,1000000,-,984840.52,15159.48
+Office of the City Mayor or Admin- Construction of Septic Tank,"at Iga-uy, Brgy. Madaum ( Reference number: 240-08-12 )",215,500000,500000,-,422450.81,77549.19
+Peace and Order Fund: Development of Parks and Highways,-,252,3000000,2995000,5000,2492571.87,502428.13
+Peace and Order Fund: Development of Parks and Highways,Merville Subd. Brgy. Magdum (Reference number: 046-01-12),-,-,300000,-,262027.6,37972.4
+Peace and Order Fund: Development of Parks and Highways,Ferraren Subd. Brgy. Mag. East (Reference number: 047-01-12),-,-,200000,-,191331.8,8668.2
+Peace and Order Fund: Development of Parks and Highways,"First Ave. Open Park, Brgy. Mag. South (Reference number: 048-01-12)",-,-,260000,-,251416.8,8583.2
+Peace and Order Fund: Development of Parks and Highways,"Fab. and Installation of Paving Blocks at National H-way, Brgy. Visayan Village (Reference number: 052-01-12)",-,-,300000,-,295904.78,4095.22
+Peace and Order Fund: Development of Parks and Highways,"City Hall Concrete Benches, Brgy. Poblacion (Reference number: 086-02-12)",-,-,300000,-,265196.5,34803.5
+Peace and Order Fund: Development of Parks and Highways,Brgy. Bincungan (Reference number: 198-06-12),-,-,245000,-,223966,21034
+Peace and Order Fund: Development of Parks and Highways,Fab. and Installation of Paving Blocks National Highway at Brgy. Canocotan (from Canocotan Elem. School to DPWH and Canocotan Elem. School to Crossing Timog ) (Reference number: 230-07-12),-,-,400000,-,314706.59,85293.41
+Peace and Order Fund: Development of Parks and Highways,"Dev't of Mag. Creek, Phase 2, Punzalan Avenue Brgy. Magugpo South (Reference number: 236-08-12)",-,-,200000,-,166562,33438
+Peace and Order Fund: Development of Parks and Highways,Along Pioneer Ave. to Osmena St. (Reference number: 241-08-12),-,-,230000,-,189825.8,40174.2
+Peace and Order Fund: Development of Parks and Highways,"Betty Homes, Brgy. Apokon (Reference number: 278-10-12 )",-,-,260000,-,182713,77287
+Peace and Order Fund: Development of Parks and Highways,"Concrete Benches and Plant Works, Brgy. Mag. East (Reference number: 281-10-12)",-,-,300000,-,148921,151079
+Peace and Order Fund: Construction of Purok Centers,-,215,500000,500000,-,392533,107467
+Peace and Order Fund: Construction of Purok Centers,"Purok Poblacion, San Isidro; Purok 8, San Miguel; Purok 4-G Apokon; Purok Ilocandia, Mankilam; Purok Popular, Mag. East; Purok 1-B Velasco,Canocotan; Cristo Rey 1B, Mag. West Reference number: 155-04-12",-,-,500000,-,392533,107467
+Peace and Order Fund: Elecrification Program,-,205,8160000,8060000,100000,8057567.29,2432.71
+Peace and Order Fund: Elecrification Program,"Rewiring of Streetlights Lines at Brgy. East, Brgy. Cuambogan, Brgy. Liboganon, Brgy. Madaum and Brgy. Bincungan (Reference number: 016-01-12)",-,-,1000000,-,999894.83,105.17
+Peace and Order Fund: Elecrification Program,"Brgy. Apokon, Tagum City (Reference number: 050-01-12)",-,-,5000000,-,4998995.69,1004.31
+Peace and Order Fund: Elecrification Program,Add'l Installation of Street Lights at E-Park Compound Brgy. Apokon (Reference number: 147-04-12),-,-,860000,-,859853,147
+Peace and Order Fund: Elecrification Program,Installation of Lighting Facilities (Reference number: 260-09-12),-,-,1200000,-,1198823.77,1176.23
+Peace and Order Fund: Development of Resettlement Area,-,260,500000,500000,-,480210,19790
+Peace and Order Fund: Development of Resettlement Area,"Pipe Line Extension of 2"" Diameter P.E. Hose at Iga Uy A Brgy. Madaum (Reference number: 194-06-12)",-,-,200000,-,188916,11084
+Peace and Order Fund: Development of Resettlement Area,"Iga Uy, Madaum (Reference number: 211-06-12)",-,-,300000,-,291294,8706
+Office of the City Agriculture,-,8711,12752299.59,12752299.59,-,12136317.24,615982.35
+Office of the City Agriculture- Operationalization of City Agricultural and Fishery Program (CAFP),-,-,2102935.45,2102935.45,-,2022100.1,80835.35
+Office of the City Agriculture- Operationalization of City Agricultural and Fishery Program (CAFP),General Services,795,2102935.45,2102935.45,-,2022100.1,80835.35
+Office of the City Agriculture- Organic Fertilizer Production Project,-,-,346140,346140,-,324050,22090
+Office of the City Agriculture- Organic Fertilizer Production Project,General Services,795,346140,346140,-,324050,22090
+Office of the City Agriculture- Reforestation Program,-,-,2340616,2340616,-,2222029,118587
+Office of the City Agriculture- Reforestation Program,General Services,795,2340616,2340616,-,2222029,118587
+Office of the City Agriculture- Fishery Law Enforcement Program,-,-,175240,175240,-,165590,9650
+Office of the City Agriculture- Fishery Law Enforcement Program,General Services,795,175240,175240,-,165590,9650
+Office of the City Agriculture- Landscaping Management Program,-,-,3220179,3220179,-,3084678,135501
+Office of the City Agriculture- Landscaping Management Program,General Services,795,3220179,3220179,-,3084678,135501
+Office of the City Agriculture- Agricultural Productivity and Greening Program,-,-,3942054.14,3942054.14,-,3793595.14,148459
+Office of the City Agriculture- Agricultural Productivity and Greening Program,General Services,795,3942054.14,3942054.14,-,3793595.14,148459
+Office of the City Agriculture- Fabrication of Artificial Coral Reef,-,-,625135,625135,-,524275,100860
+Office of the City Agriculture- Fabrication of Artificial Coral Reef,"at Brgy Liboganon, T.C. (Reference number: 053-01-12)",215,625135,625135,-,524275,100860
+Office of the City Environment and Natural Resources,-,8731,888572,888572,-,836579.76,51992.24
+Office of the City Environment and Natural Resources- Watershed Development Program (Botanical Park),-,-,791142,791142,-,749109.76,42032.24
+Office of the City Environment and Natural Resources- Watershed Development Program (Botanical Park),General Services,795,791142,791142,-,749109.76,42032.24
+Office of the City Environment and Natural Resources- Solid Waste MGT Program- SWM Evaluation or Intensive Education Campaign (IEC),-,-,97430,97430,-,87470,9960
+Office of the City Environment and Natural Resources- Solid Waste MGT Program- SWM Evaluation or Intensive Education Campaign (IEC),General Services,795,97430,97430,-,87470,9960
+CEO- Construction and Maintenance Division,-,8752,9035972.7,8932750,103222.7,8482967.78,449782.22
+CEO- Construction and Maintenance Division,"Rep and Maint-Electrification, Power and Energy Structures",805,3257750,3257750,-,3086240.83,171509.17
+CEO- Construction and Maintenance Division,"Rep and Maint-Electrification, Power and Energy Structures- at Tagum City (Reference number: 009-01-12)",-,-,3057750,-,2900373.81,157376.19
+CEO- Construction and Maintenance Division,"Rep and Maint-Electrification, Power and Energy Structures- at Tagum City (Reference number: 275-10-12)",-,-,200000,-,185867.02,14132.98
+CEO- Construction and Maintenance Division,Repair and Maint-Roads and Road Marking at Tagum City (Reference number: 012-01-12),851,2694222.7,2591000,103222.7,2521550.7,69449.3
+CEO- Construction and Maintenance Division,Repair and Maint - Drainage at Tagum City (Reference number: 004-01-12),855,2228000,2228000,-,2058835.44,169164.56
+CEO- Construction and Maintenance Division,Repair and Maint - Road Right of Way ( Clearing and Maintenance ),851,856000,856000,-,816340.81,39659.19
+CEO- Construction and Maintenance Division,Repair and Maint - Road Right of Way ( Clearing and Maintenance )- at Tagum City (Reference number: 03-01-12),-,-,456000,-,431957.81,24042.19
+CEO- Construction and Maintenance Division,Repair and Maint - Road Right of Way ( Clearing and Maintenance )- at Tagum City (Reference number: 010-01-12),-,-,400000,-,384383,15617
+Total 20% Development Fund,-,-,91576324.27,87503529.92,4072794.35,79264500.89,8239029.03
+Economic Enterprise,-,-,-,-,-,-,-
+Econ. Ent. Terminal Division,-,8801 (64),3205156.32,3205156.32,-,3008064.73,197091.59
+Econ. Ent. Terminal Division- Personal Services,-,-,2348816,2348816,-,2334400.54,14415.46
+Econ. Ent. Terminal Division- Personal Services,Salaries and Wages-Regular,701,967776,967776,-,959590.32,8185.68
+Econ. Ent. Terminal Division- Personal Services,Salaries and Wages-Casual,705,940598,940598,-,939530.8,1067.2
+Econ. Ent. Terminal Division- Personal Services,PERA,711,120000,120000,-,119363.63,636.37
+Econ. Ent. Terminal Division- Personal Services,Clothing Allowance,715,20000,20000,-,20000,-
+Econ. Ent. Terminal Division- Personal Services,Productivity Incentive Allowance,717,22000,22000,-,22000,-
+Econ. Ent. Terminal Division- Personal Services,Cash Gift,724,25000,25000,-,25000,-
+Econ. Ent. Terminal Division- Personal Services,Year- End Bonus,725,80648,80648,-,80269,379
+Econ. Ent. Terminal Division- Personal Services,Life and Retirement Insurance Contributions,731,116134,116134,-,115632.84,501.16
+Econ. Ent. Terminal Division- Personal Services,PAG-IBIG Contributions,732,6000,6000,-,6000,-
+Econ. Ent. Terminal Division- Personal Services,PHILHEALTH Contributions,733,11850,11850,-,11850,-
+Econ. Ent. Terminal Division- Personal Services,ECC Contributions,734,6000,6000,-,6000,-
+Econ. Ent. Terminal Division- Personal Services,Loyalty Pay,749,5000,5000,-,5000,-
+Econ. Ent. Terminal Division- Personal Services,Monetization of Leave Credits,749,27810,27810,-,24163.95,3646.05
+Econ. Ent. Terminal Division- Maintenance and Other Operating Expenses,-,-,856340.32,856340.32,-,673664.19,182676.13
+Econ. Ent. Terminal Division- Maintenance and Other Operating Expenses,Traveling Expenses - Local,751,34000,34000,-,26167.7,7832.3
+Econ. Ent. Terminal Division- Maintenance and Other Operating Expenses,Trainings Expenses,753,-,-,-,-,-
+Econ. Ent. Terminal Division- Maintenance and Other Operating Expenses,Office Supplies Expenses,755,54340.32,54340.32,-,50151.27,4189.05
+Econ. Ent. Terminal Division- Maintenance and Other Operating Expenses,Printed Forms Expense,756,220000,220000,-,214750,5250
+Econ. Ent. Terminal Division- Maintenance and Other Operating Expenses,Accountable Forms Expenses,756,100000,100000,-,-,100000
+Econ. Ent. Terminal Division- Maintenance and Other Operating Expenses,Water Expenses,766,30000,30000,-,6425.35,23574.65
+Econ. Ent. Terminal Division- Maintenance and Other Operating Expenses,Electricity Expenses,767,400000,400000,-,364697.15,35302.85
+Econ. Ent. Terminal Division- Maintenance and Other Operating Expenses,Telephone Expenses-Landline,772,18000,18000,-,11472.72,6527.28
+Econ. Ent. Public Market Division,-,8811 (51),5426336.5,5426336.5,-,5190310.5,236026
+Econ. Ent. Public Market Division- Personal Services,-,-,4051336.5,4051336.5,-,4000455.1,50881.4
+Econ. Ent. Public Market Division- Personal Services,Salaries and Wages-Regular,701,1310954,1310954,-,1302330.37,8623.63
+Econ. Ent. Public Market Division- Personal Services,Salaries and Wages-Casual,705,2157917.68,2157917.68,-,2155269,2648.68
+Econ. Ent. Public Market Division- Personal Services,PERA,711,112000,112000,-,107909.09,4090.91
+Econ. Ent. Public Market Division- Personal Services,Clothing Allowance,715,20000,20000,-,12000,8000
+Econ. Ent. Public Market Division- Personal Services,Productivity Incentive Allowance,717,40000,40000,-,34000,6000
+Econ. Ent. Public Market Division- Personal Services,Cash Gift,724,25000,25000,-,25000,-
+Econ. Ent. Public Market Division- Personal Services,Year- End Bonus,725,116139,116139,-,115760,379
+Econ. Ent. Public Market Division- Personal Services,Life and Retirement Insurance Contributions,731,157315.32,157315.32,-,153523.4,3791.92
+Econ. Ent. Public Market Division- Personal Services,PAG-IBIG Contributions,732,5600,5600,-,5400,200
+Econ. Ent. Public Market Division- Personal Services,PHILHEALTH Contributions,733,14750.5,14750.5,-,14437.5,313
+Econ. Ent. Public Market Division- Personal Services,ECC Contributions,734,5600,5600,-,5400,200
+Econ. Ent. Public Market Division- Personal Services,Loyalty Pay,749,15000,15000,-,10000,5000
+Econ. Ent. Public Market Division- Personal Services,Monetization of Leave Credits,749,71060,71060,-,59425.74,11634.26
+Econ. Ent. Public Market Division- Maintenance and Other Operating Expenses,-,-,1375000,1375000,-,1189855.4,185144.6
+Econ. Ent. Public Market Division- Maintenance and Other Operating Expenses,Traveling Expenses - Local,751,56000,56000,-,46490,9510
+Econ. Ent. Public Market Division- Maintenance and Other Operating Expenses,Training Expenses,753,9000,9000,-,9000,-
+Econ. Ent. Public Market Division- Maintenance and Other Operating Expenses,Office Supplies Expenses,755,110000,110000,-,100535.77,9464.23
+Econ. Ent. Public Market Division- Maintenance and Other Operating Expenses,Accountable Forms Expenses,756,200000,200000,-,195170,4830
+Econ. Ent. Public Market Division- Maintenance and Other Operating Expenses,Water Expenses,766,300000,300000,-,174593.25,125406.75
+Econ. Ent. Public Market Division- Maintenance and Other Operating Expenses,Electricity Expenses,767,700000,700000,-,664066.38,35933.62
+Econ. Ent. Administrative Services,-,8811-2 (51),10918313.05,10418313.05,500000,9619759.88,798553.17
+Econ. Ent. Administrative Services- Personal Services,-,-,4066664.61,4066664.61,-,3758245.01,308419.6
+Econ. Ent. Administrative Services- Personal Services,Salaries and Wages-Regular,701,2277369,2277369,-,2069120.14,208248.86
+Econ. Ent. Administrative Services- Personal Services,Salaries and Wages-Casual,705,757397.61,757397.61,-,753747.05,3650.56
+Econ. Ent. Administrative Services- Personal Services,PERA,711,228000,228000,-,209909.09,18090.91
+Econ. Ent. Administrative Services- Personal Services,Representation Allowance,713,66000,66000,-,66000,-
+Econ. Ent. Administrative Services- Personal Services,Clothing Allowance,715,32000,32000,-,32000,-
+Econ. Ent. Administrative Services- Personal Services,Productivity Incentive Allowance,717,28000,28000,-,26000,2000
+Econ. Ent. Administrative Services- Personal Services,Hazard Pay,721,40000,40000,-,30250,9750
+Econ. Ent. Administrative Services- Personal Services,Cash Gift,724,50000,50000,-,45000,5000
+Econ. Ent. Administrative Services- Personal Services,Year- End Bonus,725,196493,196493,-,173426,23067
+Econ. Ent. Administrative Services- Personal Services,Life and Retirement Insurance Contributions,731,273285,273285,-,248155.15,25129.85
+Econ. Ent. Administrative Services- Personal Services,PAG-IBIG Contributions,732,11400,11400,-,10500,900
+Econ. Ent. Administrative Services- Personal Services,PHILHEALTH Contributions,733,25163,25163,-,22662.5,2500.5
+Econ. Ent. Administrative Services- Personal Services,ECC Contributions,734,11400,11400,-,10500,900
+Econ. Ent. Administrative Services- Personal Services,Loyalty Pay,749,15000,15000,-,10000,5000
+Econ. Ent. Administrative Services- Personal Services,Monetization of Leave Credits,749,55157,55157,-,50975.08,4181.92
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,-,-,2401648.44,2401648.44,-,2058987.02,342661.42
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Traveling Expenses - Local,751,85000,85000,-,46130,38870
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Training Expenses,753,2300,2300,-,2300,-
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Office Supplies Expenses,755,55000,55000,-,50731.15,4268.85
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Gasoline Expenses,761,750000,750000,-,640309.62,109690.38
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Other Supplies Expenses,765,92000,92000,-,82950,9050
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Postage and Deliveries,771,-,-,-,-,-
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Telephone Expenses-Landline,772,8000,8000,-,6880.72,1119.28
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Internet Expenses,774,12000,12000,-,10698,1302
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Repair and Maint - City Gov't. Building,811,1000000,1000000,-,862600.53,137399.47
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Repair and Maint - City Gov't. Building- at Tagum City ( Reference number: 224-07-12 ),-,-,250000,-,213315,36685
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Repair and Maint - City Gov't. Building- at (Public Comfort Room) New Public Market (Reference number: 267-10-12),-,-,155000,-,139394.44,15605.56
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Electrification of Tagum Trade Center (Reference number: 300-11-12 ),-,-,100000,-,97765.09,2234.91
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,New Public Market (Public Market Roof) (Reference number: 301-11-12),-,-,300000,-,249903,50097
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Terminal Repainting ( Reference number: 302-11-12 ),-,-,145000,-,125770,19230
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Installation of Net at New Public Market (Reference number: 304-11-12 ),-,-,50000,-,36453,13547
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Repair and Maint - Motor Vehicles,841,100000,100000,-,80242,19758
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Repair and Maint - Other Transportation Equipment,848,181373.44,181373.44,-,179170,2203.44
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Fidelity Bond Premiums,892,15975,15975,-,15975,-
+Econ. Ent. Administrative Services- Maintenance and Other Operating Expenses,Other Maintenance and Operating Expenses,969,100000,100000,-,81000,19000
+Econ. Ent. Administrative Services- Capital Outlay,-,-,4450000,3950000,500000,3802527.85,147472.15
+Econ. Ent. Administrative Services- Capital Outlay- Cemetery Development,-,202,2000000,2000000,-,1996925.5,3074.5
+Econ. Ent. Administrative Services- Capital Outlay- Cemetery Development,Construction of Tomb Niches Duples (3 Layers) at La Filipina Public Cemetery (Reference number: 040-01-12),-,1500000,1500000,-,1498884.5,1115.5
+Econ. Ent. Administrative Services- Capital Outlay- Cemetery Development,Construction of Perimeter Tomb Niches (4 Layers) at Busaon Public Cemetery (Reference number: 039-01-12),-,250000,250000,-,248391,1609
+Econ. Ent. Administrative Services- Capital Outlay- Cemetery Development,Construction of Perimeter Tomb Niches (4 Layers) at Madaum Public Cemetery (Reference number: 041-01-12),-,250000,250000,-,249650,350
+Econ. Ent. Administrative Services- Capital Outlay- Cemetery Development,Construction and Maintenance Of Gov't. Building,215,2000000,1500000,500000,1364602.35,135397.65
+Econ. Ent. Administrative Services- Capital Outlay- Cemetery Development,"Construction and Maintenance Of Gov't. Building- at Public Market, Brgy. Mag. West(Reference number: 088-02-12)",-,-,400000,-,395274,4726
+Econ. Ent. Administrative Services- Capital Outlay- Cemetery Development,"Construction and Maintenance Of Gov't. Building- at (Roof Extension ) TLAC, Magugpo West (Reference number: 0195-06-12)",-,-,850000,-,831435.35,18564.65
+Econ. Ent. Administrative Services- Capital Outlay- Cemetery Development,"Concrete Pavement-Fish Landing Public Market, Brgy. Magugpo West ( Reference number: 248-09-12 )",-,-,100000,-,71598,28402
+Econ. Ent. Administrative Services- Capital Outlay- Cemetery Development,"New Public Market, Magugpo West (Reference number: 306-11-12)",-,-,150000,-,66295,83705
+Econ. Ent. Administrative Services- Capital Outlay- Cemetery Development,"Other Property, Plant and Equipment- Weighing Scale",250,450000,450000,-,441000,9000
+Econ. Ent. Slaughterhouse or TLAC Center,-,8812(52),3623177.18,3623177.18,-,3088329.15,534848.03
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,-,-,2566547,2566547,-,2240759.77,325787.23
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,Salaries and Wages-Regular,701,1101144,1101144,-,920568,180576
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,Salaries and Wages-Casual,705,1002276,1002276,-,942725.46,59550.54
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,PERA,711,108000,108000,-,84000,24000
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,Clothing Allowance,715,12000,12000,-,8000,4000
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,Productivity Incentive Allowance,717,20000,20000,-,18000,2000
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,Cash Gift,724,25000,25000,-,20000,5000
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,Year- End Bonus,725,105202,105202,-,90154,15048
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,Life and Retirement Insurance Contributions,731,132138,132138,-,110468.16,21669.84
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,PAG-IBIG Contributions,732,5400,5400,-,4200,1200
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,PHILHEALTH Contributions,733,12713,12713,-,10462.5,2250.5
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,ECC Contributions,734,5400,5400,-,4200,1200
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,Loyalty Pay,749,5000,5000,-,5000,-
+Econ. Ent. Slaughterhouse or TLAC Center- Personal Services,Monetization of Leave Credits,749,32274,32274,-,22981.65,9292.35
+Econ. Ent. Slaughterhouse or TLAC Center- Maintenance and Other Operating Expenses,-,-,856630.18,856630.18,-,651169.38,205460.8
+Econ. Ent. Slaughterhouse or TLAC Center- Maintenance and Other Operating Expenses,Traveling Expenses-Local,751,34000,34000,-,33753.2,246.8
+Econ. Ent. Slaughterhouse or TLAC Center- Maintenance and Other Operating Expenses,Training Expenses,753,-,-,-,-,-
+Econ. Ent. Slaughterhouse or TLAC Center- Maintenance and Other Operating Expenses,Office Supplies Expenses,755,32753.2,32753.2,-,26061.3,6691.9
+Econ. Ent. Slaughterhouse or TLAC Center- Maintenance and Other Operating Expenses,Accountable Forms Expenses,756,50000,50000,-,-,50000
+Econ. Ent. Slaughterhouse or TLAC Center- Maintenance and Other Operating Expenses,Water Expenses,766,350000,350000,-,265384.1,84615.9
+Econ. Ent. Slaughterhouse or TLAC Center- Maintenance and Other Operating Expenses,Electricity Expenses,767,327876.98,327876.98,-,293109.87,34767.11
+Econ. Ent. Slaughterhouse or TLAC Center- Maintenance and Other Operating Expenses,Telephone Expenses-Landline,772,12000,12000,-,10220.91,1779.09
+Econ. Ent. Slaughterhouse or TLAC Center- Maintenance and Other Operating Expenses,Repair and Maint - Other Machineries and Equipment,840,50000,50000,-,22640,27360
+Econ. Ent. Slaughterhouse or TLAC Center- Capital Outlay,-,-,200000,200000,-,196400,3600
+Econ. Ent. Slaughterhouse or TLAC Center- Capital Outlay,"Other Property, Plant and Equipment",250,200000,200000,-,196400,3600
+Econ. Ent. Cemetery Services,-,-,658412.85,658412.85,-,613323.33,45089.52
+Econ. Ent. Cemetery Services- Personal Services,-,-,472074,472074,-,470357.11,1716.89
+Econ. Ent. Cemetery Services- Personal Services,Salaries and Wages-Regular,701,326328,326328,-,325242.73,1085.27
+Econ. Ent. Cemetery Services- Personal Services,PERA,711,48000,48000,-,48000,-
+Econ. Ent. Cemetery Services- Personal Services,Clothing Allowance,715,8000,8000,-,8000,-
+Econ. Ent. Cemetery Services- Personal Services,Productivity Incentive Allowance,717,4000,4000,-,4000,-
+Econ. Ent. Cemetery Services- Personal Services,Cash Gift,724,10000,10000,-,10000,-
+Econ. Ent. Cemetery Services- Personal Services,Year- End Bonus,725,27194,27194,-,27194,-
+Econ. Ent. Cemetery Services- Personal Services,Life and Retirement Insurance Contributions,731,39160,39160,-,39095.38,64.62
+Econ. Ent. Cemetery Services- Personal Services,PAG-IBIG Contributions,732,2400,2400,-,2400,-
+Econ. Ent. Cemetery Services- Personal Services,PHILHEALTH Contributions,733,4050,4050,-,4025,25
+Econ. Ent. Cemetery Services- Personal Services,ECC Contributions,734,2400,2400,-,2400,-
+Econ. Ent. Cemetery Services- Personal Services,Monetization of Leave Credits,749,542,542,-,-,542
+Econ. Ent. Cemetery Services- Maintenance and Other Operating Expenses,-,-,186338.85,186338.85,-,142966.22,43372.63
+Econ. Ent. Cemetery Services- Maintenance and Other Operating Expenses,Office Supplies Expenses,755,21338.85,21338.85,-,19607.55,1731.3
+Econ. Ent. Cemetery Services- Maintenance and Other Operating Expenses,Water Expenses,766,5000,5000,-,1782.7,3217.3
+Econ. Ent. Cemetery Services- Maintenance and Other Operating Expenses,Electricity Expenses,767,150000,150000,-,111593.97,38406.03
+Econ. Ent. Cemetery Services- Maintenance and Other Operating Expenses,Other Maintenance and Operating Expenses,969,10000,10000,-,9982,18
+Econ. Ent. Trade Center and Ambulant Enterprise Division,-,-,582385.19,582385.19,-,561198.18,21187.01
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Personal Services,-,8853,546966,546966,-,546966,0.96
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Personal Services,Salaries and Wages-Regular,701,388392,388392,-,388392,-
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Personal Services,PERA,711,48000,48000,-,48000,-
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Personal Services,Clothing Allowance,715,8000,8000,-,8000,-
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Personal Services,Productivity Incentive Allowance,717,4000,4000,-,4000,-
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Personal Services,Cash Gift,724,10000,10000,-,10000,-
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Personal Services,Year- End Bonus,725,32366,32366,-,32366,-
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Personal Services,Life and Retirement Insurance Contributions,731,46608,46608,-,46607.04,0.96
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Personal Services,PAG-IBIG Contributions,732,2400,2400,-,2400,-
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Personal Services,PHILHEALTH Contributions,733,4800,4800,-,4800,-
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Personal Services,ECC Contributions,734,2400,2400,-,2400,-
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Personal Services,Monetization of Leave Credits,749,-,-,-,-,-
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Maintenence and Other Operating Expenses,-,-,35419.19,35419.19,-,14233.14,21186.05
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Maintenence and Other Operating Expenses,Office Supplies Expenses,755,15419.19,15419.19,-,14233.14,1186.05
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Maintenence and Other Operating Expenses,Electricity Expenses,767,20000,20000,-,-,20000
+Econ. Ent. Trade Center and Ambulant Enterprise Division- Maintenence and Other Operating Expenses,Other Maintenance and Operating Expenses,969,-,-,-,-,-
+Total Economic Enterprise,-,-,24413781.09,23913781.09,500000,22080985.77,1832795.32
+Grand Total,-,-,1138474127,1098215421,40258705.71,826005504.4,272209916.6

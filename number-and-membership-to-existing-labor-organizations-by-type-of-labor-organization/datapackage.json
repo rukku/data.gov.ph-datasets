@@ -1,0 +1,46 @@
+{
+  "author": "Department of Labor and Employment", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/PsyLVdlGJobWK1QTtILS/dolenumofexistinglabororgsbytype1980-2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1980-12/31/2012"
+  }, 
+  "id": "e7389dc9-c546-4b36-bc93-f9ed1b86d27e", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bureau of Labor and Employment Statistics - Data Bank", 
+  "maintainer_email": "bles_tsd@dole.gov.ph", 
+  "name": "number-and-membership-to-existing-labor-organizations-by-type-of-labor-organization", 
+  "notes": "This dataset contains the number and membership of existing labor organizations in the Philippines classified by type of labor organization from 1980 to 2012. Note: Note:  Starting 2002, membership of local/independent unions includes membership of federations/labor centers.\t\t\r\nyear 2010 to 2011- Pleminary,\t\r\nyear 1989  As of Federation Number- Federation cancelled (AFLU).\t\t\r\nyear 2011 Local/ Independent Unions-  Includes 3 industry unions.\t\t\r\nPublic Sector Unions- Registration of Public Sector Unions started only in September 1987.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-08T14:59:55.970881", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "129be5c9-ee6c-44e6-9e2b-7c3e69f3cd52", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NUMBER AND MEMBERSHIP TO EXISTING LABOR ORGANIZATIONS BY TYPE OF LABOR ORGANIZATION", 
+      "package_id": "e7389dc9-c546-4b36-bc93-f9ed1b86d27e", 
+      "position": 0, 
+      "resource_group_id": "aaba4219-35b9-461e-b4ad-f3b56e3217d6", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/PsyLVdlGJobWK1QTtILS/dolenumofexistinglabororgsbytype1980-2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Employment"
+  ], 
+  "title": "Number and Membership to Existing Labor Organizations by Type of Labor Organization", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,45 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ZkgyluX5qExUgmAvJsJK/domestic_price_imported_logs_2012.csv", 
+  "extras": {
+    "Frequency Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-12/31/2012"
+  }, 
+  "id": "5eae082f-7fa4-4235-8a10-6a93087c5f2b", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "domestic-prices-of-imported-logs-2012", 
+  "notes": "This dataset contains the domestic prices of imported logs for the year 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T15:52:32.165304", 
+      "description": "This dataset contains the domestic prices of imported logs for the year 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "fe151bdd-a8f5-41ed-a0e7-4da6a5b05175", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Domestic Price of Imported Logs 2012", 
+      "package_id": "5eae082f-7fa4-4235-8a10-6a93087c5f2b", 
+      "position": 0, 
+      "resource_group_id": "5ff73238-fa1e-44a5-815c-4d1f678b46c3", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ZkgyluX5qExUgmAvJsJK/domestic_price_imported_logs_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Domestic Prices of Imported Logs 2012", 
+  "url": null, 
+  "version": null
+}

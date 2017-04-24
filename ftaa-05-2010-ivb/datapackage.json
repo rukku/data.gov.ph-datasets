@@ -1,0 +1,24 @@
+{
+  "author": "Mines and Geosciences Bureau", 
+  "author_email": "", 
+  "download_url": "", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "2d7baef0-cf19-4ed0-a52c-5ee5f83f9b5f", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "ftaa-05-2010-ivb", 
+  "notes": "Financial or Technical Assistance Agreement (FTAA) An Financial or Technical Assistance Agreement may be entered into between a Contractor and the Government for the large-scale exploration, development and utilization of gold, copper, nickel, chromite, lead, zinc and other minerals except for cement raw materials, marble, granite, sand and gravel and construction aggregates. (PH-EITI)", 
+  "relationships": [], 
+  "resources": [], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Narra Nickel Mining and Devt. Corp., Tesoro Mining and Devt. Corp. and McArthur Mining, Inc. - Financial or Technical Assistance Agreement 05-2010-IVB", 
+  "url": "http://www.mgb.gov.ph/", 
+  "version": ""
+}

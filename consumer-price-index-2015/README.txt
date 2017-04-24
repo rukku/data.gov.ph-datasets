@@ -1,0 +1,1 @@
+This dataset contains the Consumer Price Index (CPI), an indicator of the change in the average retail prices of a fixed basket of goods and services commonly purchased by households relative to a base year. The CPI is used in calculating the inflation rate and purchasing power of the peso.

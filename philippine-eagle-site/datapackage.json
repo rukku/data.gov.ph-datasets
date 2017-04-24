@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13489979.862644,1588830.843243,1,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22Philippine%20eagle%20site%22,%22geoportal:denr_eagle%22,1,%22PhilippineEagleSites%22,0,null]]}", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "743ed9e6-d43d-4f52-bcef-e2a59824ba9b", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "philippine-eagle-site", 
+  "notes": "The DENR - Philippine Eagle Site is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Department of Environment and Natural Resources.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-31T15:33:51.014324", 
+      "description": "The DENR - Philippine Eagle Site is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Department of Environment and Natural Resources.", 
+      "format": "PDF", 
+      "hash": "", 
+      "id": "bee3a2de-5f2e-4805-a1b2-241d42698332", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "PHILIPPINE EAGLE SITE", 
+      "package_id": "743ed9e6-d43d-4f52-bcef-e2a59824ba9b", 
+      "position": 0, 
+      "resource_group_id": "2d179962-8a2f-4479-9e21-f3ee01239f3c", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13489979.862644,1588830.843243,1,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22Philippine%20eagle%20site%22,%22geoportal:denr_eagle%22,1,%22PhilippineEagleSites%22,0,null]]}", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "PHILIPPINE EAGLE SITE", 
+  "url": "", 
+  "version": ""
+}

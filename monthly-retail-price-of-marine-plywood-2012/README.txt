@@ -1,0 +1,1 @@
+This dataset contains the monthly retail price of marine plywood for the year 2012.

@@ -1,0 +1,1 @@
+This dataset contains the employment in agriculture by region. This time-series includes the most recent data, covering the period from 1990 to the latest available year.

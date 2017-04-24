@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/Gd6xdqLi1VUa5Kwp0Zqk/bacoor_city_ira_utilization_201206_q2.csv", 
+  "extras": {
+    "Granularity": "City or Municipality", 
+    "Temporal Date": "01/01/2012-06/30/2012"
+  }, 
+  "id": "2a145bc9-1565-422c-a6cb-b173a7ec80f3", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization-of-bacoor-city", 
+  "notes": "This dataset contains report of the internal revenue allotment utilization of Bacoor City.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T14:32:32.796664", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "3808f878-638f-4514-9043-99ce6b81caff", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 2 - Bacoor City IRAU", 
+      "package_id": "2a145bc9-1565-422c-a6cb-b173a7ec80f3", 
+      "position": 0, 
+      "resource_group_id": "78f867d9-7895-46cd-9add-5d0b3e38e8f2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/Gd6xdqLi1VUa5Kwp0Zqk/bacoor_city_ira_utilization_201206_q2.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T14:32:39.734023", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "b2623700-da3d-475d-a491-3e0d6aac0da0", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 1 - Bacoor City IRAU", 
+      "package_id": "2a145bc9-1565-422c-a6cb-b173a7ec80f3", 
+      "position": 1, 
+      "resource_group_id": "78f867d9-7895-46cd-9add-5d0b3e38e8f2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/cApX0lskCLVPWJjSfvOT/bacoor_city_ira_utilization_201203_q1.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Internal Revenue Allotment Utilization of Bacoor City", 
+  "url": "", 
+  "version": ""
+}

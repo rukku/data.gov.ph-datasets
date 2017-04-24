@@ -1,0 +1,68 @@
+{
+  "author": "Department of Transportation and Communications", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/JslIsci322oUIo6LeDuS/mrt3monthlypassengertrafficperstation2014.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2014-12/31/2014"
+  }, 
+  "id": "8e6f2358-97ab-401a-9c7d-b1495fa70f77", 
+  "license": "License not specified", 
+  "maintainer": "Support Staff/Automatic Fare Collection Center/Computer Station", 
+  "maintainer_email": "widelmundo@dotcmrt3.gov.ph", 
+  "name": "metro-rail-transit---passenger-traffic-per-hour-per-station-2014", 
+  "notes": "This data set contains the monthly, hourly and daily  number of passengers of Metro Rail Transit (MRT) Line 3 in 2014. ", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T17:20:14.517782", 
+      "description": "This data set contains the monthly number of passengers of Metro Rail Transit (MRT) Line 3 in 2014.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "6742e996-1a97-43ce-96ea-d1309cb5d12b", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "MRT Line 3 - Monthly Passenger Traffic per Station 2014", 
+      "package_id": "8e6f2358-97ab-401a-9c7d-b1495fa70f77", 
+      "position": 0, 
+      "resource_group_id": "bd1a334c-7924-4c58-80ef-fb454f255c67", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/JslIsci322oUIo6LeDuS/mrt3monthlypassengertrafficperstation2014.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T17:20:19.672140", 
+      "description": "This data set contains the hourly and daily number of passengers who have entered and exited per station in Metro Rail Transit (MRT) Line 3 in 2014.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "b410e3e7-8881-4d5f-b545-5ae66f920c7b", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "MRT Line 3 - Daily Passenger Traffic per Hour per Station 2014", 
+      "package_id": "8e6f2358-97ab-401a-9c7d-b1495fa70f77", 
+      "position": 1, 
+      "resource_group_id": "bd1a334c-7924-4c58-80ef-fb454f255c67", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/yuYp1jMYGuQiZr7LeXqx/mrt3dailypassengertrafficperhourperstation2014.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Metro Rail Transit - Passenger Traffic per Station 2014", 
+  "url": "", 
+  "version": ""
+}

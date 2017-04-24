@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=E00PNGNP", 
+  "extras": {
+    "Frequency Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1987-12/31/2013"
+  }, 
+  "id": "ca58804d-edaa-4d63-8ff2-2ba2da455a02", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "gross-regional-domestic-product", 
+  "notes": "This dataset contains the Gross Regional Domestic Product (GRDP) (for 1987-2008: 1985=100; for 2009-2013:2000=100). This time-series includes the most recent data, covering the period from 1987 to the latest available year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-11T17:33:53.683339", 
+      "description": "This dataset contains the Gross Regional Domestic Product (GRDP) (for 1987-2008: 1985=100& for 2009-2013:2000=100). This time-series includes the most recent data, covering the period from 1987 to the latest available year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "c9bd70ac-3d43-498e-8608-e7e84fa61317", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Gross Regional Domestic Product", 
+      "package_id": "ca58804d-edaa-4d63-8ff2-2ba2da455a02", 
+      "position": 0, 
+      "resource_group_id": "c7d1c3b3-4982-4e3e-a0df-80c54a1f2737", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=E00PNGNP", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Gross Regional Domestic Product", 
+  "url": null, 
+  "version": null
+}

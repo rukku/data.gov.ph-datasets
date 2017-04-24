@@ -1,0 +1,64 @@
+mooe_code,category,list,appropriation,expenditures,balances
+"""12-01",MOOE,Loan Amortization-MDFO (LOGOFIND/LBP/IRA Loan),9621115.16,6675821.39,2945293.77
+"""12-02",MOOE,Food Security Program-Food Security Program,-,-,-
+12-02A,MOOE,Food Security Program-Crops and Vegetable: Crops Development Program,3000000,2430502.07,569497.93
+12-02B,MOOE,Food Security Program-Fisheries: Fisheries Development Program,552800,95068.1,457731.9
+12-02C,MOOE,Food Security Program-Livestock and Poultry: Organic Livestock and Poutry Development Program,1447200,1319878.11,127321.89
+"""12-03",MOOE,"Management, Protection, Rehabilitation and Maintenance of Watershed Areas and Reforestation Project",5000000,4081597.54,918402
+"""12-04",MOOE,Socio-Cultural Development/Enhancement Program,-,-,-
+12-04A,MOOE,Socio-Cultural Development/Enhancement Program-Batanes Day Celebration,4700000,3256434.5,1443565.5
+12-04B,MOOE,Socio-Cultural Development/Enhancement Program-Provincial Government Support to CAVRAA,300000,277840,22160
+"""12-05",MOOE,Purchase/Repair of Emergency/Calamity Related Equipments,1198197.24,-,1198197.24
+"""12-06",MOOE,Funding Assistance for Livelihood/Enterpreneurship/Local Development Pro.,500000,-,500000
+"""12-07",MOOE,Repair of Mahatao Bowling Facility,350000,294260,55740
+"""12-08",MOOE,Rehabilitation of Nakakanmuan Cogonal Reserve,150000,69947.2,80052.8
+"""12-09",MOOE,FMR Repair/Improvement and Rehabilitation of Roads and Bridges Provincewide,3700000,3264373.79,435626.21
+"""12-10",MOOE,Rehabilitaion of Acedes Street,320000,301325.35,18673.64
+"""12-11",Capital Outlay,Development of PEO Equipment Yard Cum Indoor Recreational Facility-Phase II,1500000,1045522.7,454477.3
+"""12-12",Capital Outlay,Replacement and Improvement of Batanes Resort Roofing Facilities,2000000,1845612.69,154387.31
+"""12-13",Capital Outlay,Construction of PEO MP Warehouse,500000,334622.98,165377.02
+"""12-14",Capital Outlay,"Rehabilitaion/Improvement of Protective Services, Building and Facilities",1500000,1138346.42,361653.58
+"""12-15",Capital Outlay,Construction of Closed Culvert at Barsana Street,450000,426372.63,23627.37
+"""12-16",Capital Outlay,Concreting of Basco-Song Street-Uyugan,1000000,752878.64,247121.36
+"""12-17",Capital Outlay,Concreting of Audleken Junction to Rudleken Port Road-Phase I,1000000,954984.89,45015.11
+"""12-18",Capital Outlay,Concreting of Maleng Street-Uyugan,650000,476538.6,173461.4
+"""12-19",Capital Outlay,Construction of Ipnavoaman Flood Control,650000,508806.08,141193.92
+"""12-20",Capital Outlay,MLGU-Ivana Health Center,500000,409536.57,90463.43
+"""12-21",Capital Outlay,Construction of Multi-Purpose Building and Facilities,2000000,1595778.91,404221.09
+"""12-22",Capital Outlay,Clay Brick Making Facility,200000,-,200000
+"""12-23",Capital Outlay,Completion of Uyugan LGU Multi-purpose Building,1500000,993766.18,506233.82
+"""12-24",Capital Outlay,Construction of Uyugan Elementary School Multi-purpose Building,1800000,1354868.16,435131.84
+"""12-25",MOOE,Food Security Program,-,-,-
+12-25A,MOOE,Food Security Program-Crops Development,2000000,850020.94,1149979.06
+12-25B,MOOE,Food Security-Fisheries Development Program,600000,296356.51,303643.49
+"""12-26",MOOE,"Environmental Management, Protection, Rehabilitation and Maintenance of Watershed Areas and Reforestation Project",2000000,1341873.28,658126.72
+"""12-27",MOOE,FMR-Repair/Improvement and Rehabilitationof Roads and Bridges Provincewide,2000000,937447.58,1062552.42
+"""12-28",MOOE,Social/Cultural Development Enhancemenmt Program,4054959.19,2120438.19,1944521
+"""12-29",MOOE,Itbayat District Hospital,751436.91,485532.18,275904.73
+"""12-30",MOOE,Repair of Provincial Capital,479184.94,72208.01,406976.93
+"""11-02",MOOE,Contractual Obligation and Manual Activities-Cultural Development Programs,-,-,-
+11-02C,MOOE,Contractual Obligation and Manula Activities-Cultural Development Programs-UNESCO Nomination Dossier,700000,-,700000
+"""11-07",MOOE,Infrastructure (Repair and Maintenance)-Repair of Water Laboratory Piping (PLGU-DOH Counter Funding),50000,-,50000
+"""11-09",MOOE,Infrastructure (Repair and Maintenance)-Installation of Capitol Pressurizer Tank and Cistern,150000,-,150000
+"""11-10",MOOE,Infrastructure (Repair and Maintenance)-Chawadi/Manarao Water Development Project,450000,-,450000
+"""11-15",MOOE,Infrastructure (Repair and Maintenance)-Updating of Provincial Revenue Code,500000,-,500000
+"""11-16",MOOE,Infrastructure (Repair and Maintenance)-Itbayat District Hospital,300000,-,300000
+"""11-19",MOOE,Food Security Program-Food Crops Development Program,-,-,-
+11-19C,MOOE,Food Security Program-Expansion and Development of Chinapoliran Multi-Commodity Production Project,355000,-,355000
+"""11-22",Capital Outlay,Repair of Provincial Capitol,1500000,1424071.56,75928.44
+"""11-23",Capital Outlay,Improvement of Mahatao Fish Shelter Port,-,-,-
+11-23B,Capital Outlay,Improvement of Mahatao Fish Shelter Port-Balasting/Breaking of Coral Reef,1000000,449146.47,550853.53
+11-23C,Capital Outlay,"Improvement of Mahatao Fish Shelter Port-Improvement of Bulkhead ""B"" (EEA)",1000000,878503.14,121496.86
+"""11-24",Capital Outlay,PEO Heavy Equipment Yard,2000000,1817173.66,182826.34
+"""11-25",Capital Outlay,PEO MPB Warehouse,1000000,994567.28,5432.72
+"""11-26",Capital Outlay,Replacement of IDH Building Roof,1200000,1122291.85,77708.14
+"""11-27",Capital Outlay,Improvement of Sabtang Community Hospital-Phase II,700000,563593.2,136405.8
+"""11-28",Capital Outlay,PEO Flood Control Wall,2500000,2400195.23,99804.77
+"""11-29",Capital Outlay,"Concreting of 900LM hateng to 5UPI Provincial Roads, Sinakan, Sabtang",600000,-,600000
+"""11-30",Capital Outlay,P. Agricuture-All Terrain Tractor-Itbayat,1000000,-,1000000
+"""11-31",Capital Outlay,Provincial Government Untility Vehicle and Furniture and Fixture,2400000,2175295.06,224704.94
+-,Grand Total,Grand Total,17405000,11824837.46,5580162.54
+"""11-34",Supplemental Budget No.1 Series of 2012,Improvement of Basco Water Works (Augmentation for 11-17),2060632.8,-,2060632.8
+-,Supplemental Budget No.1 Series of 2013,Total,2060632.8,-,2060632.8
+"""10-51",MOOE,Livestock Development,500000,497688.28,2311.72
+-,MOOE,Total,500000,497688.28,2311.72

@@ -1,0 +1,1 @@
+Peso-Dollar Monthly Average Exchange Rate from 2006 to 2014

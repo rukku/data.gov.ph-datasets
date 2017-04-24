@@ -1,0 +1,68 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/TjHlGl89M8RpDv3adsDl/lumber_production_2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-06/30/2013"
+  }, 
+  "id": "ace58b68-ebb5-4603-aed1-a103fbc17f6e", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "lumber-production-2012-2013", 
+  "notes": "This dataset contains the lumber production for the year 2012-2013.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T15:56:48.799819", 
+      "description": "This dataset contains the lumber production for the year 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "68ce4b5f-f790-4d95-8973-d39fbd83d545", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Lumber Production 2012", 
+      "package_id": "ace58b68-ebb5-4603-aed1-a103fbc17f6e", 
+      "position": 0, 
+      "resource_group_id": "67490809-d4ed-420c-98e6-120e6613a5d9", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/TjHlGl89M8RpDv3adsDl/lumber_production_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T15:56:52.132281", 
+      "description": "This dataset contains the lumber production for January to June 2013.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "41b0a2cb-fe2e-42ca-8bbf-84cc4a1bbe52", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Lumber Production 2013", 
+      "package_id": "ace58b68-ebb5-4603-aed1-a103fbc17f6e", 
+      "position": 1, 
+      "resource_group_id": "67490809-d4ed-420c-98e6-120e6613a5d9", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/q8XYzdxVBV0xxOe416nd/lumber_production_1st_sem_2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Lumber Production 2012-2013", 
+  "url": "", 
+  "version": ""
+}

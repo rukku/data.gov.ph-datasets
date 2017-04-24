@@ -1,0 +1,1 @@
+This dataset contains the Gross Regional Domestic Product (GRDP) (for 1987-2008: 1985=100; for 2009-2013:2000=100). This time-series includes the most recent data, covering the period from 1987 to the latest available year.

@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/3e80a732-2600-41ef-a5c3-243d0e51aadd/resource/7f22ed63-73c9-4402-b8ed-c923121ed135/download/NSCBStatisticalIndicators2012.xlsx", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "3e80a732-2600-41ef-a5c3-243d0e51aadd", 
+  "license": "License not specified", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-statistical-indicators-2012", 
+  "notes": "Statistical Indicators for 2012", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T11:40:05.461298", 
+      "description": "Statistical Indicators for 2012", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "7f22ed63-73c9-4402-b8ed-c923121ed135", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - STATISTICAL INDICATORS - 2012", 
+      "package_id": "3e80a732-2600-41ef-a5c3-243d0e51aadd", 
+      "position": 0, 
+      "resource_group_id": "c2f01f2a-15fa-40af-ac4a-a443ea8ae26d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/3e80a732-2600-41ef-a5c3-243d0e51aadd/resource/7f22ed63-73c9-4402-b8ed-c923121ed135/download/NSCBStatisticalIndicators2012.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "NSCB - STATISTICAL INDICATORS - 2012", 
+  "url": "", 
+  "version": ""
+}

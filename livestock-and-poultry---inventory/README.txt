@@ -1,0 +1,1 @@
+This dataset contains the inventory of livestock and poultry. This time-series includes the most recent data, covering the period from 1950 to the latest available year.

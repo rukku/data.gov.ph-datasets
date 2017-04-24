@@ -1,0 +1,68 @@
+{
+  "author": "Bangko Sentral ng Pilipinas", 
+  "author_email": "bspmail@bsp.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/NPe5bSh4zrLp9av5y9s3/metho_cpis.docx", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "12/31/2007-06/30/2014"
+  }, 
+  "id": "1e685383-5211-4386-bf96-36d1417ecaca", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "BSP-Economic and Financial Learning Center", 
+  "maintainer_email": "bspmail@bsp.gov.ph", 
+  "name": "cpi-survey", 
+  "notes": "This data set contains information on Philippine residents' holdings of equity and debt securities issued by non-residents.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-15T11:13:26.950427", 
+      "description": "", 
+      "format": "DOCX", 
+      "hash": "", 
+      "id": "d2189e47-38b2-4aa3-b06f-fd45412f7f2c", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Methodology", 
+      "package_id": "1e685383-5211-4386-bf96-36d1417ecaca", 
+      "position": 0, 
+      "resource_group_id": "c44034fd-1f1d-4749-9d0e-3f5101c5c335", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/NPe5bSh4zrLp9av5y9s3/metho_cpis.docx", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-15T11:13:28.847611", 
+      "description": "", 
+      "format": "PDF", 
+      "hash": "", 
+      "id": "d783feae-bcdd-4a5c-9951-2230dfabfd4b", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Coordinated Portfolio Investment Survey 2007-2014", 
+      "package_id": "1e685383-5211-4386-bf96-36d1417ecaca", 
+      "position": 1, 
+      "resource_group_id": "c44034fd-1f1d-4749-9d0e-3f5101c5c335", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://www.bsp.gov.ph/publications/regular_cpis.asp", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "Coordinated Portfolio Investment Survey", 
+  "url": "", 
+  "version": ""
+}

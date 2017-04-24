@@ -1,0 +1,40 @@
+region,province,num,area_in_hectares
+CAR,Apayao,4,43476
+I,Ilocos Norte,1,250
+I,Ilocos Sur,1,995
+I,Pangasinan,2,1734
+II,Isabela,11,88051
+II,Quirino (Counted in Isabela where part of the area is located),-,7793
+III,Aurora,8,130458
+III,Bataan,2,1136
+III,Bulacan,3,1949
+III,Nueva Ecija,1,877
+III,Tarlac,4,6981
+III,Zambales,7,9983
+IV-A,Batangas,1,100
+IV-A,Quezon,2,14527
+VI,Iloilo,1,541
+VI,Negros Occidental,2,15575
+VII,Cebu,1,232
+VII,Negros Oriental,4,6855
+VIII,Biliran,1,702
+VIII,Leyte,2,572
+VIII,Samar (Western Samar),1,550
+IX,Zamboanga del Norte,9,71643
+IX,Zamboanga del Sur,5,1104
+IX,Zamboanga Sibugay (Counted in Zamboanga del Norte where part of the area is located),-,1873
+X,Bukidnon,3,40944
+X,Misamis Oriental,2,12034
+XI,Davao del Norte,3,20833
+XI,Davao del Sur,3,2478
+XI,Davao Oriental,15,80075
+XII,North Cotabato,1,724
+XII,Sarangani,6,3602
+XII,South Cotabato,10,6852
+XII,Sultan Kudarat,2,28938
+XIII,Agusan del Norte,1,4772
+XIII,Agusan del Sur,9,230585
+XIII,Surigao del Sur,4,113764
+XIII,Surigao del Norte (Counted in Surigao del Sur where part of the area is located),-,9328
+ARMM,Lanao del Sur,6,18157
+ARMM,Maguindanao,4,24907

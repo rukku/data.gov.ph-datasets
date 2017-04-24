@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/kXqSgaq2XZG7Mr3RrfFS/aurora_ldrrmf_2012_q4.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "01/01/2012-12/31/2012, 04/01/2013-06/30/2013"
+  }, 
+  "id": "29e28c84-fefc-4a42-b478-5e8bf97013a8", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-aurora-province", 
+  "notes": "this dataset contains report on local disaster risk reduction and management fund utilization of Aurora province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-23T17:14:16.137322", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "8786c1c5-cf57-416e-a29d-97c9e9aed54e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 1-4 - Aurora Province LDRRMF", 
+      "package_id": "29e28c84-fefc-4a42-b478-5e8bf97013a8", 
+      "position": 0, 
+      "resource_group_id": "05d737ad-f807-4ccd-8fbc-198b2fbd4705", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/kXqSgaq2XZG7Mr3RrfFS/aurora_ldrrmf_2012_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-23T17:14:19.331500", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "0e841829-287a-44ca-a709-3afcd9ab3b96", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2013 Quarter 2 - Aurora Province LDRRMF", 
+      "package_id": "29e28c84-fefc-4a42-b478-5e8bf97013a8", 
+      "position": 1, 
+      "resource_group_id": "05d737ad-f807-4ccd-8fbc-198b2fbd4705", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/IidS1XK7dJmx9MnMnJE7/aurora_ldrrmf_20130731_q2.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization of Aurora Province", 
+  "url": "", 
+  "version": ""
+}

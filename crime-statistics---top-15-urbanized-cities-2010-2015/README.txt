@@ -1,0 +1,1 @@
+These types of crime, involve (1) crimes against persons such as murder, homicide, physical injury and rape, and (2) crimes against property such as robbery, theft, carnapping/carjacking and cattle rustling.

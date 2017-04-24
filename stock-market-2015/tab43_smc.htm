@@ -1,0 +1,2336 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 14">
+<link rel=File-List href="tab43_smc_files/filelist.xml">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+x\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<style id="Tab 43-A stock market capitalization_sql (p)_18271_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.font518271
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.font618271
+	{color:white;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.xl6318271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Standard;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6418271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6518271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6618271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6718271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6818271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6918271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7018271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7118271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_\(* \#\,\#\#0\.0000000000_\)\;_\(* \\\(\#\,\#\#0\.0000000000\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7218271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_\(* \#\,\#\#0\.0000000000_\)\;_\(* \\\(\#\,\#\#0\.0000000000\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7318271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_\(* \#\,\#\#0\.0000000000_\)\;_\(* \\\(\#\,\#\#0\.0000000000\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7418271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_\(* \#\,\#\#0\.00_\)\;_\(* \\\(\#\,\#\#0\.00\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7518271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_\(* \#\,\#\#0\.00_\)\;_\(* \\\(\#\,\#\#0\.00\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7618271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_\(* \#\,\#\#0\.000000000_\)\;_\(* \\\(\#\,\#\#0\.000000000\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7718271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7818271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7918271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8018271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8118271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8218271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8318271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8418271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8518271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8618271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0\.0";
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8718271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8818271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_\(* \#\,\#\#0\.0000000000_\)\;_\(* \\\(\#\,\#\#0\.0000000000\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8918271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9018271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_\(* \#\,\#\#0\.0000000000_\)\;_\(* \\\(\#\,\#\#0\.0000000000\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9118271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:left;
+	vertical-align:bottom;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9218271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_\(* \#\,\#\#0\.0000000000_\)\;_\(* \\\(\#\,\#\#0\.0000000000\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	text-align:general;
+	vertical-align:bottom;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9318271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:left;
+	vertical-align:bottom;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9418271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_\(* \#\,\#\#0\.0000000000_\)\;_\(* \\\(\#\,\#\#0\.0000000000\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	text-align:general;
+	vertical-align:bottom;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9518271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_\(* \#\,\#\#0\.0000000000_\)\;_\(* \\\(\#\,\#\#0\.0000000000\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9618271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9718271
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#0078C9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9818271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9918271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10018271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl10118271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:1.0pt solid black;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10218271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:1.0pt solid black;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10318271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:right;
+	vertical-align:bottom;
+	border-top:1.0pt solid black;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10418271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	vertical-align:bottom;
+	border-top:1.0pt solid black;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10518271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_\(* \#\,\#\#0\.0000000000_\)\;_\(* \\\(\#\,\#\#0\.0000000000\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	text-align:right;
+	vertical-align:bottom;
+	border-top:1.0pt solid black;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10618271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:right;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10718271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10818271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10918271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl11018271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl11118271
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+-->
+</style>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Excel's Publish as Web
+Page wizard.-->
+<!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id="Tab 43-A stock market capitalization_sql (p)_18271" align=center
+x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=955 class=xl6518271
+ style='border-collapse:collapse;table-layout:fixed;width:720pt'>
+ <col class=xl6518271 width=61 span=2 style='mso-width-source:userset;
+ mso-width-alt:1735;width:46pt'>
+ <col class=xl6518271 width=16 style='mso-width-source:userset;mso-width-alt:
+ 455;width:12pt'>
+ <col class=xl6518271 width=78 style='mso-width-source:userset;mso-width-alt:
+ 2218;width:59pt'>
+ <col class=xl6518271 width=16 style='mso-width-source:userset;mso-width-alt:
+ 455;width:12pt'>
+ <col class=xl6518271 width=78 style='mso-width-source:userset;mso-width-alt:
+ 2218;width:59pt'>
+ <col class=xl6518271 width=16 style='mso-width-source:userset;mso-width-alt:
+ 455;width:12pt'>
+ <col class=xl6518271 width=83 style='mso-width-source:userset;mso-width-alt:
+ 2360;width:62pt'>
+ <col class=xl6518271 width=16 style='mso-width-source:userset;mso-width-alt:
+ 455;width:12pt'>
+ <col class=xl7118271 width=78 style='mso-width-source:userset;mso-width-alt:
+ 2218;width:59pt'>
+ <col class=xl6518271 width=16 style='mso-width-source:userset;mso-width-alt:
+ 455;width:12pt'>
+ <col class=xl6518271 width=78 style='mso-width-source:userset;mso-width-alt:
+ 2218;width:59pt'>
+ <col class=xl6518271 width=16 style='mso-width-source:userset;mso-width-alt:
+ 455;width:12pt'>
+ <col class=xl6518271 width=74 style='mso-width-source:userset;mso-width-alt:
+ 2104;width:56pt'>
+ <col class=xl6518271 width=16 style='mso-width-source:userset;mso-width-alt:
+ 455;width:12pt'>
+ <col class=xl6518271 width=69 style='mso-width-source:userset;mso-width-alt:
+ 1962;width:52pt'>
+ <col class=xl6518271 width=16 style='mso-width-source:userset;mso-width-alt:
+ 455;width:12pt'>
+ <col class=xl6518271 width=101 style='mso-width-source:userset;mso-width-alt:
+ 2872;width:76pt'>
+ <col class=xl6518271 width=16 style='mso-width-source:userset;mso-width-alt:
+ 455;width:12pt'>
+ <col class=xl6518271 width=50 style='mso-width-source:userset;mso-width-alt:
+ 1422;width:38pt'>
+ <tr class=xl8718271 height=8 style='mso-height-source:userset;height:6.0pt'>
+  <td height=8 class=xl7718271 width=61 style='height:6.0pt;width:46pt'><a
+  name="RANGE!A1:T58">&nbsp;</a></td>
+  <td class=xl8918271 width=61 style='width:46pt'>&nbsp;</td>
+  <td class=xl8918271 width=16 style='width:12pt'>&nbsp;</td>
+  <td class=xl8918271 width=78 style='width:59pt'>&nbsp;</td>
+  <td class=xl8918271 width=16 style='width:12pt'>&nbsp;</td>
+  <td class=xl8918271 width=78 style='width:59pt'>&nbsp;</td>
+  <td class=xl8918271 width=16 style='width:12pt'>&nbsp;</td>
+  <td class=xl8918271 width=83 style='width:62pt'>&nbsp;</td>
+  <td class=xl8918271 width=16 style='width:12pt'>&nbsp;</td>
+  <td class=xl9018271 width=78 style='width:59pt'>&nbsp;</td>
+  <td class=xl8918271 width=16 style='width:12pt'>&nbsp;</td>
+  <td class=xl8918271 width=78 style='width:59pt'>&nbsp;</td>
+  <td class=xl8918271 width=16 style='width:12pt'>&nbsp;</td>
+  <td class=xl8918271 width=74 style='width:56pt'>&nbsp;</td>
+  <td class=xl8918271 width=16 style='width:12pt'>&nbsp;</td>
+  <td class=xl8918271 width=69 style='width:52pt'>&nbsp;</td>
+  <td class=xl8918271 width=16 style='width:12pt'>&nbsp;</td>
+  <td class=xl8918271 width=101 style='width:76pt'>&nbsp;</td>
+  <td class=xl8918271 width=16 style='width:12pt'>&nbsp;</td>
+  <td class=xl9618271 width=50 style='width:38pt'>&nbsp;</td>
+ </tr>
+ <tr height=31 style='height:23.25pt'>
+  <td height=31 class=xl9718271 style='height:23.25pt'>43 </td>
+  <td class=xl9118271 colspan=7><span style='mso-spacerun:yes'> </span><font
+  class="font618271">PHILIPPINE STOCK MARKET CAPITALIZATION</font></td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl9218271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl8018271>&nbsp;</td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.0pt'>
+  <td height=16 class=xl8118271 style='height:12.0pt'>&nbsp;</td>
+  <td class=xl9318271 colspan=3><span style='mso-spacerun:yes'> </span>end of
+  period</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl9218271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl7918271>&nbsp;</td>
+  <td class=xl8018271>&nbsp;</td>
+ </tr>
+ <tr class=xl6418271 height=16 style='mso-height-source:userset;height:12.0pt'>
+  <td height=16 class=xl8118271 style='height:12.0pt'>&nbsp;</td>
+  <td class=xl9318271 colspan=3><span style='mso-spacerun:yes'> </span>in
+  million pesos</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl9418271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl7818271>&nbsp;</td>
+  <td class=xl8218271>&nbsp;</td>
+ </tr>
+ <tr class=xl6618271 height=13 style='mso-height-source:userset;height:9.75pt'>
+  <td height=13 class=xl8318271 style='height:9.75pt'>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl9518271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8418271>&nbsp;</td>
+  <td class=xl8518271>&nbsp;</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl9818271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl7118271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl9918271>&nbsp;</td>
+ </tr>
+ <tr height=51 style='mso-height-source:userset;height:38.25pt'>
+  <td height=51 class=xl9818271 style='height:38.25pt'>&nbsp;</td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6718271>Financials</td>
+  <td class=xl6418271></td>
+  <td class=xl6718271>Industrials</td>
+  <td class=xl6418271></td>
+  <td class=xl6718271>Holding Firms</td>
+  <td class=xl6418271></td>
+  <td class=xl7318271><span style='mso-spacerun:yes'> </span>Property<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl6418271></td>
+  <td class=xl6718271>Services</td>
+  <td class=xl6418271></td>
+  <td class=xl6718271>Mining &amp; Oil</td>
+  <td class=xl6418271></td>
+  <td class=xl6718271>SME</td>
+  <td class=xl6418271></td>
+  <td class=xl6718271>Total</td>
+  <td class=xl6718271></td>
+  <td class=xl10018271 width=50 style='width:38pt'>Annual Percent Change</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10118271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl10218271>&nbsp;</td>
+  <td class=xl10218271>&nbsp;</td>
+  <td class=xl10318271>&nbsp;</td>
+  <td class=xl10418271>&nbsp;</td>
+  <td class=xl10418271>&nbsp;</td>
+  <td class=xl10418271>&nbsp;</td>
+  <td class=xl10318271>&nbsp;</td>
+  <td class=xl10318271>&nbsp;</td>
+  <td class=xl10518271>&nbsp;</td>
+  <td class=xl10318271>&nbsp;</td>
+  <td class=xl10318271>&nbsp;</td>
+  <td class=xl10318271>&nbsp;</td>
+  <td class=xl10318271>&nbsp;</td>
+  <td class=xl10318271>&nbsp;</td>
+  <td class=xl10318271>&nbsp;</td>
+  <td class=xl10318271>&nbsp;</td>
+  <td class=xl10318271>&nbsp;</td>
+  <td class=xl10318271>&nbsp;</td>
+  <td class=xl10618271>&nbsp;</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>2014</td>
+  <td class=xl6518271></td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271></td>
+  <td class=xl6518271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl7418271></td>
+  <td class=xl7518271></td>
+  <td class=xl7518271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>&nbsp;</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Jan</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271 align=right>3,677,189.37</td>
+  <td class=xl6518271></td>
+  <td class=xl6318271 align=right>2,471,344.00</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>2,353,842.97</td>
+  <td class=xl6318271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,351,774.54 </td>
+  <td class=xl7518271></td>
+  <td class=xl7518271><span style='mso-spacerun:yes'>  </span>1,896,083.99 </td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>350,575.95</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>862.94</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>12,101,673.76</td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>3.0</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Feb</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271 align=right>3,805,876.64</td>
+  <td class=xl6518271></td>
+  <td class=xl6318271 align=right>2,233,510.72</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>2,865,866.59</td>
+  <td class=xl6318271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,427,841.01 </td>
+  <td class=xl7518271></td>
+  <td class=xl7518271><span style='mso-spacerun:yes'>  </span>1,972,333.08 </td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>375,980.16</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>880.07</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>12,682,288.27</td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>1.9</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Mar</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271 align=right>3,793,914.34</td>
+  <td class=xl6518271></td>
+  <td class=xl6318271 align=right>2,221,692.56</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>2,918,286.60</td>
+  <td class=xl6318271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,425,356.75 </td>
+  <td class=xl7518271></td>
+  <td class=xl7518271><span style='mso-spacerun:yes'>  </span>1,985,608.45 </td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>389,791.96</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>976.28</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>12,735,626.94</td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>1.2</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Apr</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271 align=right>3,868,031.97</td>
+  <td class=xl6518271></td>
+  <td class=xl6318271 align=right>2,271,061.54</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>3,065,574.14</td>
+  <td class=xl6318271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,518,744.79 </td>
+  <td class=xl7518271></td>
+  <td class=xl7518271><span style='mso-spacerun:yes'>  </span>2,071,807.27 </td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>413,249.82</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>10,705.03</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>13,219,174.55</td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>1.3</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>May</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271 align=right>3,823,381.17</td>
+  <td class=xl6518271></td>
+  <td class=xl6318271 align=right>2,286,274.24</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>3,005,241.66</td>
+  <td class=xl6318271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,538,154.25 </td>
+  <td class=xl7518271></td>
+  <td class=xl7518271><span style='mso-spacerun:yes'>  </span>2,011,790.20 </td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>406,772.31</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>21,597.82</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>13,093,211.65</td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>4.0</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Jun</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271 align=right>3,860,378.98</td>
+  <td class=xl6518271></td>
+  <td class=xl6318271 align=right>2,331,411.61</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>3,111,226.87</td>
+  <td class=xl6318271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,540,702.16 </td>
+  <td class=xl7518271></td>
+  <td class=xl7518271><span style='mso-spacerun:yes'>  </span>2,050,800.08 </td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>435,782.38</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>21,033.99</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>13,351,336.06</td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>14.0</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Jul</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271 align=right>3,967,944.02</td>
+  <td class=xl6518271></td>
+  <td class=xl6318271 align=right>2,346,018.10</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>3,103,383.64</td>
+  <td class=xl6318271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,514,780.52 </td>
+  <td class=xl7518271></td>
+  <td class=xl7518271><span style='mso-spacerun:yes'>  </span>2,082,801.93 </td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>438,884.58</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>18,586.80</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>13,472,399.58</td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>9.9</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Aug</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271 align=right>3,915,111.24</td>
+  <td class=xl6518271></td>
+  <td class=xl6318271 align=right>2,379,436.49</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>3,092,305.97</td>
+  <td class=xl6318271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,563,355.82 </td>
+  <td class=xl7518271></td>
+  <td class=xl7518271><span style='mso-spacerun:yes'>  </span>2,168,071.21 </td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>458,015.90</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>18,642.39</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>13,594,939.03</td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>20.3</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Sep</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271 align=right>4,252,311.86</td>
+  <td class=xl6518271></td>
+  <td class=xl6318271 align=right>2,525,838.84</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>3,240,921.36</td>
+  <td class=xl6318271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,661,973.97 </td>
+  <td class=xl7518271></td>
+  <td class=xl7518271><span style='mso-spacerun:yes'>  </span>2,134,015.61 </td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>450,256.19</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>19,275.47</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>14,284,593.29</td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>22.8</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Oct</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271 align=right>4,060,327.09</td>
+  <td class=xl6518271></td>
+  <td class=xl6318271 align=right>2,503,532.80</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>3,202,203.22</td>
+  <td class=xl6318271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,600,316.52 </td>
+  <td class=xl7518271></td>
+  <td class=xl7518271><span style='mso-spacerun:yes'>  </span>2,156,334.13 </td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>418,430.87</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>18,158.73</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>13,959,303.36</td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>12.0</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Nov</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271 align=right>4,176,789.41</td>
+  <td class=xl6518271></td>
+  <td class=xl6318271 align=right>2,568,804.50</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>3,191,375.18</td>
+  <td class=xl6318271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,631,037.85 </td>
+  <td class=xl7518271></td>
+  <td class=xl7518271><span style='mso-spacerun:yes'>  </span>2,215,342.78 </td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>436,725.59</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>18,547.54</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>14,238,622.86</td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>15.2</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Dec</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271 align=right>4,163,911.94</td>
+  <td class=xl6518271></td>
+  <td class=xl6318271 align=right>2,642,142.99</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>3,156,537.15</td>
+  <td class=xl6318271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,610,998.35 </td>
+  <td class=xl7518271></td>
+  <td class=xl7518271><span style='mso-spacerun:yes'>  </span>2,208,887.09 </td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>434,770.02</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>34,470.19</td>
+  <td class=xl6318271></td>
+  <td class=xl6318271 align=right>14,251,717.73</td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>19.4</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271></td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271></td>
+  <td class=xl6518271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl7418271></td>
+  <td class=xl7518271></td>
+  <td class=xl7518271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>&nbsp;</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>2015 </td>
+  <td class=xl6918271></td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl6318271></td>
+  <td class=xl6518271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl7418271></td>
+  <td class=xl7518271></td>
+  <td class=xl7518271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6318271></td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>&nbsp;</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Jan</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>3,923,912.53 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,785,346.84 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,388,986.37 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,738,440.04 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,224,757.78 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>427,896.79 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>40,674.43 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>14,530,014.79 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>20.1</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Feb</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>3,959,729.13 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,810,294.17 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,393,199.34 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,788,860.83 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,253,432.57 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>501,698.22 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>38,164.74 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>14,745,378.99 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>16.3</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Mar</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,110,759.15 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,822,872.68 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,519,491.01 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,844,510.08 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,180,118.88 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>463,382.43 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>38,175.52 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>14,979,309.74 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>17.6</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Apr</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,121,766.62 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,725,877.89 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,440,777.96 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,785,961.84 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,209,028.02 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>460,492.55 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>38,281.84 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>14,782,186.72 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>11.8</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>May</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,032,788.55 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,641,981.28 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,348,159.29 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,784,317.95 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,229,283.20 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>427,769.67 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>40,186.73 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>14,504,486.67 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>10.8</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Jun</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,217,535.53 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,645,465.23 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,362,539.73 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,748,732.04 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,166,616.99 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>413,592.13 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>43,895.80 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>14,598,377.45 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>9.3</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Jul</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,042,477.59 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,639,024.56 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,360,679.75 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,830,828.98 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,240,788.77 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>365,589.59 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>23,202.35 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>14,502,591.59 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>7.6</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Aug</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>3,835,468.36 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,526,665.50 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,196,041.25 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,715,738.29 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,012,901.53 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>342,058.62 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>20,339.00 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>13,649,212.55 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>0.4</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Sep</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>3,845,971.82 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,438,817.54 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,170,290.56 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,722,055.83 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,819,905.26 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>326,401.87 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>25,745.47 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>13,349,188.36 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>-6.5</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Oct</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,001,054.17 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,596,812.60 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,238,475.58 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,819,008.97 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,903,828.34 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>348,775.86 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>28,989.56 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>13,936,945.09 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>-0.2</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Nov</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>3,944,715.22 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,551,357.70 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,209,980.26 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,771,490.99 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,772,137.34 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>328,031.30 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>29,264.20 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>13,606,977.00 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>-4.4</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Dec</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>3,816,089.73 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,538,688.64 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,263,679.66 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,783,751.46 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,715,559.10 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>318,867.29 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>28,513.07 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>13,465,148.94 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>-5.5</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271></td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>&nbsp;</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>2016 </td>
+  <td class=xl6918271></td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>&nbsp;</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Jan</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>3,435,278.44 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,426,737.59 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,166,481.00 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,624,728.88 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,675,971.51 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>278,954.09 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>24,271.54 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>12,632,423.07 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>-13.1</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Feb</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>3,654,530.10 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,540,930.03 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,214,248.15 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,683,376.18 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,609,595.22 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>311,238.38 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>26,107.45 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>13,040,025.51 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>-11.6</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Mar</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>3,691,240.65 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,704,858.12 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,559,379.73 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,839,461.06 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,792,126.44 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>326,451.52 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>33,521.91 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>13,947,039.41 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>-6.9</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Apr</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>3,829,987.79 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,665,989.69 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,512,051.45 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,837,812.54 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,753,494.90 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>323,510.21 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>31,214.22 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>13,954,060.80 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>-5.6</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>May</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,020,341.62 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,630,070.86 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,698,012.01 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,960,053.99 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,805,862.55 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>328,139.70 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>34,829.28 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>14,477,310.01 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>-0.2</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Jun</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,324,381.37 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,687,784.83 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,788,312.80 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,139,104.73 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,940,462.41 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>340,628.09 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>32,884.30 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>15,253,558.54 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>4.5</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Jul</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,201,966.15 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,798,587.71 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,900,568.25 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,242,456.21 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,930,289.32 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>338,750.59 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>35,821.34 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>15,448,439.58 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>6.5</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Aug</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,033,300.85 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,767,600.48 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,865,205.74 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,238,830.14 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,857,988.64 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>324,927.45 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>32,207.60 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>15,120,060.91 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>10.8</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Sep</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,093,016.56 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,732,693.41 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,809,886.51 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,182,238.94 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,788,117.74 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>335,968.08 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>28,997.19 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>14,970,918.42 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>12.1</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Oct</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,037,689.09 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,693,772.86 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,790,183.04 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,063,321.31 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,726,671.07 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>346,348.84 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>23,389.36 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>14,681,375.57 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>5.3</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Nov</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,158,111.65 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,554,558.02 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,633,239.60 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,937,247.05 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,579,593.30 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>366,869.25 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>20,223.47 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>14,249,842.34 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>4.7</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Dec</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,232,394.51 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,543,175.70 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,708,886.37 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,965,018.56 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,614,845.72 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>357,425.28 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>17,028.63 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>14,438,774.76 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>7.2</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271></td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>&nbsp;</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>2017 </td>
+  <td class=xl6918271></td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl7418271></td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>&nbsp;</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Jan</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,571,189.49 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,619,701.16 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,890,138.93 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,094,780.53 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,734,512.62 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>362,114.81 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>17,545.24 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>15,289,982.77 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>21.0</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Feb</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,576,109.40 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,625,100.31 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,894,615.21 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,076,658.22 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,745,429.28 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>361,222.48 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>31,741.75 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>15,310,876.66 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>17.4</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl10718271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl6918271>Mar</td>
+  <td class=xl6818271><sup></sup></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>4,480,320.65 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,564,894.26 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>3,949,235.65 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>2,011,508.38 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>  </span>1,891,717.13 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>353,205.67 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>    </span>34,005.10 </td>
+  <td class=xl7418271></td>
+  <td class=xl7418271><span style='mso-spacerun:yes'>       
+  </span>15,284,886.83 </td>
+  <td class=xl6518271></td>
+  <td class=xl8618271>9.6</td>
+ </tr>
+ <tr height=16 style='height:12.0pt'>
+  <td height=16 class=xl9818271 style='height:12.0pt'>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl7218271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl7618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl8618271>&nbsp;</td>
+ </tr>
+ <tr height=14 style='mso-height-source:userset;height:10.5pt'>
+  <td height=14 class=xl10818271 style='height:10.5pt'>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8818271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl8718271>&nbsp;</td>
+  <td class=xl10918271>&nbsp;</td>
+ </tr>
+ <tr height=15 style='height:11.25pt'>
+  <td height=15 class=xl9818271 style='height:11.25pt'>&nbsp;</td>
+  <td class=xl7018271 colspan=6>Source of data:<span style='mso-spacerun:yes'> 
+  </span>Philippine Stock Exchange (PSE)</td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl7118271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl6518271></td>
+  <td class=xl9918271>&nbsp;</td>
+ </tr>
+ <tr height=14 style='mso-height-source:userset;height:10.5pt'>
+  <td height=14 class=xl11018271 style='height:10.5pt'>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl7218271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl6618271>&nbsp;</td>
+  <td class=xl11118271>&nbsp;</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=61 style='width:46pt'></td>
+  <td width=61 style='width:46pt'></td>
+  <td width=16 style='width:12pt'></td>
+  <td width=78 style='width:59pt'></td>
+  <td width=16 style='width:12pt'></td>
+  <td width=78 style='width:59pt'></td>
+  <td width=16 style='width:12pt'></td>
+  <td width=83 style='width:62pt'></td>
+  <td width=16 style='width:12pt'></td>
+  <td width=78 style='width:59pt'></td>
+  <td width=16 style='width:12pt'></td>
+  <td width=78 style='width:59pt'></td>
+  <td width=16 style='width:12pt'></td>
+  <td width=74 style='width:56pt'></td>
+  <td width=16 style='width:12pt'></td>
+  <td width=69 style='width:52pt'></td>
+  <td width=16 style='width:12pt'></td>
+  <td width=101 style='width:76pt'></td>
+  <td width=16 style='width:12pt'></td>
+  <td width=50 style='width:38pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>

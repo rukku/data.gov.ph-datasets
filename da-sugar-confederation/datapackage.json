@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/BSM9PGKKMe4emSXCU6oU/dasugarconfederation2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "5287e0af-54d1-4f39-a2e9-52ebb3daffa7", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "da-sugar-confederation", 
+  "notes": "Directory of Sugar Planters Confederation.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T11:29:18.318296", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "651bb22c-88e5-4389-ba82-45d47fdd7cf9", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Sugar Confederation", 
+      "package_id": "5287e0af-54d1-4f39-a2e9-52ebb3daffa7", 
+      "position": 0, 
+      "resource_group_id": "89fffe51-5f50-4d03-b756-9ae6b46e0939", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/BSM9PGKKMe4emSXCU6oU/dasugarconfederation2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Sugar Confederation", 
+  "url": "", 
+  "version": ""
+}

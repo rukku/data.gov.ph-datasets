@@ -1,0 +1,45 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/V4SCdlxng4PMiePz186B/dasugartradersdome2013.csv", 
+  "extras": {
+    "Frequency Update": "Annually", 
+    "Granularity": "", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "02fb31ae-fdd7-4b8c-bcab-6d8cc7fb91e8", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "domestic-sugar-traders", 
+  "notes": "Directory of Domestic Sugar Traders.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-04T17:44:35.290347", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "5fb08173-c9b6-42ad-a55b-55c8f0c7cd58", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Domestic Sugar Traders ", 
+      "package_id": "02fb31ae-fdd7-4b8c-bcab-6d8cc7fb91e8", 
+      "position": 0, 
+      "resource_group_id": "988c80b0-701f-4f09-9ccc-c8f76ea30507", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/V4SCdlxng4PMiePz186B/dasugartradersdome2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Domestic Sugar Traders", 
+  "url": null, 
+  "version": null
+}

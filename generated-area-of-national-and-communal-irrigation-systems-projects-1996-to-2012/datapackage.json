@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/d92d8bb4-10f2-431b-b55a-bcd59172ec20/resource/603a6406-689a-45ae-b5ee-ae98de5c243c/download/NSCBGeneratedAreaofNationalandCommunalIrrigationSystemsProjects1996to2012.xlsx", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "1996-2012"
+  }, 
+  "id": "d92d8bb4-10f2-431b-b55a-bcd59172ec20", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "generated-area-of-national-and-communal-irrigation-systems-projects-1996-to-2012", 
+  "notes": "Generated Area of National and Communal Irrigation Systems/Projects from 1996 to 2012", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T11:44:57.742423", 
+      "description": "Generated Area of National and Communal Irrigation Systems/Projects from 1996 to 2012", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "603a6406-689a-45ae-b5ee-ae98de5c243c", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "GENERATED AREA OF NATIONAL AND COMMUNAL IRRIGATION SYSTEMS/PROJECTS 1996 TO 2012", 
+      "package_id": "d92d8bb4-10f2-431b-b55a-bcd59172ec20", 
+      "position": 0, 
+      "resource_group_id": "2c55acf5-998c-4cc7-8c63-98528503b6ab", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/d92d8bb4-10f2-431b-b55a-bcd59172ec20/resource/603a6406-689a-45ae-b5ee-ae98de5c243c/download/NSCBGeneratedAreaofNationalandCommunalIrrigationSystemsProjects1996to2012.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Infrastructure"
+  ], 
+  "title": "GENERATED AREA OF NATIONAL AND COMMUNAL IRRIGATION SYSTEMS/PROJECTS 1996 TO 2012", 
+  "url": "", 
+  "version": ""
+}

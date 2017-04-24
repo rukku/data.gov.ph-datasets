@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/d9bcaec4-283d-423f-9a0a-1f3b9e8f953c/resource/523b85d2-d7d5-4db0-84b4-eca5bff79c2e/download/NSCBQuarterlyEconomicIndices2012to2013.xlsx", 
+  "extras": {
+    "Frequency of Update": "Quarterly", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "d9bcaec4-283d-423f-9a0a-1f3b9e8f953c", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-quarterly-economic-indices-2012-to-2013", 
+  "notes": "Quarterly Economic Indices from 2012 to 2013 - Mining and Quarrying, Manufacturing, Electricity and Water, Trade, Transportation and Communication, Finance, Real Estate, Private Services", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T23:02:15.830368", 
+      "description": "Quarterly Economic Indices from 2012 to 2013 - Mining and Quarrying, Manufacturing, Electricity and Water, Trade, Transportation and Communication, Finance, Real Estate, Private Services", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "523b85d2-d7d5-4db0-84b4-eca5bff79c2e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - QUARTERLY ECONOMIC INDICES - 2012 TO 2013", 
+      "package_id": "d9bcaec4-283d-423f-9a0a-1f3b9e8f953c", 
+      "position": 0, 
+      "resource_group_id": "a6087639-5dd5-4f93-844e-80fac669713f", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/d9bcaec4-283d-423f-9a0a-1f3b9e8f953c/resource/523b85d2-d7d5-4db0-84b4-eca5bff79c2e/download/NSCBQuarterlyEconomicIndices2012to2013.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "NSCB - QUARTERLY ECONOMIC INDICES - 2012 TO 2013", 
+  "url": "", 
+  "version": ""
+}

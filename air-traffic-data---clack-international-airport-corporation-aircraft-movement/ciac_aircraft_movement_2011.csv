@@ -1,0 +1,18 @@
+flight_type,airline_operator,january,february,march,april,may,june,july,august,september,october,november,december,grand_total
+Domestic,Cebu Pacific,26,24,26,26,26,26,24,28,26,26,26,26,310
+Domestic,King Air Airlines,4,-,-,-,-,-,-,-,-,-,-,-,4
+Domestic,Seair,17,16,26,33,34,33,35,20,14,19,24,24,295
+Domestic,Total,47,40,52,59,60,59,59,48,40,45,50,50,609
+International,Air Asia,124,112,124,120,124,120,124,124,120,120,120,124,1456
+International,Asiana Airlines,62,56,62,60,62,60,62,62,60,62,60,62,730
+International,Beijing Capital Airlines Co. Ltd.,-,-,-,-,1,-,-,-,-,-,-,-,1
+International,Cebu Pacific,179,160,175,171,178,171,154,150,146,159,148,179,1970
+International,China Eastern,-,-,-,-,1,-,-,-,-,-,-,-,1
+International,Corporate World Aviation Corp. Airline,-,-,-,-,-,-,2,-,-,-,-,-,2
+International,Jin-Air,46,40,42,26,26,26,32,44,26,26,26,28,388
+International,Seair,124,113,160,180,196,240,177,166,217,232,228,274,2307
+International,Spirit of Manila,26,30,30,30,-,-,-,-,-,-,-,-,116
+International,Total,478,426,464,463,457,419,415,426,408,413,454,509,5332
+G. Aviation,G. Aviation,605,570,659,550,467,279,209,478,467,628,736,764,6412
+Military,Military,-,-,-,-,-,-,-,-,-,-,-,-,-
+Grand Total,Grand Total,1213,1121,1304,1196,1115,955,819,1072,1076,1272,1368,1481,13992

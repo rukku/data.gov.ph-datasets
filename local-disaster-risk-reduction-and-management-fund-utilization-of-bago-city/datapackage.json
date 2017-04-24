@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/gbsEEKNveQ0lM7C61SAl/bagocity_ldrrmf_09302012_q3.csv", 
+  "extras": {
+    "Granularity": "City or Municipality", 
+    "Temporal Date": "07/01/2012-12/31/2012"
+  }, 
+  "id": "bd4753f3-a91f-43a9-a7af-0f6de52aed58", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-bago-city", 
+  "notes": "This dataset contains report of local disaster risk reduction and management fund utilization of Bago City.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-25T10:52:50.099254", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "c8577b8a-755c-4060-b659-a8909afd722b", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 3 - Bago City LDRRMF", 
+      "package_id": "bd4753f3-a91f-43a9-a7af-0f6de52aed58", 
+      "position": 0, 
+      "resource_group_id": "73d29737-ec38-4f17-b85f-580ec175d32d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/gbsEEKNveQ0lM7C61SAl/bagocity_ldrrmf_09302012_q3.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-25T10:52:56.134721", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "280adf08-3725-4542-a1ee-379273790726", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Bago City LDRRMF", 
+      "package_id": "bd4753f3-a91f-43a9-a7af-0f6de52aed58", 
+      "position": 1, 
+      "resource_group_id": "73d29737-ec38-4f17-b85f-580ec175d32d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/AyXNyH9tHDY4zWWZqTNR/bagocity_ldrrmf_12312012_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization of Bago City", 
+  "url": "", 
+  "version": ""
+}

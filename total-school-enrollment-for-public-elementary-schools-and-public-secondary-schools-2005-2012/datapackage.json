@@ -1,0 +1,68 @@
+{
+  "author": "Department of Education", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/kb2EUsMuzXUlkGIwwEBV/deped_total_school_enrollment_for_public_elementary_schools_2005_to_2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2005-12/31/2012"
+  }, 
+  "id": "59119664-d6c5-4012-b85d-5ecbdda358c3", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Education", 
+  "maintainer_email": "", 
+  "name": "total-school-enrollment-for-public-elementary-schools-and-public-secondary-schools-2005-2012", 
+  "notes": "This dataset contains the total school enrollment for public elementary schools and public secondary school for the year 2005 to 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-07T13:39:28.878680", 
+      "description": "This dataset contains the total school enrollment for public elementary schools for the year 2005 to 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "0e5977c9-8910-4b05-9e15-1bd512b365f0", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Total School Enrollement for Public Elementary Schools 2005-2012", 
+      "package_id": "59119664-d6c5-4012-b85d-5ecbdda358c3", 
+      "position": 0, 
+      "resource_group_id": "587acb47-29f2-44b1-bd88-008a67a1b281", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/kb2EUsMuzXUlkGIwwEBV/deped_total_school_enrollment_for_public_elementary_schools_2005_to_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-07T13:39:36.095297", 
+      "description": "This datasets contains the total enrollment for public secondary school for the year 2005 to 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "2ca2acdb-16aa-4a83-893a-a9392d420f2e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Total School Enrollment for Public Secondary Schools 2005-2012", 
+      "package_id": "59119664-d6c5-4012-b85d-5ecbdda358c3", 
+      "position": 1, 
+      "resource_group_id": "587acb47-29f2-44b1-bd88-008a67a1b281", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/fEYKTu0QZ7Ul3vUpP3lk/deped_total_school_enrollment_for_public_secondary_schools_2005_to_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Education"
+  ], 
+  "title": "Total School Enrollment for Public Elementary Schools and Public Secondary Schools 2005-2012", 
+  "url": "", 
+  "version": ""
+}

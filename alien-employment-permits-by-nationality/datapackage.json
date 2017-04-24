@@ -1,0 +1,46 @@
+{
+  "author": "Department of Labor and Employment", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/bfzK4J7whzAM7z2a9Ftp/dolealienemppermsbynatlity1978-2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1978-12/31/2012"
+  }, 
+  "id": "c3474d8f-729b-4da0-bf5f-089b8cdc3172", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bureau of Labor and Employment Statistics - Data Bank", 
+  "maintainer_email": "bles_tsd@dole.gov.ph", 
+  "name": "alien-employment-permits-by-nationality", 
+  "notes": "This dataset contains the number of AEP issued to foreign nationals who wanted to work in the Philippines from 1978 to 2012 dissagregated by Nationality sourced from the Bureau of Local Employment (BLE).", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-07T16:35:26.621115", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "15a64df8-e5bc-4e30-b4d5-e623ec50a0c3", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Alien Employment Permits by Nationality", 
+      "package_id": "c3474d8f-729b-4da0-bf5f-089b8cdc3172", 
+      "position": 0, 
+      "resource_group_id": "5fe6828e-74d3-4029-88f2-712f191cb48b", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/bfzK4J7whzAM7z2a9Ftp/dolealienemppermsbynatlity1978-2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Employment"
+  ], 
+  "title": "Alien Employment Permits by Nationality", 
+  "url": "", 
+  "version": ""
+}

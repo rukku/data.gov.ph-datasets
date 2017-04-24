@@ -1,0 +1,1 @@
+This dataset contains of PCGG collections from 1987 to August 2015 remitted to Bureau of the Treasury for the account of CARP. (PCGG income from rentals of property, proceeds of sales of properties,Income from IRC group  of companies and other income)

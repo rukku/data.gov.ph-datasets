@@ -1,0 +1,95 @@
+region,species,dimensions,ave_price_php,jan_price_php,feb_price_php,mar_price_php,apr_price_php,may_price_php,jun_price_php,jul_price_php,aug_price_php,sep_price_php,oct_price_php,nov_price_php,dec_price_php
+IX (Zamboanga Peninsula),A. Mangium,"2""x4"" (Board Foot)",18,18,18,18,18,18,18,18,18,18,18,18,18
+X (Northern Mindanao),A. Mangium,"2""x4"" (Board Foot)",12,12,12,12,12,12,12,12,12,12,12,12,12
+XI (Davao Region),A. Mangium,"2""x4"" (Board Foot)",18.18,16,16,19.25,16.5,16.5,16,16,20.34,20.34,18.17,21.33,21.67
+XIII (Caraga),A. Mangium,"2""x4"" (Board Foot)",15,15,15,15,15,15,15,15,15,15,15,15,15
+V (Bicol Region),Acacia,"2""x4"" (Board Foot)",28.67,28.67,28.67,28.67,28.67,28.67,28.67,28.67,28.67,28.67,28.67,28.67,28.67
+V (Bicol Region),Antipolo,"2""x4"" (Board Foot)",27.67,27.67,27.67,27.67,27.67,27.67,27.67,27.67,27.67,27.67,27.67,27.67,27.67
+II (Cagayan Valley),Apitong,"2""x4"" (Board Foot)",19,19,19,19,19,19,19,19,19,19,19,19,19
+III (Central Luzon),Apitong,"2""x4"" (Board Foot)",37,37,37,37,37,37,37,37,37,37,37,37,37
+IV-A (CALABARZON),Apitong,"2""x4"" (Board Foot)",51.06,53,53,50.67,50.67,50.67,50.67,50.67,50.67,50.67,50.67,50.67,50.67
+V (Bicol Region),Apitong,"2""x4"" (Board Foot)",38.33,38.33,38.33,38.33,38.33,38.33,38.33,38.33,38.33,38.33,38.33,38.33,38.33
+VII (Central Visayas),Apitong,"2""x4"" (Board Foot)",29,29,29,29,29,29,29,29,29,29,29,29,29
+IX (Zamboanga Peninsula),Apitong,"2""x4"" (Board Foot)",28,26,26,26,26,29,29,29,29,29,29,29,29
+XI (Davao Region),Apitong,"2""x4"" (Board Foot)",36.66,36.66,36.66,36.66,36.66,36.66,36.66,36.66,36.66,36.66,36.66,36.66,36.66
+XII (SOCCSKSARGEN),Apitong,"2""x4"" (Board Foot)",30,30,30,30,30,30,30,30,30,30,30,30,30
+XIII (Caraga),Apitong,"2""x4"" (Board Foot)",18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25
+NCR,Bagras,"2""x4"" (Board Foot)",38.33,36,36,36,36,36,36,46,46,38,38,38,38
+VII (Central Visayas),Bagras,"2""x4"" (Board Foot)",32,32,32,32,32,32,32,32,32,32,32,32,32
+XI (Davao Region),Bagras,"2""x4"" (Board Foot)",22.38,21,21,24,19.5,19.5,20.5,21,25,25,24,24,24
+XII (SOCCSKSARGEN),Bagras,"2""x4"" (Board Foot)",16,16,16,16,16,16,16,16,16,16,16,16,16
+VI (Western Visayas),Benguet Pine,"2""x4"" (Board Foot)",48,48,48,48,48,48,48,48,48,48,48,48,48
+V (Bicol Region),Binuang,"2""x4"" (Board Foot)",30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67
+V (Bicol Region),Dao,"2""x4"" (Board Foot)",30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67
+V (Bicol Region),Dita,"2""x4"" (Board Foot)",28,28,28,28,28,28,28,28,28,28,28,28,28
+XI (Davao Region),Falcata,"2""x4"" (Board Foot)",18,18,18,18,18,18,18,18,18,18,18,18,18
+XIII (Caraga),Falcata,"2""x4"" (Board Foot)",6.21,6,6,6,6,6,6,6.5,6.5,6,6.5,6.5,6.5
+III (Central Luzon),G. Arborea,"2""x4"" (Board Foot)",25.51,25.44,30.66,30.66,27.2,27.2,27.2,27.2,27.2,21,18,18,26.33
+NCR,Gmelina,"2""x4"" (Board Foot)",36.36,37,33,34.5,34.5,34.5,34.5,37.33,39,39,39,39,35
+II (Cagayan Valley),Gmelina,"2""x4"" (Board Foot)",22.85,22.58,22.83,30,-,22.83,22.83,22.83,22.83,22.83,20.58,20.58,20.58
+III (Central Luzon),Gmelina,"2""x4"" (Board Foot)",24.91,27.95,27.95,27.95,27.95,27.95,27.95,27.95,20.66,20.66,20.66,20.66,20.66
+IV-A (CALABARZON),Gmelina,"2""x4"" (Board Foot)",23,23,23,23,23,23,23,23,23,23,23,23,23
+IV-B (MIMAROPA),Gmelina,"2""x4"" (Board Foot)",28.21,28,28,28,28,30,24.5,28,28,28,29.33,29.33,29.33
+V (Bicol Region),Gmelina,"2""x4"" (Board Foot)",29,29,29,29,29,29,29,29,29,29,29,29,29
+VI (Western Visayas),Gmelina,"2""x4"" (Board Foot)",24.69,26.47,24.62,26.48,24.47,24.47,24.47,24.47,24.47,24.47,24.89,23.5,23.5
+VII (Central Visayas),Gmelina,"2""x4"" (Board Foot)",28,28,28,28,28,28,28,28,28,28,28,28,28
+IX (Zamboanga Peninsula),Gmelina,"2""x4"" (Board Foot)",20.45,-,20.33,20.33,21.67,20.33,20.33,20.33,20.33,20.33,20.33,20.33,20.33
+X (Northern Mindanao),Gmelina,"2""x4"" (Board Foot)",14,14,14,14,14,14,14,14,14,14,14,14,14
+XI (Davao Region),Gmelina,"2""x4"" (Board Foot)",17.99,18.09,17.38,17.67,18.34,18.34,18,17.75,16,16,18.25,19.25,20.84
+XIII (Caraga),Gmelina,"2""x4"" (Board Foot)",15.33,15,15,15,15,15,15,17,17,15,15,15,15
+XIII (Caraga),Gubas,"2""x4"" (Board Foot)",6,6,6,6,6,6,6,6,6,6,6,6,6
+IV-B (MIMAROPA),Ipil,"2""x4"" (Board Foot)",35,35,35,35,35,35,35,35,35,35,35,35,35
+XII (SOCCSKSARGEN),Ipil,"2""x4"" (Board Foot)",42,42,42,42,42,42,42,42,42,42,42,42,42
+V (Bicol Region),Kalantas,"2""x4"" (Board Foot)",30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67,30.67
+NCR,Lauan,"2""x4"" (Board Foot)",53.66,58,61.33,66.88,60.88,60.88,48,48,48,48,48,48,48
+II (Cagayan Valley),Lauan,"2""x4"" (Board Foot)",34.33,25,32,37.5,37.5,36,36,36,36,34,34,34,34
+III (Central Luzon),Lauan,"2""x4"" (Board Foot)",54.42,39.5,39,37,42.5,42.5,42.5,114.5,42.5,37,72,72,72
+IV-A (CALABARZON),Lauan,"2""x4"" (Board Foot)",45,45,45,45,45,45,45,45,45,45,45,45,45
+IV-B (MIMAROPA),Lauan,"2""x4"" (Board Foot)",33.39,35.33,35.33,33,33,33,33,33,33,33,33,33,33
+V (Bicol Region),Lauan,"2""x4"" (Board Foot)",36,36,36,36,36,36,36,36,36,36,36,36,36
+VI (Western Visayas),Lauan,"2""x4"" (Board Foot)",51.19,50.33,54,48,47,47,47,47,47,47,60,60,60
+VII (Central Visayas),Lauan,"2""x4"" (Board Foot)",44.42,44.42,44.42,44.42,44.42,44.42,44.42,44.42,44.42,44.42,44.42,44.42,44.42
+IX (Zamboanga Peninsula),Lauan,"2""x4"" (Board Foot)",26.56,26,26,26.67,26.67,26.67,26.67,26.67,26.67,26.67,26.67,26.67,26.67
+XI (Davao Region),Lauan,"2""x4"" (Board Foot)",38.27,36.33,36.33,38.66,38.66,38.66,38.66,38.66,38.66,38.66,38.66,38.66,38.66
+XII (SOCCSKSARGEN),Lauan,"2""x4"" (Board Foot)",28,28,28,28,28,28,28,28,28,28,28,28,28
+XIII (Caraga),Lauan,"2""x4"" (Board Foot)",18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25
+V (Bicol Region),Loktob,"2""x4"" (Board Foot)",29.33,29.33,29.33,29.33,29.33,29.33,29.33,29.33,29.33,29.33,29.33,29.33,29.33
+NCR,Mahogany,"2""x4"" (Board Foot)",36.17,38,33,34.5,33.5,33.5,33.5,42,39,38,38,35,36
+III (Central Luzon),Mahogany,"2""x4"" (Board Foot)",39.21,41.5,41.5,41.5,41.5,41.5,41.5,41.5,41.5,41.5,41.5,41.5,14
+IV-A (CALABARZON),Mahogany,"2""x4"" (Board Foot)",29,29,29,29,29,29,29,29,29,29,29,29,29
+IV-B (MIMAROPA),Mahogany,"2""x4"" (Board Foot)",22.89,23,23,23,23,23,23,22,22,22,22,22,26.67
+V (Bicol Region),Mahogany,"2""x4"" (Board Foot)",29.33,29.33,29.33,29.33,29.33,29.33,29.33,29.33,29.33,29.33,29.33,29.33,29.33
+VI (Western Visayas),Mahogany,"2""x4"" (Board Foot)",26.39,29.06,27.87,21.58,26.33,26.33,26.33,26.33,26.33,26.33,28.22,26,26
+VII (Central Visayas),Mahogany,"2""x4"" (Board Foot)",32.13,32.13,32.13,32.13,32.13,32.13,32.13,32.13,32.13,32.13,32.13,32.13,32.13
+IX (Zamboanga Peninsula),Mahogany,"2""x4"" (Board Foot)",27.61,45.33,45.33,22.33,22.33,24.5,24.5,24.5,24.5,24.5,24.5,24.5,24.5
+X (Northern Mindanao),Mahogany,"2""x4"" (Board Foot)",24,24,24,24,24,24,24,24,24,24,24,24,24
+XI (Davao Region),Mahogany,"2""x4"" (Board Foot)",22.59,22,22,22,20.67,20.67,22,19.42,24.83,24.83,24.83,24.33,23.5
+XII (SOCCSKSARGEN),Mahogany,"2""x4"" (Board Foot)",42,42,42,42,42,42,42,42,42,42,42,42,42
+XIII (Caraga),Mahogany,"2""x4"" (Board Foot)",15,15,15,15,15,15,15,15,15,15,15,15,15
+III (Central Luzon),Mayapis,"2""x4"" (Board Foot)",38,38,38,38,38,38,38,38,38,38,38,38,38
+NCR,Mirante,"2""x4"" (Board Foot)",39.25,39.9,39.9,38.5,38.5,38.5,38.5,36,36,41,41,40,43.25
+I (Ilocos Region),Mirante,"2""x4"" (Board Foot)",49.65,50.34,50.34,48.5,50.5,48,48,52.25,50.17,49.83,49.83,50.25,47.75
+II (Cagayan Valley),Mirante,"2""x4"" (Board Foot)",50.17,50.17,50.17,50.17,50.17,50.17,50.17,50.17,50.17,50.17,50.17,50.17,50.17
+III (Central Luzon),Mirante,"2""x4"" (Board Foot)",42.74,42.7,42.86,48.2,43.66,41.16,41.16,39.83,41.7,41.7,43,44.4,42.5
+IV-A (CALABARZON),Mirante,"2""x4"" (Board Foot)",46.48,47,48.12,48.12,47,41.33,47,48.12,47,43.12,47,47,47
+V (Bicol Region),Mirante,"2""x4"" (Board Foot)",38,38,38,38,38,38,38,38,38,38,38,38,38
+IV-A (CALABARZON),Narra,"2""x4"" (Board Foot)",140,140,140,140,140,140,140,140,140,140,140,140,140
+IV-B (MIMAROPA),Narra,"2""x4"" (Board Foot)",80,80,80,80,80,80,80,80,80,80,80,80,80
+V (Bicol Region),Narra,"2""x4"" (Board Foot)",100,100,100,100,100,100,100,100,100,100,100,100,100
+VII (Central Visayas),Narra,"2""x4"" (Board Foot)",170,170,170,170,170,170,170,170,170,170,170,170,170
+NCR,Tangile,"2""x4"" (Board Foot)",51.5,55,58,70,60,60,45,45,45,45,45,45,45
+I (Ilocos Region),Tangile,"2""x4"" (Board Foot)",59.93,56.5,59.33,60.33,60.33,60.33,60.33,60.33,60.33,60.33,60.33,60.33,60.33
+II (Cagayan Valley),Tangile,"2""x4"" (Board Foot)",19,19,19,19,19,19,19,19,19,19,19,19,19
+III (Central Luzon),Tangile,"2""x4"" (Board Foot)",37.28,40.33,37,37,37,37,37,37,37,37,37,37,37
+IV-A (CALABARZON),Tangile,"2""x4"" (Board Foot)",53.77,60,64,64,46.75,46.75,46.75,64,46.75,45,53.75,53.75,53.75
+V (Bicol Region),Tangile,"2""x4"" (Board Foot)",36,36,36,36,36,36,36,36,36,36,36,36,36
+XI (Davao Region),Tangile,"2""x4"" (Board Foot)",30.42,32.5,32.5,30,30,30,30,30,30,30,30,30,30
+XII (SOCCSKSARGEN),Tangile,"2""x4"" (Board Foot)",26,26,26,26,26,26,26,26,26,26,26,26,26
+XIII (Caraga),Tangile,"2""x4"" (Board Foot)",18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25,18.25
+II (Cagayan Valley),Yakal,"2""x4"" (Board Foot)",19,19,19,19,19,19,19,19,19,19,19,19,19
+V (Bicol Region),Yakal,"2""x4"" (Board Foot)",40,40,40,40,40,40,40,40,40,40,40,40,40
+VII (Central Visayas),Yakal,"2""x4"" (Board Foot)",81.5,81.5,81.5,81.5,81.5,81.5,81.5,81.5,81.5,81.5,81.5,81.5,81.5
+XI (Davao Region),Yakal,"2""x4"" (Board Foot)",54.33,54.33,54.33,54.33,54.33,54.33,54.33,54.33,54.33,54.33,54.33,54.33,54.33
+XII (SOCCSKSARGEN),Yakal,"2""x4"" (Board Foot)",34,34,34,34,34,34,34,34,34,34,34,34,34
+XIII (Caraga),Yakal,"2""x4"" (Board Foot)",29,29,29,29,29,29,29,29,29,29,29,29,29
+XII (SOCCSKSARGEN),Yemane,"2""x4"" (Board Foot)",26.58,25,25,25,25,25,29,29,29,26.75,26.75,26.75,26.75

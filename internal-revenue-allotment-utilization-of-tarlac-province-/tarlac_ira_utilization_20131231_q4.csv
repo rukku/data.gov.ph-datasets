@@ -1,0 +1,26 @@
+object_of_expenditure,account_code,past_year_actual,current_year,budget_year
+Agricultural Supplies Expenses,762,2021843.69,-,-
+Environment/Sanitary Services,794,8987239.68,12500000,15000000
+Repair and Maintenance - Land improvements,802,2498196.91,-,-
+Repair and Maintenance - Hospitals and health centers,813,499403.7,-,-
+Repair and Maintenance - Other Structures,815,124900,-,-
+"Repair and Maintenance - Roads, Highways and Bridges",851,-,-,400000
+"Repair and Maintenance - Parks, plazas and monuments",852,124889.5,125000,-
+"Repair and Maintenance - Irrigation, canals and laterals",855,4447.72,500000,250000
+Repair and Maintenance - Other Public Infrastructures,860,-,-,125000
+Other Maintenance and Operating Expenses,969,218750,-,375000
+Land,201,-,4000000,-
+"Electrification, Power & Energy Structures",205,2474833.75,-,-
+Office Buildings,211,1242050.39,-,250000
+School buildings,212,-,-,250000
+Hospitals and Health Centers,213,249681.19,-,-
+Market and Slaughterhouse,214,-,-,1250000
+Other Structures,215,-,2500000,125000
+"Agricultural, Fishery and Forestry Equipment",227,-,-,350000
+Communication Equipment,229,124000,-,-
+Other Machinery and Equipment,240,624752.29,-,-
+"Roads, Highways and Bridges",251,3256252.08,1750000,4975000
+"Irrigation, canals and laterals",255,2107820.83,875000,750000
+Other Public Infrastructures,260,1695290,3622024.95,3623910
+Loans,126,145000,-,-
+Total,-,26399351.72,25872024.95,27723910

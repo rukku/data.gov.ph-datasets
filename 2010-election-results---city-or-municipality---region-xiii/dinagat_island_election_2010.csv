@@ -1,0 +1,71 @@
+city_or_municipality,position ,name,nickname,party_affiliation,votes_obtained
+Basilisa Rizal,Mayor,"Ecleo, Alan I Buray",Ahl,Lakas-Kampi,7597
+Basilisa Rizal,Vice-Mayor,"Borja, Cesar Tagoktok",Sar,Lakas-Kampi,5042
+Basilisa Rizal,Councilor,"Espedilla, Antonio Mamian",Tony,Lakas-Kampi,3662
+Basilisa Rizal,Councilor,"Daganasol, Jacinto Elim",Toto,Lakas-Kampi,4246
+Basilisa Rizal,Councilor,"Ensoy, Antonio Canedo",Tony,Lakas-Kampi,4690
+Basilisa Rizal,Councilor,"Dalaguit, Romulo, Sr. Sante",Mulo,Lakas-Kampi,4712
+Basilisa Rizal,Councilor,"Olofernes, Wenefredo Ruiz",Wene,Lakas-Kampi,4946
+Basilisa Rizal,Councilor,"Piodo, Manuelito, Jr. Neis",Jojo,Lakas-Kampi,4947
+Basilisa Rizal,Councilor,"Alpeche, Alfredo Victorillo",Pidot,Lakas-Kampi,5328
+Basilisa Rizal,Councilor,"Baltar, Eugene Van Trinidad",Jing,Lakas-Kampi,5439
+Cagdianao,Mayor,"Longos, Marc Adelson Dumdumaya",Dondon,Lakas-Kampi,5830
+Cagdianao,Vice-Mayor,"Ecleo, Ruben Al Borja",Dodong Al,Lakas-Kampi,4774
+Cagdianao,Councilor,"Fermilan, Rufino, Jr. Petilo",Joy,Independent,3245
+Cagdianao,Councilor,"Borja, Reyneria Geraldino",Vic Vic,Lakas-Kampi,3896
+Cagdianao,Councilor,"Laluna, Leonides Benonguil",Leony,Lakas-Kampi,4109
+Cagdianao,Councilor,"Longos, Cleto Fermilan",Cleto,Lakas-Kampi,4242
+Cagdianao,Councilor,"Alipayo, Teodoro Lerog",Odie,Lakas-Kampi,4442
+Cagdianao,Councilor,"Pepoy, Warlito, Jr. Alvarez",Tudo,Lakas-Kampi,4733
+Cagdianao,Councilor,"Paco, Edito Maturan",Edie,Lakas-Kampi,4935
+Cagdianao,Councilor,"Longos, Adolfo Edillor",Den Den,Lakas-Kampi,5102
+Dinagat,Mayor,"Ecleo, Gwendolyn Buray",Gwen,Lakas-Kampi,3745
+Dinagat,Vice-Mayor,"Edradan, Lilibeth Diegas",Beth,Lakas-Kampi,3577
+Dinagat,Councilor,"Lisondra, Elsa Bagasbas",Els,Lakas-Kampi,1715
+Dinagat,Councilor,"Sombrado, Petnel Oposa",Bobong,Lakas-Kampi,2257
+Dinagat,Councilor,"Maurillo, Jose Peregrino",Joe,Lakas-Kampi,2888
+Dinagat,Councilor,"Salarda, Meinrado Polinar",Dodong,Lakas-Kampi,3030
+Dinagat,Councilor,"Ruyeras, Liberato, Sr. Bulabos",Lebie,Lakas-Kampi,3039
+Dinagat,Councilor,"Samson, Leonicio Arancon",Leonie,Lakas-Kampi,3058
+Dinagat,Councilor,"Jarligo, Nestor Gealogo",Nicky Jean,Lakas-Kampi,3096
+Dinagat,Councilor,"Dalar, Ferdinand Ondom",Boy,Lakas-Kampi,3161
+Libjo Albor,Mayor,"Llamera, Maria Fe Borja",Fe,Lakas-Kampi,5562
+Libjo Albor,Vice-Mayor,"Villarosa, Romeo Arriesgado",Romy,Lakas-Kampi,3270
+Libjo Albor,Councilor,"Villarosa, Celso Arriesgado",Celso,Lakas-Kampi,3217
+Libjo Albor,Councilor,"Bua, Carlos Pareja",Kaloy,Lakas-Kampi,3226
+Libjo Albor,Councilor,"Ta-Asan, Jimmy Magallanes",Jim,Lakas-Kampi,3447
+Libjo Albor,Councilor,"Cabajes, Valerio, Jr. Sancala",Ebong,Lakas-Kampi,3609
+Libjo Albor,Councilor,"Llamera, Celestina Cabiara",Lily,Lakas-Kampi,3638
+Libjo Albor,Councilor,"Edera, Florante Jarabe",Dodo,Independent,3710
+Libjo Albor,Councilor,"Dacles, Felix, Jr. Gemao",Junior,Lakas-Kampi,3774
+Libjo Albor,Councilor,"Creencia, Lourdes Villadon",Lourdes,Lakas-Kampi,4432
+Loreto,Mayor,"Ladaga, Doandre Bill Abuyme",Doan,Lakas-Kampi,4321
+Loreto,Vice-Mayor,"Semorlan, Pretsy Balibag",Dodo,Independent,2233
+Loreto,Councilor,"Ladaga, Andreson Torralba",Andyboy,Lakas-Kampi,2244
+Loreto,Councilor,"Daguinod, Raul, Sr. Odron",Bebot,Independent,2541
+Loreto,Councilor,"Gullez, Jacinth Limbaroc",Jun,Lakas-Kampi,2594
+Loreto,Councilor,"Luib, Gaudencio, Jr. Estoque",Ejun,Lakas-Kampi,2797
+Loreto,Councilor,"Gajol, Alfonso Bagalay",Boy,Lakas-Kampi,2827
+Loreto,Councilor,"Adlawan, Ali Patayon",Ali,Lakas-Kampi,3067
+Loreto,Councilor,"Tan, Richard Casten",Beng-On,Lakas-Kampi,3574
+Loreto,Councilor,"San Juan, Erwin Dalan",Erwin,Independent,3876
+San Jose,Mayor,"Ecleo, Allan Ii Buray",Allan,Lakas-Kampi,9498
+San Jose,Vice-Mayor,"Bagunas, Mario Dagale",Mar,Lakas-Kampi,5103
+San Jose,Councilor,"Medallo, Cristino Sr. Villacarlos",Nonoy,Lakas-Kampi,5183
+San Jose,Councilor,"Malatamban, Henry Ecleo",Hen,Lakas-Kampi,5469
+San Jose,Councilor,"Bua, Zosimo Minguellan",Sim,Lakas-Kampi,5737
+San Jose,Councilor,"Labigan, Rafael Argabio",Kaing,Lakas-Kampi,5740
+San Jose,Councilor,"Ecleo, Jessie Dagairag",Jess,Lakas-Kampi,6011
+San Jose,Councilor,"Ecleo, Elvin Palapo",Ben,Lakas-Kampi,6753
+San Jose,Councilor,"Libor, Rochelyn Sumbilon",Lyn-Lyn,Lakas-Kampi,7890
+San Jose,Councilor,"Ecleo, Michael Angelo Madron",Mike,Lakas-Kampi,8417
+Tubajon,Mayor,"Vargas, Romeo Constantino Luib",Meo,Nacionalista Party,2801
+Tubajon,Vice-Mayor,"Pedrablanca, Simplicia Pelegrino",Fely,Independent,2076
+Tubajon,Councilor,"Tan, Sandy Pesical",Bobo,Nacionalista Party,1758
+Tubajon,Councilor,"Punay, Lennie Arana",Len,Lakas-Kampi,2031
+Tubajon,Councilor,"Daytoc, Carlito Torotoro",Carling,Lakas-Kampi,2109
+Tubajon,Councilor,"Anover, Glenn Cabajes",Glenn,Nacionalista Party,2114
+Tubajon,Councilor,"Vargas, R C Charlemagne Dela Cerna",Men,Nacionalista Party,2118
+Tubajon,Councilor,"Pelismino, Annabel Pinat",Ann Pinat,Nacionalista Party,2157
+Tubajon,Councilor,"Lasco, Marvin Modelo",Sosot,Lakas-Kampi,2179
+Tubajon,Councilor,"Agbo, Jorvie Bermoy",Jojo,Independent,2746

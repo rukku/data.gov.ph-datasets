@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13610082.099765,1403622.1394923,1,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22National%20integrated%20protected%20areas%20system%22,%22geoportal:denr_nipas%22,1,%22NationalIntegratedProtectedAreasSystem%22,0,null]]}", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "1c2d0909-9432-405f-9815-ef8b29ad2cf4", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "national-integrated-protected-areas-system", 
+  "notes": "The DENR - National Integrated Protected Areas System is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Department of Environment and Natural Resources.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-31T15:47:00.822361", 
+      "description": "The DENR - National Integrated Protected Areas System is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Department of Environment and Natural Resources.", 
+      "format": "PDF", 
+      "hash": "", 
+      "id": "3f0a8f8c-f23b-4a94-9e35-b0c0b86815e1", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NATIONAL INTEGRATED PROTECTED AREAS SYSTEM", 
+      "package_id": "1c2d0909-9432-405f-9815-ef8b29ad2cf4", 
+      "position": 0, 
+      "resource_group_id": "81a27b53-d24f-4f6e-8072-497c5299448c", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13610082.099765,1403622.1394923,1,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22National%20integrated%20protected%20areas%20system%22,%22geoportal:denr_nipas%22,1,%22NationalIntegratedProtectedAreasSystem%22,0,null]]}", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "NATIONAL INTEGRATED PROTECTED AREAS SYSTEM", 
+  "url": "", 
+  "version": ""
+}

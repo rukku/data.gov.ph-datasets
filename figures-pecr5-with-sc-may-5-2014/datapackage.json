@@ -1,0 +1,47 @@
+{
+  "author": "Department of Energy", 
+  "author_email": "", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/f1e86ed0-deaf-4bdb-895a-565becc86390/resource/35a400ad-2575-4aba-8b40-847393868839/download/FiguresPECR5withSC05052014.jpg", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": "5/5/2014"
+  }, 
+  "id": "f1e86ed0-deaf-4bdb-895a-565becc86390", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "figures-pecr5-with-sc-may-5-2014", 
+  "notes": "PECR5 with SC Map (PH-EITI)", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-10T10:31:17.595983", 
+      "description": "", 
+      "format": "JPEG", 
+      "hash": "", 
+      "id": "35a400ad-2575-4aba-8b40-847393868839", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Figures_PECR5withSC_05052014.jpg", 
+      "package_id": "f1e86ed0-deaf-4bdb-895a-565becc86390", 
+      "position": 0, 
+      "resource_group_id": "690446ac-020a-48a7-b40f-10d518ce2940", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/f1e86ed0-deaf-4bdb-895a-565becc86390/resource/35a400ad-2575-4aba-8b40-847393868839/download/FiguresPECR5withSC05052014.jpg", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Figures PECR5  with SC May 5 2014", 
+  "url": "https://www.doe.gov.ph", 
+  "version": ""
+}

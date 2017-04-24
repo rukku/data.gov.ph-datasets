@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/sn2icv1gnpHFcQOZmV1N/dasugarrefineries2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "003ede22-0302-4a36-b109-3cd85753f708", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "da-sugar-refineries", 
+  "notes": "Directory of Sugar Refineries", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T10:44:54.891145", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "eea21637-0f15-48a5-8291-2610935d66e8", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Sugar Refineries", 
+      "package_id": "003ede22-0302-4a36-b109-3cd85753f708", 
+      "position": 0, 
+      "resource_group_id": "6d1287f1-b8f7-4efb-9180-f37f47ec2f25", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/sn2icv1gnpHFcQOZmV1N/dasugarrefineries2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Sugar Refineries", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,1 @@
+This dataset contains the list of winning candidates of city or municipality of region I for the year 2013.

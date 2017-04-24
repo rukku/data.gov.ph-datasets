@@ -1,0 +1,47 @@
+{
+  "author": "National Economic and Development Authority - Systems Data and Analysis Division", 
+  "author_email": "mes-sdad@neda.gov.ph", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/71d5c7f2-7069-403a-b704-f57aefca143b/resource/571d7211-5ae7-4b50-980d-10289c74beaa/download/CostoverrunsofActiveODALoanassistedProjectsasofSep302014Dataset.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "2014-01-01, 2014-09-30"
+  }, 
+  "id": "71d5c7f2-7069-403a-b704-f57aefca143b", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Omar O. Dumdum", 
+  "maintainer_email": "oodumdum@neda.gov.ph", 
+  "name": "cost-overruns-of-active-oda-loan-assisted-project", 
+  "notes": "Provides quarterly information on the amount of cost increases or overruns incurred by active ODA Loan-assisted projects. In addition to the amount and percentage of cost increase or overrun, the dataset contains other project information such as the development partner, implementing agency, previous ICC-approved cost, revised cost, reason(s) for the cost increase or overrun, status, and ICC or NEDA Board action.\r\n", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-15T11:06:45.449418", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "571d7211-5ae7-4b50-980d-10289c74beaa", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Cost-overruns of Active ODA Loan-assisted Projects  as of Sep 30 2014 (Dataset).csv", 
+      "package_id": "71d5c7f2-7069-403a-b704-f57aefca143b", 
+      "position": 0, 
+      "resource_group_id": "fdcaad06-c55a-4b13-b4fc-c4943d04015d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/71d5c7f2-7069-403a-b704-f57aefca143b/resource/571d7211-5ae7-4b50-980d-10289c74beaa/download/CostoverrunsofActiveODALoanassistedProjectsasofSep302014Dataset.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "Cost-overruns of Active ODA Loan-assisted Projects", 
+  "url": "http://www.neda.gov.ph/", 
+  "version": ""
+}

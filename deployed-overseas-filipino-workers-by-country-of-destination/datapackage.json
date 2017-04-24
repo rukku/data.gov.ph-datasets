@@ -1,0 +1,46 @@
+{
+  "author": "Department of Labor and Employment", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/IqwJw736l9kbAKPnLQB4/doledeploydofwsbycntryofdesti2007-2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2008-12/31/2012"
+  }, 
+  "id": "aec1decf-5967-4fc3-a1e0-2ee587b8aea8", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bureau of Labor and Employment Statistics - Data Bank", 
+  "maintainer_email": "bles_tsd@dole.gov.ph", 
+  "name": "deployed-overseas-filipino-workers-by-country-of-destination", 
+  "notes": "This dataset contains the number of deployed Overseas Filipino Workers (OFWs) by country of destination categorized as land-based and sea-based from 2008 to 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-07T16:26:22.159004", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "15ad6d3f-c99e-47ed-b197-121dedeb7323", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "DEPLOYED OVERSEAS FILIPINO WORKERS BY COUNTRY OF DESTINATION", 
+      "package_id": "aec1decf-5967-4fc3-a1e0-2ee587b8aea8", 
+      "position": 0, 
+      "resource_group_id": "7fde0bad-62b3-45ab-9417-52eb7bc280f2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/IqwJw736l9kbAKPnLQB4/doledeploydofwsbycntryofdesti2007-2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Employment"
+  ], 
+  "title": "Deployed Overseas Filipino Workers by Country of Destination", 
+  "url": "", 
+  "version": ""
+}

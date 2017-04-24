@@ -1,0 +1,47 @@
+{
+  "author": "Department of Budget and Management", 
+  "author_email": "", 
+  "download_url": "http://catalogue.data.gov.ph/GAA/GAA2014_Latest.xlsx", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "1/1/2014 - 12/31/2014"
+  }, 
+  "id": "bbc28deb-4a0e-49ef-b15f-5f5174f7c7df", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Gianne Gaoiran", 
+  "maintainer_email": "gkgaoiran@dbm.gov.ph", 
+  "name": "general-appropriations-act-fiscal-year-2014", 
+  "notes": "Approved National Budget for 2014", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-04-13T12:09:58.807691", 
+      "description": "", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "051aa990-b459-46a5-9ac1-f227e54a6477", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "General Appropriations Act 2014", 
+      "package_id": "bbc28deb-4a0e-49ef-b15f-5f5174f7c7df", 
+      "position": 0, 
+      "resource_group_id": "f1c812f1-af4f-43ec-b6a6-96bc9b9b09fd", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://catalogue.data.gov.ph/GAA/GAA2014_Latest.xlsx", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Public Finance"
+  ], 
+  "title": "General Appropriations Act Fiscal Year 2014", 
+  "url": "", 
+  "version": ""
+}

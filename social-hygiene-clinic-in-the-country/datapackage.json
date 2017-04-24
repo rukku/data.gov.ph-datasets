@@ -1,0 +1,46 @@
+{
+  "author": "Department of Health", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/PqjUgXRIwx5TSKkpaCKO/doh_social_hygiene_clinic.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2015"
+  }, 
+  "id": "115f3e79-2849-456c-9805-8da78478656b", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "social-hygiene-clinic-in-the-country", 
+  "notes": "This dataset contains a list of all social hygiene clinic in the country.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-12T14:27:40.341285", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "109d13b0-fb64-4886-8f3f-7336a5fbc31d", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Social Hygiene Clinic", 
+      "package_id": "115f3e79-2849-456c-9805-8da78478656b", 
+      "position": 0, 
+      "resource_group_id": "9f32a0f1-6bea-4ff7-acee-82c7a146ff8c", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/PqjUgXRIwx5TSKkpaCKO/doh_social_hygiene_clinic.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Health"
+  ], 
+  "title": "Social Hygiene Clinic in the Country", 
+  "url": "", 
+  "version": ""
+}

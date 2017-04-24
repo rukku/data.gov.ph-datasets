@@ -1,0 +1,45 @@
+{
+  "author": "Local Government of Leyte", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/O2QBS3377rnLwZlG00b6/CBMS Leyte 2005-2010.csv", 
+  "extras": {
+    "Frequency Update": "Others", 
+    "Granularity": "Baranggay", 
+    "Temporal Date": "01/05/2010-12/31/2010"
+  }, 
+  "id": "9dc0f213-a747-4fab-85eb-74eb3694dd1d", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "CBMS Network Coordinating Team", 
+  "maintainer_email": "info@napc.gov.ph", 
+  "name": "community-based-monitoring-system---2005-2010-core-indicators-in-leyte", 
+  "notes": "his dataset contains barangay-level information on the 14 core indicators of CBMS in the province of Leyte. These 14 indicators are: (1) malnourished children 0 to 5 years old; (2) death of children 0 to 4 years old; (3) death of women due to pregnancy-related causes; (4) households without access to safe water; (5) households without access to sanitary toilet facilities; (6) households living in makeshift housing; (7) households who are informal settlers; (8) children aged 6 to 12 not attending elementary school; (9) children aged 13 to 16 not attending secondary school; (10) children aged 6 to 16 not attending school; (11) population who are unemployed; (12) households with income below poverty threshold; (13) households with income below food threshold; and (14) households who experienced food shortage. The data shows magnitude and proportion per barangay in each indicator; magnitude refers to the actual count of individuals/households in a given sample of the population while proportion refers to the percentage of the magnitude relative to the total count in a given sample of the population.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-01-12T13:17:16.251612", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "d1821870-6453-407f-b72f-64457dfa798f", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "CBMS - 2005-2010 Core Indicator in Leyte", 
+      "package_id": "9dc0f213-a747-4fab-85eb-74eb3694dd1d", 
+      "position": 0, 
+      "resource_group_id": "d8eecd23-b5b4-4d5a-bcac-c0c77853bd10", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/O2QBS3377rnLwZlG00b6/CBMS Leyte 2005-2010.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Community-Based Monitoring System - 2005-2010 core indicators in Leyte", 
+  "url": null, 
+  "version": null
+}

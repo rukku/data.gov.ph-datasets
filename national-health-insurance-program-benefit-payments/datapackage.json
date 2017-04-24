@@ -1,0 +1,46 @@
+{
+  "author": "Philippine Health Insurance Corporation", 
+  "author_email": "actioncenter@philhealth.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/weECmfKZdiUyKF7VUpZE/phnatlhealthinsprogbenpaymnts2010-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/10-12/31/13"
+  }, 
+  "id": "75caa184-7b35-4cda-a158-3e1f654fb599", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "actioncenter@philhealth.gov.ph", 
+  "name": "national-health-insurance-program-benefit-payments", 
+  "notes": "This dataset contains membership benefit payments of National Health Insurance Program for the year 2010-2013. Note: amount in millions", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-03T10:56:43.693411", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "08665125-1833-4701-96b5-1223a35ab716", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "National Health Insurance Program Benefit Payments", 
+      "package_id": "75caa184-7b35-4cda-a158-3e1f654fb599", 
+      "position": 0, 
+      "resource_group_id": "19577bcf-b315-4f78-ba88-8159cc2d2ef4", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/weECmfKZdiUyKF7VUpZE/phnatlhealthinsprogbenpaymnts2010-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Health"
+  ], 
+  "title": "National Health Insurance Program Benefit Payments", 
+  "url": "", 
+  "version": ""
+}

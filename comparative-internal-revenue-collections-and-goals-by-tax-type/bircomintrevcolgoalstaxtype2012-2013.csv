@@ -1,0 +1,32 @@
+tax_classification_1,tax_classification_2,tax_classification_3,2013_collection,2013_goal,2012_collection,collection_compared_to_goal_excess_or_deficiency_amount,collection_compared_to_goal_excess_or_deficiency_percentage,collection_compared_to_prev_year_inc_or_dec_amount ,collection_compared_to_prev_year_inc_or_dec_percentage
+Grand Total,Grand Total,Grand Total,1216660.72,1253679.00,1057916.41,-37018.28,-2.95,158744.31,15.01
+Taxes on the Net Income and Profit,Taxes on the Net Income and Profit,Taxes on the Net Income and Profit,718360.63,759187.00,642501.34,-40826.37,-5.38,75859.28,11.81
+Taxes on the Net Income and Profit,"Company, corporate enterprise","Company, corporate enterprise",424496.73,428087.00,370125.37,-3590.27,-0.84,54371.35,14.69
+Taxes on the Net Income and Profit,"Company, corporate enterprise",Corporate Income Tax,174918.04,180162.15,154742.86,-5244.10,-2.91,20175.18,13.04
+Taxes on the Net Income and Profit,"Company, corporate enterprise",Withholding at Source,249578.69,247924.85,215382.51,1653.83,0.67,34196.18,15.88
+Taxes on the Net Income and Profit,Individual,Individual,246580.40,274315.00,222723.58,-27734.60,-10.11,23856.82,10.71
+Taxes on the Net Income and Profit,Individual,Individual Income Tax,14308.68,16267.37,12947.78,-1958.68,-12.04,1360.91,10.51
+Taxes on the Net Income and Profit,Individual,Withholding on Wages,200776.05,224033.20,181624.96,-23257.15,-10.38,19151.10,10.54
+Taxes on the Net Income and Profit,Individual,Capital Gains Tax,10702.27,10460.00,9453.05,242.27,2.32,1249.22,13.21
+Taxes on the Net Income and Profit,Individual,Withholding at Source,20793.39,23554.44,18697.79,-2761.04,-11.72,2095.60,11.21
+Taxes on the Net Income and Profit,Others ,Others ,47283.50,56785.00,49652.39,-9501.50,-16.73,-2368.89,-4.77
+Taxes on the Net Income and Profit,Others ,Bank Deposits,13301.68,14783.00,14500.34,-1481.32,-10.02,-1198.66,-8.27
+Taxes on the Net Income and Profit,Others ,Tax on Government Securities,33981.82,42002.00,35152.05,-8020.18,-19.09,-1170.23,-3.33
+Excise Taxes,Excise Taxes,Excise Taxes,118856.07,102367.00,72345.88,16489.07,16.11,46510.19,64.29
+Excise Taxes,Alcoholic Products,Alcoholic Products,33535.43,34206.00,23896.27,-670.57,-1.96,9639.17,40.34
+Excise Taxes,Tobacco Products,Tobacco Products,71608.37,51655.00,32942.11,19953.37,38.63,38666.26,117.38
+Excise Taxes,Petroleum Products,Petroleum Products,8502.79,11264.00,10158.69,-2761.21,-24.51,-1655.90,-16.30
+Excise Taxes,Miscellaneous Products,Miscellaneous Products,2715.96,2652.00,3142.73,63.96,2.41,-426.77,-13.58
+Excise Taxes,Mining/Mineral Products,Mining/Mineral Products,2493.52,2590.00,2206.08,-96.48,-3.73,287.44,13.03
+Value Added Tax,Value Added Tax,Value Added Tax,250148.94,268631.00,229594.34,-18482.06,-6.88,20554.59,8.95
+Percentage Taxes,Percentage Taxes,Percentage Taxes,60807.12,60732.00,52571.37,75.12,0.12,8235.75,15.67
+Percentage Taxes,Banks/Financial Institutions ,Banks/Financial Institutions ,29209.19,28568.00,24503.78,641.19,2.24,4705.41,19.20
+Percentage Taxes,2. Insurance Premiums,2. Insurance Premiums,990.16,982.00,834.38,8.16,0.83,155.78,18.67
+Percentage Taxes,Amusements,Amusements,427.16,644.00,571.81,-216.84,-33.67,-144.65,-25.30
+Percentage Taxes,Other Percentage ,Other Percentage ,29646.46,29907.00,26049.29,-260.54,-0.87,3597.17,13.81
+Percentage Taxes,Taxes on use of goods or permission to perform activities (Franchise Tax),Taxes on use of goods or permission to perform activities (Franchise Tax),534.15,631.00,612.11,-96.85,-15.35,-77.97,-12.74
+Other Taxes,Other Taxes,Other Taxes,68487.96,62762.00,60903.47,5725.96,9.12,7584.49,12.45
+Other Taxes,Tax on Property,Tax on Property,3275.34,3918.00,3626.35,-642.66,-16.40,-351.01,-9.68
+Other Taxes,Documentary Stamp Tax,Documentary Stamp Tax,60356.13,53852.00,52455.34,6504.13,12.08,7900.79,15.06
+Other Taxes,Travel Tax,Travel Tax,0.00,0.00,0.00,0.00,-,0.00,-
+Other Taxes,Miscellaneous,Miscellaneous,4856.48,4992.00,4821.77,-135.52,-2.71,34.71,0.72

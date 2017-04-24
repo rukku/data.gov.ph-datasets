@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://2015-NEPProposed.csv.crdownload", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "05898a99-fd3b-451b-8d9a-60aa82fefaaa", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "national-expenditure-program-fy-2015-proposed", 
+  "notes": "National Expenditure Program (NEP) Fiscal Year 2015 - Proposed (2015)", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T11:42:20.542643", 
+      "description": "National Expenditure Program (NEP) Fiscal Year 2015 - Proposed (2015)", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "203e6c65-12d1-4673-9bec-742c740b9848", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NATIONAL EXPENDITURE PROGRAM FY 2015 - PROPOSED", 
+      "package_id": "05898a99-fd3b-451b-8d9a-60aa82fefaaa", 
+      "position": 0, 
+      "resource_group_id": "1c1a7dd9-7308-4b08-baf7-7464bb1819a0", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://2015-NEPProposed.csv.crdownload", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Public Finance"
+  ], 
+  "title": "NATIONAL EXPENDITURE PROGRAM FY 2015 - PROPOSED", 
+  "url": "", 
+  "version": ""
+}

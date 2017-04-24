@@ -1,0 +1,1 @@
+Quantity and Value of Fish Production by Type of Fishing Operation from 1981 to 2012

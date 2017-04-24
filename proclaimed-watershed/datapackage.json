@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13489979.862644,1588830.843243,1,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22Proclaimed%20watersheds%22,%22geoportal:denr_procwatershed%22,1,%22ProclaimedWatersheds%22,0,null]]}", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "a5719c4e-28fa-4897-8c56-e3dc5bab6a2f", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "proclaimed-watershed", 
+  "notes": "The DENR - Proclaimed Watersheds is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Department of Environment and Natural Resources.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-31T15:29:32.493574", 
+      "description": "The DENR - Proclaimed Watersheds is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Department of Environment and Natural Resources.", 
+      "format": "PDF", 
+      "hash": "", 
+      "id": "939a1aab-1418-4a86-a99a-f15687bd5739", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "PROCLAIMED WATERSHED", 
+      "package_id": "a5719c4e-28fa-4897-8c56-e3dc5bab6a2f", 
+      "position": 0, 
+      "resource_group_id": "ae9576b5-984a-4a27-9dc7-b9b656fe4416", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13489979.862644,1588830.843243,1,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22Proclaimed%20watersheds%22,%22geoportal:denr_procwatershed%22,1,%22ProclaimedWatersheds%22,0,null]]}", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "PROCLAIMED WATERSHED", 
+  "url": "", 
+  "version": ""
+}

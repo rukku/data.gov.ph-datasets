@@ -1,0 +1,1 @@
+This dataset contains the interest rates on interbank call loan facility. Interbank Call Loan Rate is the rate on loans among banks for periods not exceeding 24 hours primarily for the purpose of covering reserve deficiencies.

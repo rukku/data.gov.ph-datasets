@@ -1,0 +1,69 @@
+{
+  "author": "Department of Budget and Management", 
+  "author_email": "publicinfo@dbm.gov.ph", 
+  "download_url": "http://catalogue.data.gov.ph/NEP2016/2016-nep.xlsx", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2016-12/31/2016"
+  }, 
+  "id": "e21a4247-e3f4-43ba-8fa2-634451c7295d", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Public Information Unit", 
+  "maintainer_email": "publicinfo@dbm.gov.ph", 
+  "name": "national-expenditure-program-fy-2016", 
+  "notes": "Proposed National Budget for Fiscal Year 2016", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-07-30T09:48:44.137473", 
+      "description": "", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "dad9d151-0daa-4319-8a5c-420491521ea5", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "National Expenditure Program FY 2016 (Excel)", 
+      "package_id": "e21a4247-e3f4-43ba-8fa2-634451c7295d", 
+      "position": 0, 
+      "resource_group_id": "02afc342-2e76-4828-8a24-24eeb7475673", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://catalogue.data.gov.ph/NEP2016/2016-nep.xlsx", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-07-30T09:52:25.995484", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "0e526b31-3bd5-4949-bc44-632cf8d46de6", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "National Expenditure Program FY 2016 (CSV)", 
+      "package_id": "e21a4247-e3f4-43ba-8fa2-634451c7295d", 
+      "position": 1, 
+      "resource_group_id": "02afc342-2e76-4828-8a24-24eeb7475673", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://catalogue.data.gov.ph/NEP2016/2016-nep_final.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Public Finance"
+  ], 
+  "title": "National Expenditure Program FY 2016", 
+  "url": "", 
+  "version": ""
+}

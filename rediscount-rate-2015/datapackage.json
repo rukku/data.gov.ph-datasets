@@ -1,0 +1,68 @@
+{
+  "author": "Bangko Sentral ng Pilipinas", 
+  "author_email": "bspmail@bsp.gov.ph", 
+  "download_url": "http://www.bsp.gov.ph/statistics/sdds/rediscount.htm", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/04/1982-06/30/2015"
+  }, 
+  "id": "6bd04ade-3e45-43ee-9529-d256a87634fd", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bangko Sentral ng Pilipinas \u2013 Department of Loans and Credit (DLC)", 
+  "maintainer_email": "rdumaliang@bsp.gov.ph", 
+  "name": "rediscount-rate-2015", 
+  "notes": "This dataset contains the interest rates on the Bangko Sentral ng PIlipinas (BSP) peso rediscount facility. The BSP Rediscount Rate is the rate charged on eligible papers which banks rediscount with the BSP on a short-term basis. It is computed based on the weighted average interest rates of all maturities for peso loans granted. Effective 15 November 2013 as per Circular No. 806 dated 15 August 2013, two separate rediscounting windows were established as follows: Rediscounting Window I (RW I) for universal and commercial banks and Rediscounting Window II (RW II) for thrift, rural and cooperative banks. The peso rediscount rates for RW I and RW II are based on the applicable BSP one-month repurchase (RP) rate and overnight reverse repurchase (RRP) rate, respectively, plus term premia for longer maturities", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-14T13:20:39.523897", 
+      "description": "", 
+      "format": "HTML", 
+      "hash": "", 
+      "id": "0baf0ca8-eec3-4682-b210-45e3fd79f114", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Rediscount Rates 2000-2015", 
+      "package_id": "6bd04ade-3e45-43ee-9529-d256a87634fd", 
+      "position": 0, 
+      "resource_group_id": "481e6bce-0c94-40f5-b4b5-c6826ea62756", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://www.bsp.gov.ph/statistics/sdds/rediscount.htm", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-14T13:20:40.900602", 
+      "description": "", 
+      "format": "DOCX", 
+      "hash": "", 
+      "id": "12161555-9cd3-45ab-9c05-b94633a70f12", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Methodology", 
+      "package_id": "6bd04ade-3e45-43ee-9529-d256a87634fd", 
+      "position": 1, 
+      "resource_group_id": "481e6bce-0c94-40f5-b4b5-c6826ea62756", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/2IN2PO04oaEop6j87lXM/metho_rediscount_rate.docx", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "Rediscount Rate 2015", 
+  "url": "", 
+  "version": ""
+}

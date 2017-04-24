@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=N50PRIFR", 
+  "extras": {
+    "Frequency Update": "Monthly", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2000-12/31/2011"
+  }, 
+  "id": "91d17de6-1a6e-4673-a75c-bb86c922b701", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "inflation-rate-for-all-income-households", 
+  "notes": "This dataset contains the Inflation Rate for All Income Households (2000=100). This time-series includes the most recent data, covering the period from 2011 to the latest available month/year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-07T10:27:24.535415", 
+      "description": "This dataset contains the Inflation Rate for All Income Households (2000=100). This time-series includes the most recent data, covering the period from 2011 to the latest available month/year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "a5584a3c-e215-414b-9eb8-cb02ec13178d", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Inflation Rate for All Income Households", 
+      "package_id": "91d17de6-1a6e-4673-a75c-bb86c922b701", 
+      "position": 0, 
+      "resource_group_id": "bc04e83f-246d-4c0e-8c3f-49e0f524aad8", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=N50PRIFR", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Inflation Rate for All Income Households", 
+  "url": null, 
+  "version": null
+}

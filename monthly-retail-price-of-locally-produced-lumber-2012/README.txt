@@ -1,0 +1,1 @@
+This dataset contains the monthly retail price of locally produced lumber the year 2012.

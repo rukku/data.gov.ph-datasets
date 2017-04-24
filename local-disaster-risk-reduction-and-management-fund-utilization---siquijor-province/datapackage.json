@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/oxqcR4Elr3opdcL5ApH0/siquijorprov_ldrrmf_2012_q1-q4.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "01/01/12-12/31/12"
+  }, 
+  "id": "b863fa68-2708-47ed-8316-9cc9e46acd21", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization---siquijor-province", 
+  "notes": "This dataset contains report on the local disaster risk reduction and management fund utilization of Siquijor province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T16:50:51.002370", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "d2acb58a-c8bc-40ee-a4dd-edf165821129", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 1-4  - Siquijor Province LDRRMF", 
+      "package_id": "b863fa68-2708-47ed-8316-9cc9e46acd21", 
+      "position": 0, 
+      "resource_group_id": "e3eda992-4675-430d-9541-3f0baece3dc3", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/oxqcR4Elr3opdcL5ApH0/siquijorprov_ldrrmf_2012_q1-q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization - Siquijor Province", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,4 @@
+Exchange Visitor Program (EVP) Participants are Filipino going to the US with J1 Visa or Trainee Visa. This information system is designed to process the application and registration of these training applicants. The system will enable the EVP secretariat to tap a particular participants eith their specific skills and expertise for developmental project in the country. It can also generate statistics on the deployment of Filipino trainees to the U.S. The system also acts a monitoring system for the approval or non-approval of "No Objection statement" (NOS) in case the EVP participants request not to return to the Philippines after their contract expires. They need to submit the necesary documentary requirements and obtain from the EVP Committee its approval. Application for NSO for a particular EVP participant is inputted using the EVPIS together with the completed lis of requirements.
+
+Demographic profile of EVP participants per year.
+Data is from 2012.

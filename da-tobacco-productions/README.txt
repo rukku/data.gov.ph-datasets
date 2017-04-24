@@ -1,0 +1,1 @@
+Total production per type of tobacco.

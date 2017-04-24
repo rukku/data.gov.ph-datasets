@@ -1,0 +1,30 @@
+region,product,total,jan,feb,mar,apr,may,jun
+IV-B (MIMAROPA),Almaciga Resin (kilo),281708,19515,50458,49380,20300,39005,103050
+IV-A (CALABARZON),Anahaw Leaves (piece),120,120, -   , -   , -   , -   , -   
+V (Bicol Region),Anahaw Leaves (piece),10600, -   , -   ,600, -   , -   ,10000
+IV-A (CALABARZON),Anahaw Leaves (piece),7220,510,480,860,1220,2230,1920
+V (Bicol Region),Anahaw Leaves (piece),1831,6, -   ,10,855,830,130
+CAR,Bamboo (piece),27270, -   , -   , -   ,12658,11705,2907
+I (Ilocos Region),Bamboo (piece),416663,70550,80288,59685,79860,68810,57470
+III (Central Luzon),Bamboo (piece),46950, -   , -   , -   ,13450,14400,19100
+IV-A (CALABARZON),Bamboo (piece),122181,8620,46020,11270,16191,16358,23722
+V (Bicol Region),Bamboo (piece),3468,150,588,225,1516,700,289
+VII (Central Visayas),Bamboo (piece), -   , -   , -   , -   , -   , -   , -   
+XI (Davao Region),Bamboo (piece),11280,1035, -   , -   ,2930,4300,3015
+XII (SOCCSKSARGEN),Bamboo (piece),206420,29960,39600,41340,32200,38620,24700
+II (Cagayan Valley),Nipa Shingle (piece),60000, -   , -   , -   ,30000,30000, -   
+IV-A (CALABARZON),Nipa Shingle (piece),288000,32000,40000,32000,40000,64000,80000
+V (Bicol Region),Nipa Shingle (piece),1139100,182100,223500,159000,189500,215000,170000
+VI (Western Visayas),Nipa Shingle (piece),4115642,692000,583642,661000,855000,745000,579000
+XIII (Caraga),Nipa Shingle (piece),16600,5500,100,11000, -   , -   , -   
+IV-B (MIMAROPA),Split Rattan (kilo),5000, -   ,5000, -   , -   , -   , -   
+XIII (Caraga),Split Rattan (kilo),89071,22031,10204,17656,17344,11146,10690
+CAR,Unsplit Rattan (lumen),10000, -   , -   , -   , -   ,10000, -   
+II (Cagayan Valley),Unsplit Rattan (lumen),111219, -   , -   ,21500,69719,10000,10000
+IV-A (CALABARZON),Unsplit Rattan (lumen),46981,5596,3308,32077,6000, -   , -   
+IV-B (MIMAROPA),Unsplit Rattan (lumen),228311,17000,108320, -   ,34000,35000,33991
+V (Bicol Region),Unsplit Rattan (lumen),7000, -   , -   , -   ,7000, -   , -   
+VIII (Eastern Visayas),Unsplit Rattan (lumen),27380,-,16200,-, -   ,11180, -   
+X (Northern Mindanao),Unsplit Rattan (lumen), -   , -   , -   , -   , -   , -   , -   
+XI (Davao Region),Unsplit Rattan (lumen),75000, -   ,18750,18750, -   , -   ,37500
+XIII (Caraga),Unsplit Rattan (lumen),638933,43125,191055,136875,103125,80000,84753

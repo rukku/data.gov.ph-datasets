@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/11dd15c2-ce52-4dd0-96c8-755d8882d1c1/resource/0e083f30-e616-4a6a-9293-5467206b073a/download/NSCBMODEOFRESOLUTIONOFLANDISSUESCONFLICTS.xlsx", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "11dd15c2-ce52-4dd0-96c8-755d8882d1c1", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-mode-of-resolution-of-land-issues-conflicts", 
+  "notes": "Indigenous People's Rights - Mode of Resolution of Land Issues/Conflicts", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T22:48:53.501951", 
+      "description": "Indigenous People's Rights - Mode of Resolution of Land Issues/Conflicts", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "0e083f30-e616-4a6a-9293-5467206b073a", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - MODE OF RESOLUTION OF LAND ISSUES/CONFLICTS", 
+      "package_id": "11dd15c2-ce52-4dd0-96c8-755d8882d1c1", 
+      "position": 0, 
+      "resource_group_id": "bb2324ef-e98c-459f-92c7-c1f0b8c04df1", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/11dd15c2-ce52-4dd0-96c8-755d8882d1c1/resource/0e083f30-e616-4a6a-9293-5467206b073a/download/NSCBMODEOFRESOLUTIONOFLANDISSUESCONFLICTS.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Population"
+  ], 
+  "title": "NSCB - MODE OF RESOLUTION OF LAND ISSUES/CONFLICTS", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/4950f16d-6a56-49c2-a890-19b5698acade/resource/3935f8a2-53ee-4918-9f0c-8a0a430e8422/download/NSCBGrowthRatesGNIandGDPbyExpenditureShares2012to2013.xlsx", 
+  "extras": {
+    "Frequency of Update": "Quarterly", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "4950f16d-6a56-49c2-a890-19b5698acade", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-growth-rates-gni-and-gdp-by-expenditure-shares-2012-to-2013", 
+  "notes": "Growth Rates of Gross National Income and Gross Domestic Product by Expenditure Shares from 2012 to 2013", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T23:29:26.496101", 
+      "description": "Growth Rates of Gross National Income and Gross Domestic Product by Expenditure Shares from 2012 to 2013", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "3935f8a2-53ee-4918-9f0c-8a0a430e8422", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - GROWTH RATES - GNI AND GDP BY EXPENDITURE SHARES - 2012 TO 2013", 
+      "package_id": "4950f16d-6a56-49c2-a890-19b5698acade", 
+      "position": 0, 
+      "resource_group_id": "09353ba3-e229-431c-b09d-b6e308202692", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/4950f16d-6a56-49c2-a890-19b5698acade/resource/3935f8a2-53ee-4918-9f0c-8a0a430e8422/download/NSCBGrowthRatesGNIandGDPbyExpenditureShares2012to2013.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "NSCB - GROWTH RATES - GNI AND GDP BY EXPENDITURE SHARES - 2012 TO 2013", 
+  "url": "", 
+  "version": ""
+}

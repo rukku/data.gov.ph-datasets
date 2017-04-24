@@ -1,0 +1,1 @@
+This dataset contains the total school enrollment for public elementary schools and public secondary school for the year 2005 to 2012.

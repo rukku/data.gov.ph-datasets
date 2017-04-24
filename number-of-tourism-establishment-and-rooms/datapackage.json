@@ -1,0 +1,46 @@
+{
+  "author": "Department of Tourism", 
+  "author_email": "webmaster@tourism.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/O0c126EGJf0cplUaD4rs/dot_num_estab_and_rooms.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-12/31/2012"
+  }, 
+  "id": "cb125ec7-47d1-4a98-8d07-f034fde50dac", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "number-of-tourism-establishment-and-rooms", 
+  "notes": "Number of establishment and rooms by region, province and city for the year 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-18T10:53:10.799792", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "46826a9b-be38-421c-b3e2-8ae02a29e6fa", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Number of Tourism Establishment and Rooms 2012", 
+      "package_id": "cb125ec7-47d1-4a98-8d07-f034fde50dac", 
+      "position": 0, 
+      "resource_group_id": "8e64f963-7963-4a0c-b4cd-cac91cfa182c", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/O0c126EGJf0cplUaD4rs/dot_num_estab_and_rooms.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Cultural"
+  ], 
+  "title": "Number of Tourism Establishment and Rooms", 
+  "url": "", 
+  "version": ""
+}

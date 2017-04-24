@@ -1,0 +1,47 @@
+{
+  "author": "National Economic and Development Authority - Systems Data and Analysis Division", 
+  "author_email": "mes-sdad@neda.gov.ph", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/4b9e85a5-e7d9-45b0-a122-fb4170050e88/resource/7df46761-a624-4b00-8a8c-c86825eb0228/download/PerformanceofActiveODAGrantAssistedProjectsasofJune2014Dataset.csv", 
+  "extras": {
+    "Frequency of Update": "Quarterly", 
+    "Granularity": "National", 
+    "Temporal Date": "2014-01-01, 2014-06-30"
+  }, 
+  "id": "4b9e85a5-e7d9-45b0-a122-fb4170050e88", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Omar O. Dumdum", 
+  "maintainer_email": "oodumdum@neda.gov.ph", 
+  "name": "performance-of-active-oda-grant-assisted-projects", 
+  "notes": "This dataset contains information on the physical status, financial status and performance (fund utilization, time elapsed) of active ODA grant-assisted projects, as well as their basic profile data such as project title, implemneting agency, funding instituion or development partner, an project start and end dates.\r\n", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-15T11:42:06.278323", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "7df46761-a624-4b00-8a8c-c86825eb0228", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Performance of Active ODA Grant-Assisted Projects as of June 2014 (Dataset).csv", 
+      "package_id": "4b9e85a5-e7d9-45b0-a122-fb4170050e88", 
+      "position": 0, 
+      "resource_group_id": "49c193cb-a790-40ae-b67d-fc8be056ce61", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/4b9e85a5-e7d9-45b0-a122-fb4170050e88/resource/7df46761-a624-4b00-8a8c-c86825eb0228/download/PerformanceofActiveODAGrantAssistedProjectsasofJune2014Dataset.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "Performance of Active ODA grant-assisted Projects", 
+  "url": "http://www.neda.gov.ph/", 
+  "version": ""
+}

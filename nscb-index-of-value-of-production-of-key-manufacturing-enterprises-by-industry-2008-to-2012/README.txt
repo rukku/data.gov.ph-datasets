@@ -1,0 +1,1 @@
+Index of Value of Production of Key Manufacturing Enterprises by Industry from 2008 to 2012

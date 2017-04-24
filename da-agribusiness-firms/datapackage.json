@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ZKMBLxIQIHM5E0EXmLpd/daagribusinessfirms2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2013-12/31/15"
+  }, 
+  "id": "ae2079c9-bc90-433e-aed5-6fc3b42e456b", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Fisheries Market Information System (AFMIS) c/o DA - Agribusiness and Marketing Assistance Service (DA-AMAS)", 
+  "maintainer_email": "", 
+  "name": "da-agribusiness-firms", 
+  "notes": "List of Suppliers and Buyers of Agriculture and Fishery commodities.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T13:55:27.001142", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "dc95d82c-d422-4274-924b-42db7d79b922", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Agribusiness Firms", 
+      "package_id": "ae2079c9-bc90-433e-aed5-6fc3b42e456b", 
+      "position": 0, 
+      "resource_group_id": "c9f644d6-a62c-4dbd-bcbc-ab7362c5dc60", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ZKMBLxIQIHM5E0EXmLpd/daagribusinessfirms2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Agribusiness Firms", 
+  "url": "", 
+  "version": ""
+}

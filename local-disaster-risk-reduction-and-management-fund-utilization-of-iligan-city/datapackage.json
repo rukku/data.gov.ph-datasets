@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/FyyLPL7pEqqhqGl2FwUv/iligan_city_ldrrmf_09302014_q3.csv", 
+  "extras": {
+    "Granularity": "City or Municipality", 
+    "Temporal Date": "07/01/2014-09/30/2014"
+  }, 
+  "id": "61d1b5cd-8d46-4963-a696-0389e03deeda", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-iligan-city", 
+  "notes": "This dataset contains report on the local disaster risk reduction and management fund utilization of Iligan City.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-16T14:49:15.862102", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "c32ecb9e-0364-4418-915b-3fab149f8401", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2014 Quarter 3 - Iligan City LDRRMF", 
+      "package_id": "61d1b5cd-8d46-4963-a696-0389e03deeda", 
+      "position": 0, 
+      "resource_group_id": "f9c527ab-7e16-4554-9bf1-ba613e33ba0c", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/FyyLPL7pEqqhqGl2FwUv/iligan_city_ldrrmf_09302014_q3.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization of Iligan City", 
+  "url": "", 
+  "version": ""
+}

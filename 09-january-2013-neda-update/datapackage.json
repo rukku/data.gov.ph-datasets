@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/7b0cc3d5-ea48-459c-8690-753a09660c99/resource/f6980b65-1a8b-48b3-9fe5-d628780138f0/download/09january2013nedaupdate.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "7b0cc3d5-ea48-459c-8690-753a09660c99", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "09-january-2013-neda-update", 
+  "notes": "This dataset contains NEDA Updates for January 9, 2013", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T16:27:36.228278", 
+      "description": "This dataset contains NEDA Updates for January 9, 2013", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "f6980b65-1a8b-48b3-9fe5-d628780138f0", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "09 JANUARY 2013 NEDA UPDATE", 
+      "package_id": "7b0cc3d5-ea48-459c-8690-753a09660c99", 
+      "position": 0, 
+      "resource_group_id": "39f5714d-d7c5-416b-af3f-51f78645b1e8", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/7b0cc3d5-ea48-459c-8690-753a09660c99/resource/f6980b65-1a8b-48b3-9fe5-d628780138f0/download/09january2013nedaupdate.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "09 JANUARY 2013 NEDA UPDATE", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,1 @@
+Growth Rates of Gross National Income and Gross Domestic Product by Expenditure Shares from 2012 to 2013

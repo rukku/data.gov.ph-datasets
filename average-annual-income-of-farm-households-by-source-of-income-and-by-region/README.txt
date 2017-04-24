@@ -1,0 +1,1 @@
+This dataset contains the average annual income of farm households by source of income and by region.

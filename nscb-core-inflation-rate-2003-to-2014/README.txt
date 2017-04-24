@@ -1,0 +1,1 @@
+Core Inflation Rate from 2003 to 2014

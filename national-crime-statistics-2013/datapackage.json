@@ -1,0 +1,46 @@
+{
+  "author": "Philippine National Police - Public Information Office", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/7aSO8JS50gvgUpmGd668/natcrimestat2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2013-12/31/2013"
+  }, 
+  "id": "49982b83-63fd-498f-8a51-982f8cf8e17a", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine National Police - Directorate for Investigation and Detective Management", 
+  "maintainer_email": "", 
+  "name": "national-crime-statistics-2013", 
+  "notes": "Statistics on all crime incidents referred, processed and gathered by the reporting Police Office and Other Law Enforcement Agencies for the year 2013.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-06T14:43:00.669428", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "fbe01023-0faf-4652-8829-0fbc41b195fa", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "National Crime Statistics 2013", 
+      "package_id": "49982b83-63fd-498f-8a51-982f8cf8e17a", 
+      "position": 0, 
+      "resource_group_id": "73a0dc32-ed6f-431f-a6b2-e30e6ca81fa3", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/7aSO8JS50gvgUpmGd668/natcrimestat2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Law and Justice"
+  ], 
+  "title": "National Crime Statistics 2013", 
+  "url": "", 
+  "version": ""
+}

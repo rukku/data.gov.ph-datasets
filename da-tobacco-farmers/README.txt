@@ -1,0 +1,1 @@
+Total number of farmers-cooperator and area planted for the different type of tobacco. Note: Area in heactares

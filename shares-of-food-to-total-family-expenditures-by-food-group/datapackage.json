@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=J40FCFTE", 
+  "extras": {
+    "Frequency Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1994-12/31/2012"
+  }, 
+  "id": "7d838889-a6c5-41c6-b3ec-b1d3fb2ae01e", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "shares-of-food-to-total-family-expenditures-by-food-group", 
+  "notes": "This dataset contains the shares of food to total family expenditures by food group. This time-series includes the most recent data, covering the period from 1994 to the latest available year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-12T13:03:26.207987", 
+      "description": "This dataset contains the shares of food to total family expenditures by food group. This time-series includes the most recent data, covering the period from 1994 to the latest available year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "ad0635be-83fc-49c3-97cf-d4b8076df4f3", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Shares of Food to Total Family Expenditures by Food Group", 
+      "package_id": "7d838889-a6c5-41c6-b3ec-b1d3fb2ae01e", 
+      "position": 0, 
+      "resource_group_id": "7d316a6a-e2ad-46bc-8613-c92a452bf9c6", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=J40FCFTE", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Shares of Food to Total Family Expenditures by Food Group", 
+  "url": null, 
+  "version": null
+}

@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=J30FCIDR", 
+  "extras": {
+    "Frequency Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1990-2015"
+  }, 
+  "id": "144c45d9-6745-46bb-9b9e-ab996edf895d", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "import-dependency-ratio-of-selected-agricultural-commodities", 
+  "notes": "This dataset contains the Import Dependency Ratio (IDR) of selected agricultural commodities. This time-series includes the most recent data, covering the period from 1990 to the latest available year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-11T17:45:13.178847", 
+      "description": "This dataset contains the Import Dependency Ratio (IDR) of selected agricultural commodities. This time-series includes the most recent data, covering the period from 1990 to the latest available year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "785ebeae-05d2-4bd6-b7b7-b1b5885ac045", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Import Dependency Ratio of Selected Agricultural Commodities", 
+      "package_id": "144c45d9-6745-46bb-9b9e-ab996edf895d", 
+      "position": 0, 
+      "resource_group_id": "4315a932-f341-40ed-a89e-7ba58e5a8fee", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=J30FCIDR", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Import Dependency Ratio of Selected Agricultural Commodities", 
+  "url": null, 
+  "version": null
+}

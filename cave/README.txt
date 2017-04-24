@@ -1,0 +1,1 @@
+The DENR - Caves is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The extent or area of coverage is nationwide. For specific LGU location, see additional notes. The dataset was shared to the portal by the Department of Environment and Natural Resources.

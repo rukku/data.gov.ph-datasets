@@ -1,0 +1,2 @@
+This dataset contains the National Government’s cash receipts from revenues, cash disbursements to defray authorized public expenditures, the resulting surplus or deficit, and the corresponding domestic and foreign financing to cover such surplus or deficit.
+Sources of Data: The National Government Cash Operations Report is being produced by the Bureau of the Treasury.

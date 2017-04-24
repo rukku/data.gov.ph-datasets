@@ -1,0 +1,46 @@
+{
+  "author": "Parole and Probation Administration", 
+  "author_email": "ppadoj@yahoo.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/DnNbDKENwNonQIhYobSU/ppa_pardon_supervision_caseload_1989-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "07/24/1978-12/31/2013"
+  }, 
+  "id": "d40c9b4d-cb85-4171-b993-6fa4d909c147", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Office  of the Deputy Administrator, and Chief, Case Management and Records Division", 
+  "maintainer_email": "cmrd@probation.gov.ph", 
+  "name": "pardon-supervision-caseload", 
+  "notes": "This dataset contains the total pardon supervision caseload from 1989 to 2013.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-04T17:39:59.341984", 
+      "description": "This dataset contains the total pardon supervision caseload from 1989 to 2013", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "98ade7be-4e25-4fb2-a556-5ec5d1fb8ba6", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Pardon Supervision Caseload", 
+      "package_id": "d40c9b4d-cb85-4171-b993-6fa4d909c147", 
+      "position": 0, 
+      "resource_group_id": "d48595cd-6f13-4256-abd3-bd506163b99b", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/DnNbDKENwNonQIhYobSU/ppa_pardon_supervision_caseload_1989-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Law and Justice"
+  ], 
+  "title": "Pardon Supervision Caseload", 
+  "url": "", 
+  "version": ""
+}

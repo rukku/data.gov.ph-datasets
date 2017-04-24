@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/PHIuyn7GvuVciLDo0KZX/negrosprov_ira_utilization_20%_06302012_q2.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "04/01/2012-06/30/2012"
+  }, 
+  "id": "82c60864-f26f-4fdf-83f9-39e02172b019", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization-of-negros-province", 
+  "notes": "This dataset contains report of the internal revenue allotment utilization of Negros Province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-14T09:11:31.752803", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "44ec0638-8d2d-416b-9e40-14a1fdaf0208", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 1 - Negros Province IRAU", 
+      "package_id": "82c60864-f26f-4fdf-83f9-39e02172b019", 
+      "position": 0, 
+      "resource_group_id": "08c2fe2d-38e9-4bee-9d60-864618899303", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/PHIuyn7GvuVciLDo0KZX/negrosprov_ira_utilization_20%_06302012_q2.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Internal Revenue Allotment Utilization of Negros Province", 
+  "url": "", 
+  "version": ""
+}

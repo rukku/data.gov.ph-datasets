@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://data.dswd.gov.ph/national-household-targeting-system/", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "f7fda2a1-8920-4c10-a497-797038e53ee9", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "dswd-national-household-targeting-system", 
+  "notes": "DSWD - National Household Targeting System, As of July 1, 2011", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T12:03:26.846174", 
+      "description": "DSWD - National Household Targeting System, As of July 1, 2011", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "45d11eaf-785e-4b66-8ff1-baad8520587e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "DSWD - NATIONAL HOUSEHOLD TARGETING SYSTEM", 
+      "package_id": "f7fda2a1-8920-4c10-a497-797038e53ee9", 
+      "position": 0, 
+      "resource_group_id": "e252a2ce-74c0-4100-b5f7-e5e6ac6ea11d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.dswd.gov.ph/national-household-targeting-system/", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Social Welfare"
+  ], 
+  "title": "DSWD - NATIONAL HOUSEHOLD TARGETING SYSTEM", 
+  "url": "", 
+  "version": ""
+}

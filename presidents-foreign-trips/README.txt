@@ -1,0 +1,1 @@
+Foreign trips of the different Presidents of the Philippines. 

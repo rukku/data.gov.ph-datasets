@@ -1,0 +1,1 @@
+This data set contains the list of the Department's locally-funded infrastructure projects and the budget (in thousand Pesos) allocated to each project from 2010 to 2014.

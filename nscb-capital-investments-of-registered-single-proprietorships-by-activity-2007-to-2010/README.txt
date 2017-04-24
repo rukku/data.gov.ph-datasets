@@ -1,0 +1,1 @@
+Capital Investments of Registered Single Proprietorships, by Activity from 2007 to 2010

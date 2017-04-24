@@ -1,0 +1,24 @@
+{
+  "author": "Mines and Geosciences Bureau", 
+  "author_email": "", 
+  "download_url": "", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "3f3d6c30-4105-4773-aae0-ead256a56db6", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "ftaa-03-2008-ivb", 
+  "notes": "Financial or Technical Assistance Agreement (FTAA) An Financial or Technical Assistance Agreement may be entered into between a Contractor and the Government for the large-scale exploration, development and utilization of gold, copper, nickel, chromite, lead, zinc and other minerals except for cement raw materials, marble, granite, sand and gravel and construction aggregates. (PH-EITI)", 
+  "relationships": [], 
+  "resources": [], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Agusan Petroleum and Mineral Corporation  - Financial or Technical Assistance Agreement 03-2008-IVB", 
+  "url": "http://www.mgb.gov.ph/", 
+  "version": ""
+}

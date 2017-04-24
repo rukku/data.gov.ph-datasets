@@ -1,0 +1,83 @@
+city_or_municipality,position ,name,nickname,party_affiliation,votes_obtained
+Balbalan,Mayor,"Mangaoang, Kenneth Dale Capuyan",Kenneth,Nacionalista Party,4154
+Balbalan,Vice-Mayor,"Gonayon, Eric Labbutan",Eric,Independent,4023
+Balbalan,Councilor,"Dulansi, Rex Layugan",Illek,Independent,1848
+Balbalan,Councilor,"Yacapin, Jeanette Saboy",Jenet,Independent,1858
+Balbalan,Councilor,"Paganao, Edwin Billo",Edwin,Independent,1870
+Balbalan,Councilor,"Damian, Mario Joseph Dacayan",Mar,Independent,1873
+Balbalan,Councilor,"Esteban, Pacio Abuac",Iso,Independent,2106
+Balbalan,Councilor,"Ande, Denis Balicao",Denis,Independent,2173
+Balbalan,Councilor,"Dagwat, Jefferson Balitnang",Jefferson,Independent,2227
+Balbalan,Councilor,"Tangkib, Miguel Tawagon",Mike,Independent,2310
+Lubuagan,Mayor,"Dickpus, Johnny Agyao",Abi,Lakas-Kampi,3381
+Lubuagan,Vice-Mayor,"Pallogan, Elizabeth Camacam",Ambit,Lakas-Kampi,3180
+Lubuagan,Councilor,"Ayangdo, Peter Manadao",Cosisi,Lakas-Kampi,3592
+Lubuagan,Councilor,"Lang-Ay, Alfonso Patongao",Ponso,Independent,3922
+Lubuagan,Councilor,"Maestre, Florence Palicpic",Polen,Independent,4032
+Lubuagan,Councilor,"Alicog, Emy Aggal",Poking,Independent,4063
+Lubuagan,Councilor,"Maloc, Cuesta Sugao",Cowista,Independent,4077
+Lubuagan,Councilor,"Cadater, Harren Oddoc",Kusidon,Independent,4101
+Lubuagan,Councilor,"Batalao, Wagason Abangan",Ama-Wagason,Independent,4319
+Lubuagan,Councilor,"Dickly, Victor Dickpus",Adjong,Independent,5382
+Pasil,Mayor,"Edduba, James Sagmayao",James,Lakas-Kampi,4401
+Pasil,Vice-Mayor,"Mosing, Charlemagne Ao-as",Chally,Lakas-Kampi,3181
+Pasil,Councilor,"Bommogas, Nick Cayag",Ambol,Independent,2542
+Pasil,Councilor,"Sawil, Eddie Leon Mosing",Eddie,Independent,2578
+Pasil,Councilor,"Saga-Oc, Leonora Puttiyao",Solid,Liberal Party,2598
+Pasil,Councilor,"Maiyao, Albert Balangui",Malannag,Independent,2607
+Pasil,Councilor,"Kitongan, Emilio Taya-an",Lunes,Nacionalista Party,2646
+Pasil,Councilor,"Taya-An, Samuel Waggawag",Chollot,Nacionalista Party,3014
+Pasil,Councilor,"Malannag, Ellen Batalao",Elin,Independent,3249
+Pasil,Councilor,"Andomang, Rosemarie Lingayo",Ennet,Independent,3332
+Pinukuk,Mayor,"Dasayon, Irving Balicao",Bing,Lakas-Kampi,8176
+Pinukuk,Vice-Mayor,"Cabannag, Salvador Duga",Badol,Lakas-Kampi,7439
+Pinukuk,Councilor,"Baluyan, Jeremias, Sr. Cabannag",Jerry,Liberal Party,4755
+Pinukuk,Councilor,"Lumawig, Roy Angalao",Gappak,Lakas-Kampi,5105
+Pinukuk,Councilor,"Iddoba, Lolito Aromin",Itong,Lakas-Kampi,5301
+Pinukuk,Councilor,"Balagso, Teodoro Gaano",Doro,Lakas-Kampi,5485
+Pinukuk,Councilor,"Hortelano, Salvador Ligsay",Badol,Lakas-Kampi,5545
+Pinukuk,Councilor,"Mabanag, Pedro Faire",Peter,Liberal Party,5850
+Pinukuk,Councilor,"Tongdo, George Lawagan",Ogie,Lakas-Kampi,5890
+Pinukuk,Councilor,"Dasayon, Jimmy Balagso",Jim,Lakas-Kampi,6795
+Rizal Liwan,Mayor,"Dela Cruz, Marcelo, Jr. Villas",Bebot,Lakas-Kampi,5265
+Rizal Liwan,Vice-Mayor,"Vicente, Renato Caluya",Rene,Lakas-Kampi,3511
+Rizal Liwan,Councilor,"Songgadan, Beatrice Longdayan",Betty,Lakas-Kampi,2626
+Rizal Liwan,Councilor,"Olatic, Epifanio Balas",Epoy,Independent,2639
+Rizal Liwan,Councilor,"Apil, Rufino, Jr. Pas-a",Junior,Lakas-Kampi,2789
+Rizal Liwan,Councilor,"Echalar, Robert Roaquin",Bongbong,Independent,3363
+Rizal Liwan,Councilor,"Cadang, Pablo Catolos",Pabs,Lakas-Kampi,3415
+Rizal Liwan,Councilor,"Valdez, Samuel Cosnoy",Sammy,Lakas-Kampi,3514
+Rizal Liwan,Councilor,"Barroga, Randy Bernalte",Bots,Lakas-Kampi,3534
+Rizal Liwan,Councilor,"Dalanao, Collin Tumbali",Cols,Lakas-Kampi,4537
+Tabuk City,Mayor,"Tubban, Ferdinand Baac",Ferdie,Nacionalista Party,21144
+Tabuk City,Vice-Mayor,"Estranero, Darwin Cabrera",Darwin,Nacionalista Party,24231
+Tabuk City,Councilor,"Vicente, Martinez Tumalba",Martinez,Nacionalista Party,14611
+Tabuk City,Councilor,"Teckney, Faustino, Jr. Lasegan",Jr,Nacionalista Party,14948
+Tabuk City,Councilor,"Wansi, Glen Baglinit",1C,Lakas-Kampi,15155
+Tabuk City,Councilor,"Albert, Raul Aquino",Raul,Lakas-Kampi,16765
+Tabuk City,Councilor,"Bakilan, Antonio Almeda",Tony,Independent,16984
+Tabuk City,Councilor,"Mejia, Alma Sandra Uyam",Sandra,Lakas-Kampi,17588
+Tabuk City,Councilor,"Naoy, Amador Capuyan",Amador,Nacionalista Party,18437
+Tabuk City,Councilor,"Adong, Reamcy Mar De Guzman",Reamcy,Lakas-Kampi,19482
+Tabuk City,Councilor,"Tarnate, Lester Lee Osbucan",Lee,Lakas-Kampi,19524
+Tabuk City,Councilor,"Tenedero, Arnold Gonayon",Noli,Nacionalista Party,22127
+Tanudan,Mayor,"Tiggangay, Johnwell Wackisan",Puklang,Liberal Party,3797
+Tanudan,Vice-Mayor,"Calsiyao, David Baggas",David,Independent,1880
+Tanudan,Councilor,"Balais, Fabian Baroga",Milanda,Independent,1520
+Tanudan,Councilor,"Pallogan, Bonifacio Ullasag",Balangui,Nacionalista Party,1558
+Tanudan,Councilor,"Bulwayan, Francisco, Sr. Alsiyang",Manaltag,Independent,1649
+Tanudan,Councilor,"Torres, Kennith David, Jr. Dangatan",Tupagon,Independent,1685
+Tanudan,Councilor,"Wanason, Florencio Cabuyao",Emboy,Independent,1824
+Tanudan,Councilor,"Panabe, Casiano Dinulong",Falgui,Independent,1957
+Tanudan,Councilor,"Alunday, Jovita Wacdagan",Obbet,Independent,2019
+Tanudan,Councilor,"Ballay, Denis Balagso",Denis,Independent,2129
+Tinglayan,Mayor,"Abay, Fernando Mamma",Fma,Liberal Party,3972
+Tinglayan,Vice-Mayor,"Pan-Oy, Felix Mamma",Caowa,Liberal Party,4070
+Tinglayan,Councilor,"Gawang, Paway Ngalluban",Paway,Lakas-Kampi,3379
+Tinglayan,Councilor,"Gonnay, Brendon Dang-ao",Endon,Independent,3422
+Tinglayan,Councilor,"Paclay, Francis Wigan",Tiwang,Liberal Party,3471
+Tinglayan,Councilor,"Gonayon, Rey Mamma",Masadao,Independent,3528
+Tinglayan,Councilor,"Paclay, Francis Bagninit",Changor,Independent,3627
+Tinglayan,Councilor,"Agod, Wilfredo Gamongan",Utek,Independent,3985
+Tinglayan,Councilor,"Baculi, Roger Atalli",Locher,Nacionalista Party,4098
+Tinglayan,Councilor,"Banglag, Philibert Chulsi",Philip,Independent,4200

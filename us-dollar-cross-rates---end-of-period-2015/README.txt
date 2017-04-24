@@ -1,0 +1,1 @@
+This dataset contains the end-of-period US Dollar rates of the following selected currencies: Philippine Peso, Japanese Yen, Euro, Pound Sterling, Canadian Dollar, Swiss Franc, Brunei Dollar, Australian Dollar, Hong Kong Dollar, New Taiwan Dollar, South Korean Won, Singapore Dollar, Malaysian Ringgit, Thai Baht, Indonesian Rupiah, Saudi Rial and Special Drawing Rights.

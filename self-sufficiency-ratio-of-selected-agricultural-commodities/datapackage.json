@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=J20FCSSR", 
+  "extras": {
+    "Frequency Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1988-12/31/2013"
+  }, 
+  "id": "54fb0097-6e08-4c44-a223-14eaa455f7ab", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "self-sufficiency-ratio-of-selected-agricultural-commodities", 
+  "notes": "his dataset contains the Self-Sufficiency Ratio (SSR) of selected agricultural commodities. This time-series includes the most recent data, covering the period from 1988 to the latest available year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-07T09:37:50.133008", 
+      "description": "This dataset contains the Self-Sufficiency Ratio (SSR) of selected agricultural commodities. This time-series includes the most recent data, covering the period from 1988 to the latest available year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "fc17ac89-4e95-4ac1-b178-f8ea39315258", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Self-Sufficiency Ratio of Selected Agricultural Commodities", 
+      "package_id": "54fb0097-6e08-4c44-a223-14eaa455f7ab", 
+      "position": 0, 
+      "resource_group_id": "85ee108a-4ba4-4d51-a052-bc37cba34ca1", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=J20FCSSR", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Self-Sufficiency Ratio of Selected Agricultural Commodities", 
+  "url": null, 
+  "version": null
+}

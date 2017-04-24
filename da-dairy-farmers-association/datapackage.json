@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ZxSWVSvbByH98ev6ya70/dadiaryfarmersassoc2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "07f7cc58-5960-4264-a3c4-6b66187ff3fd", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "da-dairy-farmers-association", 
+  "notes": "Directory of Dairy Farmers Association", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T14:21:26.125743", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "e6924358-3b60-4b03-87c0-220f8ea4a00e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Dairy Farmers Association", 
+      "package_id": "07f7cc58-5960-4264-a3c4-6b66187ff3fd", 
+      "position": 0, 
+      "resource_group_id": "ff1d1370-4db3-4b04-81d4-0560b1656547", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ZxSWVSvbByH98ev6ya70/dadiaryfarmersassoc2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Dairy Farmers Association", 
+  "url": "", 
+  "version": ""
+}

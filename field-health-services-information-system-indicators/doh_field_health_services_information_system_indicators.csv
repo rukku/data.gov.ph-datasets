@@ -1,0 +1,229 @@
+category_1,category_2,category_3,year_2007,year_2008,year_2009,year_2010,year_2011,year_2012
+Health Status Indicators,Estimated Population,Estimated Population,88574614,90457200,91048652,92335113,95793800,96184368
+Health Status Indicators,Total number of households,Total number of households,16388183,17450575,17483333,12626538,18776071,18540736
+Health Status Indicators,Live births,Live births,1860871,1917251,1882890,1822233,1853155,1919270
+Mortality,Number of Deaths,Number of Deaths,373414,389925,390932,467571,411437,427735
+Mortality,Crude Death Rate,Crude Death Rate,4.22,4.31,4.29,5.06,4.3,4.45
+Mortality,Number of Infant Mortalities,Number of Infant Mortalities,17142,17754,16195,14858,15947,16654
+Mortality,Infant Mortality Rate,Infant Mortality Rate,9.21,9.26,8.6,8.15,8.61,8.68
+Mortality,Number of Maternal Deaths,Number of Maternal Deaths,1166,1214,1204,1127,1245,1243
+Mortality,Maternal Mortality Rate,Maternal Mortality Rate,62.66,63.32,63.94,0.62,67.18,64.76
+Mortality,Number of deaths due to neonatal tetanus,Number of deaths due to neonatal tetanus,179,769,275,139,164,268
+Mortality,Neonatal Tetanus Mortality Rate,Neonatal Tetanus Mortality Rate,0.1,0.4,0.15,0.08,0.09,0.14
+Mortality,Number of Perinatal Deaths,Number of Perinatal Deaths,5195,4961,4394,5564,6613,8335
+Mortality,Perinatal Mortality Rate,Perinatal Mortality Rate,2.79,2.59,2.33,3.05,3.57,4.34
+Mortality,Number of Under-Five Mortalities,Number of Under-Five Mortalities,-,-,21018,19228,20538,21107
+Mortality,Under Five Mortality Rate,Under Five Mortality Rate,,,1.12,1.06,1.11,1.1
+Natality,Livebirths,Livebirths,1860871,1917251,1822890,1822233,1853155,1919270
+Natality,Crude Birth Rate,Crude Birth Rate,21.01,21.2,20.02,19.73,19.35,19.95
+Natality,Livebirth by Weight,">= 2,500 grams",1609216,1549143,1688958,1676519,1701437,1765198
+Natality,Livebirth by Weight,"< 2,500 grams",166166,310588,158857,109966,118601,117632
+Natality,Livebirth by Weight,Unknown weight,85489,57520,35075,35748,33117,36440
+Natality,Delivery by Attendance,Livebirth delivered by Medical Doctors (MD),564794,601472,639516,666811,700327,812726
+Natality,Delivery by Attendance,Livebirth delivered by Public Health Nurses (PHN),26704,21477,25750,23966,30118,33094
+Natality,Delivery by Attendance,Livebirth delivered by Midwives,764533,797908,740215,758500,774395,757301
+Natality,Delivery by Attendance,Livebirth delivered by hilot/Traditional Birth Attendant (TBA),487886,475729,370225,338525,321962,280108
+Natality,Delivery by Attendance,Livebirth delivered by other persons,14444,23512,27089,34432,26353,21660
+Natality,Deliveries by Place,Normal deliveries,-,-,-,-,-,-
+Natality,Deliveries by Place,Home,1130588,1056993,872273,765559,664386,547708
+Natality,Deliveries by Place,Health Facility,605841,720125,719552,852887,1057605,1297481
+Natality,Deliveries by Place,Other places,110890,130230,156165,176850,70364,72969
+Natality,Deliveries by Place,Other deliveries,-,-,-,-,-,-
+Natality,Deliveries by Place,Home,2287,2758,85176,46337,27366,3290
+Natality,Deliveries by Place,Health Facility,8179,9701,91001,73115,87390,69448
+Natality,Deliveries by Place,Other places,576,291,18789,11939,9435,1078
+Health Services Coverage Statistics,Control of Diarrheal Diseases and Pneumonia,Children (0-59 mos.) with diarrhea,-,-,402146,345684,323732,314812
+Health Services Coverage Statistics,Control of Diarrheal Diseases and Pneumonia,Children (0-59 mos.) with diarrheas given ORT,-,-,196653,171558,159162,144273
+Health Services Coverage Statistics,Control of Diarrheal Diseases and Pneumonia,Children (0-59 mos.) with diarrheas given ORS,455681,477556,328311,271201,258077,235465
+Health Services Coverage Statistics,Control of Diarrheal Diseases and Pneumonia,Children (0-59 mos.) with diarrheas given ORS with Zinc,-,-,57256,70126,71564,94917
+Health Services Coverage Statistics,Control of Diarrheal Diseases and Pneumonia,Children (0-59 mos.) with Pneumonia seen,430975,461949,340425,353038,334861,283452
+Health Services Coverage Statistics,Control of Diarrheal Diseases and Pneumonia,Children (0-59 mos.) with Pneumonia given treatment,419371,447071,323149,340725,326115,273507
+Health Services Coverage Statistics,Dental Health,Children (12-71 mos.) eligible population,-,-,2458314,2493048,2586433,2596978
+Health Services Coverage Statistics,Dental Health,Children (12-71 mos.) orally fit,-,-,449010,480365,468022,502500
+Health Services Coverage Statistics,Dental Health,Children (12-71 mos.) provided with BOHC,-,-,1244576,1377873,1403133,1321606
+Health Services Coverage Statistics,Dental Health,Adolescent and youth (10-24 yrs) eligible population,-,-,2731460,2770053,2873814,2885531
+Health Services Coverage Statistics,Dental Health,Adolescent and youth (10-24 yrs) given BOHC,-,-,1321299,1742040,1575822,1420977
+Health Services Coverage Statistics,Dental Health,Pregnant women eligible population,1054013,1053143,796676,807932,838196,841613
+Health Services Coverage Statistics,Dental Health,Pregnant women given BOHC,216592,204019,576995,579530,549768,450651
+Health Services Coverage Statistics,Dental Health,Older persons (60 yrs. & above) eligible population,-,-,1666190,1689733,1753027,1760174
+Health Services Coverage Statistics,Dental Health,Older persons (60 yrs. & above) given BOHC,-,-,507548,561959,473537,473481
+Health Services Coverage Statistics,Environmental Health,Household with access to improved or safe water supply,14051898,14359139,13865658,10375868,15514343,14981350
+Health Services Coverage Statistics,Environmental Health,Level 1,-,-,4501627,3481702,4261461,4103974
+Health Services Coverage Statistics,Environmental Health,Level 2,-,-,2206891,1879297,2468284,2227320
+Health Services Coverage Statistics,Environmental Health,Level 3,-,-,7157140,5014869,8784598,8650056
+Health Services Coverage Statistics,Environmental Health,Households with sanitary toilet,12704567,13403048,12610832,9748740,14909943,14816535
+Health Services Coverage Statistics,Environmental Health,Households with satisfactory disposal of solid waste,-,-,10722732,8323987,12341812,11936035
+Health Services Coverage Statistics,Environmental Health,Households with complete basic sanitation facilities,-,-,10135477,7798632,11598414,11151888
+Health Services Coverage Statistics,Environmental Health,Number of food establishments,-,-,546061,409736,598214,606375
+Health Services Coverage Statistics,Environmental Health,Food establishments with sanitary permit,-,-,429098,332276,460100,464381
+Health Services Coverage Statistics,Environmental Health,Number of food handlers,-,-,1336583,871790,1526983,1495507
+Health Services Coverage Statistics,Environmental Health,Food handlers with health certificate,-,-,1179969,750598,1325669,1281408
+Health Services Coverage Statistics,Environmental Health,Salt sample tested,-,-,3702604,3174738,4573258,3327542
+Health Services Coverage Statistics,Environmental Health,Salt samples tested found positive for Iodine,-,-,3436953,2975332,4095206,3164264
+Health Services Coverage Statistics,Expanded Program on Immunization,Children (< 1yo) eligible population,2637694,2713716,2458314,2493048,2586433,2596978
+Health Services Coverage Statistics,Expanded Program on Immunization,Number of children (< 1 yo) with measles,2153856,2148039,2227945,2179774,1986351,2076789
+Health Services Coverage Statistics,Expanded Program on Immunization,Fully Immunized Children (FIC),2180167,2199698,2198824,2134293,1949353,1496033
+Health Services Coverage Statistics,Expanded Program on Immunization,Number of Completely Immunized Children (CIC),-,-,269708,254372,205776,191257
+Health Services Coverage Statistics,Expanded Program on Immunization,Number of Children Protected at Birth (CPAB),-,-,1452337,1572942,1507390,1579742
+Health Services Coverage Statistics,Expanded Program on Immunization,Children <1 yo given BCG,2097171,2158555,2180030,2209052,2038563,1969390
+Health Services Coverage Statistics,Expanded Program on Immunization,Children <1 yo given DPT1,2114548,2219190,2210955,2221483,1879918,1575198
+Health Services Coverage Statistics,Expanded Program on Immunization,Children <1 yo given DPT2,2060980,2188403,2158934,2192062,1839886,1638979
+Health Services Coverage Statistics,Expanded Program on Immunization,Children <1 yo given DPT3,2023498,2144853,2144707,2193115,1847636,1681281
+Health Services Coverage Statistics,Expanded Program on Immunization,Children <1 yo given HBV1 given within 24 hours,-,-,729746,862092,858227,758054
+Health Services Coverage Statistics,Expanded Program on Immunization,Children <1 yo given HBV1 given more than 24 hours,-,-,1345520,1292933,1099658,815063
+Health Services Coverage Statistics,Expanded Program on Immunization,Children <1 yo given HBV2,2100475,2101075,2050354,2094528,1713325,1119831
+Health Services Coverage Statistics,Expanded Program on Immunization,Children <1 yo given HBV3,2075712,2087972,2051426,2084510,1706588,1154860
+Health Services Coverage Statistics,Expanded Program on Immunization,Children <1 yo given OPV 1,2119163,2217072,2254348,2219271,2123869,2150629
+Health Services Coverage Statistics,Expanded Program on Immunization,Children <1 yo given OPV 2,2069627,2185358,2165065,2166578,2067804,2142569
+Health Services Coverage Statistics,Expanded Program on Immunization,Children <1 yo given OPV 3,2041225,2141823,2108738,2131064,2028219,2096373
+Health Services Coverage Statistics,Family Planning,Total number of current users (beginning),-,-,-,4548659,4960184,3827423
+Health Services Coverage Statistics,Family Planning,Female Sterilization/BTL,-,-,-,516304,618653,521953
+Health Services Coverage Statistics,Family Planning,Male Sterilization/Vasectomy,-,-,-,17547,17345,13047
+Health Services Coverage Statistics,Family Planning,Pills,-,-,-,1621203,1902972,1427977
+Health Services Coverage Statistics,Family Planning,IUD,-,-,-,506598,551695,351356
+Health Services Coverage Statistics,Family Planning,Injectables,-,-,-,679615,811446,637930
+Health Services Coverage Statistics,Family Planning,NFP-CM,-,-,-,95550,76128,57237
+Health Services Coverage Statistics,Family Planning,NFP-BBT,-,-,-,6105,4441,3753
+Health Services Coverage Statistics,Family Planning,NFP-STM,-,-,-,128022,5792,3342
+Health Services Coverage Statistics,Family Planning,NFP-SDM,-,-,-,99385,67124,41399
+Health Services Coverage Statistics,Family Planning,NFP-LAM,-,-,-,685674,712541,591150
+Health Services Coverage Statistics,Family Planning,Condom,-,-,-,192656,192047,178279
+Health Services Coverage Statistics,Family Planning,Total number of current users (end),-,4759451,9889713,4291820,4582114,3960407
+Health Services Coverage Statistics,Family Planning,Female Sterilization/BTL,476591,551542,1252489,515862,567333,540997
+Health Services Coverage Statistics,Family Planning,Male Sterilization/Vasectomy,22979,16313,40911,18122,16232,14028
+Health Services Coverage Statistics,Family Planning,Pills,1765411,1822434,3957052,1579471,1717131,1459655
+Health Services Coverage Statistics,Family Planning,IUD,611879,549381,1148238,501778,510160,374441
+Health Services Coverage Statistics,Family Planning,Injectables,680569,712430,1463838,695329,721389,649308
+Health Services Coverage Statistics,Family Planning,NFP-CM,-,-,136849,60112,63082,60906
+Health Services Coverage Statistics,Family Planning,NFP-BBT,-,-,23332,5773,4554,4919
+Health Services Coverage Statistics,Family Planning,NFP-STM,-,-,13083,9265,7995,3359
+Health Services Coverage Statistics,Family Planning,NFP-SDM,-,-,82827,42924,61104,42404
+Health Services Coverage Statistics,Family Planning,NFP-LAM,619007,721920,1331666,669126,704328,609592
+Health Services Coverage Statistics,Family Planning,Condom,262396,208710,439428,194058,208806,200798
+Health Services Coverage Statistics,Family Planning,Eligible population for contraceptive use,-,-,11221746,11380303,11806586,11854723
+Health Services Coverage Statistics,Family Planning,Current users (end),-,-,9889713,4291820,4582114,3960407
+Health Services Coverage Statistics,Family Planning,Contraceptive Prevalence Rate (CPR),-,-,88.13,37.71,38.81,33.41
+Health Services Coverage Statistics,Family Planning,Total number of new acceptors,1325753,1466367,1335258,1463678,1321454,602830
+Health Services Coverage Statistics,Family Planning,Female Sterilization/BTL,37529,36541,39358,43001,33845,135433
+Health Services Coverage Statistics,Family Planning,Male Sterilization/Vasectomy,2061,2110,1950,1754,1150,224
+Health Services Coverage Statistics,Family Planning,Pills,248538,265280,257397,276891,233451,85831
+Health Services Coverage Statistics,Family Planning,IUD,48410,50351,57409,48157,49576,13243
+Health Services Coverage Statistics,Family Planning,Injectables,164810,180706,176280,202272,167933,54528
+Health Services Coverage Statistics,Family Planning,NFP-CM,-,-,17464,19867,9875,2791
+Health Services Coverage Statistics,Family Planning,NFP-BBT,-,-,2518,1944,1048,375
+Health Services Coverage Statistics,Family Planning,NFP-STM,-,-,2664,13622,1703,442
+Health Services Coverage Statistics,Family Planning,NFP-SDM,-,-,18682,20344,11502,4943
+Health Services Coverage Statistics,Family Planning,NFP-LAM,715714,799440,708573,779647,756001,285490
+Health Services Coverage Statistics,Family Planning,Condom,45179,48321,52963,56179,55370,19530
+Health Services Coverage Statistics,Family Planning,Total number of other acceptors,-,-,-,533869,687601,297580
+Health Services Coverage Statistics,Family Planning,Female Sterilization/BTL, ,-,-,35585,47829,13869
+Health Services Coverage Statistics,Family Planning,Male Sterilization/Vasectomy, ,-,-,2376,1296,436
+Health Services Coverage Statistics,Family Planning,Pills, ,-,-,188274,240478,81222
+Health Services Coverage Statistics,Family Planning,IUD,-,-,-,27472,40025,10942
+Health Services Coverage Statistics,Family Planning,Injectables,-,-,-,97347,129704,47003
+Health Services Coverage Statistics,Family Planning,NFP-CM,-,-,-,11027,6321,3142
+Health Services Coverage Statistics,Family Planning,NFP-BBT,-,-,-,2630,745,506
+Health Services Coverage Statistics,Family Planning,NFP-STM,-,-,-,7091,811,350
+Health Services Coverage Statistics,Family Planning,NFP-SDM,-,-,-,7186,5979,2883
+Health Services Coverage Statistics,Family Planning,NFP-LAM,-,-,-,116908,156993,92515
+Health Services Coverage Statistics,Family Planning,Condom,-,-,-,37973,57420,44712
+Health Services Coverage Statistics,Family Planning,Total number of drop-outs,-,-,1052995,1732687,1732228,515384
+Health Services Coverage Statistics,Family Planning,Female Sterilization/BTL,-,-,26644,63408,67414,14122
+Health Services Coverage Statistics,Family Planning,Male Sterilization/Vasectomy,-,-,870,4991,2714,409
+Health Services Coverage Statistics,Family Planning,Pills,-,-,244793,428442,420433,98765
+Health Services Coverage Statistics,Family Planning,IUD,-,-,46114,92867,82312,13450
+Health Services Coverage Statistics,Family Planning,Injectables,-,-,141198,237758,254161,67527
+Health Services Coverage Statistics,Family Planning,NFP-CM,-,-,12758,24668,19511,4145
+Health Services Coverage Statistics,Family Planning,NFP-BBT,-,-,1455,3271,1671,214
+Health Services Coverage Statistics,Family Planning,NFP-STM,-,-,1452,13466,2343,395
+Health Services Coverage Statistics,Family Planning,NFP-SDM,-,-,11957,18090,14408,3062
+Health Services Coverage Statistics,Family Planning,NFP-LAM,-,-,519258,764483,785719,293068
+Health Services Coverage Statistics,Family Planning,Condom,-,-,46496,81243,81542,20227
+Health Services Coverage Statistics,Nutrition,Infants (6-11 mos.) eligible population,-,-,1229157,1246524,1293216,1298489
+Health Services Coverage Statistics,Nutrition,Infants (6-11 mos.) given Vitamin A,-,-,729110,997958,898771,1265423
+Health Services Coverage Statistics,Nutrition,Children (12-59 mos.) eligible population,-,-,9833254,9972192,10345730,10387912
+Health Services Coverage Statistics,Nutrition,Children (12-59 mos.) given Vitamin A,-,-,1635944,1592492,2060909,2226779
+Health Services Coverage Statistics,Nutrition,Children (60-71 mos.) eligible population,-,-,2442344,2493048,2586433,2596978
+Health Services Coverage Statistics,Nutrition,Children (60-71 mos.) given Vitamin A,-,-,417233,595231,375854,640687
+Health Services Coverage Statistics,Nutrition,Sick infants (6-11 mos.) seen,-,-,392565,399105,314843,315400
+Health Services Coverage Statistics,Nutrition,Sick infants (6-11 mos.) given Vitamin A,-,-,272449,179417,133346,134302
+Health Services Coverage Statistics,Nutrition,Sick children (12-59 mos.) seen,-,-,626281,730543,623463,654719
+Health Services Coverage Statistics,Nutrition,Sick children (12-59 mos.) given Vitamin A,7756237,7452556,282463,301146,229507,260465
+Health Services Coverage Statistics,Nutrition,Sick children (60-71 mos.) seen,-,-,288743,279702,231967,240447
+Health Services Coverage Statistics,Nutrition,Sick children (60-71 mos.) given Vitamin A,-,-,126922,113255,95330,101825
+Health Services Coverage Statistics,Nutrition,Children (2-6 mos.) with low birthweight seen,-,-,40135,43849,38096,83230
+Health Services Coverage Statistics,Nutrition,Children (2-6 mos.) given iron,-,-,27909,36362,31551,38817
+Health Services Coverage Statistics,Nutrition,Anemic children (2-59 mos.) seen,-,-,138311,170255,118704,198650
+Health Services Coverage Statistics,Nutrition,Anemic children (2-59 mos.) given iron,-,-,119753,154245,108512,112348
+Health Services Coverage Statistics,Nutrition,Infants age (6 mos.) seen,-,-,1602970,1674534,1641638,2103971
+Health Services Coverage Statistics,Nutrition,Infants (6 mos.) exclusively breastfed up to 6 mos.,-,-,1358587,1382766,1320192,1486514
+Health Services Coverage Statistics,Nutrition,Newborn ref. for screening,-,-,617843,937943,950677,1197492
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,Prenatal Care,-,-,-,-,-,-
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,Pregnant Women (eligible population),1297454,3225123,3186703,3231729,3352783,3366453
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,Pregnant women w/ 4 or more prenatal visits,750778,1008900,1879009,1889239,1533581,1709372
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,Pregnant women given 2 doses TT,-,   ,935639,979780,850854,918350
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,Pregnant women given 2 doses TT2 plus,1805352,3166002,1659481,1616616,1502243,1667009
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,Pregnant women given complete iron with FA,-,-,1302979,1633569,1528867,1624710
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,Pregnant women given Vitamin A supplement,-,-,339307,306778,300211,280569
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,-,-,-,-,-,-,-
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,Postpartum Care,-,-,-,-,-,-
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,Pregnant Women (eligible population),-,-,3186703,3231729,3352783,3366453
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,PP women with at least 2 PPV,-,-,1580479,1723489,1637647,1774552
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,PP women given complete iron,-,-,1053131,1500017,1510834,1565793
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,PP women given Vitamin A,-,-,1442057,1568749,1473397,1607029
+Health Services Coverage Statistics,Pre-natal and Post Partum Care,PP women initiated breastfeeding,-,-,1641514,1773198,1674936,1763140
+Health Services Coverage Statistics,Tuberculosis Control,New smear (+) case cured,-,-,51598,66399,64075,60183
+Health Services Coverage Statistics,Tuberculosis Control,Retreatment case initiated treatment,-,-,4275,6097,3963,5567
+Health Services Coverage Statistics,Tuberculosis Control,Retreatment case got cured,-,-,2212,4480,2161,2396
+Health Services Coverage Statistics,Tuberculosis Control,TB symptomatics with DSSM,-,-,407803,366841,434877,497006
+Health Services Coverage Statistics,Tuberculosis Control,Smear positive discovered,-,-,75115,70506,75235,82076
+Health Services Coverage Statistics,Tuberculosis Control,New smear cases initiated treatment,-,-,73347,68851,75784,78297
+Health Services Coverage Statistics,Malaria Control,Confirmed Malaria Cases,-,-,13675,24270,7818,7798
+Health Services Coverage Statistics,Malaria Control,by slide,-,-,11482,15316,7503,6245
+Health Services Coverage Statistics,Malaria Control,by RDT,-,-,2193,614,315,1553
+Health Services Coverage Statistics,Malaria Control,P. falciparum cases,-,-,5741,4632,4296,4688
+Health Services Coverage Statistics,Malaria Control,P. vivax,-,-,2689,2082,1229,2134
+Health Services Coverage Statistics,Malaria Control,P. malariae,-,-,47,270,127,46
+Health Services Coverage Statistics,Malaria Control,P. ovale,-,-,16,93,19,38
+Health Services Coverage Statistics,Malaria Control,Number of malaria cases,-,-,41402,48031,16917,11612
+Health Services Coverage Statistics,Malaria Control,< 5 yrs old,-,-,3454,11065,3805,2126
+Health Services Coverage Statistics,Malaria Control,5 y.o. and above,-,-,37948,36966,13112,9486
+Health Services Coverage Statistics,Malaria Control,Total endemic population for malaria,-,-,91048652,92335113,32416598,-
+Health Services Coverage Statistics,Malaria Control,Total households at risk,-,-,1616941,707783,935387,1059811
+Health Services Coverage Statistics,Malaria Control,Number of housholds given ITN,-,-,144217,177019,728106,133801
+Health Services Coverage Statistics,Malaria Control,Number of malaria deaths,-,-,52,17,10,2
+Health Systems Statistics,Demographic Profile,Number of Barangays,42435,41841,41770,40538,41856,42056
+Health Systems Statistics,Demographic Profile,Number of Barangay Health Stations,16219,17018,17407,17297,18396,18673
+Health Systems Statistics,Health Workers,Number of Medical Doctors,3047,2838,2903,2682,2944,2983
+Health Systems Statistics,Health Workers,Number of Dentists,1894,1891,1985,1718,1912,2072
+Health Systems Statistics,Health Workers,Number of Public Health Nurses,4577,4576,4727,4495,5294,5596
+Health Systems Statistics,Health Workers,Number of Midwives,16821,17437,16612,16875,17514,16948
+Health Systems Statistics,Health Workers,Number of Nutritionists,1143,1704,326,314,351,357
+Health Systems Statistics,Health Workers,Number of Medical Technologists,1717,1767,1677,1380,1738,1730
+Health Systems Statistics,Health Workers,Number of Sanitary Engineers,-,-,55,35,45,35
+Health Systems Statistics,Health Workers,Number of Sanitary Inspectors,3048,3921,2951,2583,2855,2892
+Health Systems Statistics,Health Workers,Number of Active Barangay Health Workers,199546,214326,212026,173369,223117,228881
+Notifiable Diseases,Notifiable Diseases,Acute Bloody Diarrhea,5435,4514,584,52497,10348,19601
+Notifiable Diseases,Notifiable Diseases,Acute Febrile Illness,19050,33691,20250,13927,39491,47143
+Notifiable Diseases,Notifiable Diseases,Acute Flaccid Paralysis,10,193,62,0,12,22
+Notifiable Diseases,Notifiable Diseases,Acute Hemorrhagic Fever Syndrome (Dengue Hemorrhagic Fever),11915,13014,5617,12616,1541,9197
+Notifiable Diseases,Notifiable Diseases,Acute Lower Respiratory Tract Infection & Pneumonia,605471,780199,615817,381123,581025,526638
+Notifiable Diseases,Notifiable Diseases,Acute Watery Diarrhea,539701,434445,323211,80056,210700,227617
+Notifiable Diseases,Notifiable Diseases,Cholera,59,150,269,1,36,55
+Notifiable Diseases,Notifiable Diseases,Diphtheria,24,6,4,0,2,167
+Notifiable Diseases,Notifiable Diseases,Filariasis,218,39,15,151,49,96
+Notifiable Diseases,Notifiable Diseases,Leprosy,553,603,269,274,303,214
+Notifiable Diseases,Notifiable Diseases,Leptospirosis,184,426,516,214,1381,793
+Notifiable Diseases,Notifiable Diseases,Malaria,23207,11885,5352,4377,507,4682
+Notifiable Diseases,Notifiable Diseases,Measles,4491,5139,2651,2988,6725,2673
+Notifiable Diseases,Notifiable Diseases,Meningococcal Infection,20,17,8,9,2,8
+Notifiable Diseases,Notifiable Diseases,Neonatal Tetanus,36,31,31,1,41,24
+Notifiable Diseases,Notifiable Diseases,Non-Neonatal Tetanus,46,245,137,20,40,79
+Notifiable Diseases,Notifiable Diseases,Paralytic Shellfish Poisoning,0,65,0,0,0,1
+Notifiable Diseases,Notifiable Diseases,Rabies ,833,644,79,725,17,512
+Notifiable Diseases,Notifiable Diseases,Schistosomiasis,5595,8918,2703,271,494,1372
+Notifiable Diseases,Notifiable Diseases,Typhoid and Paratyphoid Fever,9618,11119,6297,2025,10331,12511
+Notifiable Diseases,Notifiable Diseases,Viral Encephalitis,22,176,16,76,2,26
+Notifiable Diseases,Notifiable Diseases,Viral Hepatitis,5234,4226,1120,3169,1474,1724
+Notifiable Diseases,Notifiable Diseases,Viral Meningitis,27,612,175,13,16,126
+Notifiable Diseases,Notifiable Diseases,Whooping Cough,156,615,813,0,118,35

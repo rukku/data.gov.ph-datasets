@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/5e6607c9-a6c2-40f2-9fcb-fbe0d686d459/resource/e6124f17-0312-41bb-8653-d1c2dab1cdbc/download/NSCBTourismSatelliteAccounts2010to2012.xlsx", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "5e6607c9-a6c2-40f2-9fcb-fbe0d686d459", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "tourism-satellite-accounts-2010-to-2012", 
+  "notes": "Tourism Satellite Accounts from 2010 to 2012", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T00:15:28.515052", 
+      "description": "Tourism Satellite Accounts from 2010 to 2012", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "e6124f17-0312-41bb-8653-d1c2dab1cdbc", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "TOURISM SATELLITE ACCOUNTS - 2010 TO 2012", 
+      "package_id": "5e6607c9-a6c2-40f2-9fcb-fbe0d686d459", 
+      "position": 0, 
+      "resource_group_id": "2ae1ed3d-0d92-4d29-a90a-038ad330f262", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/5e6607c9-a6c2-40f2-9fcb-fbe0d686d459/resource/e6124f17-0312-41bb-8653-d1c2dab1cdbc/download/NSCBTourismSatelliteAccounts2010to2012.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Cultural"
+  ], 
+  "title": "TOURISM SATELLITE ACCOUNTS - 2010 TO 2012", 
+  "url": "", 
+  "version": ""
+}

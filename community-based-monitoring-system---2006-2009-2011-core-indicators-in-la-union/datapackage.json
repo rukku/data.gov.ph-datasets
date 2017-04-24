@@ -1,0 +1,46 @@
+{
+  "author": "Local Government of La Union", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/Ff8gjTS3cSDMDiDxNsdX/CBMS La Union 2006-2011.csv", 
+  "extras": {
+    "Granularity": "Barangay", 
+    "Temporal Date": "01/01/2006-12/31/2011"
+  }, 
+  "id": "1e590e2f-b769-4517-83c3-552adb5245ee", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "CBMS Network Coordinating Team", 
+  "maintainer_email": "info@napc.gov.ph", 
+  "name": "community-based-monitoring-system---2006-2009-2011-core-indicators-in-la-union", 
+  "notes": "This dataset contains barangay-level information on the 14 core indicators of CBMS in the province of La Union. These 14 indicators are: (1) malnourished children 0 to 5 years old; (2) death of children 0 to 4 years old; (3) death of women due to pregnancy-related causes; (4) households without access to safe water; (5) households without access to sanitary toilet facilities; (6) households living in makeshift housing; (7) households who are informal settlers; (8) children aged 6 to 12 not attending elementary school; (9) children aged 13 to 16 not attending secondary school; (10) children aged 6 to 16 not attending school; (11) population who are unemployed; (12) households with income below poverty threshold; (13) households with income below food threshold; and (14) households who experienced food shortage. The data shows magnitude and proportion per barangay in each indicator; magnitude refers to the actual count of individuals/households in a given sample of the population while proportion refers to the percentage of the magnitude relative to the total count in a given sample of the population.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-01-15T11:13:51.755075", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "61cf2cd2-e78b-4540-a7c4-e9552efa6ba8", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "CBMS - 2006, 2009-2011 Core Indicator in La Union", 
+      "package_id": "1e590e2f-b769-4517-83c3-552adb5245ee", 
+      "position": 0, 
+      "resource_group_id": "246535ee-ba7f-49e0-b2b1-a480777509f0", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/Ff8gjTS3cSDMDiDxNsdX/CBMS La Union 2006-2011.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Population"
+  ], 
+  "title": "Community-Based Monitoring System - 2006, 2009-2011 Core indicators in La Union", 
+  "url": "http://maps.napc.gov.ph/drupal/", 
+  "version": ""
+}

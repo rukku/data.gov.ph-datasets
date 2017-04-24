@@ -1,0 +1,1 @@
+This dataset contains the list of winning candidates of city or municipality election of region X for the year 2010.

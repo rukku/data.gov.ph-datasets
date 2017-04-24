@@ -1,0 +1,1 @@
+This dataset contains the weekly interest rates on loans and discounts granted. Interest rate on loans and discounts granted is the weighted average interest rate charged by reporting local commercial and universal banks, subsidiaries of foreign banks and foreign banks on loans granted during the reference week.

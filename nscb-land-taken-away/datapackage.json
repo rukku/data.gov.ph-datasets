@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/abd940ff-2ff0-4684-b1a2-b9d33c7a4cae/resource/a9f7174b-69a7-4785-a720-ecd3d1c0d613/download/NSCBLANDTAKENAWAY.xlsx", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "abd940ff-2ff0-4684-b1a2-b9d33c7a4cae", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-land-taken-away", 
+  "notes": "Indigenous People's Rights - Land Taken Away", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T23:51:22.267350", 
+      "description": "Indigenous People's Rights - Land Taken Away", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "a9f7174b-69a7-4785-a720-ecd3d1c0d613", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - LAND TAKEN AWAY", 
+      "package_id": "abd940ff-2ff0-4684-b1a2-b9d33c7a4cae", 
+      "position": 0, 
+      "resource_group_id": "01bcadf7-1291-49f3-81b6-141b2c240a57", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/abd940ff-2ff0-4684-b1a2-b9d33c7a4cae/resource/a9f7174b-69a7-4785-a720-ecd3d1c0d613/download/NSCBLANDTAKENAWAY.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Population"
+  ], 
+  "title": "NSCB - LAND TAKEN AWAY", 
+  "url": "", 
+  "version": ""
+}

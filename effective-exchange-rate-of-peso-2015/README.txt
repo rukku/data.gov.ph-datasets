@@ -1,0 +1,1 @@
+This dataset contains the monthly and annual effective exchange rate indices of the peso with 1980 as base year.  The three currency baskets across trading partners are: overall, advanced countries and developing countries.

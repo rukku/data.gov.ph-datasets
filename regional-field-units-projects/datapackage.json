@@ -1,0 +1,45 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/f14bru3R63TUOpxDAgOZ/darfuproj2013.csv", 
+  "extras": {
+    "Frequency Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "e47c1d8f-0272-4a88-ac0c-55f450fb3dfe", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "regional-field-units-projects", 
+  "notes": "List of Localy Funded projects that are being implemented in the different DA Regional Field Units (RFU's)", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T14:18:08.760739", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "e1f52d2a-9275-433b-ae20-0f8018b3bdac", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Regional Field Unit's Projects", 
+      "package_id": "e47c1d8f-0272-4a88-ac0c-55f450fb3dfe", 
+      "position": 0, 
+      "resource_group_id": "abab3c1b-4a17-4655-b02e-d68a39cd0631", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/f14bru3R63TUOpxDAgOZ/darfuproj2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Regional Field Units Projects", 
+  "url": null, 
+  "version": null
+}

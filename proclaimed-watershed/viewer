@@ -1,0 +1,174 @@
+<html>
+<head>
+    <title>Philippine Geoportal</title>
+	
+	<!-- Google Fonts -->
+	<!--
+	<link href='http://fonts.googleapis.com/css?family=Marcellus ' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
+	-->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+	<!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="./lib/extjs/resources/css/ext-all-gray.css">
+    <link rel="stylesheet" type="text/css" href="./lib/openlayers/theme/default/style.css" />
+	<link rel="stylesheet" type="text/css" href="./lib/geoext/resources/css/popup.css" />
+	<link rel="stylesheet" type="text/css" href="./resources/css/pgp.css">
+	<link rel="stylesheet" type="text/css" href="./lib/alertify/themes/alertify.core.css">
+	<link rel="stylesheet" type="text/css" href="./lib/alertify/themes/alertify.default.css">
+	
+	<!-- JavaScript-->
+    <script type="text/javascript" src="lib/extjs/ext-all-debug.js"></script>
+	<script type="text/javascript" src="lib/openlayers/OpenLayers.debug.js"></script>
+	<script type="text/javascript" src="lib/geoext/geoext.js"></script>
+	<script type="text/javascript" src="lib/jspdf/jspdf.js"></script>
+	<script src="http://maps.google.com/maps/api/js?v=3&amp;sensor=false"></script>
+	<script type="text/javascript" src="lib/alertify/alertify.min.js"></script>
+	
+	<!-- Walkthrough -->
+
+    <link href="lib/jquery/intro/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="lib/jquery/intro/assets/css/demo.css" rel="stylesheet">
+    <link href="lib/jquery/intro/introjs.css" rel="stylesheet">
+
+	
+	<!-- Main entry -->
+    <script type="text/javascript" src="app.js"></script>		
+
+</head>
+<body>
+
+Redirecting to http://www.geoportal.gov.ph
+
+</body>
+
+	<!-- Begin W3Counter Tracking Code -->
+	<script type="text/javascript" src="https://www.w3counter.com/tracker.js"></script>
+	<script type="text/javascript">
+		w3counter(95489);
+	</script>
+	<noscript>
+		<div><a href="http://www.w3counter.com"><img src="https://www.w3counter.com/tracker.php?id=95489" style="visibility:hidden;" alt="W3Counter" /></a></div>
+	</noscript>
+	<!-- End W3Counter Tracking Code -->
+
+	<!-- Walkthrough -->
+	<script type="text/javascript" src="lib/jquery/intro/intro.min.js"></script>	
+	<script>
+		// zoom out 			btnZoomOut
+		// zoom in				btnZoomIn
+		// pan/identify			btnPan
+		// zoom to extent		btnFullExtent
+		// map tools			btnTools
+		// location search		txtSearch
+		// download				btnDownload
+		// export				btnExport
+		// basemap				btnBasemap
+		// available layers		availableLayers
+		// layer search			searchCombo-inputEl
+		// loaded layers		loadedlayers
+		// legends				legendpanel
+		
+		
+		
+			var intro = introJs();
+		intro.setOptions({
+		steps: [
+				{
+					element: '#btnZoomIn',
+					intro: "<b>Zoom in</b> button is used for zooming in to the map.<br/>" +
+					       "You can also draw a box for a more controlled zooming in.",
+					position: 'right'
+						   
+				},
+				{
+					element: '#btnZoomOut',
+					intro: "<b>Zoom out</b> button is used for zooming out of the map.",
+					position: 'right'
+				},
+				{
+					element: '#btnPan',
+					intro: "<b>Pan/Identify</b> button is used for panning around the <br/>" + 
+					       "map and for popping up information about a feature.",
+					position: 'right'
+				},
+				{
+					element: '#btnFullExtent',
+					intro: "<b>Zoom to extent</b> button is used to zoom the map to the " + 
+					       "whole extent of the Philippines.",
+					position: 'right'
+				},
+				{
+					element: '#btnTools',
+					intro: "<b>Map tools</b> buttons gives you access to collection of  " + 
+					       "tools you can use such as <i>Goto XY</i>, <i>Measure (Distance and Area)</i>, " + 
+						   " and <i>Buffer</i>.",
+					position: 'right'
+				},
+				{
+					element: '#txtSearch',
+					intro: "<b>Location search</b> allows you to jump to a certain location <br/>" + 
+					       "by using a keyword (e.g. \"Luneta park\")",
+					position: 'right'
+				},
+				{
+					element: '#btnDownload',
+					intro: "<b>Download</b> button allows you to download " + 
+					       "any of the loaded layers.",
+					position: 'left'
+				},
+				{
+					element: '#btnExportTool',
+					intro: "<b>Export map</b> lets you export the current view along with basemap and loaded layers " + 
+					       "in PNG, JPEG, or PDF format.",
+					position: 'left'
+				},
+				{
+					element: '#btnBasemap',
+					intro: "<b>Switch basemap</b> gives the options of different " + 
+					       "basemap to use. Currently available are <i>Philippine Geoportal basemap</i>, " + 
+						   "<i>Bing maps</i>, <i>ArcGIS Online</i>, <i>Open Street Map</i>, " +
+						   "<i>Google Map</i> and <i>Ortho Image 2011</i>.",
+					position: 'left'
+				},
+				{
+					element: '#availableLayers',
+					intro: "<b>Available layers</b> panel list all the available layers " + 
+					       "that you can use. You can browse thru the layers alphabetically, " + 
+						   "by agency, or by category. <br\><br\>" +
+						   "<b>Click</b> the desired layer and it will be loaded onto the map.",
+					position: 'left'
+				},
+				{
+					element: '#searchCombo-inputEl',
+					intro: "<b>Search</b> layers lets you search for certain layers using <br/>" + 
+					       "keywords (e.g. \"school\") <br\><br\>" +
+						   "<b>Click </b> the desired layer and it will be loaded onto the map.",
+					position: 'left'
+				},
+				{
+					element: '#loadedlayers',
+					intro: "<b>Loaded layers</b> list all the layers currently " + 
+					       "loaded onto the map. <br/><br/>" +
+						   "<b>Right click</b> a layer for additional options such as " +
+						   "<i>Opacity</i>, <i>Move to top</i>, <i>Filter</i>, <i>Zoom to extent</i>, "+
+						   "and <i>Remove layer</i>.",
+					position: 'left'
+				},
+				{
+					element: '#legendpanel',
+					intro: "<b>Legend panel</b> displays the associated legends of the loaded layers.",
+					position: 'left'
+				}
+				
+				
+			]
+		}); 
+		
+		//alertify.log("NOTICE: The Philippine Geoportal will undergo server maintenance on 02 March 2016 to <br> 04 March 2016. Sorry for the inconvenience. <br> (click this message to close)", "",0)
+		
+		//intro.start();		
+		
+	</script>
+
+</html>

@@ -1,0 +1,47 @@
+{
+  "author": "Bureau of Soils and Water Management", 
+  "author_email": "bswmclientcenter@yahoo.com", 
+  "download_url": "http://bswm.maps.da.gov.ph/maps/download/IVA_Soil_Batangas/IVA_Soil_Batangas.zip", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "Province", 
+    "Temporal Date": ""
+  }, 
+  "id": "9b0447fb-36c1-4394-846c-aec18fb28c07", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Dr. Gina Nilo", 
+  "maintainer_email": "ginapnilo@ymail.com", 
+  "name": "soil-map-for-batangas", 
+  "notes": "Soils and Physiography Map - delineation of the type and distribution of soils on the basis of readily observable landform features\r\n\r\nMap Type:\tSoil Map\t\r\nIsland:\tLuzon\r\nRegion:\tRegion IV-A\r\nScale:\t50000\r\nProvince:\tBatangas", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-20T15:47:49.160186", 
+      "description": "", 
+      "format": "SHP", 
+      "hash": "", 
+      "id": "70048f1e-7792-47d5-9b4d-c470a98d24d6", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "IVA Soil Map_Batangas", 
+      "package_id": "9b0447fb-36c1-4394-846c-aec18fb28c07", 
+      "position": 0, 
+      "resource_group_id": "5b85ad91-42a9-499a-8854-f65687cce3f3", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://bswm.maps.da.gov.ph/maps/download/IVA_Soil_Batangas/IVA_Soil_Batangas.zip", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Geospatial"
+  ], 
+  "title": "Soil Map for Batangas", 
+  "url": "http://bswm.maps.da.gov.ph/", 
+  "version": ""
+}

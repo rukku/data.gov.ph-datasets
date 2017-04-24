@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/424bebcb-d91d-4479-88da-29fc5c791f0e/resource/e0c415ae-eab4-4595-983d-442415148db6/download/NSCBAWARENESSOFLAWSPROVIDINGPROTECTIONTOLAND.xlsx", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "424bebcb-d91d-4479-88da-29fc5c791f0e", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-awareness-of-laws-providing-protection-to-land", 
+  "notes": "Indigenous People's Rights - Awareness of Laws Providing Protection to Land", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T23:34:45.578473", 
+      "description": "Indigenous People's Rights - Awareness of Laws Providing Protection to Land", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "e0c415ae-eab4-4595-983d-442415148db6", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - AWARENESS OF LAWS PROVIDING PROTECTION TO LAND", 
+      "package_id": "424bebcb-d91d-4479-88da-29fc5c791f0e", 
+      "position": 0, 
+      "resource_group_id": "bbe4eaea-2f55-4463-a5a6-7c81149f2e8b", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/424bebcb-d91d-4479-88da-29fc5c791f0e/resource/e0c415ae-eab4-4595-983d-442415148db6/download/NSCBAWARENESSOFLAWSPROVIDINGPROTECTIONTOLAND.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Population"
+  ], 
+  "title": "NSCB - AWARENESS OF LAWS PROVIDING PROTECTION TO LAND", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=P00LUAHO", 
+  "extras": {
+    "Frequency Update": "Annually", 
+    "Granularity": "Province", 
+    "Temporal Date": "01/01/1990-12/31/2014"
+  }, 
+  "id": "dfe2adf0-c846-4846-8f84-2b573bd10a69", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "other-crops---area-planted-and-harvested-by-region-and-by-province", 
+  "notes": "This dataset contains the area planted/harvested of other crops by region and by province. This time-series includes the most recent data, covering the period from 1990 to the latest available year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-12T13:24:54.593080", 
+      "description": "", 
+      "format": "", 
+      "hash": "", 
+      "id": "25fecb52-b45a-4c8c-a17d-eb13130a4f8d", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Other Crops: Area Planted/Harvested by Region and by Province", 
+      "package_id": "dfe2adf0-c846-4846-8f84-2b573bd10a69", 
+      "position": 0, 
+      "resource_group_id": "35c0ef01-6e09-4e72-86e6-378293b5f222", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=P00LUAHO", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Other Crops - Area Planted and Harvested by Region and by Province", 
+  "url": null, 
+  "version": null
+}

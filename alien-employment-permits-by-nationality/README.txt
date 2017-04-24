@@ -1,0 +1,1 @@
+This dataset contains the number of AEP issued to foreign nationals who wanted to work in the Philippines from 1978 to 2012 dissagregated by Nationality sourced from the Bureau of Local Employment (BLE).

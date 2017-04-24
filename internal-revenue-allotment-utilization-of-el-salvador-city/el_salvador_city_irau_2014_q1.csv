@@ -1,0 +1,9 @@
+program_or_project_1,program_or_project_2,location,total_cost,date_started,target_completion_date,project_status_percent_of_completion,project_status_total_cost_incurred_to_date,no_of_extensions_if_any,remarks
+Social Development,Water System,WWS-Amoros,500000,1/2/2014,12/31/2014,15,79012,-,All by administration
+Social Development,Water System,WWS-Himaya,500000,3/1/2014,12/31/2014,0.06,2951.7,-,All by administration
+Social Development,Water System,WWS-Hinigdaan,500000,2/10/2014,12/31/2014,0.08,3900,-,All by administration
+Social Development,Water System,WWS-Taytay,500000,2/14/2014,12/31/2014,0.06,2250,-,All by administration
+Social Development,Water System,WWS-Ulaliman,500000,3/15/2014,12/31/2014,27,134288.4,-,All by administration
+Social Development,Water System,WWS-Citiwide,5000000,3/2/2014,12/31/2014,13,640884.21,-,All by administration
+Economic Development,Concreting of Roads,Not yet started,0,N/A,N/A,0,0,-,-
+Environmental Management,Environmental Management,Not yet started,0,N/A,N/A,0,0,-,-

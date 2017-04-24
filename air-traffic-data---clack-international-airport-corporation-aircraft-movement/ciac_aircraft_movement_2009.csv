@@ -1,0 +1,15 @@
+flight_type,airline_operator,january,february,march,april,may,june,july,august,september,october,november,december,grand_total
+Domestic,Cebu Pacific,34,30,36,34,36,30,28,26,26,26,26,26,358
+Domestic,Seair,50,51,64,60,62,50,58,72,47,49,47,48,658
+Domestic,Zest Air,-,-,-,-,-,4,12,4,-,20,36,22,98
+Domestic,Total,84,81,100,94,98,84,98,102,73,95,109,96,1114
+International,Air Asia,128,112,124,120,124,120,124,124,120,120,120,126,1462
+International,Asiana Airlines,72,60,63,59,62,60,76,98,60,62,60,62,794
+International,Cebu Pacific,177,153,170,156,139,146,134,135,129,138,139,169,1785
+International,Spirit of Manila,-,-,-,-,-,-,-,-,-,-,-,2,2
+International,Tiger Airways,80,60,124,120,124,110,62,62,60,66,76,82,1026
+International,Zest Air,-,-,-,-,-,-,-,-,-,16,34,22,72
+International,Total,457,385,481,455,449,436,396,419,369,402,429,463,5141
+G. Aviation,G. Aviation,236,328,336,156,304,285,286,435,423,428,436,331,3984
+Military,Military,-,-,-,-,-,-,-,-,-,-,-,-,-
+Grand Total,Grand Total,777,794,917,705,851,805,780,956,865,925,974,890,10239

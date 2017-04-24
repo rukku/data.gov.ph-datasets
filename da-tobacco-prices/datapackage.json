@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/1O7EFH5olXZXLy7b8e2u/databaccoprices2008-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "0ac06467-de53-492b-9718-c4db6b1af1c0", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "da-tobacco-prices", 
+  "notes": "Price of tobacco per year and per type of tobacco.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-04T17:42:25.951449", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "f956c7ef-d1cc-4160-af20-ec6359d860d1", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Tobacco Prices", 
+      "package_id": "0ac06467-de53-492b-9718-c4db6b1af1c0", 
+      "position": 0, 
+      "resource_group_id": "54f4e179-e579-472d-a22a-1d32f7e8a8a5", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/1O7EFH5olXZXLy7b8e2u/databaccoprices2008-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Tobacco Prices", 
+  "url": "", 
+  "version": ""
+}

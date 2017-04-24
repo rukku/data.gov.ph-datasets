@@ -1,0 +1,1 @@
+This dataset contains the weighted average interest rates (WAIR) of new manila reference rates.

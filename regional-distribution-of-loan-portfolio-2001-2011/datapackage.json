@@ -1,0 +1,69 @@
+{
+  "author": "Bangko Sentral ng Pilipinas", 
+  "author_email": "", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/f25544c3-ae70-494e-aa79-fadef7801b63/resource/e36eb81f-616e-410d-9497-d1deb76d0101/download/regionaldistributionofloanportfolio20012011.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "f25544c3-ae70-494e-aa79-fadef7801b63", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "regional-distribution-of-loan-portfolio-2001-2011", 
+  "notes": "Regional distribution of Loan Portfolio (Loans and Receivables - Others, net of allowance for credit losses) of the Philippine Banking System.  2001-2011", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-02-04T10:00:11.739371", 
+      "description": "Regional distribution of Loan Portfolio (Loans and Receivables - Others, net of allowance for credit losses) of the Philippine Banking System. 2001-2011", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "e36eb81f-616e-410d-9497-d1deb76d0101", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Regional Distribution of Loan Portfolio 2001-2011", 
+      "package_id": "f25544c3-ae70-494e-aa79-fadef7801b63", 
+      "position": 0, 
+      "resource_group_id": "6a42e3fd-b90a-4de1-8b60-ae750b5682c4", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/f25544c3-ae70-494e-aa79-fadef7801b63/resource/e36eb81f-616e-410d-9497-d1deb76d0101/download/regionaldistributionofloanportfolio20012011.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-03-06T14:05:11.873522", 
+      "description": "Regional distribution of Loan Portfolio (Loans and Receivables - Others, net of allowance for credit losses) of the Philippine Banking System. 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "cf0d27b2-32b1-4518-897b-c0aa0186e39d", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Regional Distribution of Loan Portfolio 2012", 
+      "package_id": "f25544c3-ae70-494e-aa79-fadef7801b63", 
+      "position": 1, 
+      "resource_group_id": "6a42e3fd-b90a-4de1-8b60-ae750b5682c4", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/f25544c3-ae70-494e-aa79-fadef7801b63/resource/cf0d27b2-32b1-4518-897b-c0aa0186e39d/download/regionaldistributionofloanportfolio2012.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "REGIONAL DISTRIBUTION OF LOAN PORTFOLIO", 
+  "url": "http://www.bsp.gov.ph/", 
+  "version": ""
+}

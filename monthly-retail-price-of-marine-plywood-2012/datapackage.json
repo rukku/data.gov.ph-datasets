@@ -1,0 +1,46 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/qF5O68Wl4XY8OqY4nEjh/retail_price_marine_plywood_2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-12/31/2012"
+  }, 
+  "id": "0cbb2e23-4160-42b8-ac31-33d1ba6253e0", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "monthly-retail-price-of-marine-plywood-2012", 
+  "notes": "This dataset contains the monthly retail price of marine plywood for the year 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T16:04:10.983976", 
+      "description": "This datasets contain the monthly retail of marine plywood for the year 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "1938c06e-86f8-472e-9879-57d4acfec791", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Monthly Retail Price of Marine Plywood 2012", 
+      "package_id": "0cbb2e23-4160-42b8-ac31-33d1ba6253e0", 
+      "position": 0, 
+      "resource_group_id": "92f75c13-9316-4c7b-9b9f-f5ac783b72de", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/qF5O68Wl4XY8OqY4nEjh/retail_price_marine_plywood_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Monthly Retail Price of Marine Plywood 2012", 
+  "url": "", 
+  "version": ""
+}

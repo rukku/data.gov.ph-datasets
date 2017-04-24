@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13474854.655218,1636072.6207277,5,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22Hospital/health%20center%20(MMDA)%22,%22geoportal:landmark_point10k%22,1,%22HospitalsHealthCenters_MM%22,0,null]]}", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "ea66405f-0366-4015-9055-0ea2cdbedb50", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "hospital-health-center", 
+  "notes": "The MMDA - Hospitals/Health Centers @ PGS is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Metropolitan Manila Development Authority.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-31T12:26:30.706835", 
+      "description": "The MMDA - Hospitals/Health Centers @ PGS is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Metropolitan Manila Development Authority.", 
+      "format": "PDF", 
+      "hash": "", 
+      "id": "688360da-2e6b-4669-be69-51625e02763c", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "HOSPITAL/HEALTH CENTER", 
+      "package_id": "ea66405f-0366-4015-9055-0ea2cdbedb50", 
+      "position": 0, 
+      "resource_group_id": "2e062ed0-6f3b-4077-908c-2f4c95c00d54", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13474854.655218,1636072.6207277,5,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22Hospital/health%20center%20(MMDA)%22,%22geoportal:landmark_point10k%22,1,%22HospitalsHealthCenters_MM%22,0,null]]}", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Health"
+  ], 
+  "title": "HOSPITAL/HEALTH CENTER", 
+  "url": "", 
+  "version": ""
+}

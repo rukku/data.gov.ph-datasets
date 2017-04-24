@@ -1,0 +1,1 @@
+This data set contains data on outstanding external debt, or the outstanding amount of those actual current, and not contingent, liabilities that require payment(s) of interest and/or principal by the debtor at some point(s) in the future and that are owed to non-residents by residents of the economy.

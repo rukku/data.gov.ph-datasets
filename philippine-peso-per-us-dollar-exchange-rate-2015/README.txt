@@ -1,0 +1,1 @@
+This dataset contains the daily, monthly and annual average of Philippine Peso-US Dollar exchange rate.

@@ -1,0 +1,1 @@
+This dataset contains the teacher salaries for the year 1995 to 2012.

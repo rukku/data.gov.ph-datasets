@@ -1,0 +1,78 @@
+Region,Type of Bank,Dec-01,Dec-02,Dec-03,Dec-04,Dec-05,Dec-06,Dec-07,Dec-08,Dec-09,Dec-10,Dec-11
+National Capital Region,National Capital Region_Total,"1,493.65","1,569.80","1,905.91","1,867.22","2,024.91","2,403.25","2,494.33","2,875.97","3,177.91","3,484.59","3,635.82"
+National Capital Region,Universal and Commercial Banks,"1,394.28","1,456.91","1,775.56","1,716.26","1,845.38","2,169.39","2,235.00","2,609.62","2,880.72","3,143.74","3,278.27"
+National Capital Region,Thrift Banks,96.663,109.091,125.427,144.791,169.949,221.706,243.728,254.858,285.15,327.986,343.023
+National Capital Region,Rural and Cooperative Banks,2.703,3.793,4.924,6.172,9.573,12.157,15.608,11.496,12.043,12.862,14.528
+REGION I - Ilocos,REGION I - Ilocos_Total,45.518,68.004,56.147,59.53,62.823,70.252,72.059,79.434,87.798,97.641,102.765
+REGION I - Ilocos,Universal and Commercial Banks,37.651,59.911,46.76,49.231,51.577,56.676,56.92,63.564,73.023,80.033,87.414
+REGION I - Ilocos,Thrift Banks,3.66,3.314,4.004,4.539,5.134,6.702,7.598,7.737,8.667,10.336,7.881
+REGION I - Ilocos,Rural and Cooperative Banks,4.207,4.779,5.383,5.76,6.113,6.874,7.541,8.133,6.108,7.272,7.469
+REGION II - Cagayan Valley,REGION II - Cagayan Valley_Total,19.063,20.312,21.799,24.623,27.411,30.435,33.594,40.512,49.121,55.102,58.721
+REGION II - Cagayan Valley,Universal and Commercial Banks,16.338,17.632,18.794,21.014,23.206,25.73,28.09,33.873,41.854,46.567,50.694
+REGION II - Cagayan Valley,Thrift Banks,0.61,0.554,0.629,0.955,1.185,1.241,1.233,1.722,1.526,2.337,2.501
+REGION II - Cagayan Valley,Rural and Cooperative Banks,2.115,2.126,2.376,2.654,3.019,3.464,4.271,4.917,5.741,6.198,5.526
+REGION III - Central Luzon 1/,REGION III - Central Luzon 1/_Total,106.961,114.12,123.88,136.002,145.014,165.43,175.163,200.673,231.258,250.402,269.561
+REGION III - Central Luzon 1/,Universal and Commercial Banks,86.788,91.488,98.107,106.531,112.429,128.717,134.883,157.472,183.285,197.688,217.112
+REGION III - Central Luzon 1/,Thrift Banks,12.184,13.246,14.862,16.725,18.833,22.217,24.102,25.38,29.718,33.09,32.018
+REGION III - Central Luzon 1/,Rural and Cooperative Banks,7.989,9.386,10.911,12.746,13.752,14.496,16.178,17.821,18.256,19.624,20.432
+REGION IV-A - Calabarzon 2/,REGION IV-A - Calabarzon 2/_Total,151.52,149.713,165.742,187.001,197.816,227.239,242.396,277.023,317.303,339.41,366.908
+REGION IV-A - Calabarzon 2/,Universal and Commercial Banks,115.448,112.166,123.54,140.954,147.443,169.273,174.661,209.413,241.684,260.827,287.909
+REGION IV-A - Calabarzon 2/,Thrift Banks,20.464,21.364,25.238,27.152,30.302,35.301,40.279,42.253,48.493,52.407,50.814
+REGION IV-A - Calabarzon 2/,Rural and Cooperative Banks,15.608,16.183,16.964,18.895,20.072,22.665,27.456,25.358,27.126,26.176,28.186
+REGION IV-B -  Mimaropa 2/,REGION IV-B -  Mimaropa 2/_Total,                     -,10.577,11.045,12.374,8.811,10.31,16.599,20.361,24.093,25.794,29.093
+REGION IV-B -  Mimaropa 2/,Universal and Commercial Banks,                     -,8.662,8.899,9.923,6.802,8.055,13.128,16.516,19.503,21.418,23.986
+REGION IV-B -  Mimaropa 2/,Thrift Banks,                     -,0.717,0.743,0.901,0.772,0.939,1.514,1.669,2.094,2.377,2.572
+REGION IV-B -  Mimaropa 2/,Rural and Cooperative Banks,                     -,1.198,1.404,1.55,1.237,1.316,1.958,2.176,2.496,1.999,2.535
+REGION V - Bicol,REGION V - Bicol_Total,23.236,25.817,28.028,30.204,31.776,38.495,42.35,47.139,53.461,60.164,63.054
+REGION V - Bicol,Universal and Commercial Banks,19.473,21.601,23.112,24.563,25.803,31.29,33.649,41.155,46.316,52.273,55.856
+REGION V - Bicol,Thrift Banks,1.603,1.675,1.947,2.209,2.589,3.172,3.722,3.6,4.425,5.337,4.138
+REGION V - Bicol,Rural and Cooperative Banks,2.16,2.541,2.968,3.432,3.384,4.033,4.979,2.383,2.719,2.554,3.06
+REGION VI - Western Visayas 2/,REGION VI - Western Visayas 2/_Total,64.568,66.452,71.993,79.904,89.518,102.24,100.187,112.101,132.021,145.205,155.083
+REGION VI - Western Visayas 2/,Universal and Commercial Banks,59.861,61.276,65.854,72.847,79.973,91.04,88.131,100.443,118.027,129.493,139.747
+REGION VI - Western Visayas 2/,Thrift Banks,2.484,2.692,3.283,3.647,5.397,6.69,7.076,7.373,9.002,10.019,9.278
+REGION VI - Western Visayas 2/,Rural and Cooperative Banks,2.223,2.484,2.857,3.41,4.148,4.51,4.981,4.285,4.992,5.693,6.058
+REGION VII - Central Visayas,REGION VII - Central Visayas_Total,116.73,120.387,130.218,144.806,157.329,190.269,204.221,214.714,222.709,256.872,261.64
+REGION VII - Central Visayas,Universal and Commercial Banks,105.443,107.306,115.249,126.721,136.79,164.098,174.334,188.942,197.248,229,232.754
+REGION VII - Central Visayas,Thrift Banks,8.674,9.984,10.917,13.48,14.711,19.197,20.651,20.534,21.026,23.555,24.69
+REGION VII - Central Visayas,Rural and Cooperative Banks,2.613,3.097,4.052,4.605,5.828,6.974,9.236,5.238,4.434,4.318,4.197
+REGION VIII - Eastern Visayas,REGION VIII - Eastern Visayas_Total,16.084,18.993,20.105,21.779,23.543,27.049,29.169,32.907,37.356,43.083,44.641
+REGION VIII - Eastern Visayas,Universal and Commercial Banks,14.892,17.764,18.43,19.974,21.529,24.616,25.858,30.148,34.592,39.724,41.789
+REGION VIII - Eastern Visayas,Thrift Banks,0.541,0.515,0.695,0.751,0.861,1.184,1.73,1.6,1.768,2.133,1.612
+REGION VIII - Eastern Visayas,Rural and Cooperative Banks,0.651,0.714,0.981,1.054,1.153,1.249,1.581,1.159,0.997,1.225,1.24
+REGION IX - Zambonaga Peninsula,REGION IX - Zambonaga Peninsula_Total,21.413,21.791,24.499,26.972,28.68,31.973,33.866,37.391,41.795,46.755,48.044
+REGION IX - Zambonaga Peninsula,Universal and Commercial Banks,20.24,21.978,23.137,25.311,26.422,29.213,30.407,33.802,37.043,42.176,44.145
+REGION IX - Zambonaga Peninsula,Thrift Banks,0.725,0.682,0.651,0.789,1.24,1.454,1.614,1.592,2.061,1.763,0.869
+REGION IX - Zambonaga Peninsula,Rural and Cooperative Banks,0.448,0.633,0.711,0.871,1.018,1.306,1.845,1.997,2.691,2.817,3.03
+REGION X - Northern Mindanao,REGION X - Northern Mindanao_Total,23.978,24.921,33.952,38.439,41.757,46.975,50.007,55.871,64.645,71.338,78.757
+REGION X - Northern Mindanao,Universal and Commercial Banks,21.344,22.186,29.514,33.802,36.399,39.599,42.549,47.463,55.438,62.088,70.127
+REGION X - Northern Mindanao,Thrift Banks,1.581,1.458,2.083,2.258,2.77,3.578,4.046,4.557,4.732,5.214,3.951
+REGION X - Northern Mindanao,Rural and Cooperative Banks,1.053,1.277,2.355,2.378,2.587,3.798,3.412,3.85,4.474,4.037,4.678
+REGION XI - Davao Region,REGION XI - Davao Region_Total,52.691,55.311,47.056,51.518,57.292,66.503,71.216,80.11,94.671,100.814,107.063
+REGION XI - Davao Region,Universal and Commercial Banks,47.224,49.892,42.198,45.971,50.408,58.116,60.645,69.327,81.954,90.684,97.634
+REGION XI - Davao Region,Thrift Banks,3.363,3.029,2.72,2.807,3.718,4.476,5.372,5.114,6.487,7.847,6.705
+REGION XI - Davao Region,Rural and Cooperative Banks,2.104,2.39,2.139,2.74,3.166,3.911,5.198,5.668,6.23,2.283,2.724
+REGION XII - SOCOSKSARGEN,REGION XII - SOCOSKSARGEN_Total,8.649,9.115,24.045,24.412,29.244,33.015,35.241,40.222,44.226,46.196,52.064
+REGION XII - SOCOSKSARGEN,Universal and Commercial Banks,7.779,8.26,22.044,22.019,26.439,29.644,31.28,36.591,40.477,43.328,49.085
+REGION XII - SOCOSKSARGEN,Thrift Banks,0.27,0.136,0.658,0.749,0.844,0.922,1.011,0.924,0.871,0.953,1.7
+REGION XII - SOCOSKSARGEN,Rural and Cooperative Banks,0.6,0.719,1.343,1.644,1.961,2.449,2.95,2.707,2.877,1.915,1.28
+REGION XIII - Cordillera Administrative Region,REGION XIII - Cordillera Administrative Region_Total,23.081,22.685,24.604,26.555,27.951,32.562,34.504,38.267,45.142,47.844,50.884
+REGION XIII - Cordillera Administrative Region,Universal and Commercial Banks,19.024,19.841,21.234,22.962,23.998,27.591,28.681,32.416,37.657,39.807,42.766
+REGION XIII - Cordillera Administrative Region,Thrift Banks,3.165,1.832,2.179,2.259,2.443,2.982,3.278,3.31,4.285,4.428,4.211
+REGION XIII - Cordillera Administrative Region,Rural and Cooperative Banks,0.892,1.016,1.19,1.334,1.509,1.988,2.545,2.541,3.2,3.61,3.907
+REGION XIV - Autonomous Region of Muslim Mindanao,REGION XIV - Autonomous Region of Muslim Mindanao_Total,7.45,7.182,2.854,2.919,3.012,3.398,3.506,4.016,4.664,3.752,4.398
+REGION XIV - Autonomous Region of Muslim Mindanao,Universal and Commercial Banks,7.209,7.149,2.747,2.785,2.871,3.269,3.385,3.898,4.54,3.57,4.211
+REGION XIV - Autonomous Region of Muslim Mindanao,Thrift Banks,0.215,                     -,                     -,                     -,                     -,0.079,0.086,0.078,0.106,0.137,0.14
+REGION XIV - Autonomous Region of Muslim Mindanao,Rural and Cooperative Banks,0.026,0.033,0.107,0.134,0.141,0.05,0.035,0.04,0.018,0.045,0.047
+REGION XV- CARAGA,REGION XV- CARAGA_Total,8.911,10.697,11.658,12.63,13.665,16.496,18.796,20.789,24.487,26.999,28.941
+REGION XV- CARAGA,Universal and Commercial Banks,7.75,9.125,9.517,10.396,11.021,13.551,14.748,16.711,20.122,23.041,24.837
+REGION XV- CARAGA,Thrift Banks,0.205,0.161,0.229,0.267,0.241,0.296,0.393,0.501,0.62,0.708,0.363
+REGION XV- CARAGA,Rural and Cooperative Banks,0.956,1.411,1.912,1.966,2.403,2.648,3.655,3.578,3.745,3.25,3.741
+,,,,,,,,,,,,
+REGIONAL DISTRIBUTION OF DEPOSIT LIABILITIES 2001-2011,,,,,,,,,,,,
+"Source : Supervisory Data Center, Supervision and Examination Sector",,,,,,,,,,,,
+Updated as of 04 October 2012,,,,,,,,,,,,
+"1/ Inclusive of the province of Aurora effective May 17, 2002 as provided under Executive Order No. 103.",,,,,,,,,,,,
+"2/ Executive Order No. 103 dated May 17, 2002 divided Region IV (Southern Tagalog) into  Region IV-A (Calabarzon) and Region IV-B (Mimaropa).",,,,,,,,,,,,
+"   Under Administrative Order No. 129 Palawan was reclassified from Region VI to Mimaropa effective August 31, 2007.",,,,,,,,,,,,
+,,,,,,,,,,,,
+Note: Details may not add up to totals due to rounding-off,,,,,,,,,,,,

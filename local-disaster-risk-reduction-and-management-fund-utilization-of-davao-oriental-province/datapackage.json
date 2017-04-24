@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/gJpTf5vGbwP081W1dxrx/davaooriental_ldrrmf_12312012_q4.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "10/01/2012-12/31/2012"
+  }, 
+  "id": "89401b1e-d919-4331-a48a-0761468eb646", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-davao-oriental-province", 
+  "notes": "This dataset contains report on the local disaster risk reduction and management fund utilization of Davao Oriental Province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-15T09:43:26.341600", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "51135ea1-a573-4700-b0de-22a3afbe2050", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Davao Oriental Province LDRRMF", 
+      "package_id": "89401b1e-d919-4331-a48a-0761468eb646", 
+      "position": 0, 
+      "resource_group_id": "8159c0fc-14d3-415e-9577-d7d83ccb0c86", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/gJpTf5vGbwP081W1dxrx/davaooriental_ldrrmf_12312012_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "LOCAL DISASTER RISK REDUCTION AND MANAGEMENT FUND UTILIZATION OF DAVAO ORIENTAL PROVINCE", 
+  "url": "", 
+  "version": ""
+}

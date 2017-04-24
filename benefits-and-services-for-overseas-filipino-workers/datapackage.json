@@ -1,0 +1,46 @@
+{
+  "author": "Department of Labor and Employment", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/JoVBBWVNJeuKPaZo6Ss1/dolebenandservcsforofws2007-2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2008-12/31/2012"
+  }, 
+  "id": "7ed22c11-eea7-4858-bd70-80f4ce175ac1", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Labor and Employment; Bureau of Labor and Employment Statistics", 
+  "maintainer_email": "bles_tsd@dole.gov.ph", 
+  "name": "benefits-and-services-for-overseas-filipino-workers", 
+  "notes": "This dataset contains the different kinds of benefits and services provided by the Overseas Workers Welfare Administration to the Overseas Filipino Workers from 2008 to 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-07T16:29:36.116028", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "997b623a-1167-4adf-8a07-ef1d425a6aaf", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "BENEFITS AND SERVICES FOR OVERSEAS FILIPINO WORKERS", 
+      "package_id": "7ed22c11-eea7-4858-bd70-80f4ce175ac1", 
+      "position": 0, 
+      "resource_group_id": "0cca3c99-7c34-426d-a566-2fcf2e367e41", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/JoVBBWVNJeuKPaZo6Ss1/dolebenandservcsforofws2007-2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Employment"
+  ], 
+  "title": "Benefits and Services for Overseas Filipino Workers", 
+  "url": "", 
+  "version": ""
+}

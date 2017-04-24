@@ -1,0 +1,1 @@
+This dataset contains the Gross National Product (GNP)/ Gross National Income (GNI) and Gross Domestic Product (GDP) by industrial origin. This time-series includes data covering the period from 1990 to the latest available year.

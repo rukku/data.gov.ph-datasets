@@ -1,0 +1,118 @@
+region,species,log_grade,diameter,ave_price_php_per_cubic_m,q1_php_per_cubic_m,q2_php_per_cubic_m,q3_php_per_cubic_m,q4_php_per_cubic_m
+V (Bicol Region),Acacia,Sawlog,Below 30,9388,8909,9548,9548,9548
+V (Bicol Region),Acacia,Sawlog,30-39,9388,8909,9548,9548,9548
+V (Bicol Region),Acacia,Sawlog,40-49,9388,8909,9548,9548,9548
+V (Bicol Region),Acacia,Sawlog,50-59,9388,8909,9548,9548,9548
+V (Bicol Region),Acacia,Sawlog,60 and Above,9388,8909,9548,9548,9548
+VII (Central Visayas),A. Mangium,Poles and Piles,Below 30,3999,3999,3999,3999,3999
+XIII (Caraga),A. Mangium,Non-Peelable,Below 30,1540,1540,1540,1540,1540
+XIII (Caraga),A. Mangium,Peelable,30-39,2800,2800,2800,2800,2800
+XIII (Caraga),A. Mangium,Peelable,40-49,2800,2800,2800,2800,2800
+XIII (Caraga),A. Mangium,Peelable,50-59,2800,2800,2800,2800,2800
+XIII (Caraga),A. Mangium,Peelable,60 and Above,2800,2800,2800,2800,2800
+XIII (Caraga),A. Mangium,Pulpwood,Below 30,2600,2600,2600,2600,2600
+XIII (Caraga),A. Mangium,Pulpwood,30-39,3300,3300,3300,3300,3300
+VII (Central Visayas),Bagras,Poles and Piles,Below 30,3999,3999,3999,3999,3999
+XI (Davao Region),Bagras,Sawlog,Below 30,1433,1433,1433,1433,1433
+XI (Davao Region),Bagras,Sawlog,30-39,2500,2500,2500,2500,2500
+XI (Davao Region),Bagras,Sawlog,40-49,2800,2800,2800,2800,2800
+XI (Davao Region),Bagras,Sawlog,50-59,2900,2900,2900,2900,2900
+XI (Davao Region),Bagras,Sawlog,60 and Above,3000,3000,3000,3000,3000
+XI (Davao Region),Durian,Peelable,Below 30,3000,3000,3000,3000,3000
+XI (Davao Region),Durian,Peelable,30-39,3800,3800,3800,3800,3800
+XI (Davao Region),Durian,Peelable,40-49,4500,4500,4500,4500,4500
+XI (Davao Region),Durian,Peelable,60 and Above,5050,5050,5050,5050,5050
+XI (Davao Region),Falcata,Sawlog,Below 30,1360,1307,1291,1198,1643
+XI (Davao Region),Falcata,Sawlog,30-39,1928,2089,2049,1761,1813
+XI (Davao Region),Falcata,Sawlog,40-49,2250,2467,2333,2267,1933
+XI (Davao Region),Falcata,Sawlog,50-59,2336,2409,2461,2420,2056
+XI (Davao Region),Falcata,Sawlog,60 and Above,2502,2750,2567,2542,2150
+XI (Davao Region),Falcata,Peelable,Below 30,2850,3000,2800,2800,2800
+XI (Davao Region),Falcata,Peelable,30-39,3508,3833,3400,3400,3400
+XI (Davao Region),Falcata,Peelable,40-49,3703,3911,3633,3633,3633
+XI (Davao Region),Falcata,Peelable,50-59,4000,4000,4000,4000,4000
+XI (Davao Region),Falcata,Peelable,60 and Above,3983,4444,4333,3855,3300
+XI (Davao Region),Falcata,Peeler/Veneer Log,Below 30,1553,1911,1500,1400,1400
+XI (Davao Region),Falcata,Peeler/Veneer Log,30-39,1818,2322,1750,1600,1600
+XI (Davao Region),Falcata,Peeler/Veneer Log,40-49,2353,2711,2300,2200,2200
+XI (Davao Region),Falcata,Peeler/Veneer Log,50-59,2331,2550,2375,2200,2200
+XI (Davao Region),Falcata,Peeler/Veneer Log,60 and Above,2482,3078,2450,2200,2200
+XI (Davao Region),Falcata,Pulpwood,Below 30,2800,2800,2800,2800,2800
+XI (Davao Region),Falcata,Pulpwood,30-39,3400,3400,3400,3400,3400
+XI (Davao Region),Falcata,Pulpwood,40-49,3700,3700,3700,3700,3700
+XI (Davao Region),Falcata,Pulpwood,50-59,4000,4000,4000,4000,4000
+XI (Davao Region),Falcata,Pulpwood,60 and Above,4133,4133,4133,4133,4133
+XIII (Caraga),Falcata,Sawlog,Below 30,1371,1200,1300,1567,1417
+XIII (Caraga),Falcata,Sawlog,30-39,1917,1500,1500,2167,2500
+XIII (Caraga),Falcata,Sawlog,40-49,2300,1800,1800,2600,3000
+XIII (Caraga),Falcata,Sawlog,50-59,2625,2000,2000,3000,3500
+XIII (Caraga),Falcata,Sawlog,60 and Above,2625,2000,2000,3000,3500
+XIII (Caraga),Falcata,Non-Peelable,Below 30,1792,1865,1667,1727,1908
+XIII (Caraga),Falcata,Non-Peelable,30-39,2300,2300,2300,2300,2300
+XIII (Caraga),Falcata,Non-Peelable,40-49,2400,2400,2400,2400,2400
+XIII (Caraga),Falcata,Peelable,Below 30,2498,2300,2300,2867,2525
+XIII (Caraga),Falcata,Peelable,30-39,2982,3027,2910,2981,3010
+XIII (Caraga),Falcata,Peelable,40-49,3079,3071,2979,3094,3173
+XIII (Caraga),Falcata,Peelable,50-59,3143,3083,3180,3120,3187
+XIII (Caraga),Falcata,Peelable,60 and Above,3139,3083,3197,3136,3142
+XIII (Caraga),Falcata,Pulpwood,Below 30,1397,1970,1664,1155,800
+XIII (Caraga),Falcata,Pulpwood,30-39,3158,3333,3100,3100,3100
+V (Bicol Region),Gmelina,Sawlog,Below 30,8374,7632,7632,7632,10600
+V (Bicol Region),Gmelina,Sawlog,30-39,8374,7632,7632,7632,10600
+V (Bicol Region),Gmelina,Sawlog,40-49,8374,7632,7632,7632,10600
+V (Bicol Region),Gmelina,Sawlog,50-59,8374,7632,7632,7632,10600
+V (Bicol Region),Gmelina,Sawlog,60 and Above,8374,7632,7632,7632,10600
+VII (Central Visayas),Gmelina,Sawlog,Below 30,9222,9222,9222,9222,9222
+VII (Central Visayas),Gmelina,Sawlog,30-39,9222,9222,9222,9222,9222
+VII (Central Visayas),Gmelina,Sawlog,40-49,9222,9222,9222,9222,9222
+VII (Central Visayas),Gmelina,Sawlog,50-59,9222,9222,9222,9222,9222
+VII (Central Visayas),Gmelina,Sawlog,60 and Above,9222,9222,9222,9222,9222
+VII (Central Visayas),Gmelina,Round Logs,Below 30,1500,1500,1500,1500,1500
+XI (Davao Region),Gmelina,Sawlog,Below 30,2777,4180,3811,1517,1600
+XI (Davao Region),Gmelina,Sawlog,30-39,4012,6272,5825,2150,1800
+XI (Davao Region),Gmelina,Sawlog,40-49,4089,6356,5900,2300,1800
+XI (Davao Region),Gmelina,Sawlog,50-59,2213,2350,2350,2350,1800
+XI (Davao Region),Gmelina,Sawlog,60 and Above,2250,2400,2400,2400,1800
+XI (Davao Region),Gmelina,Peeler/Veneer Log,Below 30,950,800,800,800,1400
+XI (Davao Region),Gmelina,Peeler/Veneer Log,30-39,1135,1090,1120,1150,1180
+XI (Davao Region),Gmelina,Peeler/Veneer Log,40-49,1575,1200,1200,1700,2200
+XI (Davao Region),Gmelina,Peeler/Veneer Log,50-59,1575,1200,1200,1700,2200
+XI (Davao Region),Gmelina,Peeler/Veneer Log,60 and Above,1575,1200,1200,1700,2200
+XII (SOCCSKSARGEN),Gmelina,Sawlog,Below 30,1854,2067,2067,1784,1500
+XII (SOCCSKSARGEN),Gmelina,Sawlog,30-39,3410,3410,3410,3410,3410
+XII (SOCCSKSARGEN),Gmelina,Sawlog,40-49,3410,3410,3410,3410,3410
+XII (SOCCSKSARGEN),Gmelina,Sawlog,50-59,3410,3410,3410,3410,3410
+XIII (Caraga),Gmelina,Non-Peelable,Below 30,1365,1370,1370,1370,1351
+XIII (Caraga),Gmelina,Peelable,30-39,2650,2650,2650,2650,2650
+XIII (Caraga),Gmelina,Peelable,40-49,2650,2650,2650,2650,2650
+XIII (Caraga),Gmelina,Peelable,50-59,2650,2650,2650,2650,2650
+XIII (Caraga),Gmelina,Peelable,60 and Above,2650,2650,2650,2650,2650
+XIII (Caraga),Gubas,Peelable,30-39,2000,2000,2000,2000,2000
+XIII (Caraga),Gubas,Peelable,40-49,2000,2000,2000,2000,2000
+XIII (Caraga),Gubas,Peelable,50-59,2000,2000,2000,2000,2000
+XIII (Caraga),Gubas,Peelable,60 and Above,2000,2000,2000,2000,2000
+XIII (Caraga),Gubas,Non-Peelable,Below 30,700,700,700,700,700
+XII (SOCCSKSARGEN),Ipil-Ipil,Sawlog,Below 30,2500,2500,2500,2500,2500
+XII (SOCCSKSARGEN),Ipil-Ipil,Sawlog,30-39,2500,2500,2500,2500,2500
+III (Central Luzon),Mahogany,Sawlog,50-59,2000,2000,2000,2000,2000
+III (Central Luzon),Mahogany,Sawlog,60 and Above,2000,2000,2000,2000,2000
+VII (Central Visayas),Mahogany,Sawlog,Below 30,9328,9328,9328,9328,9328
+VII (Central Visayas),Mahogany,Sawlog,30-39,9328,9328,9328,9328,9328
+VII (Central Visayas),Mahogany,Sawlog,40-49,9328,9328,9328,9328,9328
+VII (Central Visayas),Mahogany,Sawlog,50-59,9328,9328,9328,9328,9328
+VII (Central Visayas),Mahogany,Sawlog,60 and Above,9328,9328,9328,9328,9328
+XI (Davao Region),Mahogany,Sawlog,Below 30,1433,1433,1433,1433,1433
+XI (Davao Region),Mahogany,Sawlog,30-39,2500,2500,2500,2500,2500
+XI (Davao Region),Mahogany,Sawlog,40-49,2800,2800,2800,2800,2800
+XI (Davao Region),Mahogany,Sawlog,50-59,2900,2900,2900,2900,2900
+XI (Davao Region),Mahogany,Sawlog,60 and Above,3000,3000,3000,3000,3000
+VII (Central Visayas),Mango,Round Logs,Below 30,1500,1500,1500,1500,1500
+XI (Davao Region),Mango,Peeler/Veneer Log,30-39,1180,-,-,1180,1180
+XI (Davao Region),Mango,Peeler/Veneer Log,40-49,2200,2200,2200,2200,2200
+XI (Davao Region),Mango,Peeler/Veneer Log,50-59,2200,2200,2200,2200,2200
+XI (Davao Region),Mango,Peeler/Veneer Log,60 and Above,2200,2200,2200,2200,2200
+VII (Central Visayas),Radiata Pine,Poles and Piles,Below 30,3999,3999,3999,3999,3999
+XII (SOCCSKSARGEN),Rubber,Sawlog,Below 30,1500,1500,1500,1500,1500
+XI (Davao Region),Rubber,Peeler/Veneer Log,Below 30,1400,1400,1400,1400,1400
+XII (SOCCSKSARGEN),Rubber,Sawlog,30-39,2156,2250,2250,2125,2000
+XII (SOCCSKSARGEN),Rubber,Sawlog,40-49,2250,2250,2250,2250,2250

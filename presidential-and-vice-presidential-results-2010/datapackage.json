@@ -1,0 +1,46 @@
+{
+  "author": "Commission on Election (COMELEC)", 
+  "author_email": "statistics@comelec.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/2hkaIk5pyogxZI0mB20e/presidential_and_vice-presidential_results_2010.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "5/10/2010"
+  }, 
+  "id": "e4ae6df6-d1bd-4267-9b71-5a8452eb1ecc", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Main Office", 
+  "maintainer_email": "statistics@comelec.gov.ph", 
+  "name": "presidential-and-vice-presidential-results-2010", 
+  "notes": "This dataset contains the list of candidates for president and vice-president with votes obtained for the year 2010.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-23T10:31:18.171089", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "698eab25-94a3-45db-90d2-68292c1ad66f", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Presidential and Vice-Presidential Results 2010", 
+      "package_id": "e4ae6df6-d1bd-4267-9b71-5a8452eb1ecc", 
+      "position": 0, 
+      "resource_group_id": "5e2e8ae3-541c-43db-a180-37b82a81adee", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/2hkaIk5pyogxZI0mB20e/presidential_and_vice-presidential_results_2010.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Politics"
+  ], 
+  "title": "Presidential and Vice Presidential Results 2010", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/ecb5e350-c36d-4b50-8094-2b21a3ee6221/resource/1e1d1faa-e6fe-4f33-b46c-eb6da50ae07e/download/cy2008odaloans.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "ecb5e350-c36d-4b50-8094-2b21a3ee6221", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "cy-2008-official-development-assistance-oda-loans", 
+  "notes": "This dataset contains the Official Development Assistance (ODA) Loans for the year 2008.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-03T19:53:12.644402", 
+      "description": "This dataset contains the Official Development Assistance (ODA) Loans for the year 2008.", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "1e1d1faa-e6fe-4f33-b46c-eb6da50ae07e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "CY 2008 OFFICIAL DEVELOPMENT ASSISTANCE (ODA) LOANS", 
+      "package_id": "ecb5e350-c36d-4b50-8094-2b21a3ee6221", 
+      "position": 0, 
+      "resource_group_id": "38b489e2-1c13-4cb8-be83-b9cbf8357c10", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/ecb5e350-c36d-4b50-8094-2b21a3ee6221/resource/1e1d1faa-e6fe-4f33-b46c-eb6da50ae07e/download/cy2008odaloans.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "CY 2008 OFFICIAL DEVELOPMENT ASSISTANCE (ODA) LOANS", 
+  "url": "", 
+  "version": ""
+}

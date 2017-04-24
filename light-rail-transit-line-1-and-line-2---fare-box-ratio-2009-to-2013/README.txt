@@ -1,0 +1,1 @@
+Contains monthly data on fare revenue over operation expense (excludes interest/financial charges, depreciation, and amortization of capitalized cost – i.e., development, pre-operating). 

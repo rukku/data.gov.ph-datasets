@@ -1,0 +1,18 @@
+particulars_1,particulars_2,amount,balance,total
+Assets,Current Assets-Cash,39771680.64,-,39771680.64
+Assets,Current Assets-Receivables ,20244484.98,-,20244484.98
+Assets,Current Assets-Inventories ,4961857.37,-,4961857.37
+Assets,Current Assets-Other Current Assets ,322585.72,-,322585.72
+Assets,Total Current Assets ,65300608.71,-,65300608.71
+"Investment and Property, Plant and Equipment ","Property, Plant and Equipment-Land and Land Improvement", - ,560000, - 
+"Investment and Property, Plant and Equipment ","Property, Plant and Equipment-Other Property, Plant and Equipment",49403515.73, - , - 
+"Investment and Property, Plant and Equipment ","Property, Plant and Equipment-Less: Accumelated Depreciation ",8929975.71,40473510.02,41033540.02
+Other Assets,Other Assets, - , - ,1351200
+Total Assets,Total Assets, - , - ,107685348.7
+Liabilities and Equity,Current Liabilities-Payables, - ,3165005.84,-
+Liabilities and Equity,Current Liabilities-Deffered Credits , - , - ,-
+Liabilities and Equity,Current Liabilities-Deffered Real Property Tax Income , - , - ,-
+Liabilities and Equity,Current Liabilities-Other Payables , - ,1203165.76,4368171.6
+Total Liabilities,Total Liabilities, - , - ,4368171.6
+Equity,Government Equity, - , - ,103317177.1
+Total Liabilities and Equity,Total Liabilities and Equity, - , - ,107685348.7

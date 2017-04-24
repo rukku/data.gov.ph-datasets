@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/TsVPMWSAS8yaM4vgLt0L/davaooriental_ira_utilization_2012_q2.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "04/01/2012-09/30/2012"
+  }, 
+  "id": "f9e6224b-09ca-4f25-ac02-fa0699631dc5", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization-of-davao-oriental-province", 
+  "notes": "This dataset contains report of the internal revenue allotment utilization of Davao Oriental Province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-16T10:41:15.442876", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "132534c5-bb9a-4a73-8e2b-a09e392a01c6", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 2 - Davao Oriental Province IRAU", 
+      "package_id": "f9e6224b-09ca-4f25-ac02-fa0699631dc5", 
+      "position": 0, 
+      "resource_group_id": "d54a460b-b4d2-4047-856b-9989c936177d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/TsVPMWSAS8yaM4vgLt0L/davaooriental_ira_utilization_2012_q2.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-16T10:41:21.608419", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "ccf36a6e-c9a6-4f2d-a8d8-7b742e13ea17", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 3 - Davao Oriental Province IRAU", 
+      "package_id": "f9e6224b-09ca-4f25-ac02-fa0699631dc5", 
+      "position": 1, 
+      "resource_group_id": "d54a460b-b4d2-4047-856b-9989c936177d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/S4dxjkKg3NiyjcPdSFiA/davaooriental_ira_utilization_2012_q3.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "INTERNAL REVENUE ALLOTMENT UTILIZATION OF DAVAO ORIENTAL PROVINCE", 
+  "url": "", 
+  "version": ""
+}

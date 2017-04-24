@@ -1,0 +1,1 @@
+Prevailing market prices of agricultural commodities from the different selected  markets.

@@ -1,0 +1,46 @@
+{
+  "author": "Philippine National Police", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/kn1XXP648jzKGXfh0nAS/pnp_motorcycle_riding_in_tandem_criminals_2011-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2011-12/31/2013"
+  }, 
+  "id": "410a8a25-bb0f-414d-bbdf-ec54d3e780f7", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine National Police ", 
+  "maintainer_email": "sarahppalisoc@gmail.com", 
+  "name": "recapitulation-on-incident-involving-motorcycle-riding-criminals-2011-2013", 
+  "notes": "This datasets contain the shooting incidents, robbery and carnapping for the year 2011 to 2013.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-06T14:42:27.790155", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "8bb42ba5-b7e0-49f0-b947-96dda3612100", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Recapitulation on Incident involving Motorcycle Riding Criminals 2011-2013", 
+      "package_id": "410a8a25-bb0f-414d-bbdf-ec54d3e780f7", 
+      "position": 0, 
+      "resource_group_id": "b5fcae84-494e-4115-ba7c-0bdc6df138de", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/kn1XXP648jzKGXfh0nAS/pnp_motorcycle_riding_in_tandem_criminals_2011-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Law and Justice"
+  ], 
+  "title": "Recapitulation on Incident involving Motorcycle Riding Criminals 2011-2013", 
+  "url": "", 
+  "version": ""
+}

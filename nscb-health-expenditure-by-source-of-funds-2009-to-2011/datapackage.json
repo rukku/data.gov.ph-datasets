@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/644bee21-04ee-4391-bebb-7ee3d3085613/resource/be43fca9-a412-46e6-98f2-3e2a4814e5d5/download/NSCBHealthExpenditurebySourceofFunds2009to2011.xlsx", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "644bee21-04ee-4391-bebb-7ee3d3085613", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-health-expenditure-by-source-of-funds-2009-to-2011", 
+  "notes": "Health Expenditure by Source of Funds from 2009 to 2011", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T23:58:50.372083", 
+      "description": "Health Expenditure by Source of Funds from 2009 to 2011", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "be43fca9-a412-46e6-98f2-3e2a4814e5d5", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - HEALTH EXPENDITURE BY SOURCE OF FUNDS - 2009 TO 2011", 
+      "package_id": "644bee21-04ee-4391-bebb-7ee3d3085613", 
+      "position": 0, 
+      "resource_group_id": "4f9ad128-0d31-436f-857c-329a2de7020a", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/644bee21-04ee-4391-bebb-7ee3d3085613/resource/be43fca9-a412-46e6-98f2-3e2a4814e5d5/download/NSCBHealthExpenditurebySourceofFunds2009to2011.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Health"
+  ], 
+  "title": "NSCB - HEALTH EXPENDITURE BY SOURCE OF FUNDS - 2009 TO 2011", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,46 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/lf27TCUczJcmcawAQySS/retail_price_locally_produced_lumber_2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-12/31/2012"
+  }, 
+  "id": "7d55fdeb-3020-4b56-83b9-f1b59d53d0a2", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "monthly-retail-price-of-locally-produced-lumber-2012", 
+  "notes": "This dataset contains the monthly retail price of locally produced lumber the year 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T16:03:36.204751", 
+      "description": "This datasets contains the monthly retail price of locally produced for the year 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "99af5775-7b8c-4135-874f-3f101bce6c6b", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Monthly Retail Price of Locally Produced 2012", 
+      "package_id": "7d55fdeb-3020-4b56-83b9-f1b59d53d0a2", 
+      "position": 0, 
+      "resource_group_id": "02dacd5f-8afc-4b37-a527-b7c20ea9a7d0", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/lf27TCUczJcmcawAQySS/retail_price_locally_produced_lumber_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Monthly Retail Price of Locally Produced Lumber 2012", 
+  "url": "", 
+  "version": ""
+}

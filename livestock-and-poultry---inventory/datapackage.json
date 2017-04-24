@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=B90PNLPI", 
+  "extras": {
+    "Frequency Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1950-12/31/2013"
+  }, 
+  "id": "16439676-73cf-427b-bc08-ece275ad1de6", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "livestock-and-poultry---inventory", 
+  "notes": "This dataset contains the inventory of livestock and poultry. This time-series includes the most recent data, covering the period from 1950 to the latest available year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-12T13:04:40.397536", 
+      "description": "This dataset contains the inventory of livestock and poultry. This time-series includes the most recent data, covering the period from 1950 to the latest available year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "5b741b96-cd68-44a2-aad9-67e3e3c860d4", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Livestock and Poultry: Inventory", 
+      "package_id": "16439676-73cf-427b-bc08-ece275ad1de6", 
+      "position": 0, 
+      "resource_group_id": "05e48b7d-7a50-4d11-9f15-8deed6856abc", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=B90PNLPI", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Livestock and Poultry - Inventory", 
+  "url": null, 
+  "version": null
+}

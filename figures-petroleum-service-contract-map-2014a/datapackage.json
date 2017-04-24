@@ -1,0 +1,47 @@
+{
+  "author": "Department of Energy", 
+  "author_email": "", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/13325750-3118-4a6a-a253-188aaaa5f8a4/resource/4b338688-2766-403b-aec5-a12e00934e74/download/FiguresPetroleumServiceContractMap2014a.JPG", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": "5/5/2014"
+  }, 
+  "id": "13325750-3118-4a6a-a253-188aaaa5f8a4", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "figures-petroleum-service-contract-map-2014a", 
+  "notes": "Petroleum Service Contract Map", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-10T10:23:40.014777", 
+      "description": "", 
+      "format": "JPEG", 
+      "hash": "", 
+      "id": "4b338688-2766-403b-aec5-a12e00934e74", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Figures_Petroleum_Service_Contract_Map_2014a.JPG", 
+      "package_id": "13325750-3118-4a6a-a253-188aaaa5f8a4", 
+      "position": 0, 
+      "resource_group_id": "96c92a74-ae74-4973-8a1b-507126b0650b", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/13325750-3118-4a6a-a253-188aaaa5f8a4/resource/4b338688-2766-403b-aec5-a12e00934e74/download/FiguresPetroleumServiceContractMap2014a.JPG", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Figures Petroleum Service Contract Map 2014a", 
+  "url": "https://www.doe.gov.ph", 
+  "version": ""
+}

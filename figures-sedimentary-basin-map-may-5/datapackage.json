@@ -1,0 +1,47 @@
+{
+  "author": "Department of Energy", 
+  "author_email": "", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/f6e07d04-c99f-41aa-ac4d-c456403a136b/resource/90b99b54-fc06-4398-91f7-8f2e0faa7127/download/FiguresSedimentaryBasinMapMay5.jpg", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": "5/5/2014"
+  }, 
+  "id": "f6e07d04-c99f-41aa-ac4d-c456403a136b", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "figures-sedimentary-basin-map-may-5", 
+  "notes": "Sedimentary Basin Map (PH-EITI)", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-10T10:11:38.751554", 
+      "description": "", 
+      "format": "JPEG", 
+      "hash": "", 
+      "id": "90b99b54-fc06-4398-91f7-8f2e0faa7127", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Figures_Sedimentary_Basin_Map_May5.jpg", 
+      "package_id": "f6e07d04-c99f-41aa-ac4d-c456403a136b", 
+      "position": 0, 
+      "resource_group_id": "b169b994-b255-48e4-beca-c1999613f3a2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/f6e07d04-c99f-41aa-ac4d-c456403a136b/resource/90b99b54-fc06-4398-91f7-8f2e0faa7127/download/FiguresSedimentaryBasinMapMay5.jpg", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Figures Sedimentary Basin Map - May 5", 
+  "url": "https://www.doe.gov.ph/", 
+  "version": ""
+}

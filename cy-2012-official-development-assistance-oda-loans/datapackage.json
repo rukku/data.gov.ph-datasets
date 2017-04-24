@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/0c6d1bf5-e570-4534-96c1-fa7fb2b73ccf/resource/a82fd728-0315-4dd8-aa08-36421b2aa0a6/download/cy2012odaloans.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "0c6d1bf5-e570-4534-96c1-fa7fb2b73ccf", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "cy-2012-official-development-assistance-oda-loans", 
+  "notes": "This dataset contains the Official Development Assistance (ODA) Loans for the year 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-03T19:43:01.839390", 
+      "description": "This dataset contains the Official Development Assistance (ODA) Loans for the year 2012.", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "a82fd728-0315-4dd8-aa08-36421b2aa0a6", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "CY 2012 OFFICIAL DEVELOPMENT ASSISTANCE (ODA) LOANS", 
+      "package_id": "0c6d1bf5-e570-4534-96c1-fa7fb2b73ccf", 
+      "position": 0, 
+      "resource_group_id": "ccfcf498-a9e8-455b-870e-29edfb065fb2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/0c6d1bf5-e570-4534-96c1-fa7fb2b73ccf/resource/a82fd728-0315-4dd8-aa08-36421b2aa0a6/download/cy2012odaloans.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "CY 2012 OFFICIAL DEVELOPMENT ASSISTANCE (ODA) LOANS", 
+  "url": "", 
+  "version": ""
+}

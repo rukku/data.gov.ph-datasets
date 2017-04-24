@@ -1,0 +1,16 @@
+region,total_cubic_m,jan_cubic_m,feb_cubic_m,mar_cubic_m,apr_cubic_m,may_cubic_m,jun_cubic_m
+CAR,486,1, - ,350, - , - ,135
+I (Ilocos Region),2405,986,821,102,169,159,167
+II  (Cagayan Valley),1106,228,82,9,146,485,157
+III (Central Luzon), -   , - , - , - , - , - , - 
+IV-A (CALABARZON),2912,816,546,555,363,363,268
+IV-B (MIMAROPA), -   ,no production,no production,no production,no production,no production,no production
+V (Bicol Region),108,8,39,2,-,-,59
+VI (Western Visayas),18772,3647,3631,3972,4046,1745,1731
+VII (Central Visayas),37281,157,299,463,1655,34320,387
+VIII (Eastern Visayas),12468,21,438,48,966,1282,9713
+IX (Zamboanga Peninsula),20088,1040,652,6546,6149,5163,538
+X (Northern Mindanao),16387,4262,3087,2369,3423,1538,1708
+XI (Davao Region),35283,5503,7421,6622,7127,7636,974
+XII (SOCCSKSARGEN),6897,2989,1672,2236, - , - , - 
+XIII (Caraga),393405,63592,67565,69474,65536,64194,63044

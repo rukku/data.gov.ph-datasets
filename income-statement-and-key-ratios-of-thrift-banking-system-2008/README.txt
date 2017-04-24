@@ -1,0 +1,1 @@
+Income Statement/Consolidated Statement of Income and Expense, and Key Ratios of Thrift Banking System 2008-2012

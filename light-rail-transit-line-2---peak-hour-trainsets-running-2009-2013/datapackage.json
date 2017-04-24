@@ -1,0 +1,46 @@
+{
+  "author": "Light Rail Transit Authority (LRTA)", 
+  "author_email": "lrtamain@lrta.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/h4vVg00iqRruVZ03AlxL/lrt2_peak-hour_trainset_running_2009-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2009-07/31/2013"
+  }, 
+  "id": "a85027a9-9142-433b-9c29-517bd262533e", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Management Information System Division", 
+  "maintainer_email": "mis_icc@lrta.gov.ph", 
+  "name": "light-rail-transit-line-2---peak-hour-trainsets-running-2009-2013", 
+  "notes": "Contains monthly data on total number of trainsits running on line 2 during peak operation hour.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-05T10:34:29.984214", 
+      "description": "Contains monthly data on total number of transits running on line 2 during peak operation hour from 2009 to 2013.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "565c0448-1e53-4a6a-814b-cd9357898723", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "LRT Line 2 - Peak-Hour Trainset Running", 
+      "package_id": "a85027a9-9142-433b-9c29-517bd262533e", 
+      "position": 0, 
+      "resource_group_id": "bed17706-55bc-4b3e-8cd5-1ce37ea79c55", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/h4vVg00iqRruVZ03AlxL/lrt2_peak-hour_trainset_running_2009-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Light Rail Transit Line 2 - Peak-Hour Trainsets Running 2009-2013", 
+  "url": "", 
+  "version": ""
+}

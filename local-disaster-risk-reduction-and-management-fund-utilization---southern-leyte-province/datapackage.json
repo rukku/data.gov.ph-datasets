@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/oIYzUoiDvfh778gqU6DG/southernleyte_ldrrmf_123112_q4.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "07/01/2012-12/31/2012"
+  }, 
+  "id": "51f24ae9-902c-40aa-9101-8bc1e781d175", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization---southern-leyte-province", 
+  "notes": "This dataset contains report on the local disaster risk reduction and management fund utilization of Southern Leyte province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T16:07:13.592069", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "65a6a866-aa12-472f-82ac-7c2a184319e7", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Southern Leyte Province LDRRMF", 
+      "package_id": "51f24ae9-902c-40aa-9101-8bc1e781d175", 
+      "position": 0, 
+      "resource_group_id": "9079b99a-d4ef-4cf9-b460-0d6cc355926c", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/oIYzUoiDvfh778gqU6DG/southernleyte_ldrrmf_123112_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T16:07:19.874380", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "92f34cca-473c-405b-a0ce-7e75258e8b57", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 3 - Southern Leyte Province LDRRMF", 
+      "package_id": "51f24ae9-902c-40aa-9101-8bc1e781d175", 
+      "position": 1, 
+      "resource_group_id": "9079b99a-d4ef-4cf9-b460-0d6cc355926c", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ueRcvIPGjEths7Q5dukj/southernleyte_ldrrmf_093012_q3.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization - Southern Leyte Province", 
+  "url": "", 
+  "version": ""
+}

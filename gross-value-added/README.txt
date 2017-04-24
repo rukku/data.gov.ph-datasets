@@ -1,0 +1,1 @@
+This dataset contains the Gross Value Added (GVA) in Agriculture, Fishery, Hunting and Forestry.

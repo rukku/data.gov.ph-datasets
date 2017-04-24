@@ -1,0 +1,24 @@
+{
+  "author": "Mines and Geosciences Bureau", 
+  "author_email": "", 
+  "download_url": "", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "0fcc6c0b-b60f-4ea7-bd39-a2564b0c4623", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "ftaa-04-2009-ii", 
+  "notes": "Financial or Technical Assistance Agreement (FTAA) An Financial or Technical Assistance Agreement may be entered into between a Contractor and the Government for the large-scale exploration, development and utilization of gold, copper, nickel, chromite, lead, zinc and other minerals except for cement raw materials, marble, granite, sand and gravel and construction aggregates. (PH-EITI)", 
+  "relationships": [], 
+  "resources": [], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "FCF Minerals Corporation - Financial or Technical Assistance Agreement 04-2009-II", 
+  "url": "http://www.mgb.gov.ph/", 
+  "version": ""
+}

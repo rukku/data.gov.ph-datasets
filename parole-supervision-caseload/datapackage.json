@@ -1,0 +1,68 @@
+{
+  "author": "Parole and Probation Administration", 
+  "author_email": "ppadoj@yahoo.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ZrXM9b6fPC3iKrzgZO6a/ppa_pre_parole_executive_clemency_investigation_caseload_1991-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "07/24/1978-2/31/2013"
+  }, 
+  "id": "285a0a50-291b-4363-ad28-31de81136409", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Office of the Deputy Administrator, and Chief Case Management and Records Division", 
+  "maintainer_email": "cmrd@probation.gov.ph", 
+  "name": "parole-supervision-caseload", 
+  "notes": "This dataset contains the total parole supervision caseload from 1989-2013.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-04T17:38:10.166938", 
+      "description": "This dataset contains the total pre-parole/executive clemency investigation caseload from 1991-2013.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "51e95fc6-d44e-4946-a60a-14a994343c8b", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Pre-Parole/Executive Clemency Investigation Caseload", 
+      "package_id": "285a0a50-291b-4363-ad28-31de81136409", 
+      "position": 0, 
+      "resource_group_id": "559c222c-b79a-4c8e-871b-cd819a899bf4", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ZrXM9b6fPC3iKrzgZO6a/ppa_pre_parole_executive_clemency_investigation_caseload_1991-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-04T17:38:14.354752", 
+      "description": "This dataset contains the total parole supervision caseload from 1989 to 2013.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "0d4ec19b-cf3d-47fa-a31b-022462e1a911", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Parole Supervision Caseload", 
+      "package_id": "285a0a50-291b-4363-ad28-31de81136409", 
+      "position": 1, 
+      "resource_group_id": "559c222c-b79a-4c8e-871b-cd819a899bf4", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/n8KjkP7XAT8e1NyaGZTt/ppa_parole_supervision_caseload_1989-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Law and Justice"
+  ], 
+  "title": "Parole Supervision Caseload", 
+  "url": "", 
+  "version": ""
+}

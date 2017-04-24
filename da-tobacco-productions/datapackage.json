@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/qLmbLozCFNAGdZd0JjOH/databprod2008-2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "76134d0e-76df-452c-8589-4fb2dc5c1dad", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "da-tobacco-productions", 
+  "notes": "Total production per type of tobacco.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-04T17:25:10.235556", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "5726e43b-6a29-4892-9a0e-1e8601a2fd8a", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Tobacco Productions", 
+      "package_id": "76134d0e-76df-452c-8589-4fb2dc5c1dad", 
+      "position": 0, 
+      "resource_group_id": "64ce7e63-0b85-44b5-9eca-c88fa87c2899", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/qLmbLozCFNAGdZd0JjOH/databprod2008-2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Tobacco Productions", 
+  "url": "", 
+  "version": ""
+}

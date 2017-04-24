@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/003de534-07d5-4b48-9f8d-e10fe611722c/resource/2c076f20-66dc-4fed-ad44-6d79a8e0adc6/download/NSCBCrudeOilImportationsbyCountryofOrigin2005to2012.xlsx", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "003de534-07d5-4b48-9f8d-e10fe611722c", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-crude-oil-importations-by-country-of-origin-2005-to-2012", 
+  "notes": "Crude Oil Importations by Country of Origin from 2005 to 2012", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T11:11:50.406325", 
+      "description": "Crude Oil Importations by Country of Origin from 2005 to 2012", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "2c076f20-66dc-4fed-ad44-6d79a8e0adc6", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - CRUDE OIL IMPORTATIONS BY COUNTRY OF ORIGIN - 2005 TO 2012", 
+      "package_id": "003de534-07d5-4b48-9f8d-e10fe611722c", 
+      "position": 0, 
+      "resource_group_id": "66abd6e4-cae2-4071-a520-bd75a95a7dea", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/003de534-07d5-4b48-9f8d-e10fe611722c/resource/2c076f20-66dc-4fed-ad44-6d79a8e0adc6/download/NSCBCrudeOilImportationsbyCountryofOrigin2005to2012.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "NSCB - CRUDE OIL IMPORTATIONS BY COUNTRY OF ORIGIN - 2005 TO 2012", 
+  "url": "", 
+  "version": ""
+}

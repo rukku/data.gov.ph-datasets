@@ -1,0 +1,47 @@
+{
+  "author": "Mines and Geosciences Bureau", 
+  "author_email": "", 
+  "download_url": "https://www.dropbox.com/sh/1sbj3l2lk3p9zb8/AABtb4hxcZriDZH-jVji2xIda/MPSA%20Contracts_for%20uploading/MPSA%20No.%20226-2005-III/MPSA%20226.pdf?dl=1", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "7d931a2b-ca66-4285-a067-7b8408d5fd4c", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "mpsa-no-226-2005-iii", 
+  "notes": "Mineral Production Sharing Agreement - A mineral agreement wherein Government shares in the production of the Contractor, whether in kind or in value, as owner of the minerals, and the Contractor gets the rest. In return, the Contractor provides the necessary financing, technology, management and personnel for the mining project.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-04T16:04:04.960642", 
+      "description": "", 
+      "format": "PDF", 
+      "hash": "", 
+      "id": "6d7ce9ef-cf2d-4208-9092-acd59084d48e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "MPSA 226", 
+      "package_id": "7d931a2b-ca66-4285-a067-7b8408d5fd4c", 
+      "position": 0, 
+      "resource_group_id": "950a873c-064f-4c98-a8e7-dbcf99cecd3c", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "https://www.dropbox.com/sh/1sbj3l2lk3p9zb8/AABtb4hxcZriDZH-jVji2xIda/MPSA%20Contracts_for%20uploading/MPSA%20No.%20226-2005-III/MPSA%20226.pdf?dl=1", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Mineral Production Sharing Agreement 226-2005-III", 
+  "url": "http://www.mgb.gov.ph/", 
+  "version": ""
+}

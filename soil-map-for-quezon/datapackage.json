@@ -1,0 +1,47 @@
+{
+  "author": "Bureau of Soils and Water Management", 
+  "author_email": "bswmclientcenter@yahoo.com", 
+  "download_url": "http://bswm.maps.da.gov.ph/maps/download/IVA_Soil_Quezon/IVA_Soil_Quezon.zip", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "Province", 
+    "Temporal Date": ""
+  }, 
+  "id": "e45b867c-0e65-4653-aa7b-f378e07ac8af", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Dr. Gina Nilo", 
+  "maintainer_email": "ginapnilo@ymail.com", 
+  "name": "soil-map-for-quezon", 
+  "notes": "Soils and Physiography Map - delineation of the type and distribution of soils on the basis of readily observable landform features\r\n\r\nMap Type:\tSoil Map\t\r\nIsland:\tLuzon\r\nRegion:\tRegion IV-A\r\nScale:\t50000\r\nProvince:\tQuezon", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-20T15:52:08.367395", 
+      "description": "", 
+      "format": "SHP", 
+      "hash": "", 
+      "id": "31c2ef57-fa60-4d3e-a153-4ae9044ac8c8", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "IVA Soil Map_Quezon", 
+      "package_id": "e45b867c-0e65-4653-aa7b-f378e07ac8af", 
+      "position": 0, 
+      "resource_group_id": "433d3f5f-500f-4fce-9571-5caba4cfdd17", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://bswm.maps.da.gov.ph/maps/download/IVA_Soil_Quezon/IVA_Soil_Quezon.zip", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Geospatial"
+  ], 
+  "title": "Soil Map for Quezon", 
+  "url": "http://bswm.maps.da.gov.ph/", 
+  "version": ""
+}

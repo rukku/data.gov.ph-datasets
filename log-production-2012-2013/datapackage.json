@@ -1,0 +1,68 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/L2Tpz1foVGUCIqvDAHZY/log_production_1st_sem_2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-06/30/2013"
+  }, 
+  "id": "c8f224e7-c428-4f6b-ad27-373d5294474c", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "log-production-2012-2013", 
+  "notes": "This dataset contains the log production for the year 2012-2013.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T15:56:03.190828", 
+      "description": "This dataset contains the log production from January to June 2013.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "4a2818de-7c7a-4a5f-a5fa-0b8847241a4f", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Log Production 2013", 
+      "package_id": "c8f224e7-c428-4f6b-ad27-373d5294474c", 
+      "position": 0, 
+      "resource_group_id": "027a1cf2-378e-400d-a816-f0aac59b0682", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/L2Tpz1foVGUCIqvDAHZY/log_production_1st_sem_2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T15:56:07.219320", 
+      "description": "This dataset contains the log production for the year 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "8bc5bd19-d78e-432a-9c51-66588eadb6e3", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Log Production 2012", 
+      "package_id": "c8f224e7-c428-4f6b-ad27-373d5294474c", 
+      "position": 1, 
+      "resource_group_id": "027a1cf2-378e-400d-a816-f0aac59b0682", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/cvCXhh9f20m4o95kZyqU/log_production_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Log Production 2012-2013", 
+  "url": "", 
+  "version": ""
+}

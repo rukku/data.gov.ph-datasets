@@ -1,0 +1,1 @@
+The MMDA - Hospitals/Health Centers @ PGS is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Metropolitan Manila Development Authority.

@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/51ff8cf7-2d16-4e32-83fc-c633f988e952/resource/b22c3d06-0f26-4b9d-99e9-d4fa6c9fefcb/download/cy2009listofodagrants.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "51ff8cf7-2d16-4e32-83fc-c633f988e952", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "cy-2009-list-of-official-development-assistance-oda-grants", 
+  "notes": "This dataset contains the list of Official Development Assistance (ODA) Grants for the year 2009.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-03T19:42:05.828491", 
+      "description": "This dataset contains the list of Official Development Assistance (ODA) Grants for the year 2009.", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "b22c3d06-0f26-4b9d-99e9-d4fa6c9fefcb", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "CY 2009 LIST OF OFFICIAL DEVELOPMENT ASSISTANCE (ODA)GRANTS", 
+      "package_id": "51ff8cf7-2d16-4e32-83fc-c633f988e952", 
+      "position": 0, 
+      "resource_group_id": "278837a3-1df2-4f49-8d65-b606632e0210", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/51ff8cf7-2d16-4e32-83fc-c633f988e952/resource/b22c3d06-0f26-4b9d-99e9-d4fa6c9fefcb/download/cy2009listofodagrants.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "CY 2009 LIST OF OFFICIAL DEVELOPMENT ASSISTANCE (ODA)GRANTS", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/1633320a-89f7-49b6-a3d6-b958a31a5a2f/resource/2bc23a84-3857-475c-83fd-d1745078c21d/download/26june2013nedaupdates.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "1633320a-89f7-49b6-a3d6-b958a31a5a2f", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "26-june-2013-neda-updates", 
+  "notes": "National Economic and Development Authority (NEDA) updates on the economics as of June 26, 2013.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-03T16:24:58.008666", 
+      "description": "National Economic and Development Authority (NEDA) updates on the economics as of June 26, 2013.", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "2bc23a84-3857-475c-83fd-d1745078c21d", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "26 JUNE 2013 NEDA UPDATES", 
+      "package_id": "1633320a-89f7-49b6-a3d6-b958a31a5a2f", 
+      "position": 0, 
+      "resource_group_id": "b8c8db06-3288-4523-a645-a0cbd58a0015", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/1633320a-89f7-49b6-a3d6-b958a31a5a2f/resource/2bc23a84-3857-475c-83fd-d1745078c21d/download/26june2013nedaupdates.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "26 JUNE 2013 NEDA UPDATES", 
+  "url": "", 
+  "version": ""
+}

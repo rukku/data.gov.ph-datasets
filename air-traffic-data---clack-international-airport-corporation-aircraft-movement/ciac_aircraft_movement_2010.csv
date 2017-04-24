@@ -1,0 +1,30 @@
+flight_type,airline_operator,january,february,march,april,may,june,july,august,september,october,november,december,grand_total
+Domestic,Air Ads,-,-,2,-,-,-,-,-,-,-,-,-,2
+Domestic,Cebu Pacific,26,28,30,26,26,28,26,26,26,26,26,28,322
+Domestic,King Air Airlines,-,-,-,-,-,-,-,-,2,-,-,-,2
+Domestic,Lion Air,4,-,-,-,4,-,-,-,-,-,-,-,8
+Domestic,Mid Cost,-,-,2,-,-,-,-,-,-,-,-,-,2
+Domestic,Seair,52,41,53,52,53,50,17,17,14,17,18,18,402
+Domestic,Texas Instruments,-,-,2,-,-,-,-,-,-,-,-,-,2
+Domestic,Zest Air,4,-,-,-,-,-,-,-,-,-,-,-,4
+Domestic,Total,86,69,89,78,83,78,43,43,42,43,44,46,744
+International,Air Asia,124,112,124,120,124,120,124,124,120,124,120,124,1460
+International,Asiana Airlines,62,56,62,60,62,60,60,62,58,62,60,62,726
+International,Cebu Pacific,180,162,179,180,186,148,139,142,135,143,174,176,1944
+International,Crown Melbourne Australia,-,-,-,-,-,-,-,-,-,-,2,-,2
+International,Execu Jet Australia,-,-,2,2,-,-,-,-,-,-,-,-,4
+International,Hong Kong Express,-,-,-,-,-,-,4,-,-,-,-,-,4
+International,Jin-Air,10,4,-,-,-,-,-,-,6,10,40,44,114
+International,Macau Jet Intl. Corp. LTD,-,-,-,-,-,-,-,-,-,-,-,2,2
+International,Mandala Airline,-,-,-,2,-,-,-,-,-,-,-,-,2
+International,Metro Jet Ltd.,-,2,-,-,-,-,-,-,-,-,-,-,2
+International,Pacific Flier,-,-,2,11,9,9,8,5,-,-,-,-,44
+International,Seair,-,-,-,-,-,-,-,-,-,-,-,54,54
+International,Spirit of Manila,20,20,12,12,-,22,18,29,25,18,20,19,215
+International,Texas Instruments,-,-,1,-,-,-,-,-,-,-,-,-,1
+International,Tiger Airways,78,70,82,76,76,60,62,64,64,56,38,28,754
+International,Zest Air,4,-,-,-,-,-,-,-,-,-,-,-,4
+International,Total,478,426,464,463,457,419,415,426,408,413,454,509,5332
+G. Aviation,G. Aviation,481,655,875,413,338,521,486,275,339,370,369,279,5401
+Military,Military,-,-,-,-,-,-,-,-,-,-,-,-,-
+Grand Total,Grand Total,1045,1150,1428,954,878,1018,944,744,789,826,867,834,11477

@@ -1,0 +1,73 @@
+name,gl_code,dr,cr
+Payroll Fund,106,18500,0
+"Cash  in  Bank - Local  Currency, Current Account",111,41506901.81,0
+Loans Receivable - Others,126,406000,0
+Due from other Funds,144,15458442.93,0
+Due from Officers and Employees,148,75618,0
+Other Receivables,149,1489816.75,0
+"Gasoline, Oil and Lubricants Inventory",161,66032.88,0
+Agricultural Supplies Inventory,162,346910,0
+Other Supplies Inventory,165,68143,0
+Spare Parts Inventory,167,24340,0
+Construction Materials Inventory,168,2891729.1,0
+"Other Agricultural, Fishery and Forestry Products Inventory",176,80000,0
+Advances to Contractors,181,1657670.45,0
+Land,201,560000,0
+Office Buildings,211,11200000,0
+Other Structures,215,272030,0
+Office Equipment,221,651942,0
+Furniture and Fixtures,222,424362,0
+IT Equipment and Software,223,4640558,0
+Machineries,226,7950,0
+"Agricultural, Fishery and Forestry Equipment",227,1390120,0
+Communication Equipment,229,797333.7,0
+Construction and Heavy Equipment,230,4258954,0
+"Medical, Dental and Laboratory Equipment",233,41360,0
+Technical and Scientific Equipment,236,184869,0
+Other Machineries and Equipment,240,783490,0
+Motor Vehicles,241,3957712,0
+Watercrafts,244,178836,0
+"Other Property, Plant and Equipment",250,46465,0
+"Roads, Highways and Bridges",251,49166.25,0
+Construction in Progress - Agency Assets,264,9897907.47,0
+"Construction in Progress - Roads, Highways and Bridges",266,1860899.16,0
+Work/Other Animals,281,34000,0
+Breeding Stocks,282,1512450,0
+Other Assets,290,10000,0
+Accumulated Depreciation - Office Equipment,321,0,277683.5
+Accumulated Depreciation - Furniture and Fixtures,322,0,168069.18
+Accumulated Depreciation - IT Equipment,323,0,2587092.61
+Accumulated Depreciation - Machineries,326,0,4291
+"Accumulated Depreciation - Agri., Fishery and Forestry Equip",327,0,476995.69
+Accumulated Depreciation - Communication Equipment,329,0,554931.71
+Accumulated Depreciation - Construction and Heavy Equipment,330,0,1979573.96
+"Accumulated Depreciation - Medical, Dental and Lab. Equip.",333,0,19540.02
+Accumulated Depreciation - Technical and Scientific Equip.,336,0,133105.91
+Accumulated Depreciation - Other Machineries and Equipment,340,0,282564.78
+Accumulated Depreciation - Motor Vehicles,341,0,1196665.34
+Accumulated Depreciation - Watercrafts,344,0,129541.68
+Accounts Payable,401,0,2789950.41
+Due to Officers and Employees,403,0,28133.32
+Due to BIR,412,0,48544.75
+Due to Other Funds,424,0,29278.42
+Guaranty Deposits Payable,426,0,313109.27
+Government Equity,501,0,54946207.28
+Interest Income,664,0,10641.57
+Internal Revenue Allotment,665,0,48648267
+Prior Years' Adjustments,684,332012.47,0
+General Services,795,141450,0
+Subsidy to Local Government Units,874,6148750,0
+Depreciation - Office Equipment,921,36961.49,0
+Depreciation - Furniture and Fixtures,922,22403.82,0
+Depreciation - IT Equipment,923,390542.61,0
+Depreciation - Machineries,926,715.5,0
+"Depreciation - Agricultural, Fishery and Forestry Equipment",927,67842.69,0
+Depreciation - Communication Equipment,929,71472.42,0
+Depreciation - Construction and Heavy Equipment,930,308054.31,0
+"Depreciation - Medical, Dental and Laboratory Equipment",933,2093.57,0
+Depreciation - Technical and Scientific Equipment,936,8319.11,0
+Depreciation - Other Machineries and Equipment,940,43617.66,0
+Depreciation - Motor Vehicles,941,178097.01,0
+Depreciation - Watercrafts,944,16095.24,0
+Bank Charges,971,5250,0
+Total,-,114624187.4,114624187.4

@@ -1,0 +1,309 @@
+region,province,name_of_cooperative,address,contact_person,phone_number
+RFU I,Pangasinan,Tulong MPCI ,"Tulong, Urdaneta City, Pangasinan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU I,Pangasinan,5th Disrict of Pangasinan Dairy MPC (Cong. Cojuangco) ,"Maraboc, Laoac, Pangasinan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU II,Cagayan,PCC-Piat ,"Piat, Cagayan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU II,Isabela,"San Pablo, Isabela ","San Pablo, Isabela ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU II,Isabela,SADIRI-A1 MPCI (Isabela) ,"Concepcion, Luna, Isabela ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Tarlac,Tarlac,"San Rafael, Tarlac City ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Bataan,Cong. Payumo and Atty Ding Pascual ,"Dinalupihan, Bataan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Zambales,Bulawen Dairy Multi-purpose  ,"Bulawen, Palauig, Zambales ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Zambales,Tribu Zambaleno ,"Candelaria, Zambales ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Zambales,Calabungan MPC ,"Lucapon Norte, Sta. Cruz, Zambales ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Zambales,Nagbayan Multipurpose Cooperative,"Nagbayan, Castillejos, Zambales ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Zambales,Total Rural Development Cooperative,"Iba, Zambalez ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Pampanga,DEALCO ,"San Ildefonso, Magalang, Pampanga ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Bulacan,Siling Matanda Multi-purpose Cooperative(Pandi) ,"Siling Matanda, Pandi, Bulacan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Bulacan,"Upig Multipurpose Coop., Inc.  ","Upig, San Ildefonso, Bulacan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Bulacan,Diliman ,"Diliman, San Rafael, Bulacan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Bulacan,KABAKA (formerly Cruzada Farmers MPC) ,"95 Salapungan, San Rafael, Bulacan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Bulacan,Mayor Marcos ,"Capihan, San Rafael, Bulacan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Bulacan,Maronquillo Dairy Farmers MPCI  ,"Maronquillo, San Rafael, Bulacan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Bulacan,Salikneta Farm ,"Upper Ciudad Real, City of SJDM, Bulacan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Bulacan,Sta. Maria Dairy Farmers MPCI  ,"Paso, Bagbaguin, Sta. Maria, Bulacan ",Mylene Gimeno ,0916-5566987 
+RFU III,Bulacan,Cowland ,"Catmon, Sta.Maria, Bulacan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Bulacan,Odelon San Juan ,"Sto. Nino, Paombong, Bulacan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Bulacan,Marilao Dairy Cooperative ,"Sta. Rosa II, Marilao, Bulacan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Bulacan,Bulacan Dairy MPCI (ADRIANO-Balasing) ,"Balasing, Sta. Maria, Bulacan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Aurora,Self Employment Assistance-Kababaihan ,"San Luis, Aurora Philippines",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Aurora,CATMON Keso ,"Sta. Maria, Bulacan ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Nueva Ecija,Talavera Dairy Cooperative  ,"Poblacion, Talavera, Nueva Ecija ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Nueva Ecija,Workers and Laymen Gabay Primary MPCI (Tinio) ,"Gen. Tinio, Nueva Ecija ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Nueva Ecija,PCC-Gene Pool ,"Munoz, Nueva Ecija ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Nueva Ecija,Impact Zone-(NEFEDCO) ,"San Ricardo, Talavera, Nueva Ecija ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Nueva Ecija,PCC-CLSU ,"Munoz, Nueva Ecija ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Nueva Ecija,Las Pinas Aggregates Primary MPCI (Penaranda) ,"Las Pinas, Penaranda, Nueva Ecija ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+RFU III,Cavite,3-Heifer Family Module ,Cavite  ,c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,"Manalo, Semion ","Sariaya, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,Tayabas-LGU ,"Masin, Tayabas, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,Anchor Farm ,"Tiaong, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,Birhen Milagrosa PA(Himalaya) ,"Mayao Parada, Lucena City, Quezon Philippines",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,Private Conception 1,"Conception 1,Sariaya, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,CCF Macalelon ,"Macalelon, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,"De Chavez, Paulito ","Sariaya, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,Progressive Entrepreneur of Agri - Related Livelihood Services (Pearls) MPC ,"Calmar Subd., Lucban, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,Vandervilt Gaditano ,"Malabanban Sur, Candelaria, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,PAL-CON Dairy Cooperative,Sariaya Quezon  ,Baltazar Montiel ,(049) 536-35-48 
+RFU IVA,Quezon,Private Tumbaga 1 ,"Tumbaga 1, Sariaya, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,"Berino, Manalo ","Sariaya, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,Ayusan 1 Farm ,"Tiaong, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,"Arce, Eliza(PALCON) ","Tiaong, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,"Dalwampo, Olimpio ","Sariaya, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,"Manalo, Bernaldo ","Concepcion I, Sariaya, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,"Dalwampo, Leonardo ","Concepcion I, Sariaya, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,"Brucal, Francisco ","Sariaya, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,"Magnaye, Mario ","Sariaya, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Quezon,Alay Kapwa Rural Women Consumer ,"Sampaloc 2, Sariaya, Quezon ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,Benjie Alas (formerly of Malinao) ," Laguna, Philippines",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,Sofio Kamatoy ,"Sta. Cruz, Laguna",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,Milk Star ,"Maharlika Highway, Alaminos, Laguna ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,Froilan Guilatco Farm ,"Villa Antonio, San Gabriel, San Pablo City, Philippines",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,Dairy Training and Research Institute ,University of the Philippines Los Banos College Laguna  ,c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,Del Mundo Farm (Von Welt) ,"Ibabang Butnong, Magdalena, Laguna ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,Greggorio Sandoval ,"Brgy. Gatid, Sta. Cruz, Laguna ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,"Real Fresh Diary Farms, Inc.","Calauan, Laguna  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,Hacienda Macalauan ,"Calauan, Laguna  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,Carino Farm ,"Ibabang Butnong, Magdalena, Laguna ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,Center for Rural Tech. and Dev't. ,"San Isidro, Calauan, Laguna  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,Phil. Carabao Center-UPLB ,"UPLB, Laguna  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,Nagsama Multi-purpose Cooperative,"Brgy. Maravilla, Nagcarlan, Laguna ",Baltazar Montiel ,(049) 536-35-48 
+RFU IVA,Laguna,New Pagsanta Dairy Cooperative,"Binan, Pagsanjan, Laguna  ",Baltazar Montiel ,(049) 536-35-48 
+RFU IVA,Laguna,Jonel Padilla (Pagsanta Buffaloes),"Pagsanjan, Laguna  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Laguna,Malinao Marketing MPC ,"Brgy. San Lucas 2, SPC, Laguna  ",Baltazar Montiel ,(049) 536-35-48 
+RFU IVA,Laguna,SALBA Dairy Cooperative,"Brgy. San Antonio II, SPC, Laguna  ",Baltazar Montiel ,(049) 536-35-48 
+RFU IVA,Laguna,Castasus Farm ,"San Vicente, San pedro, Laguna  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,OCVAS (Formerly Bucal MPC) ,"Brgy. Bucal, Batangas City ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,Gaudencio Llubit (STH) ,"Santiago, Malvar, Batangas ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,St. Elmon's Farm,"Calo, Nasugbu, Batangas ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,Tarnate Farm,"Lipa City, Batangas ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,Padre Garcia,"Banaba, Padre Garcia, Batangas ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,Samahang Maggagatas ng Batangas Coorperative (SAMABACO),"Barangay 3, Tanauan City Batangas ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,Rotary Club-Tanuan (RCT) ,"Brgy. Janopol, Tanauan, Batangas ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,PABAKA MP Cooperative,"Brgy. Sinala, Bauan, Batangas ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,Sta. Cruz Baptist Church(Roger Alcantara) ,"Brgy. Balintawak, Lipa City, Batangas ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,Badaco Multiplier Farm,"Inosluban, Lipa City ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,St. Francis Coconut Farmers MPCI ,"San Francisco, Sto. Tomas, Batangas ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,Batangas Dairy Cooperative   ,"Inosluban, Lipa City ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,Tanauan-LGU ,"Tanauan, Batangas ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Batangas,Kiwi Farm,"Calamias, Ibaan, Batangas ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Rizal,PAMANA/KANLUNGAN (Dra. Azansa) ,"Sampaloc, Tanay, Rizal ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Rizal,Gabrial Bautista Farm(Arflo Livestock and Breeding Farms) ,"Sitio Bathala, Brgy. Plaza Aldea, Tanay , Rizal Philippines",c/o South Luzon Field Office,02-9260733 Loc 202 
+RFU IVA,Cavite,General Trias Dairy Raisers MPC ,Cavite  ,c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Romeo Gayugon ,"Palangue III, Naic, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,E. Valencia ,"Navarro, Gen. Trias, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Unifem Project,Cavite  ,c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Tagaytay Diary MPC  ,Quezon  ,c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Pablo Remulla (5-Cow Family Module)  ,"Malagasang I, Imus Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Cavite State University ,"CSU, Indang, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Danilo Colos ,"Navarro, Gen. Trias, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Bayani Tapawan ,"Langkaan I, Dasmarinas, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,B. Lungcay ,"Tanza, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,J. Masikap (Tanza Diary Coop.) ,"Tanza, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,C. Dela Cruz ,"Naic, Cavite",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Florencio Irlandez ,"Dasmarinas, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Imus Marketing Dairy Cooperative  ,"Malagasang I, Imus Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Naic Primary Dairy Cooperative,"Sabang, Naic, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,I. Tengco ,"Naic, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,H. Estanque ,"Naic, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Tirzo Dela Cruz ,"Naic, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Agrarian Reform Cooperative ,"Naic, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Leoncio Jarin ,Cavite,c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,Victoria's Farm ( Lee) ,"Bucal, Silang Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,D. Mores (Tanza Dairy Coop) ,"Tanza, Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,Cavite,"Langkaan I, Dasma, Cavite ",Cavite,c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVA,,Fernando Mendoza ,"San Francisco, Gen. Trias Cavite  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVB,Oriental Mindoro,Pinamalayan ,"Sta. Isabel, Pinamalayan,Oriental Mindoro ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVB,Palawan,DA RFU IV Palawan Research Outreach Station (DPDP) ,"Irawan, Puerto Princesa, Palawan ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVB,Palawan,Luzviminda Dairy Cooperative,"Luzviminda, Puerto Princesa City Palawan",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU IVB,Palawan,San Vicente - LGU ,"Kemdeng, San Vicente, Palawan ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Albay,Albay Breeding Station ,"Brgy. Cabangan, Camalig, Albay ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Albay,Canaway Farm (CONG. EDCEL LAGMAN)-ANTON BURSE ,"Canaway, Malilipot, Albay",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Albay,Bicol Univ. - College of Agric'l. Forestry ,"BUCAF, Guinobatan, Albay Philippines",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Albay,Albay Dairy Farmers MPC ,"c/o Albay Dairy Plant, Brgy. Cabangan, Camalig, Albay  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Camarines Norte,Provincial Government of Camarines Norte ,"Basud, Camarines Norte  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Camarines Norte,Cahabaan Multi-purpose Cooperative,"Brgy. Cahabaan, Talisay, Camarines Norte ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Camarines Sur,Mayor Marcel S. Pan (GOA) ,"Brgy. Abucayan, Goa, Camarines Sur Philippines ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Camarines Sur,Sipukot LGU's ,Camarines Sur,c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Camarines Sur,Guinaban Multi-Purpose Cooperative(GMPC) ,"Guinabaan, Ocampo, Camarines Sur Philippines",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Camarines Sur,Pili Dairy Development Cooperative (PDDC) ,"Zone 2 Caroyroyan, Pili, Camarines Sur Philippines",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Camarines Sur,San Isidro Dev't Coop.(SIDECO) ,"San Isidro, Naga City, Camarines Sur ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Camarines Sur,PAMANA ng KABACAS MPC ,"Manguiring, Calabanga, Camarines Sur Philippines",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Camarines Sur,Camarines Sur Dairy Zone MPC ,"San Jose, Pili, Camarines Sur ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Camarines Sur,Sagnay Dairy Development Cooperative -SDDC (Formerly MCFand LRBMPC) ,"Minadongjol, Sagnay, Camarines Sur Philippines",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Camarines Sur,Goa Dairy MPC ,"Brgy. Abucayan, Goa, Camarines Sur Philippines ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Masbate,Fazenda,"Brgy. Bangad, Milagros, Masbate",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU V,Sorsogon,Sorsogon Dairy Farm ,"SDF, Brgy. Cabid-an, Sorsogon, Sorsogon  ",Ellen Escurel ,(056) 211-36-44 
+RFU V,Sorsogon,SILMUDECO (formerly SOLIFATEC) ,"c/o SDF, Brgy. Cabid-an, Sorsogon, Sorsogon  ",c/o South Luzon Field Office ,02-9260733 Loc 202 
+RFU VI,Aklan,Florencio Miraflores ,"Ibajay, Aklan ",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,Antique,Belison Multipurpose Cooperative,"Poblacion, Belison, Antique ",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,Capiz,Capiz State University ,"Bailan, Pontevedra Capiz",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,IloIlo,Cabatuan Dairy Farmers Dev't. Cooperative  ,"Tigbauan Road, Cabatuan, Iloilo ",Angel Tidula ,"0906-1992299, 0908-4076435 "
+RFU VI,IloIlo,Lambunao Breeding Station ,"Lambunao, Iloilo ",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,IloIlo,Vatabaca Dairy Dev't Cooperative(formerly Miag-ao Dairy Prod. Association) ,"Valencia, Miag-ao, Iloilo ",Angel Tidula ,"0906-1992299, 0908-4076435 "
+RFU VI,IloIlo,Alimodian Dairy Multipurpose Cooperative ,"Binalud, Alimodian, Iloilo ", Angel Tidula ,"0906-1992299, 0908-4076435"
+RFU VI,IloIlo,Philippine Carabao Center - Iloilo ,"Calinog, Iloilo ",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,IloIlo,"Pandan, Anonang, Agboy, Buenavista, Omambong and Talacuan (PAABOT) Dairy Development Cooperative ","Anonang, Leon, Iloilo ",Angel Tidula ,"0906-1992299, 0908-4076435 "
+RFU VI,IloIlo,SIGPA Dairy Farmers Development Cooperative ,"Oluangan, Leon, Iloilo ",Angel Tidula ,"0906-1992299, 0908-4076435 "
+RFU VI,IloIlo,Guimbal Development Cooperative ,"Camangahan, Guimbal, Iloilo ",Angel Tidula ,"0906-1992299, 0908-4076435 "
+RFU VI,IloIlo,Tigbauan Fisheries and Farmers Multi-purpose Cooperative,"Boyuan, Tigbauan, Iloilo ",Angel Tidula ,"0906-1992299, 0908-4076435 "
+RFU VI,IloIlo,Cordova Norte Multi-Purpose Cooperative ,"Cordova Norte, Tigbauan, Iloilo City",Angel Tidula ,"0906-1992299, 0908-4076435 "
+RFU VI,IloIlo,Octagon Farm ,"Cong. Oscar Garin - Igcocolo,Guimbal, Iloilo ",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,IloIlo,JOCA Dairy Dev't Cooperative(formerly Igbaras Dairy Farmers Association) ,"Jovellar, Igbaras, Iloilo ",Angel Tidula ,"0906-1992299, 0908-4076435 "
+RFU VI,IloIlo,Oton Dairy Dev't Cooperative(formerly Macatuan Irrigators Association) ,"Abilay Norte, Oton, Iloilo ",Angel Tidula ,"0906-1992299, 0908-4076435 "
+RFU VI,IloIlo,Ajuy and Barotac Viejo ,Iloilo City,c/o Visayas Field Office ,(032)345-3612 
+RFU VI,Negros Occidental,San Isidro Agrarian Reform Beneficiaries MPC ,"San Isidro, Pontevedra Negros Occidental",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,San Isidro Muti-Purpose Cooperative ,"San Isidro, Pontevedra Negros Occidental",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,PCC - Negros Occ. ,"La Granja, La Carlota City, Negros Occidental",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,Negros Occidental,Guinpanaan Community Credit Cooperative ,"Guinpanaan, Moises Padilla Negros Occidental",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,Provincial Livestock Breeding Center and Dairy Farm (La Granja) ,"La Granja, La Carlota City, Negros Occidental ",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,Negros Occidental,San Enrique MPC ,"Batuan, San Enrique, Negros Occidental ",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,Sipalay Breeding Center ,"Sipalay, Negros Occidental ",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,Negros Occidental,Cod-cod Agrarian Reform Community Cooperative ,"Cod-cod, San Carlos City ",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,Negros Occidental,"Barangay Odiong Farmers Association, Inc.  ","Odiong, Moises Padilla Negros Occidental",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,Cod-cod Multi-purpose Cooperative ,"Cod-cod, San Carlos City ",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,Bayabas Multipurpose Cooperative ,"Bayabas, Valladolid, Negros Occidental",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,Negros Occidental,Sibucao Multi-purpose Cooperative ,"Sibucao, San Enrique Negros Occidental",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,Hacienda Vizcaya Multi-Purpose Cooperative ,"Gomez, Pontevedra Negros Occidental",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,Hacienda Layagon Muti-Purpose Cooperative ,"Lalagsan, La Castellana Negros Occidental",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,Recreo Multi-Purpose Cooperative ,"Recreo, Pontevedra Negros Occidental",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,Mansalayao Small Farmers Association ,"Nato, La Castellana Negros Occidental",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,La Granja Farmers Multi-purpose Cooperative ,"La Granja, La Carlota City, Negros Occidental ",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,Maquiling Buffalo Project Group ,"Maquiling, Sagay City, Negros Occidental",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,Negros Occidental,Sagay City  Breeding Farm ,"Sagay City, Negros Occidental ",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,Negros Occidental,ECJ Farmworkers Agrarian Reform MPC ,"Baliwagan, San Enrique Negros Occidental",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,Animal Breeding and Genetic Improvement Center (ABGIC) ,"Camingawan, Kabankalan City, Negros Occidental ",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,Negros Occidental,Makabayan Multi-purpose Cooperative  ,"Poblacion, Pontevedra, Negros Occidental ",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,ECJ Dairy Farm ,Negros Occidental,c/o Visayas Field Office ,(032)345-3612 
+RFU VI,Negros Occidental,Talaptap Irrigators Association ,"Talaptap, La Castellana Negros Occidental",Rosendo R. Ocido ,0907-2873120 
+RFU VI,Negros Occidental,Pontevedra Breeding Center ,"San Isidro, Pontevedra Negros Occidental",c/o Visayas Field Office ,(032)345-3612 
+RFU VI,Negros Occidental,LGM Agro Farm ,"Pontevedra, Negros Occidental ",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Negros Occidental,Engr. Alfonso Teves Farm / Metro Dumaguete ,"Camanhac, Dumaguete City, Negros Oriental ",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Bohol,PCC-Ubay ,"Ubay, Bohol ",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Bohol,Ubay Mutiplier Farm ,"Calanggaman, Ubay, Bohol ",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Bohol,Ubay Stock Farm ,"Lumangog, Ubay Bohol ",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Bohol,Cantubod Association for the Rehabilitation of Environment (CARE) ,"Danao, Bohol ",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Siquijor,"Kababayen-an Alang sa Pagpalambo sa Nasudnong Industriya sa Gatas (KAPANIG) MPC (merger of TRIC, BARUG and WONDER) ","Cangmunag, San Juan, Siquijor ",Gloria Ontoy ,(035) 481-5017 
+RFU VII,Cebu,Barangay Unity Key to Integrated Development (BUKID) MPC ,"Magsaysay, Balamban, Cebu ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Awihaw - Sagay MPC ," Sagay, Toledo City Cebu",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Amlan Dairy Farmers Ass. ,"Poblacion, Amlan, Negros Oriental ",Joselito A. Sapuan ,"(035)422-3436, 0906-23972345, 0939-6028133 "
+RFU VII,Cebu,Tabok MP Dev't. Cooperative(TAMDECO) ,"Tabok, Danao City Cebu",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,"Lupa,Compostela, Cebu ","Lupa, Compostela, Cebu ",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Cebu,Dalaguete - LGU ,"Dugyan, Dalaguete Cebu ",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Cebu,Panas Consumers Cooperative,"Panas, Consolacion Cebu ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Argao Dairy MPC ,"CSCST-Argao Campus, Argao, Cebu ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Tayud Dairy Producers Cooperative,"Tayud, Liloan, Cebu ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Garing Dairy Producers Cooperative,"Garing, Consolacion, Cebu ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Lusaran MPC (formerly Alayon Farmers Association) ,"Lusaran, Cebu City ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,COBCAWA Consumers Cooperative,"Cobcawa, Adlawon, Cebu City ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,San Vicente Dairy Producers Cooperative,"San Vicente, Liloan, Cebu ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Sirao Farmers MPC ,"Sirao, Cebu City ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Unchuan Farm ,"Cabcaban, Barili, Cebu ",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Cebu,Lamac Multi-purpose Cooperative ,"Lamac, Pinamungahan, Cebu ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Bairan Multipurpose Cooperative ,"Bairan, Naga Cebu ",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Cebu,Consolacion Teachers Multi-purpose Cooperative,"Poblacion, Consolacion Cebu ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Basak Farmers Multi-purpose Cooperative ,"Basak, Compostela Cebu ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Tag-ubi Dairy Farmers Multi-Purpose Cooperative ,"Tag-ubi, Compostela, Cebu ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,GUBA Farmers MPC ,"Guba, Cebu City ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Tagbao Farmers Association ,"Tagbao, Cebu City ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Cabcaban Farmers MPC ,"Cabcaban, Barili Cebu ",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Cebu,Binaliw Farmers Producers Cooperative ,"Binaliw, Danao City Cebu",Bienvenido Rodriguez ,(032) 564-2598 
+RFU VII,Negros Oriental,Foundation University Amlan Farm ,"Amlan, Negros Oriental ",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Negros Oriental,Siliman University ,"Bantayan, Dumaguete City ",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Negros Oriental,Sta. Catalina Dairy Farmers Association ,Negros Oriental,c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Negros Oriental,San Antonio Community-Agriculture Farmers MPC ,"San Antonio, Sibulan, Negros Oriental ",Joselito A. Sapuan ,"(035)422-3436, 0906-23972345, 0939-6028133 "
+RFU VII,Negros Oriental,Pamplona - LGU/Libertad ,"Poblacion, Pamplona, Negros Oriental Philippines",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Negros Oriental,Pamplona Dairy Farmers Ass. ,"Balayong, Negros Oriental ",Joselito A. Sapuan ,"(035)422-3436, 0906-23972345, 0939-6028133 "
+RFU VII,Negros Oriental,Valencia - LGU ,"Poblacion, Valencia, Negros Oriental Philippines",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Negros Oriental,Canlaon City Dairy Farmers Association ,Canlaon City ,Joselito A. Sapuan ,"(035)422-3436, 0906-23972345, 0939-6028133 "
+RFU VII,Negros Oriental,Valencia Dairy Producers Association ,"North Poblacion, Valencia, Negros Oriental Philippines",Joselito A. Sapuan ,"(035)422-3436, 0906-23972345, 0939-6028133 "
+RFU VII,Negros Oriental,DAUIN DAIRY FARMERS ASS. ,"Masaplod Sur, Negros Oriental ",Joselito A. Sapuan ,"(035)422-3436, 0906-23972345, 0939-6028133 "
+RFU VII,Negros Oriental,BAIS Breeding Farm ,"City Agriculture Office, Bais City, Negros Oriental ",c/o Visayas Field Office ,(032)345-3612 
+RFU VII,Negros Oriental,Dairy Farmers Association of Dumaguete City ,"Bajumpandan, Dumaguete City ",Joselito A. Sapuan ,"(035)422-3436, 0906-23972345, 0939-6028133 "
+RFU VII,Negros Oriental,Bayawan City Dairy Farmers Association ,"City Vet Office, Villareal, Bayawan City Negros Oriental",Joselito A. Sapuan ,"(035)422-3436, 0906-23972345, 0939-6028133 "
+RFU VII,,Bacong Dairy Farmers Ass. (BADAFA) ,"Poblacion, Bacong, Negros Oriental ",Joselito A. Sapuan ,"(035)422-3436, 0906-23972345, 0939-6028133 "
+RFU VIII,Biliran,Barangay Calumpang Milkers Association ,"Calumpang, Naval, Biliran ",c/o Visayas Field Office ,(032)345-3612 
+RFU VIII,Biliran,Biliran ,"Biliran, Biliran ",c/o Visayas Field Office ,(032)345-3612 
+RFU VIII,Leyte,"BIMCUSA (Boroc, Maticaa, Curva, UFBA) ","Cogon, Ormoc City, Leyte ",c/o Visayas Field Office ,(032)345-3612 
+RFU VIII,Leyte,Camalig Agricultural MPC ,"Lonoy, Kananga, Leyte",c/o Visayas Field Office ,(032)345-3612 
+RFU VIII,Leyte,Holy Infant Dairy Cooperative (HIDCO) ,"Merida, Leyte ",c/o Visayas Field Office ,(032)345-3612 
+RFU VIII,Leyte,Melchor Larrazabal Farm ,"Tongonan, Ormoc City ",c/o Visayas Field Office ,(032)345-3612 
+RFU VIII,Leyte,Manlilinao Agricultural MPC ,"Manlilinao, Ormoc City, Leyte ",c/o Visayas Field Office ,(032)345-3612 
+RFU VIII,Leyte,Occidental Leyte Dairy Primary MPC ,"Bayong St., Cogon, Ormoc City, Leyte ",c/o Visayas Field Office ,(032)345-3612 
+RFU VIII,Leyte,Philippine Carabao Center (PCC - LSU) ,"LSU, Baybay, Leyte ",c/o Visayas Field Office ,(032)345-3612 
+RFU VIII,Southern Leyte,Sogod LGU ,"Cahupian, Sogod, Southern Leyte ",c/o Visayas Field Office ,(032)345-3612 
+RFU VIII,Southern Leyte,Floredeliz Farmers Multipurpose Cooperative(MACROHON) ,"Flordeliz, Macrohon ",c/o Visayas Field Office ,(032)345-3612 
+RFU IX,Zamboanga del Norte,D' Village Multi-Purpose Cooperative,"Dohinob, Roxas, Zamboanga del Norte ",Marife M. Olib ,0921-6175214 
+RFU IX,Zamboanga del Norte,Camul Tampilisan Agrarian Reform Beneficiary MPC ,"Tampilisan, Zamboanga del Norte ",c/o Mindanao Field Office ,(088)233-3998 
+RFU IX,Zamboanga del Norte,Phil. Carabao Center (PCC-Kalawit) ,"Poblacion Kalawit, Zamboanga del Norte ",c/o Mindanao Field Office ,(088)233-3998 
+RFU IX,Zamboanga del Sur,Danlugan Multi-Purpose Cooperative,"Danlugan, Pagadian City, Zamboanga del Sur ",c/o Mindanao Field Office ,(088)233-3998 
+RFU IX,Zamboanga Sibugay,Minsulao Farmers MPC ,"Minsulao, Siay, Zamboanga Sibugay ",c/o Mindanao Field Office ,(088)233-3998 
+RFU IX,Zamboanga City,NJB Farms ,"Ayala, Zamboanga City ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Bukidnon,Maluko Multi-purpose Dairy Cooperative,"Maluko, Manolo Fortich, Bukidnon ",Wilma Buray ,(08822) 75-52-35 
+RFU X,Bukidnon,Allied Neighborhod Multi-purpose Cooperative(Alnempco) ,"New Sankanan, Manolo Fortich, Bukidnon ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Bukidnon,Borja Dairy Farm (Mannix animals) ,"Kawayan, Lantapan, Bukidnon ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Bukidnon,Roy Dal Farm,"Kisolon, Sumilao , Bukidnon ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Bukidnon,Dalwangan Multi-purpose Dairy Cooperative,"Dalwangan, Malaybalay, Bukidnon ",-,(08822) 75-52-35 
+RFU X,Bukidnon,People of the Living God (PLG) ,"Malitbog, Bukidnon ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Bukidnon,Baungon Integrated Dairy Cooperative(BIDACO) ,"Imbatug, Baungon, Bukidnon ",Marlene Bautista ,926-9011783 
+RFU X,Bukidnon,Kisolon-Impasug-ong Multi-purpose Cooperative,"Impasug-ong,  Bukidnon ",Wilma Buray ,(08822) 75-52-35 
+RFU X,Bukidnon,CMU ,"Musuan, Maramag, Bukidnon ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Bukidnon,Compact Farm (Owned by NMFDC) ,"Kinawe, Libona, Bukidnon ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Bukidnon,Phil. Carabao Center (PCC-Bukidnon) ,"Musuan, Maramag, Bukidnon ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Bukidnon,NABC ,"Dalwangan, Malaybalay, Bukidnon ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Bukidnon,DAR MINSSAD ,"DAR-MARO, Poblacion, Pangantucan, Bukidnon ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Bukidnon,Manolo Fortich Dairy Cooperative,"Manolo Fortich,  Bukidnon ",Wilma Buray ,(08822) 75-52-35 
+RFU X,Bukidnon,"Del Monte Phils., Inc. ","Kawayanon, Manolo Fortich, Bukidnon ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Lanao del Norte,"Lanao del Norte Foundation, Inc. ","Bauyan, Sultan Naga Dimaporo, Lanao del Norte ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Lanao del Norte,Iligan - LGU ,"Tangub City, Lanao del Norte ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Lanao del Norte,Mahayahay Farmers Integrated Cooperative (MAFICO) ,"Kapatagan, Lanao del Norte ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Occidental,Lorenzo Tan Coop.,"Lorenzo Tan, Tangub City, Misamis Occidental",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Occidental,Walter Lao ,"Viray, Molikay, Ozamis City, Misamis Occidental",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Oriental,Claveria Livestock Raisers ,"Patroceno, Claveria, Misamis Oriental",Wilma Buray ,(08822) 75-52-35 
+RFU X,Misamis Oriental,Villanueva Dairy Raisers MPC ,"Kalingagan, Villanueva, Misamis Oriental",Wilma Buray ,(08822) 75-52-35 
+RFU X,Misamis Oriental,Jimenez - LGU ,"Matugas Alto, Jimenez, Misamis Occidental",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Oriental,Pastor Nietes Goat Farm ,"Naawan, Misamis Oriental ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Oriental,Naawan-LGU ,"Agri Dev't, Poblacion, Naawan, Misamis Oriental ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Oriental,Chona'S Goat Farm ,"Awang, Opol, Misamis Oriental",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Oriental,"Cagayan de Oro., Opol, El Salvador MPC ",33 J Serina St. Carmen  ,Wilma Buray ,(08822) 75-52-35 
+RFU X,Misamis Oriental,Khleas Goat Farm ,"Amoros, El Salvador, Misamis Oriental",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Oriental,Balay Mindanaw Foundation ,"Kalawitan, Claveria, Misamis Oriental ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Oriental,"Tacbo-Coco Dairy Mpc, Inc. ","Bolisong, El Salvador, Misamis Oriental ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Oriental,Opol Dairy Multi-purpose Cooperative(ODAMCO) formerly OPWATRANSCO ,"Opol, Misamis Oriental",Wilma Buray ,(08822) 75-52-35 
+RFU X,Misamis Oriental,Lgu-Gingoog City (Cong. Peter Unabia) ,Misamis Oriental,c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Oriental,Lumbia Farmer's Cooperative,"Lumbia, CDO, Misamis Oriental",Wilma Buray ,(08822) 75-52-35 
+RFU X,Misamis Oriental,XAVIER University College of Agriculture ,Cagayan de Oro City,c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Oriental,Lgu-Talisayan (Cong. Peter Unabia),Misamis Oriental,c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Oriental,Camaruc Goat Farm ,"Camaroc, Opol, Misamis Oriental ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Oriental,4HL Farm ,"Purok 6 Don Pedro, Naawan, Misamis Oriental ",c/o Mindanao Field Office ,(088)233-3998 
+RFU X,Misamis Oriental,Caulayanan Dairy and Livestock Cooperative,"Caulayanan, Sugbongcogon, Misamis Oriental ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao del Norte,Nest Farm,"Panabo, Davao del Norte ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao del Norte,Davao Del Norte,"San Isidro, Island Garden City of Samal, Davao Del Norte ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao del Sur,Missionary Baptist Rural Livelihood Center (MBRLC) ,"Kinuskusan, Bansalan, Davao del Sur ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao del Sur,Matanao Bansalan Magsaysay Dairy Farmers Cooperative(MBM-DFC) ,"Bansalan, Davao del Sur ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao del Sur,St. Benedictine Farm ,"Cogon, Digos City, Davao del Sur ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao City,Calinan Dairy Farmers Cooperative(CDFC) ," Poblacion Calinan , Dvo. City ",Raylyn Sanchez ,(082) 3010517 
+RFU XI,Davao City,Lizada Dairy Farmers Cooperative(LDFC) ," Lizada, Toril District, Dvo. City ",Raylyn Sanchez ,(082) 3010517 
+RFU XI,Davao City,Wangan National Agricultural School/TESDA ,"Wangan, Calinan, Davao City ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao City,AJML Farm ,"San Isidro, Bunawan District, Davao City ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao City,San Isidro Livestock Raisers Association (SILRA) ,"San Isidro, Bunawan, Davao City ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao City,Biao Joaquin Dairy Farmers Cooperative(BJDAFCO) ,"Biao Joaquin, Calinan District, Davao City ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao City,Puentespina Farm ,"Malagos, Baguio District, Davao City ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao City,Cadalian Dairy Farmers Cooperative(CADAFCO) ,"Cadalian Baguio District, Davao City ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao City,Dacudao Dairy Farmers Cooperative(DDFC) ,"Dacudao, Calinan District, Dvo. City ",Raylyn Sanchez ,(082) 3010517 
+RFU XI,Davao City,KIM'S Milk ,"Cadalian, Baguio District, Davao City ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao City,Tacunan Dairy Farmers Cooperative(TADAFCO) ,"Takunan, Marilog District, Davao City ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XI,Davao City,Calinan 4-H Dairy Cooperative(C4HDC) ,"Calinan District, Davao City ",Raylyn Sanchez ,(082) 3010517 
+RFU XI,Davao City,Aklat Dairy Cooperative (ADC) ,"Aklat, Tamugan,  Marilog District Davao City ",Raylyn Sanchez ,(082) 3010517 
+RFU XI,Davao City,Cogon NRDP DIAF Dairy Cooperative(CONDDACO) ,"Sirawan, Toril District, Dvo. City ",Raylyn Sanchez ,(082) 3010517 
+RFU XI,Davao City,Riverside Dairy Farmers Cooperative(RDFC) ,"Riverside, Calinan District, Dvo. City ",Raylyn Sanchez ,(082) 3010517 
+RFU XI,Davao City,Wangan Dairy Cooperative(WDC) ,"Wangan, Calinan District, Davao City ",Raylyn Sanchez ,(082) 3010517 
+RFU XI,Davao City,Malagos Dairy Cooperative(MDC) ,"Malagos, Baguio District, Davao City ",Raylyn Sanchez ,(082) 3010517 
+RFU XII,North Cotabato,KIDAPAWAN Stock Farm ,"Kidapawan, North Cotabato ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XII,North Cotabato,Don Bosco Diocessan Youth Center ,"Batasan Hills, Makilala, North Cotabato ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XII,North Cotabato,Phil. Carabao Center (PCC-USM) ,"Kabacan, North Cotabato ",c/o Mindanao Field Office ,(088)233-3998 
+RFU XII,North Cotabato,Sakdalan Dairy Farm ,"Alamad, Midsayap, North Cotabato ",c/o Mindanao Field Office ,(088)233-3998 
+CAR (Cordillera Administrative Region),Benguet,Rey Pidazo Group (Baguio City) ,"Sto. Tomas Road, Barangay Dontogan, Baguio City ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+CAR (Cordillera Administrative Region),Benguet,Tino ,"Sto. Tomas Road, Barangay Dontogan, Baguio City ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+CAR (Cordillera Administrative Region),Benguet,Erwin San Luis ,"Sto. Tomas Road, Barangay Dontogan, Baguio City ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+CAR (Cordillera Administrative Region),Benguet,M. High Livestock Cooperative,"BDF Sto. Tomas Road, Barangay Dontogan, Baguio City",-,02-9260733 Loc 202 
+CAR (Cordillera Administrative Region),Benguet,Johnny Adjaro ,"Sto. Tomas Road, Barangay Dontogan, Baguio City ",c/o North Luzon Field Office ,02-9260733 Loc 202 
+Cebu,-,CSCST-AIFC Countryside Credit Cooperative,"Poblacion, Argao Cebu ",Bienvenido Rodriguez ,(032) 564-2598 

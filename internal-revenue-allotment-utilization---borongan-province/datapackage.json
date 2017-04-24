@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ywf7XUdsiN5YpH0hnkrp/boronganprov_irau_10042012_q3.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "10/01/2012-12/31/2012"
+  }, 
+  "id": "148a7206-3f9d-4045-871a-498212685793", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization---borongan-province", 
+  "notes": "This dataset contains report of the internal revenue allotment utilization of Borongan province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T16:20:41.100867", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "871e17c3-4700-481d-a150-4fecd9a2bb60", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 3 - Borongan Province IRAU", 
+      "package_id": "148a7206-3f9d-4045-871a-498212685793", 
+      "position": 0, 
+      "resource_group_id": "081175b1-ad33-4514-9e36-e21fdee84409", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ywf7XUdsiN5YpH0hnkrp/boronganprov_irau_10042012_q3.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T16:20:46.599217", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "9c33ced6-5a5c-4951-8190-9befec0cccda", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Borongan Province IRAU", 
+      "package_id": "148a7206-3f9d-4045-871a-498212685793", 
+      "position": 1, 
+      "resource_group_id": "081175b1-ad33-4514-9e36-e21fdee84409", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/xSmW6AZk3NAYYonw8TWR/boronganprov_irau_122012_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "INTERNAL REVENUE ALLOTMENT UTILIZATION - Borongan Province", 
+  "url": "", 
+  "version": ""
+}

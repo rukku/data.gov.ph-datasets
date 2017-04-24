@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/vDUuQK2FkZyCLIeNp0r8/antique_ldrrmf_12312012_q4.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "10/01/2012-12/31/2012"
+  }, 
+  "id": "cf22e23e-c541-4dc1-8569-d474eb4acbc8", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-antique-province", 
+  "notes": "This dataset contains report on the local disaster risk reduction and management fund utilization of Antique Province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-14T09:02:54.537556", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "31502274-bf8e-48d3-b705-15878803c017", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Antique Province LDRRMF", 
+      "package_id": "cf22e23e-c541-4dc1-8569-d474eb4acbc8", 
+      "position": 0, 
+      "resource_group_id": "368d644d-3c7c-4922-b4ba-358146747b8c", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/vDUuQK2FkZyCLIeNp0r8/antique_ldrrmf_12312012_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization of Antique Province", 
+  "url": "", 
+  "version": ""
+}

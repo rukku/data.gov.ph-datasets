@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/CBfkRqXdkBIMZ0lPRpek/dabananapackfacilities2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2013-12/31/2015"
+  }, 
+  "id": "2329c0a8-85f5-4020-89b8-d57736f6e3e8", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "da-banana-packaging-facilites", 
+  "notes": "Directory of Banana packaging facilities.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T14:37:54.722843", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "6003c0b6-b031-4e5e-8ec2-3a20f7e400b8", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Banana Packaging Facilities", 
+      "package_id": "2329c0a8-85f5-4020-89b8-d57736f6e3e8", 
+      "position": 0, 
+      "resource_group_id": "bf72227e-bf43-4772-8b8b-648c3ef12911", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/CBfkRqXdkBIMZ0lPRpek/dabananapackfacilities2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Banana Packaging Facilites", 
+  "url": "", 
+  "version": ""
+}

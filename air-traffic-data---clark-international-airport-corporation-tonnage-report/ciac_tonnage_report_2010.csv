@@ -1,0 +1,54 @@
+flight,particular,numberof_flights_inbound,inbound_pounds,inbound_kilograms,inbound_tons,number_of_flights_outbound,outbound_pounds,outbound_kilograms,outbound_tons
+UPS Flights,January ,170,12906761,5866709.545,5866.709545,170,11977016,5444098.182,5444.098182
+UPS Flights,February,66,4661066,2118666.364,2118.666364,67,4710846,2141293.636,2141.293636
+UPS Flights,March,42,3019579,1372535.909,1372.535909,42,3096059,1407299.545,1407.299545
+UPS Flights,April,49,1404115,638234.0909,638.2340909,49,1264734,574879.0909,574.8790909
+UPS Flights,May,51,3833031,1742286.818,1742.286818,51,3504532,1592969.091,1592.969091
+UPS Flights,June,52,3690744,1677610.909,1677.610909,52,3217436,1462470.909,1462.470909
+UPS Flights,July,53,3793873,1724487.727,1724.487727,53,3349942,1522700.909,1522.700909
+UPS Flights,August,57,3738050,1699113.636,1699.113636,57,3539918,1609053.636,1609.053636
+UPS Flights,September,47,3426900,1557681.818,1557.681818,46,3581250,1627840.909,1627.840909
+UPS Flights,October,50,3556343,1616519.545,1616.519545,50,3067245,1394202.273,1394.202273
+UPS Flights,November,48,3301588,1500721.818,1500.721818,48,2921139,1327790.455,1327.790455
+UPS Flights,December,52,4125003,1875001.364,1875.001364,52,3337510,1517050,1517.05
+UPS Flights,Total,737,51457053,23389569.55,23389.56955,737,47567627,21621648.64,21621.64864
+YRE Flights,January ,2,38934,17697.27273,17.69727273,2,5155,2343.181818,2.343181818
+YRE Flights,February,0,0,0,0,0,0,0,0
+YRE Flights,March,0,0,0,0,0,0,0,0
+YRE Flights,April,0,0,0,0,0,0,0,0
+YRE Flights,May,0,0,0,0,0,0,0,0
+YRE Flights,June,0,0,0,0,0,0,0,0
+YRE Flights,July,0,0,0,0,0,0,0,0
+YRE Flights,August,0,0,0,0,0,0,0,0
+YRE Flights,September,0,0,0,0,0,0,0,0
+YRE Flights,October,0,0,0,0,0,0,0,0
+YRE Flights,November,0,0,0,0,0,0,0,0
+YRE Flights,December,0,0,0,0,0,0,0,0
+YRE Flights,Total,2,38934,17697.27273,17.69727273,2,5155,2343.181818,2.343181818
+PEAC International Flights,January ,1,34676.4,15762,15.762,1,21073.8,9579,9.579
+PEAC International Flights,February,1,31532.6,14333,14.333,1,20961.6,9528,9.528
+PEAC International Flights,March,0,0,0,0,0,0,0,0
+PEAC International Flights,April,1,0,0,0,0,0,0,0
+PEAC International Flights,May,1,22000,10000,10,0,0,0,0
+PEAC International Flights,June,0,0,0,0,0,0,0,0
+PEAC International Flights,July,0,0,0,0,0,0,0,0
+PEAC International Flights,August,0,0,0,0,0,0,0,0
+PEAC International Flights,September,0,0,0,0,0,0,0,0
+PEAC International Flights,October,0,0,0,0,0,0,0,0
+PEAC International Flights,November,0,0,0,0,0,0,0,0
+PEAC International Flights,December,0,0,0,0,0,0,0,0
+PEAC International Flights,Total,4,88209,40095,40.095,2,42035.4,19107,19.107
+PEAC Domestic Flights,January,20,257204.2,116911,116.911,19,393104.8,178684,178.684
+PEAC Domestic Flights,February,22,217179.6,98718,98.718,23,170552.8,77524,77.524
+PEAC Domestic Flights,March,16,179377,81535,81.535,15,135944.6,61793,61.793
+PEAC Domestic Flights,April,0,0,0,0,0,0,0,0
+PEAC Domestic Flights,May,6,53838.4,24472,24.472,6,17980.6,8173,8.173
+PEAC Domestic Flights,June,0,0,0,0,0,0,0,0
+PEAC Domestic Flights,July,0,0,0,0,0,0,0,0
+PEAC Domestic Flights,August,0,0,0,0,0,0,0,0
+PEAC Domestic Flights,September,0,0,0,0,0,0,0,0
+PEAC Domestic Flights,October,0,0,0,0,0,0,0,0
+PEAC Domestic Flights,November,0,0,0,0,0,0,0,0
+PEAC Domestic Flights,December,0,0,0,0,0,0,0,0
+PEAC Domestic Flights,Total,64,707599.2,321636,321.636,63,717582.8,326174,326.174
+Grand Total,Grand Total,807,52291795.2,23768997.82,23768.99782,804,48332400.2,21969272.82,21969.27282

@@ -1,0 +1,1 @@
+This dataset contains the series on treasury bill rates.  Treasury bill rate is the rate on short-term debt instruments issued by the National Government for the purpose of generating funds needed to finance outstanding obligations.

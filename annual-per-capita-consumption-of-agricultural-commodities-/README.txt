@@ -1,0 +1,1 @@
+This dataset contains the annual per capita consumption of agricultural commodities by socio-economic class of households and by classification of barangay.

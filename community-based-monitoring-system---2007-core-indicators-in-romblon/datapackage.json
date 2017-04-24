@@ -1,0 +1,45 @@
+{
+  "author": "Local Government of Romblon", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/OdtQTAjA9WFdoFFli0Oe/CBMS Romblon 2007.csv", 
+  "extras": {
+    "Frequency Update": "Others", 
+    "Granularity": "Baranggay", 
+    "Temporal Date": "01/01/2007-12/31/2007"
+  }, 
+  "id": "e57adf99-06e4-450f-8565-c344971cf286", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "CBMS Network Coordinating Team", 
+  "maintainer_email": "info@napc.gov.ph", 
+  "name": "community-based-monitoring-system---2007-core-indicators-in-romblon", 
+  "notes": "This dataset contains barangay-level information on the 14 core indicators of CBMS in the province of Romblon.These 14 indicators are: (1) malnourished children 0 to 5 years old; (2) death of children 0 to 4 years old; (3) death of women due to pregnancy-related causes; (4) households without access to safe water; (5) households without access to sanitary toilet facilities; (6) households living in makeshift housing; (7) households who are informal settlers; (8) children aged 6 to 12 not attending elementary school; (9) children aged 13 to 16 not attending secondary school; (10) children aged 6 to 16 not attending school; (11) population who are unemployed; (12) households with income below poverty threshold; (13) households with income below food threshold; and (14) households who experienced food shortage. The data shows magnitude and proportion per barangay in each indicator; magnitude refers to the actual count of individuals/households in a given sample of the population while proportion refers to the percentage of the magnitude relative to the total count in a given sample of the population.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2016-01-12T13:15:35.454462", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "e6b9e978-f72a-424d-a4b6-47d7e07b5959", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "CBMS - 2007 Core Indicator in Romblon", 
+      "package_id": "e57adf99-06e4-450f-8565-c344971cf286", 
+      "position": 0, 
+      "resource_group_id": "8e64f9a7-9600-47fc-b8a7-4e102e57fb02", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/OdtQTAjA9WFdoFFli0Oe/CBMS Romblon 2007.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Community-Based Monitoring System - 2007 Core Indicators in Romblon", 
+  "url": null, 
+  "version": null
+}

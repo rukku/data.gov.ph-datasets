@@ -1,0 +1,46 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/XypCIa1zcULphIaLFJEa/ngp_2011-2014.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2011-12/31/2014"
+  }, 
+  "id": "0781aba4-a60e-4a93-adf6-6c9e6883e2b0", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "national-greening-program-2011-2014", 
+  "notes": "This datasets contain the report on area plated to date and number of seedling planted to date for the year 2011-2014.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T16:15:10.807938", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "0bd7b828-0785-4281-b511-023bd614503a", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "National Greening Program 2011-2014", 
+      "package_id": "0781aba4-a60e-4a93-adf6-6c9e6883e2b0", 
+      "position": 0, 
+      "resource_group_id": "73ea0c70-61bf-4f74-ad03-70bb2c054437", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/XypCIa1zcULphIaLFJEa/ngp_2011-2014.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "National Greening Program 2011-2014", 
+  "url": "", 
+  "version": ""
+}

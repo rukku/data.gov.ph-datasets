@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Internal Revenue", 
+  "author_email": "contact_us@cctr.bir.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/YXwkycIc9v74p8sZ6Dfw/bircomintrevcolgoalstaxtype2012-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2015"
+  }, 
+  "id": "13b728a4-155a-40e1-b183-c5b5052aa452", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Research and Statistics Division", 
+  "maintainer_email": "josephine.vargas@bir.gov.ph", 
+  "name": "comparative-internal-revenue-collections-and-goals-by-tax-type", 
+  "notes": "Cumulative Collections and Goals by Type of Taxes Notes: 1. Goal based on RMO No. 1-2013, 2. CY 2013 collection based on BTr and 1209 reports as of April 21, 2014, Prepared by Research and Statistics Division", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-06T14:09:12.202790", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "e7c2737a-6b89-40fe-8d95-33af36c0b130", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "COMPARATIVE INTERNAL REVENUE COLLECTIONS AND GOALS BY TAX TYPE", 
+      "package_id": "13b728a4-155a-40e1-b183-c5b5052aa452", 
+      "position": 0, 
+      "resource_group_id": "5824ec46-bbf6-47ea-88f1-43790ea6bb8d", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/YXwkycIc9v74p8sZ6Dfw/bircomintrevcolgoalstaxtype2012-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Public Finance"
+  ], 
+  "title": "Comparative Internal Revenue Collections and Goals by Tax Type", 
+  "url": "", 
+  "version": ""
+}

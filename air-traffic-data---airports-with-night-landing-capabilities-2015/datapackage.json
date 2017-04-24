@@ -1,0 +1,46 @@
+{
+  "author": "Civil Aviation Authority of the Philippines (CAAP)", 
+  "author_email": "information@mis.caap.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/Dk1ZpvjmeJIqfw5RiXZS/dotc_airports_with_night_landing_capabilities_2015.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2015-03/31/2015"
+  }, 
+  "id": "49ad9303-88fc-4c7d-ad39-cb7508dbb8f2", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Aerodrome Development and Management Service", 
+  "maintainer_email": "adms_caap@yahoo.com", 
+  "name": "air-traffic-data---airports-with-night-landing-capabilities-2015", 
+  "notes": "This data set contains the list of airports with night landing capabilities as of March 2015.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-05T09:36:36.197986", 
+      "description": "This data set contains the list of airports with night landing capabilities as of March 2015.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "ebd49b96-9057-4b6a-b349-d4d7fb73a3fd", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Airports with Night Landing Capabilities 2015", 
+      "package_id": "49ad9303-88fc-4c7d-ad39-cb7508dbb8f2", 
+      "position": 0, 
+      "resource_group_id": "2ae63927-5630-48fb-b0cd-6d3dc17b8450", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/Dk1ZpvjmeJIqfw5RiXZS/dotc_airports_with_night_landing_capabilities_2015.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Air Traffic Data - Airports with Night Landing Capabilities 2015", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,1 @@
+This dataset contains a list of PNR stations with their corresponding status — whether functional, non-functional, or to be reactivated as of February 2015.

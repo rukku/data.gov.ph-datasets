@@ -1,0 +1,45 @@
+{
+  "author": "Bangko Sentral ng Pilipinas", 
+  "author_email": "bspmail@bsp.gov.ph", 
+  "download_url": "http://www.bsp.gov.ph/statistics/excel/mas.xls", 
+  "extras": {
+    "Frequency Update": "Monthly", 
+    "Granularity": "National", 
+    "Temporal Date": "12/31/2012-03/31/2015"
+  }, 
+  "id": "aa1fdeb1-5e12-4cc0-a7c2-0b0f4fefd7cb", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bangko Sentral ng Pilipinas \u2013 Department of Economic Statisticsbspmail@bsp.gov.ph", 
+  "maintainer_email": "esligdes@bsp.gov.ph", 
+  "name": "bsp-central-bank-survey-2007-2013", 
+  "notes": "Central Bank Survey (CBS) covers the consolidation of the BSP balance sheet and the accounts of the Central Government (CG) related to its monetary functions and transactions with the IMF. Net Foreign Assets are claims on non-residents less liabilities to non-residents. Domestic Claims include the net claims on central government, claims on other depository corporations and claims on other sectors. Reserve Money includes currency issue, liabilities to other depository corporations (regular reserve balances and reserve deposit accounts of universal and commercial banks, thrift banks, rural banks, and non-banks with quasi-banking functions) and liabilities to other sectors (other financial corporations or trust entities of banks). Liabilities other than Reserve Money include all other unclassified accounts. Data are presented in terms of stocks and flows, the latter being calculated as net changes between two stock periods.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-15T10:21:59.569486", 
+      "description": "", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "7a12efec-7c0f-46b6-ae03-58bf5b357a5f", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Monetary Authorities Survey 2007-2013", 
+      "package_id": "aa1fdeb1-5e12-4cc0-a7c2-0b0f4fefd7cb", 
+      "position": 0, 
+      "resource_group_id": "217cbd9a-84a8-4176-885e-31ced61a20b2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://www.bsp.gov.ph/statistics/excel/mas.xls", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "BSP Central Bank Survey 2007-2013", 
+  "url": null, 
+  "version": null
+}

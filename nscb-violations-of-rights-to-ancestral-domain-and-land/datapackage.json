@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/c895d409-1f14-4fe2-92aa-402f5980147f/resource/96d06e29-c759-4979-b9bf-8c896a60a90d/download/NSCBVIOLATIONSOFRIGHTSTOANCESTRALDOMAINANDLAND.xlsx", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "c895d409-1f14-4fe2-92aa-402f5980147f", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-violations-of-rights-to-ancestral-domain-and-land", 
+  "notes": "Indigenous people's rights - Violations of Rights to Ancestral Domain and Land", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T00:17:15.239232", 
+      "description": "Indigenous people's rights - Violations of Rights to Ancestral Domain and Land", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "96d06e29-c759-4979-b9bf-8c896a60a90d", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - VIOLATIONS OF RIGHTS TO ANCESTRAL DOMAIN AND LAND", 
+      "package_id": "c895d409-1f14-4fe2-92aa-402f5980147f", 
+      "position": 0, 
+      "resource_group_id": "33a6b42e-5c15-438c-acbd-232912aadf57", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/c895d409-1f14-4fe2-92aa-402f5980147f/resource/96d06e29-c759-4979-b9bf-8c896a60a90d/download/NSCBVIOLATIONSOFRIGHTSTOANCESTRALDOMAINANDLAND.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Population"
+  ], 
+  "title": "NSCB - VIOLATIONS OF RIGHTS TO ANCESTRAL DOMAIN AND LAND", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/IU57mLd5DYPndgntaRkT/biliranprov_ira_utilization_032012_q1.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "01/01/12-3/31/12"
+  }, 
+  "id": "36a9c4f3-4941-4ef5-aab5-ac56a22b603b", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization---biliran-province", 
+  "notes": "This dataset contains report of the internal revenue allotment utilization of Biliran province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T16:22:48.106372", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "71827d56-db50-47b2-94f4-bc034e245fa5", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 1 - Biliran Province IRAU", 
+      "package_id": "36a9c4f3-4941-4ef5-aab5-ac56a22b603b", 
+      "position": 0, 
+      "resource_group_id": "ea3627f8-e788-4bee-b257-ca400c037dc2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/IU57mLd5DYPndgntaRkT/biliranprov_ira_utilization_032012_q1.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "INTERNAL REVENUE ALLOTMENT UTILIZATION - Biliran Province", 
+  "url": "", 
+  "version": ""
+}

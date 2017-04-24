@@ -1,0 +1,1 @@
+Number of establishment and rooms by region, province and city for the year 2012.

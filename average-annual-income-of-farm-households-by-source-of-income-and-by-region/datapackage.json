@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=R70OTIFH", 
+  "extras": {
+    "Frequency Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1987-12/31/2003"
+  }, 
+  "id": "1119d6a5-738a-48cc-a848-dd1aa386c4ef", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "average-annual-income-of-farm-households-by-source-of-income-and-by-region", 
+  "notes": "This dataset contains the average annual income of farm households by source of income and by region.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-07T10:32:03.674539", 
+      "description": "This dataset contains the average annual income of farm households by source of income and by region.", 
+      "format": "", 
+      "hash": "", 
+      "id": "9f9d4a09-8ff4-465b-96fb-14aea00c7e1c", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Average Annual Income of Farm Households by Source of Income and by Region", 
+      "package_id": "1119d6a5-738a-48cc-a848-dd1aa386c4ef", 
+      "position": 0, 
+      "resource_group_id": "a41b68b1-34c5-4ecb-a8c2-e3e655e3a24a", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=R70OTIFH", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Average Annual Income of Farm Households by Source of Income and by Region", 
+  "url": null, 
+  "version": null
+}

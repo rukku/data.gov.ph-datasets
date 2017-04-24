@@ -1,0 +1,46 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=B00PNNBT", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1990-12/31/2014"
+  }, 
+  "id": "edbfab31-33d8-443a-a533-c3bb51325305", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "other-crops--number-of-bearing-trees", 
+  "notes": "This dataset contains the number of bearing trees/hills/vines of other crops by region and by province. This time-series includes the most recent data, covering the period from 1990 to the latest available year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-12T13:30:11.606880", 
+      "description": "", 
+      "format": "", 
+      "hash": "", 
+      "id": "55abfd4a-6dc0-442a-a0f9-b862c2a0e394", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Other Crops: Number of Bearing Trees/Hills/Vines by Region and by Province", 
+      "package_id": "edbfab31-33d8-443a-a533-c3bb51325305", 
+      "position": 0, 
+      "resource_group_id": "42db2a19-8f8c-4d2b-8025-820ed6602bb4", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=B00PNNBT", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Other Crops - Number of Bearing Trees", 
+  "url": "", 
+  "version": ""
+}

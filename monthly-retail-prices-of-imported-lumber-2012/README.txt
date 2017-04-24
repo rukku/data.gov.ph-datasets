@@ -1,0 +1,1 @@
+This dataset contains the monthly retail prices of imported lumber for the year 2012.

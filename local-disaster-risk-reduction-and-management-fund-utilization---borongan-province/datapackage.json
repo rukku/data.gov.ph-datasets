@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/0nl96H54LlfmjZex1TWN/boronganprov_ldrrmf_09302012_q3.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "10/01/2012-12/31/2012"
+  }, 
+  "id": "d8329a26-16be-4683-a698-dd93dfed0de3", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization---borongan-province", 
+  "notes": "This dataset contains report on the local disaster risk reduction and management fund utilization of Borongan province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T16:18:02.106278", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "d888dff3-359c-46ca-af45-e568eeff3eba", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 3 - Borongan Province LDRRMF", 
+      "package_id": "d8329a26-16be-4683-a698-dd93dfed0de3", 
+      "position": 0, 
+      "resource_group_id": "03dd8a14-a74c-406b-9b0c-be4d491fe8dd", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/0nl96H54LlfmjZex1TWN/boronganprov_ldrrmf_09302012_q3.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T16:18:08.554903", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "b4402135-3baa-46d9-8809-5cb7f5e2ff49", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 4 - Borongan Province LDRRMF", 
+      "package_id": "d8329a26-16be-4683-a698-dd93dfed0de3", 
+      "position": 1, 
+      "resource_group_id": "03dd8a14-a74c-406b-9b0c-be4d491fe8dd", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/y2weGJ2lRySjESM3iciz/boronganprov_ldrrmf_122012_q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization - Borongan Province", 
+  "url": "", 
+  "version": ""
+}

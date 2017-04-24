@@ -1,0 +1,1 @@
+This dataset contains the Consumer Price Index (CPI) for Agriculture (2006=100). This time-series includes the most recent data, covering the period from 2007 to the latest available year.

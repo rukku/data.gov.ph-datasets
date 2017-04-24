@@ -1,0 +1,1 @@
+This dataset contains the list of candidates for president and vice-president with votes obtained for the year 2010.

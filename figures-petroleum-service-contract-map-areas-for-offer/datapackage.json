@@ -1,0 +1,47 @@
+{
+  "author": "Department of Energy", 
+  "author_email": "", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/c910c77a-c42a-40c6-b1e9-1c62b7535e53/resource/9f83c99b-8102-4952-8bd9-d28b3c2a2b79/download/FiguresPetroleumServiceContractMapAreasforOffer2014wpecr5.jpg", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": "5/5/2014"
+  }, 
+  "id": "c910c77a-c42a-40c6-b1e9-1c62b7535e53", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "figures-petroleum-service-contract-map-areas-for-offer", 
+  "notes": "Petroleum Service Contract Map with PECR5 Areas for Offer (PH-EITI)", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-10T10:18:31.264260", 
+      "description": "", 
+      "format": "JPEG", 
+      "hash": "", 
+      "id": "9f83c99b-8102-4952-8bd9-d28b3c2a2b79", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Figures_Petroleum_Service_Contract_Map_Areas_for_Offer_2014wpecr5.jpg", 
+      "package_id": "c910c77a-c42a-40c6-b1e9-1c62b7535e53", 
+      "position": 0, 
+      "resource_group_id": "b256a08f-6920-4ded-9a56-1c9ea0ee5e5e", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/c910c77a-c42a-40c6-b1e9-1c62b7535e53/resource/9f83c99b-8102-4952-8bd9-d28b3c2a2b79/download/FiguresPetroleumServiceContractMapAreasforOffer2014wpecr5.jpg", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Figures Petroleum Service Contract Map Areas for Offer", 
+  "url": "https://www.doe.gov.ph", 
+  "version": ""
+}

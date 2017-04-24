@@ -1,0 +1,1 @@
+This dataset contains the number of registered voters, voters who actually voted and percentage of voting by region.

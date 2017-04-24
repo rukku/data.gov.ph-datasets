@@ -1,0 +1,54 @@
+code,function_program_project_1,function_program_project_2,function_program_project_3,appropriations,allotments,obligations,balances_of_appropriations,balances_of_allotments
+A,Current Year Appropriations,PS,PS,230000,230000,46000,184000,184000
+A,Current Year Appropriations,MOOE,MOOE,13270074.23,13270074.23,10822024,2448042.46,2448042.46
+A,Current Year Appropriations,CO,CO,10703138.84,10703138.84,5015333.04,5687805.8,5687805.8
+A,Current Year Appropriations,FE,FE,22946815.33,22946815.33,20701847,2244968.33,2244968.33
+1000,Current Year Appropriations,General Public Services,PS,-,-,-,-,-
+1000,Current Year Appropriations,General Public Services,MOOE,1293683.23,1293683.23,322454,971229.23,971229.23
+1000,Current Year Appropriations,General Public Services,CO,-,-,-,-,-
+1000,Current Year Appropriations,General Public Services,FE,-,-,-,-,-
+3000,Current Year Appropriations,Education Culture Sports Man Power Development,PS,230000,230000,46000,184000,184000
+3000,Current Year Appropriations,Education Culture Sports Man Power Development,MOOE,4521466,4521466,3523461,998005,998005
+3000,Current Year Appropriations,Education Culture Sports Man Power Development,CO,-,-,-,-,-
+3000,Current Year Appropriations,Education Culture Sports Man Power Development,FE,-,-,-,-,-
+4000,Current Year Appropriations,Health Services,PS,-,-,-,-,-
+4000,Current Year Appropriations,Health Services,MOOE,-,-,-,-,-
+4000,Current Year Appropriations,Health Services,CO,-,-,-,-,-
+4000,Current Year Appropriations,Health Services,FE,-,-,-,-,-
+5000,Current Year Appropriations,Labor and Employment,PS,-,-,-,-,-
+5000,Current Year Appropriations,Labor and Employment,MOOE,300000,300000,248076,51924,51924
+5000,Current Year Appropriations,Labor and Employment,CO,-,-,-,-,-
+5000,Current Year Appropriations,Labor and Employment,FE,-,-,-,-,-
+6000,Current Year Appropriations,Housing and Community Development,PS,-,-,-,-,-
+6000,Current Year Appropriations,Housing and Community Development,MOOE,-,-,-,-,-
+6000,Current Year Appropriations,Housing and Community Development,CO,-,-,-,-,-
+6000,Current Year Appropriations,Housing and Community Development,FE,-,-,-,-,-
+7000,Current Year Appropriations,Social Welfare Services,PS,-,-,-,-,-
+7000,Current Year Appropriations,Social Welfare Services,MOOE,500000,500000,500000,-,-
+7000,Current Year Appropriations,Social Welfare Services,CO,-,-,-,-,-
+7000,Current Year Appropriations,Social Welfare Services,FE,-,-,-,-,-
+8000,Current Year Appropriations,Economic Services ,PS,-,-,-,-,-
+8000,Current Year Appropriations,Economic Services ,MOOE,6654925,6654925,6228033.77,426891.23,426891.23
+8000,Current Year Appropriations,Economic Services ,CO,10561413,10561413,5015333.04,5546079.96,5546079.96
+8000,Current Year Appropriations,Economic Services ,FE,-,-,-,-,-
+9001,Current Year Appropriations,Other Purposes,PS,-,-,-,-,-
+9002,Current Year Appropriations,Other Purposes,MOOE,-,-,-,-,-
+9003,Current Year Appropriations,Other Purposes,CO,141725.84,141725.84,-,141725.84,141725.84
+9004,Current Year Appropriations,Other Purposes,FE,22946815.33,22946815.33,20701847,2244968.33,2244968.33
+B,Continuing Appropriations,MOOE,MOOE,-,-,-,-,-
+B,Continuing Appropriations,CO,CO,-,-,-,-,-
+1000,Continuing Appropriations,General Public Services,MOOE,-,-,-,-,-
+1000,Continuing Appropriations,General Public Services,CO,-,-,-,-,-
+3000,Continuing Appropriations,Education Culture Sports Man Power Development,MOOE ,-,-,-,-,-
+3000,Continuing Appropriations,Education Culture Sports Man Power Development,CO,-,-,-,-,-
+4000,Continuing Appropriations,Health Services,MOOE,-,-,-,-,-
+4000,Continuing Appropriations,Health Services,CO,-,-,-,-,-
+5000,Continuing Appropriations,Labor and Employment,MOOE,-,-,-,-,-
+5000,Continuing Appropriations,Labor and Employment,CO,-,-,-,-,-
+6000,Continuing Appropriations,Housing and Community Development,MOOE,-,-,-,-,-
+6000,Continuing Appropriations,Housing and Community Development,CO,-,-,-,-,-
+7000,Continuing Appropriations,Social Welfare Services,MOOE,-,-,-,-,-
+7000,Continuing Appropriations,Social Welfare Services,CO,-,-,-,-,-
+8000,Continuing Appropriations,Economic Services ,MOOE,-,-,-,-,-
+8000,Continuing Appropriations,Economic Services ,CO,-,-,-,-,-
+9000,Continuing Appropriations,Other Purposes,MOOE,-,-,-,-,-

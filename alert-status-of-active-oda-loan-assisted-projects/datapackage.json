@@ -1,0 +1,47 @@
+{
+  "author": "National Economic and Development Authority - Systems Data and Analysis Division", 
+  "author_email": "mes-sdad@neda.gov.ph", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/557ea86f-9b88-4c66-b543-c57f9c84a2f7/resource/d21b404f-0715-486b-9782-a934600d8337/download/AlertStatusofActiveODALoanAssistedProjectsasofJune2014Dataset.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": "2014-01-01, 2014-06-30"
+  }, 
+  "id": "557ea86f-9b88-4c66-b543-c57f9c84a2f7", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Omar O. Dumdum", 
+  "maintainer_email": "oodumdum@neda.gov.ph", 
+  "name": "alert-status-of-active-oda-loan-assisted-projects", 
+  "notes": "This dataset contains the status of active ODA-loan assisted projects following the NEDA MES Alert Mechanism which classifies projects as potential or actual problem projects based on eight leading indicators on financial performance, physical performance, cost overrun, and the stage of project implementation. It contains information on which indicators a project has breached, its implementation issues, as well as  the actions taken to address the issues.\r\n", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-15T10:44:16.848970", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "d21b404f-0715-486b-9782-a934600d8337", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Alert Status of Active ODA Loan-Assisted Projects as of June 2014 (Dataset).csv", 
+      "package_id": "557ea86f-9b88-4c66-b543-c57f9c84a2f7", 
+      "position": 0, 
+      "resource_group_id": "1a43b73c-e7c3-49f4-aba5-0f5abf8dd288", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/557ea86f-9b88-4c66-b543-c57f9c84a2f7/resource/d21b404f-0715-486b-9782-a934600d8337/download/AlertStatusofActiveODALoanAssistedProjectsasofJune2014Dataset.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "Alert Status of Active ODA Loan-Assisted Projects", 
+  "url": "http://www.neda.gov.ph/", 
+  "version": ""
+}

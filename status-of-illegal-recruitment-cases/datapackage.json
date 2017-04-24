@@ -1,0 +1,23 @@
+{
+  "author": "Department of Labor and Employment", 
+  "author_email": "", 
+  "download_url": "", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2007-12/31/2011"
+  }, 
+  "id": "10d2dc11-d172-4c56-8cbc-2c00ce5c1718", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bureau of Labor and Employment Statistics - Data Bank", 
+  "maintainer_email": "bles_tsd@dole.gov.ph", 
+  "name": "status-of-illegal-recruitment-cases", 
+  "notes": "This dataset contains the status of illegal recruitment cases handled by the Philippine Overseas Employment Administration from 2007-2011.", 
+  "relationships": [], 
+  "resources": [], 
+  "tags": [
+    "Employment"
+  ], 
+  "title": "Status of Illegal Recruitment Cases", 
+  "url": "", 
+  "version": ""
+}

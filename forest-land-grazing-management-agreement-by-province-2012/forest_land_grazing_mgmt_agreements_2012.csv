@@ -1,0 +1,31 @@
+region,province,num,area_in_hectares
+CAR,Abra,7,1199
+CAR,Ifugao,7,1014
+CAR,Kalinga ,2,237
+CAR,Mountain Province,16,4155
+I (Ilocos Norte),Ilocos Norte,1,60
+I (Ilocos Norte),Pangasinan,11,1584
+II (Cagayan Valley),Cagayan,48,6976
+II (Cagayan Valley),Isabela,33,7028
+II (Cagayan Valley),Quirino,2,175
+III (Central Luzon),Aurora,1,110
+III (Central Luzon),Bataan,2,609
+III (Central Luzon),Nueva Ecija,6,2122
+III (Central Luzon),Tarlac,3,450
+III (Central Luzon),Zambales,20,6389
+IV-A (CALABARZON),Batangas,3,891
+IV-A (CALABARZON),Quezon,1,94
+IV-A (CALABARZON),Rizal,1,50
+IV-B (MIMAROPA),Marinduque,2,168
+IV-B (MIMAROPA),Occidental Mindoro,13,7646
+IV-B (MIMAROPA),Oriental Mindoro,7,2371
+IV-B (MIMAROPA),Palawan,7,1430
+V (Bicol Region),Masbate,35,9498
+VI (Western Visayas),Iloilo,4,329
+X (Northern Mindanao),Bukidnon,18,7443
+X (Northern Mindanao),Misamis Oriental,9,1701
+XI (Davao Region),Davao Oriental,1,332
+XII (SOCCSKSARGEN),North Cotabato,1,615
+XII (SOCCSKSARGEN),Sarangani,6,2935
+XII (SOCCSKSARGEN),South Cotabato,22,10218
+ARMM,Maguindanao,1,1120

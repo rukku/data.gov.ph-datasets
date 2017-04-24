@@ -1,0 +1,45 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/YZCshFyXYNEC8NUkYzpN/leyteprov_ldrrmf_2012_q2.csv", 
+  "extras": {
+    "Frequency Update": "Quarterly", 
+    "Granularity": "Province", 
+    "Temporal Date": "01/01/12-12/31/12"
+  }, 
+  "id": "e5eb7f7d-6398-4507-a838-43930c822f4e", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "local-disaster-risk-reduction-and-management-fund-utilization-of-leyte-province-", 
+  "notes": "This dataset contains report on the local disaster risk reduction and management fund utilization of Leyte province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-17T17:10:44.444752", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "49c69f7e-5bba-4b9b-95fb-89239c621d88", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 1 - Leyte Province IRAU", 
+      "package_id": "e5eb7f7d-6398-4507-a838-43930c822f4e", 
+      "position": 0, 
+      "resource_group_id": "f62639fa-1eda-4821-8599-6ca149464bf1", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/YZCshFyXYNEC8NUkYzpN/leyteprov_ldrrmf_2012_q2.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Local Disaster Risk Reduction and Management Fund Utilization of Leyte Province", 
+  "url": null, 
+  "version": null
+}

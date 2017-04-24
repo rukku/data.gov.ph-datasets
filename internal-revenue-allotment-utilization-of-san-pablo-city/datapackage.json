@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/kcQ8gIcqcOaBS58i3pVB/san_pablo_city_irau_201112_q1.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "01/01/12-12/31/12"
+  }, 
+  "id": "6e2e2252-b6e5-4e4e-acdf-2b2e1ca30351", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization-of-san-pablo-city", 
+  "notes": "This dataset contains internal revenue allotment utilization of San Pablo City", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-26T13:36:17.630854", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "535b1aa0-4dd5-4528-a424-d7cfdb98ad8e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 1 - San Pablo City IRAU ", 
+      "package_id": "6e2e2252-b6e5-4e4e-acdf-2b2e1ca30351", 
+      "position": 0, 
+      "resource_group_id": "dff80e8a-9590-47e6-81ab-646e966c113b", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/kcQ8gIcqcOaBS58i3pVB/san_pablo_city_irau_201112_q1.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "INTERNAL REVENUE ALLOTMENT UTILIZATION of San Pablo City", 
+  "url": "", 
+  "version": ""
+}

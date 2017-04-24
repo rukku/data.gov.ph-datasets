@@ -1,0 +1,1 @@
+his dataset contains the Self-Sufficiency Ratio (SSR) of selected agricultural commodities. This time-series includes the most recent data, covering the period from 1988 to the latest available year.

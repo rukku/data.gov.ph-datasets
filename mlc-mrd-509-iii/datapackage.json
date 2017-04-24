@@ -1,0 +1,69 @@
+{
+  "author": "Mines and Geosciences Bureau", 
+  "author_email": "", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/8f7b6c28-bf38-4b5c-be6f-fc66d45d3703/resource/d3f87478-3221-4432-95cb-a611f472fe6b/download/oreasiamininganddevelopmentcorporationgis12.tif", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "8f7b6c28-bf38-4b5c-be6f-fc66d45d3703", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "mlc-mrd-509-iii", 
+  "notes": "Mining Lease Contract (PH-EITI)", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-09T12:03:05.891989", 
+      "description": "", 
+      "format": "tif", 
+      "hash": "", 
+      "id": "d3f87478-3221-4432-95cb-a611f472fe6b", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "ore asia mining and development corporation - gis12.tif", 
+      "package_id": "8f7b6c28-bf38-4b5c-be6f-fc66d45d3703", 
+      "position": 0, 
+      "resource_group_id": "a2b9ad59-28e4-4ffe-86ee-26937a06b584", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/8f7b6c28-bf38-4b5c-be6f-fc66d45d3703/resource/d3f87478-3221-4432-95cb-a611f472fe6b/download/oreasiamininganddevelopmentcorporationgis12.tif", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-09T12:03:30.217969", 
+      "description": "", 
+      "format": "tif", 
+      "hash": "", 
+      "id": "fc7bd12b-5d29-4354-b5cf-ff761aef8ea0", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "ore asia mining and development corporation - gis14.tif", 
+      "package_id": "8f7b6c28-bf38-4b5c-be6f-fc66d45d3703", 
+      "position": 1, 
+      "resource_group_id": "a2b9ad59-28e4-4ffe-86ee-26937a06b584", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/8f7b6c28-bf38-4b5c-be6f-fc66d45d3703/resource/fc7bd12b-5d29-4354-b5cf-ff761aef8ea0/download/oreasiamininganddevelopmentcorporationgis14.tif", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Ore Asia Mining and Development Corporation - Mining Lease Contract-MRD 509-III", 
+  "url": "http://www.mgb.gov.ph/", 
+  "version": ""
+}

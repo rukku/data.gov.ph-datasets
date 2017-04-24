@@ -1,0 +1,69 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/b00d8787-3ffd-4656-89c7-03427abd9764/resource/749a7bdd-03b1-45de-8797-008e9c6af4c9/download/Regionaldistributionofdepositliabilities20012011.csv", 
+  "extras": {
+    "Frequency of Update": "Biannually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "b00d8787-3ffd-4656-89c7-03427abd9764", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "regional-distribution-of-deposit-liabilities-2001-2011", 
+  "notes": "Regional Distribution of Deposit Liabilities of the Philippine Banking System 2001-2012", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-02-03T16:04:53.368589", 
+      "description": "Regional Distribution of Deposit Liabilities of the Philippine Banking System 2001-2011", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "749a7bdd-03b1-45de-8797-008e9c6af4c9", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "REGIONAL DISTRIBUTION OF DEPOSIT LIABILITIES 2001-2011", 
+      "package_id": "b00d8787-3ffd-4656-89c7-03427abd9764", 
+      "position": 0, 
+      "resource_group_id": "e317ff63-0451-4d07-9f23-5a0ea94f1ab0", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/b00d8787-3ffd-4656-89c7-03427abd9764/resource/749a7bdd-03b1-45de-8797-008e9c6af4c9/download/Regionaldistributionofdepositliabilities20012011.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-02-04T09:44:09.767990", 
+      "description": "Regional Distribution of Deposit Liabilities of the Philippine Banking System", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "c2ac83d4-6bc4-4d2c-b4ef-e319515c6733", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Regional Distribution of Deposit Liabilities 2012", 
+      "package_id": "b00d8787-3ffd-4656-89c7-03427abd9764", 
+      "position": 1, 
+      "resource_group_id": "e317ff63-0451-4d07-9f23-5a0ea94f1ab0", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/b00d8787-3ffd-4656-89c7-03427abd9764/resource/c2ac83d4-6bc4-4d2c-b4ef-e319515c6733/download/regionaldistributionofdespositliabilities2012.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "REGIONAL DISTRIBUTION OF DEPOSIT LIABILITIES", 
+  "url": "", 
+  "version": ""
+}

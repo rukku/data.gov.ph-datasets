@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/b5c9c0f6-d15d-4c25-91d9-b2ead149b9e1/resource/f7709ff1-3349-4705-bedf-f21eb6fb541e/download/28november2012.csv", 
+  "extras": {
+    "Frequency of Update": "Monthly", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "b5c9c0f6-d15d-4c25-91d9-b2ead149b9e1", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "28-november-2012-neda-updates", 
+  "notes": "This dataset contains NEDA Updates for the year 2012 as of November 28 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T12:00:16.638291", 
+      "description": "This dataset contains NEDA Updates for the year 2012 as of November 28 2012.", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "f7709ff1-3349-4705-bedf-f21eb6fb541e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "28 NOVEMBER 2012 NEDA UPDATES", 
+      "package_id": "b5c9c0f6-d15d-4c25-91d9-b2ead149b9e1", 
+      "position": 0, 
+      "resource_group_id": "06732989-320f-4614-a5bf-0624ee910758", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/b5c9c0f6-d15d-4c25-91d9-b2ead149b9e1/resource/f7709ff1-3349-4705-bedf-f21eb6fb541e/download/28november2012.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "28 NOVEMBER 2012 NEDA UPDATES", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,1 @@
+This dataset contains the Inflation Rates for all income households in the Philippines by commodity group (2006=100). This time-series includes the most recent data, covering the period from 2012 to the latest available month/year.

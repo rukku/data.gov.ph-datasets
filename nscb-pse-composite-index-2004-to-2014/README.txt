@@ -1,0 +1,1 @@
+Philippine Stock Exchange - Composite Index from 2004 to 2014

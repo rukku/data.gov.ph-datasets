@@ -1,0 +1,46 @@
+{
+  "author": "Department of Labor and Employment", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/7hyh0gdTRacA22iz7ykv/doleexistingcbasintheprivsector1963-2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1963-12/31/2012"
+  }, 
+  "id": "69ffb0fc-88c8-4254-bc9e-1c6c60047d96", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bureau of Labor and Employment Statistics -Data Bank", 
+  "maintainer_email": "bles_tsd@dole.gov.ph", 
+  "name": "existing-collective-bargaining-agreements-in-the-private-sector", 
+  "notes": "This dataset contains the number and workers covered by Collective Bargaining Agreements in the private sector from 1963-2012. Note: NA- Not Available;\r\nyear 2010 to 2011- Pleminary", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-08T13:32:51.210646", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "cc3d57ec-6ded-4708-a0d1-d019aa6190de", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "EXISTING COLLECTIVE BARGAINING AGREEMENTS IN THE PRIVATE SECTOR", 
+      "package_id": "69ffb0fc-88c8-4254-bc9e-1c6c60047d96", 
+      "position": 0, 
+      "resource_group_id": "fdd2eb94-9074-4c12-961b-dda851cae27b", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/7hyh0gdTRacA22iz7ykv/doleexistingcbasintheprivsector1963-2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Employment"
+  ], 
+  "title": "Existing Collective Bargaining Agreements in the Private Sector", 
+  "url": "", 
+  "version": ""
+}

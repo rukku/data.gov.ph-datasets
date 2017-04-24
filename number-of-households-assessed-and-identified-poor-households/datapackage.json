@@ -1,0 +1,46 @@
+{
+  "author": "Department of Social Welfare and Development", 
+  "author_email": "", 
+  "download_url": "http://data.dswd.gov.ph/", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "07/01/2011"
+  }, 
+  "id": "d2f30442-eff3-4a6d-9cdc-410ee7c26966", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "National Household Targeting Office", 
+  "maintainer_email": "nhtspr.npmo@dswd.gov.ph", 
+  "name": "number-of-households-assessed-and-identified-poor-households", 
+  "notes": "Number of Households Assessed and Identified Poor Households - Database Instance as if July 1, 2011.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-12T09:56:50.007918", 
+      "description": "Number of Households Assessed and Identified Poor Households-Database Instance as if July 1, 2011.", 
+      "format": "", 
+      "hash": "", 
+      "id": "2bbb92cf-c0bc-44bc-a8e4-cf89b8f8f663", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Number of Households Assessed and Identified Poor Households as of July 1, 2011", 
+      "package_id": "d2f30442-eff3-4a6d-9cdc-410ee7c26966", 
+      "position": 0, 
+      "resource_group_id": "3965a541-1f51-4df3-96d0-6efe50ea1a25", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.dswd.gov.ph/", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Social Welfare"
+  ], 
+  "title": "Number of Households Assessed and Identified Poor Households", 
+  "url": "", 
+  "version": ""
+}

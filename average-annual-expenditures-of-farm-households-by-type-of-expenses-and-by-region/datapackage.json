@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=R90OTAHE", 
+  "extras": {
+    "Frequency Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": "09/30/2010-12/31/2011"
+  }, 
+  "id": "55efdd1d-11fa-40db-bdad-043891fb0a46", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "average-annual-expenditures-of-farm-households-by-type-of-expenses-and-by-region", 
+  "notes": "This dataset contains the average annual expenditures of farm households by type of expenses and by region.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-05T09:57:48.982334", 
+      "description": "This dataset contains the average annual expenditures of farm households by type of expenses and by region.", 
+      "format": "", 
+      "hash": "", 
+      "id": "1b3d7be8-34ab-43c3-8bbf-57115f884d89", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Average Annual Expenditures of Farm Households by Type of Expenses and by Region", 
+      "package_id": "55efdd1d-11fa-40db-bdad-043891fb0a46", 
+      "position": 0, 
+      "resource_group_id": "98924635-00f5-4ba7-a2ac-c1ae477c3090", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=R90OTAHE", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Average Annual Expenditures of Farm Households by Type of Expenses and by Region", 
+  "url": null, 
+  "version": null
+}

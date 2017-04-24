@@ -1,0 +1,46 @@
+{
+  "author": "Department of Environment and Natural Resources", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/RL87wIw5gVRPqVuLjpGx/retail_price_lauan_plywood_2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-12/31/2012"
+  }, 
+  "id": "adcc9841-67f6-43cd-833c-810c2511e66a", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Environment and Natural Resources", 
+  "maintainer_email": "", 
+  "name": "monthly-retail-price-lauan-of-plywood-2012", 
+  "notes": "This dataset contains the monthly retail of lauan plywood for the year 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-05T16:01:22.875858", 
+      "description": "This dataset contains the monthly retail of lauan plywood for the year 2012.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "2cb18deb-91a5-4f88-b3dd-3297c8e15204", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Monthly Retail Price of Lauan Plywood 2012", 
+      "package_id": "adcc9841-67f6-43cd-833c-810c2511e66a", 
+      "position": 0, 
+      "resource_group_id": "5539cfcf-a654-47fc-9f42-afcc012258bc", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/RL87wIw5gVRPqVuLjpGx/retail_price_lauan_plywood_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Monthly Retail Price Lauan of Plywood 2012", 
+  "url": "", 
+  "version": ""
+}

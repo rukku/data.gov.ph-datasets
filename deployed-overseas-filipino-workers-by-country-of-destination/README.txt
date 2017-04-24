@@ -1,0 +1,1 @@
+This dataset contains the number of deployed Overseas Filipino Workers (OFWs) by country of destination categorized as land-based and sea-based from 2008 to 2012.

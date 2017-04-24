@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13467357.9424,1644776.53605,6,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22Parcel%20data%22,%22geoportal:denr_parcel_data%22,1,%22ParcelData%22,0,null]]}", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "2da1ab0d-2891-483d-96ab-f78f9849c60a", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "parcel-data", 
+  "notes": "The DENR - Parcel Data is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Department of Environment and Natural Resources.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-31T15:46:10.829875", 
+      "description": "The DENR - Parcel Data is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The dataset was shared to the portal by the Department of Environment and Natural Resources.", 
+      "format": "PDF", 
+      "hash": "", 
+      "id": "08a2327e-ea09-4046-b21b-16b1dfa007dc", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "PARCEL DATA", 
+      "package_id": "2da1ab0d-2891-483d-96ab-f78f9849c60a", 
+      "position": 0, 
+      "resource_group_id": "c507e8da-833c-439e-b0c5-4e459896ecbb", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13467357.9424,1644776.53605,6,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22Parcel%20data%22,%22geoportal:denr_parcel_data%22,1,%22ParcelData%22,0,null]]}", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "PARCEL DATA", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=B80PNLPS", 
+  "extras": {
+    "Frequency Update": "Quarterly", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1982-2015"
+  }, 
+  "id": "2840de99-6b26-4319-bad3-91c809cb2fac", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "birds-dressed-in-poultry-dressing-plants-", 
+  "notes": "This dataset contains the number of chicken dressed in poultry dressing plants by region and by province. This time-series includes the most recent data, covering the period from 1982 to the latest available quarter/year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-12T13:07:17.918518", 
+      "description": "This dataset contains the number of chicken dressed in poultry dressing plants by region and by province. This time-series includes the most recent data, covering the period from 1982 to the latest available quarter/year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "212d1d11-f98e-446d-b40d-1913a3330d1d", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Chicken: Birds Dressed in Poultry Dressing Plants by Region and by Province", 
+      "package_id": "2840de99-6b26-4319-bad3-91c809cb2fac", 
+      "position": 0, 
+      "resource_group_id": "2bd7a953-7725-4992-a97a-49f506a39c38", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=B80PNLPS", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Birds Dressed in Poultry Dressing Plants", 
+  "url": null, 
+  "version": null
+}

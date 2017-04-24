@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/2EsGwJv0y0Wu9mg2WPCq/himamaylancity_ira_utilization_03312012_q1.csv", 
+  "extras": {
+    "Granularity": "City or Municipality", 
+    "Temporal Date": "01/01/2012, 06/30/2012-12/31/2012"
+  }, 
+  "id": "8bc0f6c6-b628-4bc0-9e88-df62c4905577", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization-of-himamaylan-city", 
+  "notes": "This dataset contains report of the internal revenue allotment utilization of Himamaylan City.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-11T11:49:23.424767", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "7271d4de-619a-4fc6-9f78-4768e4a45fb1", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 1 - Himamaylan City IRAU", 
+      "package_id": "8bc0f6c6-b628-4bc0-9e88-df62c4905577", 
+      "position": 0, 
+      "resource_group_id": "1c255714-5e62-491d-8622-5a7ebadba473", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/2EsGwJv0y0Wu9mg2WPCq/himamaylancity_ira_utilization_03312012_q1.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-11T11:49:27.257876", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "4359e083-ed03-462b-9b7d-ad0d37c356c0", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 2 - Himamaylan City IRAU", 
+      "package_id": "8bc0f6c6-b628-4bc0-9e88-df62c4905577", 
+      "position": 1, 
+      "resource_group_id": "1c255714-5e62-491d-8622-5a7ebadba473", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/SALTLF7JkuHzXJA654Pl/himamaylancity_ira_utilization_06302012_q2.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "Internal Revenue Allotment Utilization of Himamaylan City", 
+  "url": "", 
+  "version": ""
+}

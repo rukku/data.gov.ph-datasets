@@ -1,0 +1,1 @@
+Statistics on all crime incidents referred, processed and gathered by the reporting Police Office and Other Law Enforcement Agencies for the year 2013.

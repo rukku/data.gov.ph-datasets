@@ -1,0 +1,1 @@
+This dataset contains the quarterly domestic prices of locally produced logs and naturally grown for the year 2012.

@@ -1,0 +1,251 @@
+,selected_account_a,selected_account_b,selected_account_c,Mar-14,Jun-14,Sep-14,Dec-14
+,Income and Expense Accounts,Interest Income,Interest Income,11.15891,22.79047,34.1888,45.86048
+,Income and Expense Accounts,Interest Expense,Interest Expense,3.92977,7.89757,11.84725,15.87552
+,Income and Expense Accounts,Provision for Losses on Accrued Interest Income from Financial Assets,Provision for Losses on Accrued Interest Income from Financial Assets,0.06488,0.06058,0.07658,0.08214
+,Net Interest Income Total,Net Interest Income Total,Net Interest Income Total,7.16426,14.83231,22.26497,29.90282
+,Non-Interest Income Total,Non-Interest Income Total,Non-Interest Income Total,4.32652,7.13462,9.60921,12.0523
+,Non-Interest Income,Dividend Income,Dividend Income,0.00021,0.03278,0.0328,0.03549
+,Non-Interest Income,Fees and Commissions Income,Fees and Commissions Income,1.02361,2.1201,3.29496,4.60957
+,Non-Interest Income,Fees and Commissions Income,Payment Services,0.06932,0.15282,0.22712,0.31577
+,Non-Interest Income,Fees and Commissions Income,Intermediation Services,0.60242,1.25804,1.92258,2.5714
+,Non-Interest Income,Fees and Commissions Income,Custodianship,0.01327,0.00011,0.00016,0.00021
+,Non-Interest Income,Fees and Commissions Income,Underwriting and Securities Dealership,0,0,0,0
+,Non-Interest Income,Fees and Commissions Income,Securitization Activities,0,0,0,0
+,Non-Interest Income,Fees and Commissions Income,Income from Fiduciary Activities,0.03125,0.05637,0.09569,0.12873
+,Non-Interest Income,Fees and Commissions Income,Others,0.30735,0.65276,1.0494,1.59346
+,Non-Interest Income,Gains/(Losses) on Financial Assets and Liabilities Held for Trading,Gains/(Losses) on Financial Assets and Liabilities Held for Trading,2.19095,3.17043,3.45233,3.78348
+,Non-Interest Income,Gains/(Losses) on Financial Assets and Liabilities Designated at Fair Value through Profit or Loss,Gains/(Losses) on Financial Assets and Liabilities Designated at Fair Value through Profit or Loss,0.00253,0.00252,0.00476,0.00256
+,Non-Interest Income,Foreign Exchange Profit/(Loss),Foreign Exchange Profit/(Loss),0.01887,0.058,0.08281,0.13169
+,Non-Interest Income,Gains/(Losses) from Sale/Redemption/Derecognition of Non-Trading Financial Assets and Liabilities,Gains/(Losses) from Sale/Redemption/Derecognition of Non-Trading Financial Assets and Liabilities,0.61929,0.65217,1.13423,1.38579
+,Non-Interest Income,Gains/(Losses) on Fair Value Adjustment in Hedge Accounting,Gains/(Losses) on Fair Value Adjustment in Hedge Accounting,0,0.00673,0.00615,0.00405
+,Non-Interest Income,Gains/(Losses) from Sale/Derecognition of Non-Financial Assets ,Gains/(Losses) from Sale/Derecognition of Non-Financial Assets ,0.21062,0.54051,0.78378,1.00721
+,Non-Interest Income,Gains/(Losses) from Sale/Derecognition of Non-Financial Assets ,"Bank Premises, Furniture, Fixture and Equipment",0.00198,0.00951,0.01028,0.01559
+,Non-Interest Income,Gains/(Losses) from Sale/Derecognition of Non-Financial Assets ,Real and Other Properties Acquired (ROPA),0.20631,0.52416,0.75955,0.97615
+,Non-Interest Income,Gains/(Losses) from Sale/Derecognition of Non-Financial Assets ,Goodwill,0,0,0,0
+,Non-Interest Income,Gains/(Losses) from Sale/Derecognition of Non-Financial Assets ,Other Intangibles,0.00234,0.00684,0.01395,0.01547
+,Non-Interest Income,Other Income,Other Income,0.26044,0.55138,0.81739,1.09246
+,Non-Interest Expense Total,Non-Interest Expense Total,Non-Interest Expense Total,7.50174,14.31864,21.31608,29.08576
+,Non-Interest Expense,Compensation/Fringe Benefits,Compensation/Fringe Benefits,2.35434,4.61152,6.86582,9.26897
+,Non-Interest Expense,Taxes and Licenses,Taxes and Licenses,0.80808,1.39486,1.98694,2.63841
+,Non-Interest Expense,Fees and Commissions Expenses,Fees and Commissions Expenses,0.03427,0.0819,0.15081,0.25126
+,Non-Interest Expense,Other Administrative Expenses,Other Administrative Expenses,3.28324,6.21024,9.24327,12.68153
+,Non-Interest Expense,Depreciation/Amortization,Depreciation/Amortization,0.62254,1.19897,1.79032,2.35697
+,Non-Interest Expense,Impairment Losses,Impairment Losses,0.00155,0.02637,0.02769,0.08658
+,Non-Interest Expense,Impairment Losses,"Investment in Subsidiaries, Associates and Joint Ventures",0,0,0,0.0196
+,Non-Interest Expense,Impairment Losses,"Bank Premises, Furniture, Fixture and Equipment",0,0,0,0
+,Non-Interest Expense,Impairment Losses,ROPA,0.00058,0.02233,0.02302,0.03125
+,Non-Interest Expense,Impairment Losses,Impairment Losses - Non-Current Assets Held for Sale,0.00097,0.00097,0.00097,0.01018
+,Non-Interest Expense,Impairment Losses,Goodwill,0,0,0,0
+,Non-Interest Expense,Impairment Losses,Other Intangible Assets,0,0,0.00062,0.00248
+,Non-Interest Expense,Impairment Losses,Other Assets,0,0.00308,0.00308,0.02308
+,Non-Interest Expense,Provisions,Provisions,0.39773,0.79479,1.25123,1.80204
+,Losses/Recoveries on Financial Assets Total,Losses/Recoveries on Financial Assets Total,Losses/Recoveries on Financial Assets Total,-1.02538,-1.73026,-2.23175,-2.67535
+,Losses/Recoveries on Financial Assets,Provision for Credit Losses on Loans and Receivables and Other Financial Assets,Provision for Credit Losses on Loans and Receivables and Other Financial Assets,-1.05626,-1.81221,-2.35057,-2.82556
+,Losses/Recoveries on Financial Assets,Bad Debts Written Off,Bad Debts Written Off,-0.00692,-0.01332,-0.01998,-0.03574
+,Losses/Recoveries on Financial Assets,Recovery on Charged-Off Assets,Recovery on Charged-Off Assets,0.03781,0.09528,0.1388,0.18595
+,"Net Profit Before Share in the Profit/(Loss) of Unconsolidated Subsidiaries, Associates and Joint Ventures Accounted for Using the Equity Method Total","Net Profit Before Share in the Profit/(Loss) of Unconsolidated Subsidiaries, Associates and Joint Ventures Accounted for Using the Equity Method Total","Net Profit Before Share in the Profit/(Loss) of Unconsolidated Subsidiaries, Associates and Joint Ventures Accounted for Using the Equity Method Total",2.96366,5.91803,8.32635,10.19401
+,"Share in the Profit/(Loss) of Unconsolidated Subsidiaries, Associates and Joint Ventures Accounted for Using the Equity Method Total","Share in the Profit/(Loss) of Unconsolidated Subsidiaries, Associates and Joint Ventures Accounted for Using the Equity Method Total","Share in the Profit/(Loss) of Unconsolidated Subsidiaries, Associates and Joint Ventures Accounted for Using the Equity Method Total",0.00261,0.00653,-0.04307,-0.0822
+,"Share in the Profit/(Loss) of Unconsolidated Subsidiaries, Associates and Joint Ventures Accounted for Using the Equity Method",Share in the Profit/(Loss) of Unconsolidated Subsidiaries,Share in the Profit/(Loss) of Unconsolidated Subsidiaries,0.00003,-0.00501,-0.0557,-0.10836
+,"Share in the Profit/(Loss) of Unconsolidated Subsidiaries, Associates and Joint Ventures Accounted for Using the Equity Method",Share in the Profit/(Loss) of Associates,Share in the Profit/(Loss) of Associates,0.01035,0.02689,0.03516,0.05115
+,"Share in the Profit/(Loss) of Unconsolidated Subsidiaries, Associates and Joint Ventures Accounted for Using the Equity Method",Share in the Profit/(Loss) of Joint Ventures,Share in the Profit/(Loss) of Joint Ventures,-0.00777,-0.01535,-0.02253,-0.02499
+,Total Profit/Loss Before Tax and Before Minority Interest,Total Profit/Loss Before Tax and Before Minority Interest,Total Profit/Loss Before Tax and Before Minority Interest,2.96626,5.92456,8.28328,10.11181
+,Total Profit/Loss Before Tax and Before Minority Interest,Income Tax Expense,Income Tax Expense,0.76468,1.29773,1.73342,1.79363
+,Total Profit/Loss After Tax and Before Minority Interest ,Total Profit/Loss After Tax and Before Minority Interest ,Total Profit/Loss After Tax and Before Minority Interest ,2.20158,4.62683,6.54986,8.31818
+,Total Profit/Loss After Tax and Before Minority Interest ,Minority Interest in Profit/(Loss) of Subsidiaries (for consolidated report only),Minority Interest in Profit/(Loss) of Subsidiaries (for consolidated report only),0,0,0,0
+,Net Profit or Loss Total,Net Profit or Loss Total,Net Profit or Loss Total,2.20158,4.62683,6.54986,8.31818
+,Key  Ratios,Earning Asset Yield 1/,Earning Asset Yield 1/,8.10736,8.22525,8.4485,7.86884
+,Key  Ratios,Funding Cost 2/,Funding Cost 2/,3.05537,3.08751,3.19588,2.94796
+,Key  Ratios,Interest Spread 3/,Interest Spread 3/,5.052,5.13774,5.25263,4.92088
+,Key  Ratios,Net Interest Margin 4/,Net Interest Margin 4/,5.27577,5.37174,5.50597,5.13079
+,Key  Ratios,Net Interest Income to Total Operating Income,Net Interest Income to Total Operating Income,69.78372,69.31032,70.50595,71.27335
+,Key  Ratios,Cost to Income Ratio 5/,Cost to Income Ratio 5/,66.56126,65.71157,67.50374,69.11952
+,Key  Ratios,Return on Assets ,Return on Assets ,1.63494,1.59905,1.50287,1.30625
+,Key  Ratios,Return on Equity ,Return on Equity ,13.56574,13.42784,11.9927,10.69909
+,,,,,,,
+,,,,,,,
+,"1/ Ratio of Annualized Interest Income to Average Earning Assets [(Due from BSP) + (Due from Other Banks) + (Financial Assets - Debt Securities, gross, net of amortization) + (Derivatives with Positive Fair Value HFT - Interest Rate Contracts) + (Derivatives with Positive Fair Value Held for Hedging - Interest Rate Contracts) + (TLP, gross, net of amortization)]",,,,,,
+,2/ Ratio of annualized Interest Expense to Interest Bearing Liabilities [(Financial Liabilities HFT) + (Financial Liabilities Designated at FVPL) + (Deposit Liabilities) + (Bills Payable) + (Bonds Payable) + (Unsecured Subordinated Debt (USD)) + (Redeemable Preferred Shares) + (Derivatives w/ Negative Fair Value Held for Hedging) + (Finance Lease Payment Payable)],,,,,,
+,3/ Earning assets Yield - Funding Cost,,,,,,
+,4/ Ratio of Annualized Net Interest Income [(Interest Income) - (Interest Expense) - (Provision for Losses on Accrued Interest Income from Financial Assets)] to Average Earning Assets,,,,,,
+,"5/ Ratio of Annualized Non-Interest Expense, Net of Impairment Losses to Annualized Total Operating Income [(Net Interest Income) + (Non-Interest Income)]",,,,,,
+,,,,,,,
+,Note: Details may not add up to totals due to rounding-off,,,,,,
+,,,,,,,
+,"Source: Supervisory Data Center, Supervision and Examination Sector",,,,,,
+,Updated as of 13 March 2013,,,,,,
+,,,,,,,
+,Income Statement Key Ratios Thrift Banking System as of end of period indicated in Billion,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,67.98,,,,

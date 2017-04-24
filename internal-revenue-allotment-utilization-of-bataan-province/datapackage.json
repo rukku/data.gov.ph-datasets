@@ -1,0 +1,68 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ooWQGRz4ZTGYVoduMSrH/bataan_irau_201201-201212_q1-q4.csv", 
+  "extras": {
+    "Granularity": "Province", 
+    "Temporal Date": "01/01/12-12/31/12, 01/01/2013-03/31/2013"
+  }, 
+  "id": "7a1016c4-9450-461a-aa04-f40495f625a5", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization-of-bataan-province", 
+  "notes": "This dataset contains report of internal revenue allotment utilization of Bataan province.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-23T17:12:03.869476", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "a79a2638-c3d0-4c0d-8dc8-74e6d05d9026", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2012 Quarter 1-4 - Bataan Province IRAU ", 
+      "package_id": "7a1016c4-9450-461a-aa04-f40495f625a5", 
+      "position": 0, 
+      "resource_group_id": "22e1e6f0-8d0b-4434-a2d6-39987cf4c40f", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ooWQGRz4ZTGYVoduMSrH/bataan_irau_201201-201212_q1-q4.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-11-23T17:12:07.490400", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "4a320155-2f6a-4e58-9d8a-8b80c8f93dae", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2013 Quarter 1 - Bataan Province IRAU", 
+      "package_id": "7a1016c4-9450-461a-aa04-f40495f625a5", 
+      "position": 1, 
+      "resource_group_id": "22e1e6f0-8d0b-4434-a2d6-39987cf4c40f", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/ZOSjkuP3aDAhkO7TgNV2/bataan_irau_ 20130331_q1.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "INTERNAL REVENUE ALLOTMENT UTILIZATION of Bataan Province", 
+  "url": "", 
+  "version": ""
+}

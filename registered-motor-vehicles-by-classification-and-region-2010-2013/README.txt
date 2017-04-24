@@ -1,0 +1,1 @@
+This dataset contains the annual number of registered motor vehicles from 2010 to 2013, classified according to use (i.e., Private, For Hire, Government, Diplomatic, and Tax-Exempt), vehicle type (i.e., Cars, UV, SUV, Trucks, Motorcycles/Tricycles, and Trailers), and region.

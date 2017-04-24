@@ -1,0 +1,1 @@
+This dataset contains 20 percent of the Internal Revenue Allotment Utilization from quarter 1-4 of Antipolo City.

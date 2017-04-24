@@ -1,0 +1,68 @@
+{
+  "author": "Department of Labor and Employment", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/FKBIMtHXkSXzhB3d2rjr/dolestatwelfarecases2007-2011.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2007-12/31/2011"
+  }, 
+  "id": "7bb42b83-e25a-459f-a87e-aa1f31700660", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Bureau of Labor and Employment Statistics - Data Bank ", 
+  "maintainer_email": "bles_tsd@dole.gov.ph", 
+  "name": "status-of-welfare-cases-on-site", 
+  "notes": "This dataset contains the status of welfare cases on-site provided by the Overseas Workers Welfare Administration on-site services include workers assistance and cases management from 2007 to 2011.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-08T16:15:01.686650", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "7a93110c-9c2b-462a-8d44-a034a98ad022", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "STATUS OF WELFARE CASES ON SITE ", 
+      "package_id": "7bb42b83-e25a-459f-a87e-aa1f31700660", 
+      "position": 0, 
+      "resource_group_id": "b6082a9f-06cd-4d6e-ae60-8b0f814b762b", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/FKBIMtHXkSXzhB3d2rjr/dolestatwelfarecases2007-2011.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-10-08T16:15:06.345083", 
+      "description": "", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "c77a4f08-a82c-4536-8608-d850755b8f47", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "STATUS OF WELFARE CASES ON SITE ", 
+      "package_id": "7bb42b83-e25a-459f-a87e-aa1f31700660", 
+      "position": 1, 
+      "resource_group_id": "b6082a9f-06cd-4d6e-ae60-8b0f814b762b", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/OAijMK5bRz4opZ4ekBTr/metadolestatuswelfarecases(No Update).xls", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Employment"
+  ], 
+  "title": "Status of Welfare Cases On Site", 
+  "url": "", 
+  "version": ""
+}

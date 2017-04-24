@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/AC9Sl1W8U9bWUCUYRQFe/damarketprices2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "8763b089-25be-44a3-a33c-82cb8068310a", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Agriculture and Fisheries Market Information System (AFMIS) c/o Agribusiness and Marketing Assistance Service (DA- AMAS)", 
+  "maintainer_email": "", 
+  "name": "da-market-prices", 
+  "notes": "Prevailing market prices of agricultural commodities from the different selected  markets.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T14:30:31.894455", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "c3974915-a976-4f7c-81fe-ff3dbfdda165", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Market Prices", 
+      "package_id": "8763b089-25be-44a3-a33c-82cb8068310a", 
+      "position": 0, 
+      "resource_group_id": "efcf8fe7-14e9-450d-a2f8-363639b27614", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/AC9Sl1W8U9bWUCUYRQFe/damarketprices2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Market Prices", 
+  "url": "", 
+  "version": ""
+}

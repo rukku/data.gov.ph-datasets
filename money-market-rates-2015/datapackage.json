@@ -1,0 +1,68 @@
+{
+  "author": "Bangko Sentral ng Pilipinas", 
+  "author_email": "bspmail@bsp.gov.ph", 
+  "download_url": "http://www.bsp.gov.ph/statistics/keystat/winteresrates.htm", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1974-3/21/2014"
+  }, 
+  "id": "47e186e7-4b21-4e69-a012-bd5935c7905d", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Department of Economic Statistics - ESLIG", 
+  "maintainer_email": "esligdes@bsp.gov.ph", 
+  "name": "money-market-rates-2015", 
+  "notes": "This dataset contains the weighted average interest rate (WAIR) on money market transactions of promissory notes and commercial papers without recourse.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-14T13:57:40.720471", 
+      "description": " ", 
+      "format": "HTML", 
+      "hash": "", 
+      "id": "06c2c96f-4727-4be0-a918-105db4578654", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Current Reporting Period: Interest Rate", 
+      "package_id": "47e186e7-4b21-4e69-a012-bd5935c7905d", 
+      "position": 0, 
+      "resource_group_id": "49e08dcc-b6bd-4244-b5e9-bcb7693b4980", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://www.bsp.gov.ph/statistics/keystat/winteresrates.htm", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-14T13:57:41.870695", 
+      "description": "", 
+      "format": "DOCX", 
+      "hash": "", 
+      "id": "a378dba8-bb0b-4b98-8fc2-d36584929189", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Methodology", 
+      "package_id": "47e186e7-4b21-4e69-a012-bd5935c7905d", 
+      "position": 1, 
+      "resource_group_id": "49e08dcc-b6bd-4244-b5e9-bcb7693b4980", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/dFWu3zXcOlqmbAHj3exw/metho_money_market_rates.docx", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "Money Market Rates 2015", 
+  "url": "", 
+  "version": ""
+}

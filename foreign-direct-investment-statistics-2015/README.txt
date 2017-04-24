@@ -1,0 +1,1 @@
+This dataset contains FDI statistics of the Philippines (net incurrence of liabilities in the direct investment account of the BOP). It includes non-resident investments in the Philippines, specifically, equity capital (other than reinvestment of earnings), reinvestment of earnings and transactions in debt instruments or intercompany borrowings / lending.

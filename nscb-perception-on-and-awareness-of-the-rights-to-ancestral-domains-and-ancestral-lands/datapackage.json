@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/8d00fccd-6408-4239-96c9-19791fa86f1c/resource/1a1adbe6-91f5-41d0-87e3-7e97e3d60972/download/NSCBPERCEPTIONONANDAWARENESSOFTHERIGHTSTOANCESTRALDOMAINSANDANCESTRALLANDS.xlsx", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "8d00fccd-6408-4239-96c9-19791fa86f1c", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-perception-on-and-awareness-of-the-rights-to-ancestral-domains-and-ancestral-lands", 
+  "notes": "Indigenous People's Rights - Perception on and awareness of the rights to Ancestral Domains and Ancestral Lands", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T00:09:23.960611", 
+      "description": "Indigenous People's Rights - Perception on and awareness of the rights to Ancestral Domains and Ancestral Lands", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "1a1adbe6-91f5-41d0-87e3-7e97e3d60972", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - PERCEPTION ON AND AWARENESS OF THE RIGHTS TO ANCESTRAL DOMAINS AND ANCESTRAL LANDS", 
+      "package_id": "8d00fccd-6408-4239-96c9-19791fa86f1c", 
+      "position": 0, 
+      "resource_group_id": "18294193-9ef2-4e78-ab87-8a6ff0977992", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/8d00fccd-6408-4239-96c9-19791fa86f1c/resource/1a1adbe6-91f5-41d0-87e3-7e97e3d60972/download/NSCBPERCEPTIONONANDAWARENESSOFTHERIGHTSTOANCESTRALDOMAINSANDANCESTRALLANDS.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Population"
+  ], 
+  "title": "NSCB - PERCEPTION ON AND AWARENESS OF THE RIGHTS TO ANCESTRAL DOMAINS AND ANCESTRAL LANDS", 
+  "url": "", 
+  "version": ""
+}

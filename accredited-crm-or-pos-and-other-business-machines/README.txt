@@ -1,0 +1,1 @@
+This dataset contains information on the accredited machines that business can use in the issuance of receipts/accounting system.

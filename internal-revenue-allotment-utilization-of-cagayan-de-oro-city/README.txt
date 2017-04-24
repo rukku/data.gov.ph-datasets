@@ -1,0 +1,1 @@
+This dataset contains report of internal revenue allotment utilization of Cagayan De Oro City.

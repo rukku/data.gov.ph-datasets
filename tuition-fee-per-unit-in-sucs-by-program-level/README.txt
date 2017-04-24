@@ -1,0 +1,1 @@
+This dataset contains the State Universities and Colleges (SUCs) Tuition fee by program level from 2010-2012. The program level are as follows : Baccalaureate (BS/AB), Masters (MS/MA), Doctorate (PHD)

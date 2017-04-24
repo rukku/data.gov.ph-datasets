@@ -1,0 +1,46 @@
+{
+  "author": "Land Transportation Office (LTO)", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/VZOBvhzfKE25ZsZ0cXdf/registered_motor_vehicles_by_classification_and_region_2010-2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2010-12/31/2013"
+  }, 
+  "id": "07b49c7b-ae0f-4baa-a494-b324e711a8e8", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Management Information Division", 
+  "maintainer_email": "pdelacruz@lto.gov.ph", 
+  "name": "registered-motor-vehicles-by-classification-and-region-2010-2013", 
+  "notes": "This dataset contains the annual number of registered motor vehicles from 2010 to 2013, classified according to use (i.e., Private, For Hire, Government, Diplomatic, and Tax-Exempt), vehicle type (i.e., Cars, UV, SUV, Trucks, Motorcycles/Tricycles, and Trailers), and region.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-05T10:38:58.383719", 
+      "description": "This dataset contains the annual number of registered motor vehicles from 2010 to 2013, classified according to use (i.e., Private, For Hire, Government, Diplomatic, and Tax-Exempt), vehicle type (i.e., Cars, UV, SUV, Trucks, Motorcycles/Tricycles, and Trailers), and region.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "35ea8539-731b-4634-9aea-c7c3bcd83be8", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Registered Motor Vehicles by Classification and Region 2010-2013", 
+      "package_id": "07b49c7b-ae0f-4baa-a494-b324e711a8e8", 
+      "position": 0, 
+      "resource_group_id": "cf8a45e5-8365-4b64-bac2-ebdd4ca435d4", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/VZOBvhzfKE25ZsZ0cXdf/registered_motor_vehicles_by_classification_and_region_2010-2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Registered Motor Vehicles by Classification and Region 2010-2013", 
+  "url": "", 
+  "version": ""
+}

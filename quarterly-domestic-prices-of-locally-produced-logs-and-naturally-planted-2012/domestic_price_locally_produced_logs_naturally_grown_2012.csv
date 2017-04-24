@@ -1,0 +1,53 @@
+region,species,log_grade,diameter,ave_price_php_per_cubic_m,q1_php_per_cubic_m,q2_php_per_cubic_m,q3_php_per_cubic_m,q4_php_per_cubic_m
+XI (Davao Region),Almon,Sawlog,Below 30,1750,1750,1750,1750,1750
+XI (Davao Region),Almon,Sawlog,30-39,2150,2150,2150,2150,2150
+XI (Davao Region),Almon,Sawlog,40-49,3000,3000,3000,3000,3000
+XI (Davao Region),Almon,Sawlog,50-59,3500,3500,3500,3500,3500
+XI (Davao Region),Almon,Sawlog,60 and Above,3800,3800,3800,3800,3800
+XI (Davao Region),Apitong,Sawlog,Below 30,1100,1100,1100,1100,1100
+XI (Davao Region),Apitong,Sawlog,30-39,1750,1750,1750,1750,1750
+XI (Davao Region),Apitong,Sawlog,40-49,2350,2350,2350,2350,2350
+XI (Davao Region),Apitong,Sawlog,50-59,2650,2650,2650,2650,2650
+XI (Davao Region),Apitong,Sawlog,60 and Above,3000,3000,3000,3000,3000
+XI (Davao Region),Bagtikan,Sawlog,Below 30,1750,1750,1750,1750,1750
+XI (Davao Region),Bagtikan,Sawlog,30-39,2150,2150,2150,2150,2150
+XI (Davao Region),Bagtikan,Sawlog,40-49,3000,3000,3000,3000,3000
+XI (Davao Region),Bagtikan,Sawlog,50-59,3500,3500,3500,3500,3500
+XI (Davao Region),Bagtikan,Sawlog,60 and Above,3800,3800,3800,3800,3800
+XI (Davao Region),Binuang,Sawlog,Below 30,1100,1100,1100,1100,1100
+XI (Davao Region),Binuang,Sawlog,30-39,1750,1750,1750,1750,1750
+XI (Davao Region),Binuang,Sawlog,40-49,2350,2350,2350,2350,2350
+XI (Davao Region),Binuang,Sawlog,50-59,2650,2650,2650,2650,2650
+XI (Davao Region),Binuang,Sawlog,60 and Above,3000,3000,3000,3000,3000
+XII (SOCCSKSARGEN),Camansi,Sawlog,Below 30,1000,1000,1000,1000,1000
+XII (SOCCSKSARGEN),Camansi,Sawlog,30-39,1500,1500,1500,1500,1500
+XI (Davao Region),Lauan,Sawlog,Below 30,1750,1750,1750,1750,1750
+XI (Davao Region),Lauan,Sawlog,30-39,2278,2663,2150,2150,2150
+XI (Davao Region),Lauan,Sawlog,40-49,3175,3700,3000,3000,3000
+XI (Davao Region),Lauan,Sawlog,50-59,3675,4200,3500,3500,3500
+XI (Davao Region),Lauan,Sawlog,60 and Above,3988,4550,3800,3800,3800
+XI (Davao Region),Lauan,Peeler/Veneer Log,40-49,12720,12720,12720,12720,12720
+XI (Davao Region),Lauan,Peeler/Veneer Log,60 and Above,13992,13992,13992,13992,13992
+XI (Davao Region),Loktob,Sawlog,Below 30,1100,1100,1100,1100,1100
+XI (Davao Region),Loktob,Sawlog,30-39,1750,1750,1750,1750,1750
+XI (Davao Region),Loktob,Sawlog,40-49,2350,2350,2350,2350,2350
+XI (Davao Region),Loktob,Sawlog,50-59,2650,2650,2650,2650,2650
+XI (Davao Region),Loktob,Sawlog,60 and Above,3000,3000,3000,3000,3000
+XI (Davao Region),Marang,Sawlog,Below 30,1433,1433,1433,1433,1433
+XI (Davao Region),Marang,Sawlog,30-39,2500,2500,2500,2500,2500
+XI (Davao Region),Marang,Sawlog,40-49,2800,2800,2800,2800,2800
+XI (Davao Region),Marang,Sawlog,50-59,2900,2900,2900,2900,2900
+XI (Davao Region),Marang,Sawlog,60 and Above,3000,3000,3000,3000,3000
+XI (Davao Region),Marang,Peeler/Veneer Log,30-39,1180,-,-,1180,1180
+XI (Davao Region),Marang,Peeler/Veneer Log,40-49,2200,2200,2200,2200,2200
+XI (Davao Region),Marang,Peeler/Veneer Log,50-59,2200,2200,2200,2200,2200
+XI (Davao Region),Marang,Peeler/Veneer Log,60 and Above,2200,2200,2200,2200,2200
+XII (SOCCSKSARGEN),Marang,Sawlog,Below 30,1000,1000,1000,1000,1000
+XIII (Caraga),Marang,Sawlog,Below 30,1250,1250,1250,1250,1250
+XIII (Caraga),Marang,Sawlog,30-39,2500,2500,2500,2500,2500
+XIII (Caraga),Marang,Sawlog,40-49,3000,3000,3000,3000,3000
+XI (Davao Region),Tangile,Sawlog,Below 30,1750,1750,1750,1750,1750
+XI (Davao Region),Tangile,Sawlog,30-39,2150,2150,2150,2150,2150
+XI (Davao Region),Tangile,Sawlog,40-49,3000,3000,3000,3000,3000
+XI (Davao Region),Tangile,Sawlog,50-59,3500,3500,3500,3500,3500
+XI (Davao Region),Tangile,Sawlog,60 and Above,3800,3800,3800,3800,3800

@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/502e2927-6b81-40cd-bcd9-60a19d071778/resource/727dc9c6-9d81-4814-bf5c-c3cdf58541a6/download/NSCBCapitalInvestmentsofRegisteredSingleProprietorshipsbyActivity2007to2010.xlsx", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "502e2927-6b81-40cd-bcd9-60a19d071778", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-capital-investments-of-registered-single-proprietorships-by-activity-2007-to-2010", 
+  "notes": "Capital Investments of Registered Single Proprietorships, by Activity from 2007 to 2010", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T11:18:57.606365", 
+      "description": "Capital Investments of Registered Single Proprietorships, by Activity from 2007 to 2010", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "727dc9c6-9d81-4814-bf5c-c3cdf58541a6", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - CAPITAL INVESTMENTS OF REGISTERED SINGLE PROPRIETORSHIPS BY ACTIVITY - 2007 TO 2010", 
+      "package_id": "502e2927-6b81-40cd-bcd9-60a19d071778", 
+      "position": 0, 
+      "resource_group_id": "fbc5a9c3-29ce-43f0-bdbf-afd8993bc0f2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/502e2927-6b81-40cd-bcd9-60a19d071778/resource/727dc9c6-9d81-4814-bf5c-c3cdf58541a6/download/NSCBCapitalInvestmentsofRegisteredSingleProprietorshipsbyActivity2007to2010.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "NSCB - CAPITAL INVESTMENTS OF REGISTERED SINGLE PROPRIETORSHIPS BY ACTIVITY - 2007 TO 2010", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,1 @@
+NSCB-Consumer Price Index for all Income Households and Headline Inflation Rates from 2004 to 2014

@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13489979.862644,1588830.843243,1,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22Pawikan%20site%22,%22geoportal:denr_pawikan%22,1,%22PawikanSites%22,0,null]]}", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "c960e7e7-32b1-4823-99a0-ebf2ccd6013c", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "pawikan-site", 
+  "notes": "The DENR - Pawikan Sites is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The extent or area of coverage is nationwide. The extent or area of coverage is nationwide. The dataset was shared to the portal by the Department of Environment and Natural Resources. The Pawikans are Filipino Marine Turtles. These beautiful sea animals have become highly threatened for extinction, due to poaching and hunting- their numbers are alarmingly dwindling (http://www.oceanheritage.com.ph/pawikan-conservation-in-philippines/). There are five types of sea turtles commonly found in the Philippines, they are as follows: Green Turtle, Hawksbill Turtle, Olive Ridley Turtle, Loggerhead Turtle, and Leatherback Turtle (http://pawikancenter.org/common-philippine-marine-turtle-types/).", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-31T15:41:24.751107", 
+      "description": "The DENR - Pawikan Sites is a fundamental dataset uploaded to the Philippine Geoportal System (www.geoportal.gov.ph). The extent or area of coverage is nationwide. The extent or area of coverage is nationwide. The dataset was shared to the portal by the Department of Environment and Natural Resources. The Pawikans are Filipino Marine Turtles. These beautiful sea animals have become highly threatened for extinction, due to poaching and hunting- their numbers are alarmingly dwindling (http://www.oceanheritage.com.ph/pawikan-conservation-in-philippines/). There are five types of sea turtles commonly found in the Philippines, they are as follows: Green Turtle, Hawksbill Turtle, Olive Ridley Turtle, Loggerhead Turtle, and Leatherback Turtle (http://pawikancenter.org/common-philippine-marine-turtle-types/).", 
+      "format": "PDF", 
+      "hash": "", 
+      "id": "6c6a36cf-d536-4e31-8119-da995daf12ec", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "PAWIKAN SITE", 
+      "package_id": "c960e7e7-32b1-4823-99a0-ebf2ccd6013c", 
+      "position": 0, 
+      "resource_group_id": "0dbd1a6b-eab1-4578-95b6-7219083e640e", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://www.geoportal.gov.ph/viewer/?p={%22g%22:[13489979.862644,1588830.843243,1,%22Philippine%20Geoportal%20Basemap%22],%22l%22:[[%22Pawikan%20site%22,%22geoportal:denr_pawikan%22,1,%22PawikanSites%22,0,null]]}", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "PAWIKAN SITE", 
+  "url": "", 
+  "version": ""
+}

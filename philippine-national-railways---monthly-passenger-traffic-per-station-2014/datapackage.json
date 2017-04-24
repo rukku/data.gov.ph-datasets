@@ -1,0 +1,46 @@
+{
+  "author": "Philippine National Railways (PNR)", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/IRCDBwRUAqv2MuDyi3LA/pnr_monthly_passenger_traffic_per_station_2014.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2014-12/31/2014"
+  }, 
+  "id": "e60e5df8-c66b-411a-a05a-e075d4523ec8", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Operations Department", 
+  "maintainer_email": "tolits1552@yahoo.com", 
+  "name": "philippine-national-railways---monthly-passenger-traffic-per-station-2014", 
+  "notes": "This data set contains the monthly number of passengers of Philippine National Railways (PNR) in 2014.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-05T10:39:49.476400", 
+      "description": "This data set contains the monthly number of passengers of Philippine National Railways (PNR) for the year 2014.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "e8201fb2-b72b-4630-afb3-51219f15791e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "PNR - Monthly Passenger Traffic per Station 2014", 
+      "package_id": "e60e5df8-c66b-411a-a05a-e075d4523ec8", 
+      "position": 0, 
+      "resource_group_id": "93b9b920-2be2-4a73-8e2f-ed4958fb56a3", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/IRCDBwRUAqv2MuDyi3LA/pnr_monthly_passenger_traffic_per_station_2014.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Philippine National Railways - Monthly Passenger Traffic per Station 2014", 
+  "url": "", 
+  "version": ""
+}

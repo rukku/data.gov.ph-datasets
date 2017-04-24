@@ -1,0 +1,75 @@
+indicator_1,indicator_2,indicator_3,indicator_4,indicator_5,2007,2008,2009,2010,2011,2012
+"OWWA membership, promotion, health care, disability and death benefits",OWWA Membership,Number of Members Covered,Number of Members Covered,Number of Members Covered,1088843,1242524,1123124,1225016,1473898,1603410
+"OWWA membership, promotion, health care, disability and death benefits",Disability and Death Benefits,Death and Burial Benefit 1,Number of Claims Paid,Number of Claims Paid,1328,2488,1598,1846,1626,1814
+"OWWA membership, promotion, health care, disability and death benefits",Disability and Death Benefits,Death and Burial Benefit 2,Total Amount Released,Total Amount Released ,185060,199009,194972,250540,218780,251490
+"OWWA membership, promotion, health care, disability and death benefits",Disability and Death Benefits,Disability/Dismemberment,Number of Claims Paid,Number of Claims Paid,587,1117,1098,1493,1188,1291
+"OWWA membership, promotion, health care, disability and death benefits",Disability and Death Benefits,Disability/Dismemberment,Total Amount Released,Total Amount Released,13028,24538,28932,33316,28025,30931
+"OWWA membership, promotion, health care, disability and death benefits",Disability and Death Benefits,Total Disability,Number of Claims Paid,Number of Claims Paid,-,-,-,36,-,-
+"OWWA membership, promotion, health care, disability and death benefits",Disability and Death Benefits,Total Disability,Total Amount Released,Total Amount Released,-,-,-,2448,-,-
+"OWWA membership, promotion, health care, disability and death benefits",Health Program,Local,Number of Claims Paid,Number of Claims Paid,-,-,-,486,380,-
+"OWWA membership, promotion, health care, disability and death benefits",Health Program,Local,Total Amount Released,Total Amount Released,-,-,-,25642,19613,-
+"OWWA membership, promotion, health care, disability and death benefits",Health Program,On-Site,Number of Claims Paid,Number of Claims Paid,-,-,-,31,-,-
+"OWWA membership, promotion, health care, disability and death benefits",Health Program,On-Site,Total Amount Released,Total Amount Released,-,-,-,1861,-,-
+"OWWA membership, promotion, health care, disability and death benefits",Rehabilitation Program,Number of Claims Paid,Number of Claims Paid,Number of Claims Paid,-,-,-,16,6,-
+"OWWA membership, promotion, health care, disability and death benefits",Rehabilitation Program,Total Amount Released,Total Amount Released,Total Amount Released,-,-,-,264,44,-
+Education and Training,Skills-for-Employment-Scholarship Program (SESP),Number of Scholars,Number of Scholars,Number of Scholars,1071,2197,3126,5622,5905,5299
+Education and Training,Skills-for-Employment-Scholarship Program (SESP),Number of Graduates,Number of Graduates,Number of Graduates,-,-,-,-,-,4832
+Education and Training,Seafarer's Upgrading Program (SUP),Number of Scholars,Number of Scholars,Number of Scholars,3992,5719,7272,9570,10406,17798
+Education and Training,Seafarer's Upgrading Program (SUP),Number of Graduates,Number of Graduates,Number of Graduates,-,-,-,-,-,17639
+Education and Training,Seafarer's Bridging Program,Number of Scholars,Number of Scholars,Number of Scholars,-,107,84,-,-,-
+Education and Training,Mariner's Dugtong Aral (MDA),Number of Scholars (as of),Number of Scholars (as of),Number of Scholars (as of),-,-,-,78,46,1
+Education and Training,Sagip-Batang Manggagawa Program,Number of Scholars (as of),Number of Scholars (as of),Number of Scholars (as of),18,9,-,5,12,-
+Education and Training,Microsoft Tulay Project/IT Program 2,Number of Availees,Number of Availees,Number of Availees,5802,3990,13210,-,-,-
+Education and Training,Microsoft Tulay Project/IT Program 3,Number of Availees,Local,Local,-,-,-,13522,17824,23198
+Education and Training,Microsoft Tulay Project/IT Program 4,Number of Availees,On-Site,On-Site,-,-,-,1721,14700,1720
+Education and Training,Education for Development Scholarship Program (EDSP),Number of Scholars (as of),Number of Scholars (as of),Number of Scholars (as of),273,371,438,636,469,537
+Education and Training,Education for Development Scholarship Program (EDSP),Number of Graduates,Number of Graduates,Number of Graduates,-,-,-,-,-,64
+Education and Training,OFW Dependent Scholarship Program (ODSP),Number of Scholars,Number of Scholars,Number of Scholars,-,-,-,662,1511,2627
+Education and Training,OFW Dependent Scholarship Program (ODSP),Number of Graduates,Number of Graduates,Number of Graduates,-,-,-,-,18,33
+Education and Training,Education cum Livelihood Assistance for Children and surviving spouse/next-of-kin (NOK) of deceased OFWs,Number of Scholars,Number of Scholars,Number of Scholars,-,-,-,320,1208,2005
+Education and Training,Education cum Livelihood Assistance for Children and surviving spouse/next-of-kin (NOK) of deceased OFWs,Number of Graduates,Number of Graduates,Number of Graduates,-,-,-,-,856,664
+Education and Training,Congressional Migrant Workers Scholarship (CMWSP-PCSO),Number of Scholars (as of),Number of Scholars (as of),Number of Scholars (as of),88,88,57,46,25,-
+Education and Training,Tuloy-Aral Project,Number of Availees,Number of Availees,Number of Availees,203,211,181,142,150,-
+Education and Training,Mariner's Educational Loan Assistance Program (MEDLOP),Number of Scholars,Number of Scholars,Number of Scholars,-,-,-,-,-,10
+Education and Training,Mariner's Educational Loan Assistance Program (MEDLOP),Number of Graduates,Number of Graduates,Number of Graduates,-,-,-,-,-,-
+Social Services and family Welfare Assistance,Pre-Departure Orientation Seminar (PDOS),Number of PDOS Conducted (OWWA-ROs),Number of PDOS Conducted (OWWA-ROs),Number of PDOS Conducted (OWWA-ROs),-,24,547,208,594,-
+Social Services and family Welfare Assistance,Pre-Departure Orientation Seminar (PDOS),Number of PDOS Conducted (OWWA-ROs),Number of Participants,Number of Participants,78750,1483,6249,6012,12413,"35, 177"
+Social Services and family Welfare Assistance,Pre-Departure Orientation Seminar (PDOS),Number of Accredited PDOS providers,Number of Accredited PDOS providers,Number of Accredited PDOS providers,196,920,246,NA,-,-
+Social Services and family Welfare Assistance,Pre-Departure Orientation Seminar (PDOS),Number of PDOS conducted by registered providers,Number of PDOS conducted by registered providers,Number of PDOS conducted by registered providers,18877,20135,18448,3041,-,-
+Social Services and family Welfare Assistance,Pre-Departure Orientation Seminar (PDOS),Number of PDOS conducted by registered providers,Number of Participants,Number of Participants,684898,396112,483449,478814,517173,603397
+Social Services and family Welfare Assistance,Language and Culture Familiarization Training,Number of Language Training Conducted,Number of Language Training Conducted,Number of Language Training Conducted,72,72,NA,898,1704,3134
+Social Services and family Welfare Assistance,Language and Culture Familiarization Training,Number of Availees,Number of Availees,Number of Availees,68377,60979,66521,95246,127165,156452
+Social Services and family Welfare Assistance,Language and Culture Familiarization Training,Basic Life Support First Aid Training,Number of availees,Number of availees,-,-,-,1728,1898,911
+Social Services and family Welfare Assistance,Language and Culture Familiarization Training,Number of availees,Stress Management Training,Number of Availees,-,-,-,90509,-,-
+Social Services and family Welfare Assistance,Repatriation Program,Emergency Repatriation Program (ERP)/Provision of Tickets/Airfare,Number of Workers Ticketed,Number of Workers Ticketed,733,571,1903,2942,1436,202
+Social Services and family Welfare Assistance,Repatriation Program,Airport Assistance,Number of Workers Assisted,Number of Workers Assisted,5597,5538,6962,6719,16876,7923
+Social Services and family Welfare Assistance,Repatriation Program,Halfway Home Accommodation,Number of Workers Assisted,Number of Workers Assisted,1821,1924,2231,2870,4121,2986
+Social Services and family Welfare Assistance,Repatriation Program,Medical/Rehabilitation Services,Number of Workers Assisted,Number of Workers Assisted,45,79,93,7,67,148
+Social Services and family Welfare Assistance,Repatriation Program,Domestic Transport Fare,Number of Workers Assisted,Number of Workers Assisted,307,761,973,1162,463,824
+Social Services and family Welfare Assistance,Repatriation Program,On-Site,Number of Workers Assisted,Number of Workers Assisted,11817,10782,10882,8591,28859,8459
+Social Services and family Welfare Assistance,Repatriation Program,On-Site,Number of Workers Repatriated,Number of Workers Repatriated,9419,8026,9252,6485,10565,3319
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,OFW Organization Formation,OFW Organization Formation,1720,1968,2313,-,3462,1739
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,OFW Organization Formation,Number of members (as of),39490,40205,52578,-,103328,54645
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,OFW Organization Formation,Number of members (as of) - Local,-,-,-,-,-,-
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,OFW Organization Formation,Number of members (as of) - Number of OFCs Organizations Maintained (as of),-,-,-,2706,-,-
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,OFW Organization Formation,Number of members (as of) - Number of members (as of),-,-,-,58388,-,-
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,OFW Organization Formation,Number of members (as of) - On-Site,-,-,-,-,-,
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,OFW Organization Formation,Number of members (as of) - Number of OFCs Organizations Maintained (as of),-,-,-,997,-,-
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,OFW Organization Formation,Number of members (as of) - Number of members (as of),-,-,-,99145,-,
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,Organization Capability Building (OCB),Number of OCB Trainings Conducted,260,803,698,659,1786,1455
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,Organization Capability Building (OCB),Number of Participants,7496,49077,31720,21951,41354,59387
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,Organization Capability Building (OCB),Number of Livelihood Skilll Trainings Conducted,221,255,934,413,653,2165
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,Organization Capability Building (OCB),Number of Participants,3513,13858,39875,8334,5557,42697
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,Community-Based Skills Entrepreneurship,Development Training,-,-,-,-,-,-
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,Community-Based Skills Entrepreneurship,Number of Trainings Conducted,1387,643,310,792,400,900
+Social Services and family Welfare Assistance,Reintegration Program,Community Organizing,Community-Based Skills Entrepreneurship,Number of Participants,20815,30495,23845,21210,15073,31812
+Social Services and family Welfare Assistance,Reintegration Program,Organizational Support Services,OFW Groceria Project,Number of Trainings/Orientation Conducted,347,153,-,-,-,-
+Social Services and family Welfare Assistance,Reintegration Program,Organizational Support Services,OFW Groceria Project,Number of Participants,9910,6643,-,-,-,-
+Social Services and family Welfare Assistance,Reintegration Program,Organizational Support Services,OFW Groceria Project,Number of OFW Groceria Projects Maintained,241,496,500,100,1970,-
+Social Services and family Welfare Assistance,Reintegration Program,Organizational Support Services,OFW Groceria Project,Total Amount Released/Collected,12050,41361,-,243,61339,-
+Social Services and family Welfare Assistance,Reintegration Program,Organizational Support Services,OFW Groceria Project,Number of Members/Beneficiaries,241,496,-,-,-,-
+Social Services and family Welfare Assistance,Reintegration Program,Organizational Support Services,OWWA-NLSF Livelihood Development,Number of Livelihood Projects Approved,323,258,217,203,267,169
+Social Services and family Welfare Assistance,Reintegration Program,Organizational Support Services,OWWA-NLSF Livelihood Development,Amount of Loans Released,47549,36075,32293,28340,38835,27465
+Social Services and family Welfare Assistance,Reintegration Program,Organizational Support Services,OWWA-NLSF Livelihood Development,Total Number of Beneficiaries,323,258,590,585,697,524
+Workers Assistance and On-Site Services,Local,Number of Clients Assisted ,Number of Clients Assisted ,Number of Clients Assisted ,156758,169482,86249,33294,65476,870834
+Workers Assistance and On-Site Services,On-Site,Number of Clients Assisted,Number of Clients Assisted,Number of Clients Assisted,137915,100083,153520,98130,267693,123436

@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/30b26754-c111-4478-9857-2b9c52909bbf/resource/05e7aae3-1cdb-481d-a10c-fe11fa74338e/download/2015NEPAdjustedAutomatic.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "30b26754-c111-4478-9857-2b9c52909bbf", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "national-expenditure-program-fy-2015-adjusted-automatic", 
+  "notes": "National Expenditure Program (NEP) Fiscal Year 2015 - Adjusted-Automatic (2014)", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T11:50:15.999316", 
+      "description": "National Expenditure Program (NEP) Fiscal Year 2015 - Adjusted-Automatic (2014)", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "05e7aae3-1cdb-481d-a10c-fe11fa74338e", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NATIONAL EXPENDITURE PROGRAM FY 2015 - ADJUSTED-AUTOMATIC", 
+      "package_id": "30b26754-c111-4478-9857-2b9c52909bbf", 
+      "position": 0, 
+      "resource_group_id": "fe2dbe9d-a36b-4d79-957e-7db2e6fc203b", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/30b26754-c111-4478-9857-2b9c52909bbf/resource/05e7aae3-1cdb-481d-a10c-fe11fa74338e/download/2015NEPAdjustedAutomatic.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Public Finance"
+  ], 
+  "title": "NATIONAL EXPENDITURE PROGRAM FY 2015 - ADJUSTED-AUTOMATIC", 
+  "url": "", 
+  "version": ""
+}

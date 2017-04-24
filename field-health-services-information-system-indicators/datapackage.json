@@ -1,0 +1,46 @@
+{
+  "author": "Department of Health", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/iR6Up7dCFTPuANqooM64/doh_field_health_services_information_system_indicators.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2007-12/31/2012"
+  }, 
+  "id": "f8ed2b27-5302-49bc-9a5d-c1f308bf7833", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "National Epidemiology Center - Department of Health", 
+  "maintainer_email": "herdielh@gmail.com", 
+  "name": "field-health-services-information-system-indicators", 
+  "notes": "This contains dataset on selected health indicators reported through the routine health information system of the DOH.  Service delivery indicators and mortality and morbidity data are available in the dataset and summarized at the national and regional levels.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-13T15:10:52.384446", 
+      "description": "This contains dataset on selected health indicators reported through the routine health information system of the DOH.  Service delivery indicators and mortality and morbidity data are available in the dataset and summarized at the national and regional levels.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "4e10f1b4-481c-4adc-b6c3-ef6006d839d0", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Field Health Services Information System Indicators 2007-2012", 
+      "package_id": "f8ed2b27-5302-49bc-9a5d-c1f308bf7833", 
+      "position": 0, 
+      "resource_group_id": "bd35677c-39f2-4bf3-b3f0-179e706ce819", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/iR6Up7dCFTPuANqooM64/doh_field_health_services_information_system_indicators.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Health"
+  ], 
+  "title": "Field Health Services Information System Indicators", 
+  "url": "", 
+  "version": ""
+}

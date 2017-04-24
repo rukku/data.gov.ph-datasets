@@ -1,0 +1,1 @@
+This dataset contains the gross enrollment ratio and net enrollment ratio for public elementary schools for the year 2005 to 2011.

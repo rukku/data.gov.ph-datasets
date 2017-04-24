@@ -1,0 +1,1 @@
+Contains monthly data on total number of trips (one direction) travelled by all operational Light Rail Vehicles (LRVs, or coaches) on Line 1 during the peak operation hours.

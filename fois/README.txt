@@ -1,0 +1,3 @@
+This information system is used in the registration of Filipino emigrants. It allows frontline personnel to input the primary data of registering Filipino emigrants. The information gathered from the registration forms are also used to generate demographic statistics. The master list of Filipino emigrants are sent on a monthly basis to Philippine embassies and consulates.
+
+Demographic Profile of Registered Filipino Emigrants by: major country of destination, specific country of destination, age, sex, occupation prior to migration (data is from 1981-2012) and civil status, educational background, place of origin in the Philippines (data is from 1988 - 2012).

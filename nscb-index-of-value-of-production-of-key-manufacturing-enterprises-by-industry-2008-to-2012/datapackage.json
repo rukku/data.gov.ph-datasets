@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/66697ed4-bb61-4a86-a489-4c862aea55b7/resource/42375b8a-d7bc-42d5-b58b-c2fa38662390/download/NSCBIndexofValueofProductionofKeyManufacturingEnterprisesbyIndustry2008to2012.xlsx", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "66697ed4-bb61-4a86-a489-4c862aea55b7", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "nscb-index-of-value-of-production-of-key-manufacturing-enterprises-by-industry-2008-to-2012", 
+  "notes": "Index of Value of Production of Key Manufacturing Enterprises by Industry from 2008 to 2012", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-29T23:08:38.589721", 
+      "description": "Index of Value of Production of Key Manufacturing Enterprises by Industry from 2008 to 2012", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "42375b8a-d7bc-42d5-b58b-c2fa38662390", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "NSCB - INDEX OF VALUE OF PRODUCTION OF KEY MANUFACTURING ENTERPRISES BY INDUSTRY - 2008 TO 2012", 
+      "package_id": "66697ed4-bb61-4a86-a489-4c862aea55b7", 
+      "position": 0, 
+      "resource_group_id": "e0c0c457-d407-4ef4-abeb-68ae778a1b9a", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/66697ed4-bb61-4a86-a489-4c862aea55b7/resource/42375b8a-d7bc-42d5-b58b-c2fa38662390/download/NSCBIndexofValueofProductionofKeyManufacturingEnterprisesbyIndustry2008to2012.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "NSCB - INDEX OF VALUE OF PRODUCTION OF KEY MANUFACTURING ENTERPRISES BY INDUSTRY - 2008 TO 2012", 
+  "url": "", 
+  "version": ""
+}

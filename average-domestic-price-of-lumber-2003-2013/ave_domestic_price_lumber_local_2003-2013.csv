@@ -1,0 +1,2681 @@
+year,region,species,dimensions,php_per_board_foot
+2013,National,A. Manguim,"2""x4""x8'",25.32
+2013,National,Acacia,"2""x4""x8'",31.63
+2013,National,Antipolo,"2""x4""x8'",33.75
+2013,National,Apitong,"2""x4""x8'",36.2
+2013,National,Bagras,"2""x4""x8'",29.86
+2013,National,Benguet Pine,"2""x4""x8'",30.53
+2013,National,Binuang,"2""x4""x8'",28.33
+2013,National,Dao,"2""x4""x8'",32.33
+2013,National,Falcata,"2""x4""x8'",24.56
+2013,National,Gmelina,"2""x4""x8'",27.38
+2013,National,Gubas,"2""x4""x8'",9
+2013,National,Ipil,"2""x4""x8'",26.22
+2013,National,Kalantas,"2""x4""x8'",30.67
+2013,National,Lauan,"2""x4""x8'",42.46
+2013,National,Loktob,"2""x4""x8'",27
+2013,National,Mahogany,"2""x4""x8'",31.62
+2013,National,Narra,"2""x4""x8'",121.53
+2013,National,Tanguile,"2""x4""x8'",38.82
+2013,National,Yakal,"2""x4""x8'",87
+2013,NCR,A. Manguim,"2""x4""x8'",36.21
+2013,NCR,Acacia,"2""x4""x8'",-
+2013,NCR,Antipolo,"2""x4""x8'",38
+2013,NCR,Apitong,"2""x4""x8'",-
+2013,NCR,Bagras,"2""x4""x8'",37.25
+2013,NCR,Benguet Pine,"2""x4""x8'",35
+2013,NCR,Binuang,"2""x4""x8'",-
+2013,NCR,Dao,"2""x4""x8'",-
+2013,NCR,Falcata,"2""x4""x8'",45
+2013,NCR,Gmelina,"2""x4""x8'",36.08
+2013,NCR,Gubas,"2""x4""x8'",-
+2013,NCR,Ipil,"2""x4""x8'",-
+2013,NCR,Kalantas,"2""x4""x8'",-
+2013,NCR,Lauan,"2""x4""x8'",-
+2013,NCR,Loktob,"2""x4""x8'",-
+2013,NCR,Mahogany,"2""x4""x8'",36.26
+2013,NCR,Narra,"2""x4""x8'",-
+2013,NCR,Tanguile,"2""x4""x8'",-
+2013,NCR,Yakal,"2""x4""x8'",-
+2013,II (Cagayan Valley),A. Manguim,"2""x4""x8'",-
+2013,II (Cagayan Valley),Acacia,"2""x4""x8'",26
+2013,II (Cagayan Valley),Antipolo,"2""x4""x8'",-
+2013,II (Cagayan Valley),Apitong,"2""x4""x8'",-
+2013,II (Cagayan Valley),Bagras,"2""x4""x8'",-
+2013,II (Cagayan Valley),Benguet Pine,"2""x4""x8'",-
+2013,II (Cagayan Valley),Binuang,"2""x4""x8'",-
+2013,II (Cagayan Valley),Dao,"2""x4""x8'",-
+2013,II (Cagayan Valley),Falcata,"2""x4""x8'",-
+2013,II (Cagayan Valley),Gmelina,"2""x4""x8'",22.65
+2013,II (Cagayan Valley),Gubas,"2""x4""x8'",-
+2013,II (Cagayan Valley),Ipil,"2""x4""x8'",-
+2013,II (Cagayan Valley),Kalantas,"2""x4""x8'",-
+2013,II (Cagayan Valley),Lauan,"2""x4""x8'",-
+2013,II (Cagayan Valley),Loktob,"2""x4""x8'",-
+2013,II (Cagayan Valley),Mahogany,"2""x4""x8'",26
+2013,II (Cagayan Valley),Narra,"2""x4""x8'",-
+2013,II (Cagayan Valley),Tanguile,"2""x4""x8'",-
+2013,II (Cagayan Valley),Yakal,"2""x4""x8'",-
+2013,III (Central Luzon),A. Manguim,"2""x4""x8'",-
+2013,III (Central Luzon),Acacia,"2""x4""x8'",-
+2013,III (Central Luzon),Antipolo,"2""x4""x8'",-
+2013,III (Central Luzon),Apitong,"2""x4""x8'",37
+2013,III (Central Luzon),Bagras,"2""x4""x8'",-
+2013,III (Central Luzon),Benguet Pine,"2""x4""x8'",-
+2013,III (Central Luzon),Binuang,"2""x4""x8'",-
+2013,III (Central Luzon),Dao,"2""x4""x8'",-
+2013,III (Central Luzon),Falcata,"2""x4""x8'",-
+2013,III (Central Luzon),Gmelina,"2""x4""x8'",29.16
+2013,III (Central Luzon),Gubas,"2""x4""x8'",-
+2013,III (Central Luzon),Ipil,"2""x4""x8'",-
+2013,III (Central Luzon),Kalantas,"2""x4""x8'",-
+2013,III (Central Luzon),Lauan,"2""x4""x8'",37
+2013,III (Central Luzon),Loktob,"2""x4""x8'",-
+2013,III (Central Luzon),Mahogany,"2""x4""x8'",42
+2013,III (Central Luzon),Narra,"2""x4""x8'",-
+2013,III (Central Luzon),Tanguile,"2""x4""x8'",37
+2013,III (Central Luzon),Yakal,"2""x4""x8'",-
+2013,IV-A (CALABARZON),A. Manguim,"2""x4""x8'",16
+2013,IV-A (CALABARZON),Acacia,"2""x4""x8'",-
+2013,IV-A (CALABARZON),Antipolo,"2""x4""x8'",-
+2013,IV-A (CALABARZON),Apitong,"2""x4""x8'",45
+2013,IV-A (CALABARZON),Bagras,"2""x4""x8'",-
+2013,IV-A (CALABARZON),Benguet Pine,"2""x4""x8'",-
+2013,IV-A (CALABARZON),Binuang,"2""x4""x8'",-
+2013,IV-A (CALABARZON),Dao,"2""x4""x8'",-
+2013,IV-A (CALABARZON),Falcata,"2""x4""x8'",-
+2013,IV-A (CALABARZON),Gmelina,"2""x4""x8'",24.22
+2013,IV-A (CALABARZON),Gubas,"2""x4""x8'",-
+2013,IV-A (CALABARZON),Ipil,"2""x4""x8'",19.32
+2013,IV-A (CALABARZON),Kalantas,"2""x4""x8'",-
+2013,IV-A (CALABARZON),Lauan,"2""x4""x8'",42.8
+2013,IV-A (CALABARZON),Loktob,"2""x4""x8'",-
+2013,IV-A (CALABARZON),Mahogany,"2""x4""x8'",29.6
+2013,IV-A (CALABARZON),Narra,"2""x4""x8'",142.8
+2013,IV-A (CALABARZON),Tanguile,"2""x4""x8'",44.6
+2013,IV-A (CALABARZON),Yakal,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),A. Manguim,"2""x4""x8'",30
+2013,IV-B (MIMAROPA),Acacia,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Antipolo,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Apitong,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Bagras,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Benguet Pine,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Binuang,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Dao,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Falcata,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Gmelina,"2""x4""x8'",33.35
+2013,IV-B (MIMAROPA),Gubas,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Ipil,"2""x4""x8'",33.13
+2013,IV-B (MIMAROPA),Kalantas,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Lauan,"2""x4""x8'",33
+2013,IV-B (MIMAROPA),Loktob,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Mahogany,"2""x4""x8'",28.34
+2013,IV-B (MIMAROPA),Narra,"2""x4""x8'",80
+2013,IV-B (MIMAROPA),Tanguile,"2""x4""x8'",-
+2013,IV-B (MIMAROPA),Yakal,"2""x4""x8'",-
+2013,V (Bicol Region),A. Manguim,"2""x4""x8'",41.33
+2013,V (Bicol Region),Acacia,"2""x4""x8'",37.25
+2013,V (Bicol Region),Antipolo,"2""x4""x8'",29.5
+2013,V (Bicol Region),Apitong,"2""x4""x8'",39
+2013,V (Bicol Region),Bagras,"2""x4""x8'",-
+2013,V (Bicol Region),Benguet Pine,"2""x4""x8'",-
+2013,V (Bicol Region),Binuang,"2""x4""x8'",28.33
+2013,V (Bicol Region),Dao,"2""x4""x8'",32.33
+2013,V (Bicol Region),Falcata,"2""x4""x8'",-
+2013,V (Bicol Region),Gmelina,"2""x4""x8'",35.87
+2013,V (Bicol Region),Gubas,"2""x4""x8'",-
+2013,V (Bicol Region),Ipil,"2""x4""x8'",-
+2013,V (Bicol Region),Kalantas,"2""x4""x8'",30.67
+2013,V (Bicol Region),Lauan,"2""x4""x8'",42.78
+2013,V (Bicol Region),Loktob,"2""x4""x8'",27
+2013,V (Bicol Region),Mahogany,"2""x4""x8'",38
+2013,V (Bicol Region),Narra,"2""x4""x8'",93.33
+2013,V (Bicol Region),Tanguile,"2""x4""x8'",38.67
+2013,V (Bicol Region),Yakal,"2""x4""x8'",-
+2013,VI (Western Visayas),A. Manguim,"2""x4""x8'",-
+2013,VI (Western Visayas),Acacia,"2""x4""x8'",-
+2013,VI (Western Visayas),Antipolo,"2""x4""x8'",-
+2013,VI (Western Visayas),Apitong,"2""x4""x8'",-
+2013,VI (Western Visayas),Bagras,"2""x4""x8'",-
+2013,VI (Western Visayas),Benguet Pine,"2""x4""x8'",26.06
+2013,VI (Western Visayas),Binuang,"2""x4""x8'",-
+2013,VI (Western Visayas),Dao,"2""x4""x8'",-
+2013,VI (Western Visayas),Falcata,"2""x4""x8'",-
+2013,VI (Western Visayas),Gmelina,"2""x4""x8'",25.72
+2013,VI (Western Visayas),Gubas,"2""x4""x8'",-
+2013,VI (Western Visayas),Ipil,"2""x4""x8'",-
+2013,VI (Western Visayas),Kalantas,"2""x4""x8'",-
+2013,VI (Western Visayas),Lauan,"2""x4""x8'",55.75
+2013,VI (Western Visayas),Loktob,"2""x4""x8'",-
+2013,VI (Western Visayas),Mahogany,"2""x4""x8'",28.03
+2013,VI (Western Visayas),Narra,"2""x4""x8'",-
+2013,VI (Western Visayas),Tanguile,"2""x4""x8'",-
+2013,VI (Western Visayas),Yakal,"2""x4""x8'",-
+2013,VII (Central Visayas),A. Manguim,"2""x4""x8'",-
+2013,VII (Central Visayas),Acacia,"2""x4""x8'",-
+2013,VII (Central Visayas),Antipolo,"2""x4""x8'",-
+2013,VII (Central Visayas),Apitong,"2""x4""x8'",29
+2013,VII (Central Visayas),Bagras,"2""x4""x8'",32
+2013,VII (Central Visayas),Benguet Pine,"2""x4""x8'",-
+2013,VII (Central Visayas),Binuang,"2""x4""x8'",-
+2013,VII (Central Visayas),Dao,"2""x4""x8'",-
+2013,VII (Central Visayas),Falcata,"2""x4""x8'",-
+2013,VII (Central Visayas),Gmelina,"2""x4""x8'",28
+2013,VII (Central Visayas),Gubas,"2""x4""x8'",-
+2013,VII (Central Visayas),Ipil,"2""x4""x8'",-
+2013,VII (Central Visayas),Kalantas,"2""x4""x8'",-
+2013,VII (Central Visayas),Lauan,"2""x4""x8'",44.42
+2013,VII (Central Visayas),Loktob,"2""x4""x8'",-
+2013,VII (Central Visayas),Mahogany,"2""x4""x8'",32.13
+2013,VII (Central Visayas),Narra,"2""x4""x8'",170
+2013,VII (Central Visayas),Tanguile,"2""x4""x8'",-
+2013,VII (Central Visayas),Yakal,"2""x4""x8'",81.5
+2013,VIII (Eastern Visayas),A. Manguim,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Acacia,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Antipolo,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Apitong,"2""x4""x8'",31
+2013,VIII (Eastern Visayas),Bagras,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Benguet Pine,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Binuang,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Dao,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Falcata,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Gmelina,"2""x4""x8'",35
+2013,VIII (Eastern Visayas),Gubas,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Ipil,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Kalantas,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Lauan,"2""x4""x8'",41.5
+2013,VIII (Eastern Visayas),Loktob,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Mahogany,"2""x4""x8'",40
+2013,VIII (Eastern Visayas),Narra,"2""x4""x8'",-
+2013,VIII (Eastern Visayas),Tanguile,"2""x4""x8'",35
+2013,VIII (Eastern Visayas),Yakal,"2""x4""x8'",92.5
+2013,IX (Zamboanga Peninsula),A. Manguim,"2""x4""x8'",16.67
+2013,IX (Zamboanga Peninsula),Acacia,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Antipolo,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Apitong,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Bagras,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Benguet Pine,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Binuang,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Dao,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Falcata,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Gmelina,"2""x4""x8'",24.34
+2013,IX (Zamboanga Peninsula),Gubas,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Ipil,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Kalantas,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Lauan,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Loktob,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Mahogany,"2""x4""x8'",27.11
+2013,IX (Zamboanga Peninsula),Narra,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Tanguile,"2""x4""x8'",-
+2013,IX (Zamboanga Peninsula),Yakal,"2""x4""x8'",-
+2013,X (Northern Mindanao),A. Manguim,"2""x4""x8'",21.8
+2013,X (Northern Mindanao),Acacia,"2""x4""x8'",-
+2013,X (Northern Mindanao),Antipolo,"2""x4""x8'",-
+2013,X (Northern Mindanao),Apitong,"2""x4""x8'",-
+2013,X (Northern Mindanao),Bagras,"2""x4""x8'",25
+2013,X (Northern Mindanao),Benguet Pine,"2""x4""x8'",-
+2013,X (Northern Mindanao),Binuang,"2""x4""x8'",-
+2013,X (Northern Mindanao),Dao,"2""x4""x8'",-
+2013,X (Northern Mindanao),Falcata,"2""x4""x8'",19.67
+2013,X (Northern Mindanao),Gmelina,"2""x4""x8'",17.6
+2013,X (Northern Mindanao),Gubas,"2""x4""x8'",-
+2013,X (Northern Mindanao),Ipil,"2""x4""x8'",-
+2013,X (Northern Mindanao),Kalantas,"2""x4""x8'",-
+2013,X (Northern Mindanao),Lauan,"2""x4""x8'",-
+2013,X (Northern Mindanao),Loktob,"2""x4""x8'",-
+2013,X (Northern Mindanao),Mahogany,"2""x4""x8'",23.95
+2013,X (Northern Mindanao),Narra,"2""x4""x8'",-
+2013,X (Northern Mindanao),Tanguile,"2""x4""x8'",-
+2013,X (Northern Mindanao),Yakal,"2""x4""x8'",-
+2013,XI (Davao Region),A. Manguim,"2""x4""x8'",21.57
+2013,XI (Davao Region),Acacia,"2""x4""x8'",-
+2013,XI (Davao Region),Antipolo,"2""x4""x8'",-
+2013,XI (Davao Region),Apitong,"2""x4""x8'",-
+2013,XI (Davao Region),Bagras,"2""x4""x8'",25.2
+2013,XI (Davao Region),Benguet Pine,"2""x4""x8'",-
+2013,XI (Davao Region),Binuang,"2""x4""x8'",-
+2013,XI (Davao Region),Dao,"2""x4""x8'",-
+2013,XI (Davao Region),Falcata,"2""x4""x8'",-
+2013,XI (Davao Region),Gmelina,"2""x4""x8'",21.97
+2013,XI (Davao Region),Gubas,"2""x4""x8'",-
+2013,XI (Davao Region),Ipil,"2""x4""x8'",-
+2013,XI (Davao Region),Kalantas,"2""x4""x8'",-
+2013,XI (Davao Region),Lauan,"2""x4""x8'",-
+2013,XI (Davao Region),Loktob,"2""x4""x8'",-
+2013,XI (Davao Region),Mahogany,"2""x4""x8'",30.2
+2013,XI (Davao Region),Narra,"2""x4""x8'",-
+2013,XI (Davao Region),Tanguile,"2""x4""x8'",-
+2013,XI (Davao Region),Yakal,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),A. Manguim,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Acacia,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Antipolo,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Apitong,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Bagras,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Benguet Pine,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Binuang,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Dao,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Falcata,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Gmelina,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Gubas,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Ipil,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Kalantas,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Lauan,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Loktob,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Mahogany,"2""x4""x8'",42
+2013,XII (SOCCSKSARGEN),Narra,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Tanguile,"2""x4""x8'",-
+2013,XII (SOCCSKSARGEN),Yakal,"2""x4""x8'",-
+2013,XIII (Caraga),A. Manguim,"2""x4""x8'",19
+2013,XIII (Caraga),Acacia,"2""x4""x8'",-
+2013,XIII (Caraga),Antipolo,"2""x4""x8'",-
+2013,XIII (Caraga),Apitong,"2""x4""x8'",-
+2013,XIII (Caraga),Bagras,"2""x4""x8'",-
+2013,XIII (Caraga),Benguet Pine,"2""x4""x8'",-
+2013,XIII (Caraga),Binuang,"2""x4""x8'",-
+2013,XIII (Caraga),Dao,"2""x4""x8'",-
+2013,XIII (Caraga),Falcata,"2""x4""x8'",9
+2013,XIII (Caraga),Gmelina,"2""x4""x8'",22
+2013,XIII (Caraga),Gubas,"2""x4""x8'",9
+2013,XIII (Caraga),Ipil,"2""x4""x8'",-
+2013,XIII (Caraga),Kalantas,"2""x4""x8'",-
+2013,XIII (Caraga),Lauan,"2""x4""x8'",-
+2013,XIII (Caraga),Loktob,"2""x4""x8'",-
+2013,XIII (Caraga),Mahogany,"2""x4""x8'",19
+2013,XIII (Caraga),Narra,"2""x4""x8'",-
+2013,XIII (Caraga),Tanguile,"2""x4""x8'",-
+2013,XIII (Caraga),Yakal,"2""x4""x8'",-
+2012,National,A. Manguim,"2""x4""x8'",15.99
+2012,National,Acacia,"2""x4""x8'",28.67
+2012,National,Antipolo,"2""x4""x8'",27.67
+2012,National,Apitong,"2""x4""x8'",32
+2012,National,Bagras,"2""x4""x8'",29.73
+2012,National,Benguet Pine,"2""x4""x8'",48
+2012,National,Binuang,"2""x4""x8'",30.67
+2012,National,Dao,"2""x4""x8'",30.67
+2012,National,Dita,"2""x4""x8'",28
+2012,National,Falcata,"2""x4""x8'",12
+2012,National,Gmelina,"2""x4""x8'",24.96
+2012,National,Gubas,"2""x4""x8'",6
+2012,National,Ipil,"2""x4""x8'",38.5
+2012,National,Kalantas,"2""x4""x8'",30.67
+2012,National,Lauan,"2""x4""x8'",37.3
+2012,National,Loktob,"2""x4""x8'",29.33
+2012,National,Mahogany,"2""x4""x8'",29.75
+2012,National,Narra,"2""x4""x8'",122.5
+2012,National,Tangile,"2""x4""x8'",37.73
+2012,National,Yakal,"2""x4""x8'",42.97
+2012,NCR,A. Manguim,"2""x4""x8'",-
+2012,NCR,Acacia,"2""x4""x8'",-
+2012,NCR,Antipolo,"2""x4""x8'",-
+2012,NCR,Apitong,"2""x4""x8'",-
+2012,NCR,Bagras,"2""x4""x8'",36
+2012,NCR,Benguet Pine,"2""x4""x8'",-
+2012,NCR,Binuang,"2""x4""x8'",-
+2012,NCR,Dao,"2""x4""x8'",-
+2012,NCR,Dita,"2""x4""x8'",-
+2012,NCR,Falcata,"2""x4""x8'",-
+2012,NCR,Gmelina,"2""x4""x8'",34.75
+2012,NCR,Gubas,"2""x4""x8'",-
+2012,NCR,Ipil,"2""x4""x8'",-
+2012,NCR,Kalantas,"2""x4""x8'",-
+2012,NCR,Lauan,"2""x4""x8'",59.02
+2012,NCR,Loktob,"2""x4""x8'",-
+2012,NCR,Mahogany,"2""x4""x8'",34.75
+2012,NCR,Narra,"2""x4""x8'",-
+2012,NCR,Tangile,"2""x4""x8'",57.6
+2012,NCR,Yakal,"2""x4""x8'",-
+2012,I (Ilocos Region),A. Manguim,"2""x4""x8'",-
+2012,I (Ilocos Region),Acacia,"2""x4""x8'",-
+2012,I (Ilocos Region),Antipolo,"2""x4""x8'",-
+2012,I (Ilocos Region),Apitong,"2""x4""x8'",-
+2012,I (Ilocos Region),Bagras,"2""x4""x8'",-
+2012,I (Ilocos Region),Benguet Pine,"2""x4""x8'",-
+2012,I (Ilocos Region),Binuang,"2""x4""x8'",-
+2012,I (Ilocos Region),Dao,"2""x4""x8'",-
+2012,I (Ilocos Region),Dita,"2""x4""x8'",-
+2012,I (Ilocos Region),Falcata,"2""x4""x8'",-
+2012,I (Ilocos Region),Gmelina,"2""x4""x8'",-
+2012,I (Ilocos Region),Gubas,"2""x4""x8'",-
+2012,I (Ilocos Region),Ipil,"2""x4""x8'",-
+2012,I (Ilocos Region),Kalantas,"2""x4""x8'",-
+2012,I (Ilocos Region),Lauan,"2""x4""x8'",-
+2012,I (Ilocos Region),Loktob,"2""x4""x8'",-
+2012,I (Ilocos Region),Mahogany,"2""x4""x8'",-
+2012,I (Ilocos Region),Narra,"2""x4""x8'",-
+2012,I (Ilocos Region),Tangile,"2""x4""x8'",59.36
+2012,I (Ilocos Region),Yakal,"2""x4""x8'",-
+2012,II (Cagayan Valley),A. Manguim,"2""x4""x8'",-
+2012,II (Cagayan Valley),Acacia,"2""x4""x8'",-
+2012,II (Cagayan Valley),Antipolo,"2""x4""x8'",-
+2012,II (Cagayan Valley),Apitong,"2""x4""x8'",19
+2012,II (Cagayan Valley),Bagras,"2""x4""x8'",-
+2012,II (Cagayan Valley),Benguet Pine,"2""x4""x8'",-
+2012,II (Cagayan Valley),Binuang,"2""x4""x8'",-
+2012,II (Cagayan Valley),Dao,"2""x4""x8'",-
+2012,II (Cagayan Valley),Dita,"2""x4""x8'",-
+2012,II (Cagayan Valley),Falcata,"2""x4""x8'",-
+2012,II (Cagayan Valley),Gmelina,"2""x4""x8'",24.21
+2012,II (Cagayan Valley),Gubas,"2""x4""x8'",-
+2012,II (Cagayan Valley),Ipil,"2""x4""x8'",-
+2012,II (Cagayan Valley),Kalantas,"2""x4""x8'",-
+2012,II (Cagayan Valley),Lauan,"2""x4""x8'",32.63
+2012,II (Cagayan Valley),Loktob,"2""x4""x8'",-
+2012,II (Cagayan Valley),Mahogany,"2""x4""x8'",-
+2012,II (Cagayan Valley),Narra,"2""x4""x8'",-
+2012,II (Cagayan Valley),Tangile,"2""x4""x8'",19
+2012,II (Cagayan Valley),Yakal,"2""x4""x8'",19
+2012,III (Central Luzon),A. Manguim,"2""x4""x8'",-
+2012,III (Central Luzon),Acacia,"2""x4""x8'",-
+2012,III (Central Luzon),Antipolo,"2""x4""x8'",-
+2012,III (Central Luzon),Apitong,"2""x4""x8'",37
+2012,III (Central Luzon),Bagras,"2""x4""x8'",-
+2012,III (Central Luzon),Benguet Pine,"2""x4""x8'",-
+2012,III (Central Luzon),Binuang,"2""x4""x8'",-
+2012,III (Central Luzon),Dao,"2""x4""x8'",-
+2012,III (Central Luzon),Dita,"2""x4""x8'",-
+2012,III (Central Luzon),Falcata,"2""x4""x8'",-
+2012,III (Central Luzon),Gmelina,"2""x4""x8'",28.23
+2012,III (Central Luzon),Gubas,"2""x4""x8'",-
+2012,III (Central Luzon),Ipil,"2""x4""x8'",-
+2012,III (Central Luzon),Kalantas,"2""x4""x8'",-
+2012,III (Central Luzon),Lauan,"2""x4""x8'",40.1
+2012,III (Central Luzon),Loktob,"2""x4""x8'",-
+2012,III (Central Luzon),Mahogany,"2""x4""x8'",41.5
+2012,III (Central Luzon),Narra,"2""x4""x8'",-
+2012,III (Central Luzon),Tangile,"2""x4""x8'",37.67
+2012,III (Central Luzon),Yakal,"2""x4""x8'",-
+2012,IV-A (CALABARZON),A. Manguim,"2""x4""x8'",-
+2012,IV-A (CALABARZON),Acacia,"2""x4""x8'",-
+2012,IV-A (CALABARZON),Antipolo,"2""x4""x8'",-
+2012,IV-A (CALABARZON),Apitong,"2""x4""x8'",52.22
+2012,IV-A (CALABARZON),Bagras,"2""x4""x8'",-
+2012,IV-A (CALABARZON),Benguet Pine,"2""x4""x8'",-
+2012,IV-A (CALABARZON),Binuang,"2""x4""x8'",-
+2012,IV-A (CALABARZON),Dao,"2""x4""x8'",-
+2012,IV-A (CALABARZON),Dita,"2""x4""x8'",-
+2012,IV-A (CALABARZON),Falcata,"2""x4""x8'",-
+2012,IV-A (CALABARZON),Gmelina,"2""x4""x8'",23
+2012,IV-A (CALABARZON),Gubas,"2""x4""x8'",-
+2012,IV-A (CALABARZON),Ipil,"2""x4""x8'",-
+2012,IV-A (CALABARZON),Kalantas,"2""x4""x8'",-
+2012,IV-A (CALABARZON),Lauan,"2""x4""x8'",45
+2012,IV-A (CALABARZON),Loktob,"2""x4""x8'",-
+2012,IV-A (CALABARZON),Mahogany,"2""x4""x8'",29
+2012,IV-A (CALABARZON),Narra,"2""x4""x8'",140
+2012,IV-A (CALABARZON),Tangile,"2""x4""x8'",54.71
+2012,IV-A (CALABARZON),Yakal,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),A. Manguim,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Acacia,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Antipolo,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Apitong,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Bagras,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Benguet Pine,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Binuang,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Dao,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Dita,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Falcata,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Gmelina,"2""x4""x8'",27.75
+2012,IV-B (MIMAROPA),Gubas,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Ipil,"2""x4""x8'",35
+2012,IV-B (MIMAROPA),Kalantas,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Lauan,"2""x4""x8'",33.78
+2012,IV-B (MIMAROPA),Loktob,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Mahogany,"2""x4""x8'",23
+2012,IV-B (MIMAROPA),Narra,"2""x4""x8'",80
+2012,IV-B (MIMAROPA),Tangile,"2""x4""x8'",-
+2012,IV-B (MIMAROPA),Yakal,"2""x4""x8'",-
+2012,V (Bicol Region),A. Manguim,"2""x4""x8'",-
+2012,V (Bicol Region),Acacia,"2""x4""x8'",28.67
+2012,V (Bicol Region),Antipolo,"2""x4""x8'",27.67
+2012,V (Bicol Region),Apitong,"2""x4""x8'",38.33
+2012,V (Bicol Region),Bagras,"2""x4""x8'",-
+2012,V (Bicol Region),Benguet Pine,"2""x4""x8'",-
+2012,V (Bicol Region),Binuang,"2""x4""x8'",30.67
+2012,V (Bicol Region),Dao,"2""x4""x8'",30.67
+2012,V (Bicol Region),Dita,"2""x4""x8'",28
+2012,V (Bicol Region),Falcata,"2""x4""x8'",-
+2012,V (Bicol Region),Gmelina,"2""x4""x8'",29
+2012,V (Bicol Region),Gubas,"2""x4""x8'",-
+2012,V (Bicol Region),Ipil,"2""x4""x8'",-
+2012,V (Bicol Region),Kalantas,"2""x4""x8'",30.67
+2012,V (Bicol Region),Lauan,"2""x4""x8'",36
+2012,V (Bicol Region),Loktob,"2""x4""x8'",29.33
+2012,V (Bicol Region),Mahogany,"2""x4""x8'",29.33
+2012,V (Bicol Region),Narra,"2""x4""x8'",100
+2012,V (Bicol Region),Tangile,"2""x4""x8'",36
+2012,V (Bicol Region),Yakal,"2""x4""x8'",40
+2012,VI (Western Visayas),A. Manguim,"2""x4""x8'",-
+2012,VI (Western Visayas),Acacia,"2""x4""x8'",-
+2012,VI (Western Visayas),Antipolo,"2""x4""x8'",-
+2012,VI (Western Visayas),Apitong,"2""x4""x8'",-
+2012,VI (Western Visayas),Bagras,"2""x4""x8'",-
+2012,VI (Western Visayas),Benguet Pine,"2""x4""x8'",48
+2012,VI (Western Visayas),Binuang,"2""x4""x8'",-
+2012,VI (Western Visayas),Dao,"2""x4""x8'",-
+2012,VI (Western Visayas),Dita,"2""x4""x8'",-
+2012,VI (Western Visayas),Falcata,"2""x4""x8'",-
+2012,VI (Western Visayas),Gmelina,"2""x4""x8'",33.24
+2012,VI (Western Visayas),Gubas,"2""x4""x8'",-
+2012,VI (Western Visayas),Ipil,"2""x4""x8'",-
+2012,VI (Western Visayas),Kalantas,"2""x4""x8'",-
+2012,VI (Western Visayas),Lauan,"2""x4""x8'",46.17
+2012,VI (Western Visayas),Loktob,"2""x4""x8'",-
+2012,VI (Western Visayas),Mahogany,"2""x4""x8'",37.03
+2012,VI (Western Visayas),Narra,"2""x4""x8'",-
+2012,VI (Western Visayas),Tangile,"2""x4""x8'",-
+2012,VI (Western Visayas),Yakal,"2""x4""x8'",-
+2012,VII (Central Visayas),A. Manguim,"2""x4""x8'",-
+2012,VII (Central Visayas),Acacia,"2""x4""x8'",-
+2012,VII (Central Visayas),Antipolo,"2""x4""x8'",-
+2012,VII (Central Visayas),Apitong,"2""x4""x8'",29
+2012,VII (Central Visayas),Bagras,"2""x4""x8'",32
+2012,VII (Central Visayas),Benguet Pine,"2""x4""x8'",-
+2012,VII (Central Visayas),Binuang,"2""x4""x8'",-
+2012,VII (Central Visayas),Dao,"2""x4""x8'",-
+2012,VII (Central Visayas),Dita,"2""x4""x8'",-
+2012,VII (Central Visayas),Falcata,"2""x4""x8'",-
+2012,VII (Central Visayas),Gmelina,"2""x4""x8'",28
+2012,VII (Central Visayas),Gubas,"2""x4""x8'",-
+2012,VII (Central Visayas),Ipil,"2""x4""x8'",-
+2012,VII (Central Visayas),Kalantas,"2""x4""x8'",-
+2012,VII (Central Visayas),Lauan,"2""x4""x8'",44.42
+2012,VII (Central Visayas),Loktob,"2""x4""x8'",-
+2012,VII (Central Visayas),Mahogany,"2""x4""x8'",32.13
+2012,VII (Central Visayas),Narra,"2""x4""x8'",170
+2012,VII (Central Visayas),Tangile,"2""x4""x8'",-
+2012,VII (Central Visayas),Yakal,"2""x4""x8'",81.5
+2012,IX (Zamboanga Peninsula),A. Manguim,"2""x4""x8'",20.2
+2012,IX (Zamboanga Peninsula),Acacia,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Antipolo,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Apitong,"2""x4""x8'",28
+2012,IX (Zamboanga Peninsula),Bagras,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Benguet Pine,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Binuang,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Dao,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Dita,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Falcata,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Gmelina,"2""x4""x8'",20.6
+2012,IX (Zamboanga Peninsula),Gubas,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Ipil,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Kalantas,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Lauan,"2""x4""x8'",26.45
+2012,IX (Zamboanga Peninsula),Loktob,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Mahogany,"2""x4""x8'",27.5
+2012,IX (Zamboanga Peninsula),Narra,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Tangile,"2""x4""x8'",-
+2012,IX (Zamboanga Peninsula),Yakal,"2""x4""x8'",-
+2012,X (Northern Mindanao),A. Manguim,"2""x4""x8'",12
+2012,X (Northern Mindanao),Acacia,"2""x4""x8'",-
+2012,X (Northern Mindanao),Antipolo,"2""x4""x8'",-
+2012,X (Northern Mindanao),Apitong,"2""x4""x8'",-
+2012,X (Northern Mindanao),Bagras,"2""x4""x8'",-
+2012,X (Northern Mindanao),Benguet Pine,"2""x4""x8'",-
+2012,X (Northern Mindanao),Binuang,"2""x4""x8'",-
+2012,X (Northern Mindanao),Dao,"2""x4""x8'",-
+2012,X (Northern Mindanao),Dita,"2""x4""x8'",-
+2012,X (Northern Mindanao),Falcata,"2""x4""x8'",-
+2012,X (Northern Mindanao),Gmelina,"2""x4""x8'",16.86
+2012,X (Northern Mindanao),Gubas,"2""x4""x8'",-
+2012,X (Northern Mindanao),Ipil,"2""x4""x8'",-
+2012,X (Northern Mindanao),Kalantas,"2""x4""x8'",-
+2012,X (Northern Mindanao),Lauan,"2""x4""x8'",-
+2012,X (Northern Mindanao),Loktob,"2""x4""x8'",-
+2012,X (Northern Mindanao),Mahogany,"2""x4""x8'",24
+2012,X (Northern Mindanao),Narra,"2""x4""x8'",-
+2012,X (Northern Mindanao),Tangile,"2""x4""x8'",-
+2012,X (Northern Mindanao),Yakal,"2""x4""x8'",-
+2012,XI (Davao Region),A. Manguim,"2""x4""x8'",16.75
+2012,XI (Davao Region),Acacia,"2""x4""x8'",-
+2012,XI (Davao Region),Antipolo,"2""x4""x8'",-
+2012,XI (Davao Region),Apitong,"2""x4""x8'",36.66
+2012,XI (Davao Region),Bagras,"2""x4""x8'",21.2
+2012,XI (Davao Region),Benguet Pine,"2""x4""x8'",-
+2012,XI (Davao Region),Binuang,"2""x4""x8'",-
+2012,XI (Davao Region),Dao,"2""x4""x8'",-
+2012,XI (Davao Region),Dita,"2""x4""x8'",-
+2012,XI (Davao Region),Falcata,"2""x4""x8'",18
+2012,XI (Davao Region),Gmelina,"2""x4""x8'",17.9
+2012,XI (Davao Region),Gubas,"2""x4""x8'",-
+2012,XI (Davao Region),Ipil,"2""x4""x8'",-
+2012,XI (Davao Region),Kalantas,"2""x4""x8'",-
+2012,XI (Davao Region),Lauan,"2""x4""x8'",37.73
+2012,XI (Davao Region),Loktob,"2""x4""x8'",-
+2012,XI (Davao Region),Mahogany,"2""x4""x8'",21.73
+2012,XI (Davao Region),Narra,"2""x4""x8'",-
+2012,XI (Davao Region),Tangile,"2""x4""x8'",31
+2012,XI (Davao Region),Yakal,"2""x4""x8'",54.33
+2012,XII (SOCCSKSARGEN),A. Manguim,"2""x4""x8'",-
+2012,XII (SOCCSKSARGEN),Acacia,"2""x4""x8'",-
+2012,XII (SOCCSKSARGEN),Antipolo,"2""x4""x8'",-
+2012,XII (SOCCSKSARGEN),Apitong,"2""x4""x8'",30
+2012,XII (SOCCSKSARGEN),Bagras,"2""x4""x8'",-
+2012,XII (SOCCSKSARGEN),Benguet Pine,"2""x4""x8'",-
+2012,XII (SOCCSKSARGEN),Binuang,"2""x4""x8'",-
+2012,XII (SOCCSKSARGEN),Dao,"2""x4""x8'",-
+2012,XII (SOCCSKSARGEN),Dita,"2""x4""x8'",-
+2012,XII (SOCCSKSARGEN),Falcata,"2""x4""x8'",-
+2012,XII (SOCCSKSARGEN),Gmelina,"2""x4""x8'",26
+2012,XII (SOCCSKSARGEN),Gubas,"2""x4""x8'",-
+2012,XII (SOCCSKSARGEN),Ipil,"2""x4""x8'",42
+2012,XII (SOCCSKSARGEN),Kalantas,"2""x4""x8'",-
+2012,XII (SOCCSKSARGEN),Lauan,"2""x4""x8'",28
+2012,XII (SOCCSKSARGEN),Loktob,"2""x4""x8'",-
+2012,XII (SOCCSKSARGEN),Mahogany,"2""x4""x8'",42
+2012,XII (SOCCSKSARGEN),Narra,"2""x4""x8'",-
+2012,XII (SOCCSKSARGEN),Tangile,"2""x4""x8'",26
+2012,XII (SOCCSKSARGEN),Yakal,"2""x4""x8'",34
+2012,XIII (Caraga),A. Manguim,"2""x4""x8'",15
+2012,XIII (Caraga),Acacia,"2""x4""x8'",-
+2012,XIII (Caraga),Antipolo,"2""x4""x8'",-
+2012,XIII (Caraga),Apitong,"2""x4""x8'",18.25
+2012,XIII (Caraga),Bagras,"2""x4""x8'",-
+2012,XIII (Caraga),Benguet Pine,"2""x4""x8'",-
+2012,XIII (Caraga),Binuang,"2""x4""x8'",-
+2012,XIII (Caraga),Dao,"2""x4""x8'",-
+2012,XIII (Caraga),Dita,"2""x4""x8'",-
+2012,XIII (Caraga),Falcata,"2""x4""x8'",6
+2012,XIII (Caraga),Gmelina,"2""x4""x8'",15
+2012,XIII (Caraga),Gubas,"2""x4""x8'",6
+2012,XIII (Caraga),Ipil,"2""x4""x8'",-
+2012,XIII (Caraga),Kalantas,"2""x4""x8'",-
+2012,XIII (Caraga),Lauan,"2""x4""x8'",18.25
+2012,XIII (Caraga),Loktob,"2""x4""x8'",-
+2012,XIII (Caraga),Mahogany,"2""x4""x8'",15
+2012,XIII (Caraga),Narra,"2""x4""x8'",-
+2012,XIII (Caraga),Tangile,"2""x4""x8'",18.25
+2012,XIII (Caraga),Yakal,"2""x4""x8'",29
+2011,National,A. Manguim,"2""x4""x8'",12.92
+2011,National,Acacia,"2""x4""x8'",28.67
+2011,National,Antipolo,"2""x4""x8'",27.67
+2011,National,Apitong,"2""x4""x8'",31.82
+2011,National,Bagras,"2""x4""x8'",28.93
+2011,National,Bagtikan,"2""x4""x8'",28
+2011,National,Benguet Pine,"2""x4""x8'",38
+2011,National,Binuang,"2""x4""x8'",30.67
+2011,National,Dao,"2""x4""x8'",30.67
+2011,National,Dita,"2""x4""x8'",28
+2011,National,Falcata,"2""x4""x8'",18.17
+2011,National,Gmelina,"2""x4""x8'",24.18
+2011,National,Gubas,"2""x4""x8'",10.5
+2011,National,Igem,"2""x4""x8'",56
+2011,National,Ipil,"2""x4""x8'",25.5
+2011,National,Kalantas,"2""x4""x8'",30.67
+2011,National,Lauan,"2""x4""x8'",37.53
+2011,National,Loktob,"2""x4""x8'",29.33
+2011,National,Mahogany,"2""x4""x8'",29.33
+2011,National,Mayapis,"2""x4""x8'",31.32
+2011,National,Narra,"2""x4""x8'",114.68
+2011,National,Tanguile,"2""x4""x8'",38.88
+2011,National,Yakal,"2""x4""x8'",46.34
+2011,NCR,A. Manguim,"2""x4""x8'",-
+2011,NCR,Acacia,"2""x4""x8'",-
+2011,NCR,Antipolo,"2""x4""x8'",-
+2011,NCR,Apitong,"2""x4""x8'",-
+2011,NCR,Bagras,"2""x4""x8'",35
+2011,NCR,Bagtikan,"2""x4""x8'",-
+2011,NCR,Benguet Pine,"2""x4""x8'",27
+2011,NCR,Binuang,"2""x4""x8'",-
+2011,NCR,Dao,"2""x4""x8'",-
+2011,NCR,Dita,"2""x4""x8'",-
+2011,NCR,Falcata,"2""x4""x8'",28.67
+2011,NCR,Gmelina,"2""x4""x8'",34.18
+2011,NCR,Gubas,"2""x4""x8'",-
+2011,NCR,Igem,"2""x4""x8'",56
+2011,NCR,Ipil,"2""x4""x8'",-
+2011,NCR,Kalantas,"2""x4""x8'",-
+2011,NCR,Lauan,"2""x4""x8'",55.51
+2011,NCR,Loktob,"2""x4""x8'",-
+2011,NCR,Mahogany,"2""x4""x8'",39.81
+2011,NCR,Mayapis,"2""x4""x8'",-
+2011,NCR,Narra,"2""x4""x8'",-
+2011,NCR,Tanguile,"2""x4""x8'",56.99
+2011,NCR,Yakal,"2""x4""x8'",40
+2011,I (Ilocos Region),A. Manguim,"2""x4""x8'",-
+2011,I (Ilocos Region),Acacia,"2""x4""x8'",-
+2011,I (Ilocos Region),Antipolo,"2""x4""x8'",-
+2011,I (Ilocos Region),Apitong,"2""x4""x8'",42.33
+2011,I (Ilocos Region),Bagras,"2""x4""x8'",-
+2011,I (Ilocos Region),Bagtikan,"2""x4""x8'",-
+2011,I (Ilocos Region),Benguet Pine,"2""x4""x8'",-
+2011,I (Ilocos Region),Binuang,"2""x4""x8'",-
+2011,I (Ilocos Region),Dao,"2""x4""x8'",-
+2011,I (Ilocos Region),Dita,"2""x4""x8'",-
+2011,I (Ilocos Region),Falcata,"2""x4""x8'",-
+2011,I (Ilocos Region),Gmelina,"2""x4""x8'",-
+2011,I (Ilocos Region),Gubas,"2""x4""x8'",-
+2011,I (Ilocos Region),Igem,"2""x4""x8'",-
+2011,I (Ilocos Region),Ipil,"2""x4""x8'",-
+2011,I (Ilocos Region),Kalantas,"2""x4""x8'",-
+2011,I (Ilocos Region),Lauan,"2""x4""x8'",48.71
+2011,I (Ilocos Region),Loktob,"2""x4""x8'",-
+2011,I (Ilocos Region),Mahogany,"2""x4""x8'",-
+2011,I (Ilocos Region),Mayapis,"2""x4""x8'",35
+2011,I (Ilocos Region),Narra,"2""x4""x8'",-
+2011,I (Ilocos Region),Tanguile,"2""x4""x8'",50.25
+2011,I (Ilocos Region),Yakal,"2""x4""x8'",-
+2011,II (Cagayan Valley),A. Manguim,"2""x4""x8'",-
+2011,II (Cagayan Valley),Acacia,"2""x4""x8'",-
+2011,II (Cagayan Valley),Antipolo,"2""x4""x8'",-
+2011,II (Cagayan Valley),Apitong,"2""x4""x8'",20.17
+2011,II (Cagayan Valley),Bagras,"2""x4""x8'",-
+2011,II (Cagayan Valley),Bagtikan,"2""x4""x8'",-
+2011,II (Cagayan Valley),Benguet Pine,"2""x4""x8'",-
+2011,II (Cagayan Valley),Binuang,"2""x4""x8'",-
+2011,II (Cagayan Valley),Dao,"2""x4""x8'",-
+2011,II (Cagayan Valley),Dita,"2""x4""x8'",-
+2011,II (Cagayan Valley),Falcata,"2""x4""x8'",-
+2011,II (Cagayan Valley),Gmelina,"2""x4""x8'",20.19
+2011,II (Cagayan Valley),Gubas,"2""x4""x8'",-
+2011,II (Cagayan Valley),Igem,"2""x4""x8'",-
+2011,II (Cagayan Valley),Ipil,"2""x4""x8'",-
+2011,II (Cagayan Valley),Kalantas,"2""x4""x8'",-
+2011,II (Cagayan Valley),Lauan,"2""x4""x8'",27.13
+2011,II (Cagayan Valley),Loktob,"2""x4""x8'",-
+2011,II (Cagayan Valley),Mahogany,"2""x4""x8'",-
+2011,II (Cagayan Valley),Mayapis,"2""x4""x8'",-
+2011,II (Cagayan Valley),Narra,"2""x4""x8'",109.67
+2011,II (Cagayan Valley),Tanguile,"2""x4""x8'",25.69
+2011,II (Cagayan Valley),Yakal,"2""x4""x8'",19
+2011,III (Central Luzon),A. Manguim,"2""x4""x8'",-
+2011,III (Central Luzon),Acacia,"2""x4""x8'",-
+2011,III (Central Luzon),Antipolo,"2""x4""x8'",-
+2011,III (Central Luzon),Apitong,"2""x4""x8'",31.94
+2011,III (Central Luzon),Bagras,"2""x4""x8'",-
+2011,III (Central Luzon),Bagtikan,"2""x4""x8'",28
+2011,III (Central Luzon),Benguet Pine,"2""x4""x8'",-
+2011,III (Central Luzon),Binuang,"2""x4""x8'",-
+2011,III (Central Luzon),Dao,"2""x4""x8'",-
+2011,III (Central Luzon),Dita,"2""x4""x8'",-
+2011,III (Central Luzon),Falcata,"2""x4""x8'",-
+2011,III (Central Luzon),Gmelina,"2""x4""x8'",24.05
+2011,III (Central Luzon),Gubas,"2""x4""x8'",-
+2011,III (Central Luzon),Igem,"2""x4""x8'",-
+2011,III (Central Luzon),Ipil,"2""x4""x8'",-
+2011,III (Central Luzon),Kalantas,"2""x4""x8'",-
+2011,III (Central Luzon),Lauan,"2""x4""x8'",37.24
+2011,III (Central Luzon),Loktob,"2""x4""x8'",-
+2011,III (Central Luzon),Mahogany,"2""x4""x8'",-
+2011,III (Central Luzon),Mayapis,"2""x4""x8'",27.63
+2011,III (Central Luzon),Narra,"2""x4""x8'",-
+2011,III (Central Luzon),Tanguile,"2""x4""x8'",47.72
+2011,III (Central Luzon),Yakal,"2""x4""x8'",35
+2011,IV-A (CALABARZON),A. Manguim,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Acacia,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Antipolo,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Apitong,"2""x4""x8'",45
+2011,IV-A (CALABARZON),Bagras,"2""x4""x8'",39
+2011,IV-A (CALABARZON),Bagtikan,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Benguet Pine,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Binuang,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Dao,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Dita,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Falcata,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Gmelina,"2""x4""x8'",23
+2011,IV-A (CALABARZON),Gubas,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Igem,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Ipil,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Kalantas,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Lauan,"2""x4""x8'",43.88
+2011,IV-A (CALABARZON),Loktob,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Mahogany,"2""x4""x8'",29
+2011,IV-A (CALABARZON),Mayapis,"2""x4""x8'",-
+2011,IV-A (CALABARZON),Narra,"2""x4""x8'",139.25
+2011,IV-A (CALABARZON),Tanguile,"2""x4""x8'",58.73
+2011,IV-A (CALABARZON),Yakal,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),A. Manguim,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Acacia,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Antipolo,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Apitong,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Bagras,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Bagtikan,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Benguet Pine,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Binuang,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Dao,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Dita,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Falcata,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Gmelina,"2""x4""x8'",28.84
+2011,IV-B (MIMAROPA),Gubas,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Igem,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Ipil,"2""x4""x8'",35
+2011,IV-B (MIMAROPA),Kalantas,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Lauan,"2""x4""x8'",30.67
+2011,IV-B (MIMAROPA),Loktob,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Mahogany,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Mayapis,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Narra,"2""x4""x8'",54.5
+2011,IV-B (MIMAROPA),Tanguile,"2""x4""x8'",-
+2011,IV-B (MIMAROPA),Yakal,"2""x4""x8'",-
+2011,V (Bicol Region),A. Manguim,"2""x4""x8'",-
+2011,V (Bicol Region),Acacia,"2""x4""x8'",28.67
+2011,V (Bicol Region),Antipolo,"2""x4""x8'",27.67
+2011,V (Bicol Region),Apitong,"2""x4""x8'",38.33
+2011,V (Bicol Region),Bagras,"2""x4""x8'",-
+2011,V (Bicol Region),Bagtikan,"2""x4""x8'",-
+2011,V (Bicol Region),Benguet Pine,"2""x4""x8'",-
+2011,V (Bicol Region),Binuang,"2""x4""x8'",30.67
+2011,V (Bicol Region),Dao,"2""x4""x8'",30.67
+2011,V (Bicol Region),Dita,"2""x4""x8'",28
+2011,V (Bicol Region),Falcata,"2""x4""x8'",-
+2011,V (Bicol Region),Gmelina,"2""x4""x8'",29
+2011,V (Bicol Region),Gubas,"2""x4""x8'",-
+2011,V (Bicol Region),Igem,"2""x4""x8'",-
+2011,V (Bicol Region),Ipil,"2""x4""x8'",-
+2011,V (Bicol Region),Kalantas,"2""x4""x8'",30.67
+2011,V (Bicol Region),Lauan,"2""x4""x8'",36
+2011,V (Bicol Region),Loktob,"2""x4""x8'",29.33
+2011,V (Bicol Region),Mahogany,"2""x4""x8'",-
+2011,V (Bicol Region),Mayapis,"2""x4""x8'",100
+2011,V (Bicol Region),Narra,"2""x4""x8'",36
+2011,V (Bicol Region),Tanguile,"2""x4""x8'",40
+2011,V (Bicol Region),Yakal,"2""x4""x8'",-
+2011,VI (Western Visayas),A. Manguim,"2""x4""x8'",-
+2011,VI (Western Visayas),Acacia,"2""x4""x8'",-
+2011,VI (Western Visayas),Antipolo,"2""x4""x8'",-
+2011,VI (Western Visayas),Apitong,"2""x4""x8'",-
+2011,VI (Western Visayas),Bagras,"2""x4""x8'",-
+2011,VI (Western Visayas),Bagtikan,"2""x4""x8'",-
+2011,VI (Western Visayas),Benguet Pine,"2""x4""x8'",49
+2011,VI (Western Visayas),Binuang,"2""x4""x8'",-
+2011,VI (Western Visayas),Dao,"2""x4""x8'",-
+2011,VI (Western Visayas),Dita,"2""x4""x8'",-
+2011,VI (Western Visayas),Falcata,"2""x4""x8'",-
+2011,VI (Western Visayas),Gmelina,"2""x4""x8'",26.78
+2011,VI (Western Visayas),Gubas,"2""x4""x8'",-
+2011,VI (Western Visayas),Igem,"2""x4""x8'",-
+2011,VI (Western Visayas),Ipil,"2""x4""x8'",-
+2011,VI (Western Visayas),Kalantas,"2""x4""x8'",-
+2011,VI (Western Visayas),Lauan,"2""x4""x8'",48.11
+2011,VI (Western Visayas),Loktob,"2""x4""x8'",-
+2011,VI (Western Visayas),Mahogany,"2""x4""x8'",30.79
+2011,VI (Western Visayas),Mayapis,"2""x4""x8'",-
+2011,VI (Western Visayas),Narra,"2""x4""x8'",-
+2011,VI (Western Visayas),Tanguile,"2""x4""x8'",-
+2011,VI (Western Visayas),Yakal,"2""x4""x8'",-
+2011,VII (Central Visayas),A. Manguim,"2""x4""x8'",-
+2011,VII (Central Visayas),Acacia,"2""x4""x8'",-
+2011,VII (Central Visayas),Antipolo,"2""x4""x8'",-
+2011,VII (Central Visayas),Apitong,"2""x4""x8'",29
+2011,VII (Central Visayas),Bagras,"2""x4""x8'",32
+2011,VII (Central Visayas),Bagtikan,"2""x4""x8'",-
+2011,VII (Central Visayas),Benguet Pine,"2""x4""x8'",-
+2011,VII (Central Visayas),Binuang,"2""x4""x8'",-
+2011,VII (Central Visayas),Dao,"2""x4""x8'",-
+2011,VII (Central Visayas),Dita,"2""x4""x8'",-
+2011,VII (Central Visayas),Falcata,"2""x4""x8'",-
+2011,VII (Central Visayas),Gmelina,"2""x4""x8'",28
+2011,VII (Central Visayas),Gubas,"2""x4""x8'",-
+2011,VII (Central Visayas),Igem,"2""x4""x8'",-
+2011,VII (Central Visayas),Ipil,"2""x4""x8'",-
+2011,VII (Central Visayas),Kalantas,"2""x4""x8'",-
+2011,VII (Central Visayas),Lauan,"2""x4""x8'",44.42
+2011,VII (Central Visayas),Loktob,"2""x4""x8'",-
+2011,VII (Central Visayas),Mahogany,"2""x4""x8'",32.13
+2011,VII (Central Visayas),Mayapis,"2""x4""x8'",-
+2011,VII (Central Visayas),Narra,"2""x4""x8'",170
+2011,VII (Central Visayas),Tanguile,"2""x4""x8'",-
+2011,VII (Central Visayas),Yakal,"2""x4""x8'",81.5
+2011,VIII (Eastern Visayas),A. Manguim,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Acacia,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Antipolo,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Apitong,"2""x4""x8'",26.25
+2011,VIII (Eastern Visayas),Bagras,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Bagtikan,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Benguet Pine,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Binuang,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Dao,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Dita,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Falcata,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Gmelina,"2""x4""x8'",35
+2011,VIII (Eastern Visayas),Gubas,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Igem,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Ipil,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Kalantas,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Lauan,"2""x4""x8'",45
+2011,VIII (Eastern Visayas),Loktob,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Mahogany,"2""x4""x8'",40
+2011,VIII (Eastern Visayas),Mayapis,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Narra,"2""x4""x8'",-
+2011,VIII (Eastern Visayas),Tanguile,"2""x4""x8'",35
+2011,VIII (Eastern Visayas),Yakal,"2""x4""x8'",92.5
+2011,IX (Zamboanga Peninsula),A. Manguim,"2""x4""x8'",14.67
+2011,IX (Zamboanga Peninsula),Acacia,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Antipolo,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Apitong,"2""x4""x8'",26.19
+2011,IX (Zamboanga Peninsula),Bagras,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Bagtikan,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Benguet Pine,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Binuang,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Dao,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Dita,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Falcata,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Gmelina,"2""x4""x8'",19.17
+2011,IX (Zamboanga Peninsula),Gubas,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Igem,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Ipil,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Kalantas,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Lauan,"2""x4""x8'",25.25
+2011,IX (Zamboanga Peninsula),Loktob,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Mahogany,"2""x4""x8'",21.84
+2011,IX (Zamboanga Peninsula),Mayapis,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Narra,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Tanguile,"2""x4""x8'",-
+2011,IX (Zamboanga Peninsula),Yakal,"2""x4""x8'",45
+2011,X (Northern Mindanao),A. Manguim,"2""x4""x8'",12
+2011,X (Northern Mindanao),Acacia,"2""x4""x8'",-
+2011,X (Northern Mindanao),Antipolo,"2""x4""x8'",-
+2011,X (Northern Mindanao),Apitong,"2""x4""x8'",40.66
+2011,X (Northern Mindanao),Bagras,"2""x4""x8'",-
+2011,X (Northern Mindanao),Bagtikan,"2""x4""x8'",-
+2011,X (Northern Mindanao),Benguet Pine,"2""x4""x8'",-
+2011,X (Northern Mindanao),Binuang,"2""x4""x8'",-
+2011,X (Northern Mindanao),Dao,"2""x4""x8'",-
+2011,X (Northern Mindanao),Dita,"2""x4""x8'",-
+2011,X (Northern Mindanao),Falcata,"2""x4""x8'",-
+2011,X (Northern Mindanao),Gmelina,"2""x4""x8'",14
+2011,X (Northern Mindanao),Gubas,"2""x4""x8'",-
+2011,X (Northern Mindanao),Igem,"2""x4""x8'",-
+2011,X (Northern Mindanao),Ipil,"2""x4""x8'",-
+2011,X (Northern Mindanao),Kalantas,"2""x4""x8'",-
+2011,X (Northern Mindanao),Lauan,"2""x4""x8'",-
+2011,X (Northern Mindanao),Loktob,"2""x4""x8'",-
+2011,X (Northern Mindanao),Mahogany,"2""x4""x8'",24
+2011,X (Northern Mindanao),Mayapis,"2""x4""x8'",-
+2011,X (Northern Mindanao),Narra,"2""x4""x8'",-
+2011,X (Northern Mindanao),Tanguile,"2""x4""x8'",-
+2011,X (Northern Mindanao),Yakal,"2""x4""x8'",-
+2011,XI (Davao Region),A. Manguim,"2""x4""x8'",10
+2011,XI (Davao Region),Acacia,"2""x4""x8'",-
+2011,XI (Davao Region),Antipolo,"2""x4""x8'",-
+2011,XI (Davao Region),Apitong,"2""x4""x8'",36.66
+2011,XI (Davao Region),Bagras,"2""x4""x8'",18.67
+2011,XI (Davao Region),Bagtikan,"2""x4""x8'",-
+2011,XI (Davao Region),Benguet Pine,"2""x4""x8'",-
+2011,XI (Davao Region),Binuang,"2""x4""x8'",-
+2011,XI (Davao Region),Dao,"2""x4""x8'",-
+2011,XI (Davao Region),Dita,"2""x4""x8'",-
+2011,XI (Davao Region),Falcata,"2""x4""x8'",17.33
+2011,XI (Davao Region),Gmelina,"2""x4""x8'",20.43
+2011,XI (Davao Region),Gubas,"2""x4""x8'",-
+2011,XI (Davao Region),Igem,"2""x4""x8'",-
+2011,XI (Davao Region),Ipil,"2""x4""x8'",16
+2011,XI (Davao Region),Kalantas,"2""x4""x8'",-
+2011,XI (Davao Region),Lauan,"2""x4""x8'",33.85
+2011,XI (Davao Region),Loktob,"2""x4""x8'",-
+2011,XI (Davao Region),Mahogany,"2""x4""x8'",21.11
+2011,XI (Davao Region),Mayapis,"2""x4""x8'",-
+2011,XI (Davao Region),Narra,"2""x4""x8'",-
+2011,XI (Davao Region),Tanguile,"2""x4""x8'",32.63
+2011,XI (Davao Region),Yakal,"2""x4""x8'",49.84
+2011,XII (SOCCSKSARGEN),A. Manguim,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Acacia,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Antipolo,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Apitong,"2""x4""x8'",27.08
+2011,XII (SOCCSKSARGEN),Bagras,"2""x4""x8'",20
+2011,XII (SOCCSKSARGEN),Bagtikan,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Benguet Pine,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Binuang,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Dao,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Dita,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Falcata,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Gmelina,"2""x4""x8'",23.66
+2011,XII (SOCCSKSARGEN),Gubas,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Igem,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Ipil,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Kalantas,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Lauan,"2""x4""x8'",26.05
+2011,XII (SOCCSKSARGEN),Loktob,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Mahogany,"2""x4""x8'",39.67
+2011,XII (SOCCSKSARGEN),Mayapis,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Narra,"2""x4""x8'",-
+2011,XII (SOCCSKSARGEN),Tanguile,"2""x4""x8'",24.83
+2011,XII (SOCCSKSARGEN),Yakal,"2""x4""x8'",33.33
+2011,XIII (Caraga),A. Manguim,"2""x4""x8'",15
+2011,XIII (Caraga),Acacia,"2""x4""x8'",-
+2011,XIII (Caraga),Antipolo,"2""x4""x8'",-
+2011,XIII (Caraga),Apitong,"2""x4""x8'",18.25
+2011,XIII (Caraga),Bagras,"2""x4""x8'",-
+2011,XIII (Caraga),Bagtikan,"2""x4""x8'",-
+2011,XIII (Caraga),Benguet Pine,"2""x4""x8'",-
+2011,XIII (Caraga),Binuang,"2""x4""x8'",-
+2011,XIII (Caraga),Dao,"2""x4""x8'",-
+2011,XIII (Caraga),Dita,"2""x4""x8'",-
+2011,XIII (Caraga),Falcata,"2""x4""x8'",8.5
+2011,XIII (Caraga),Gmelina,"2""x4""x8'",12.75
+2011,XIII (Caraga),Gubas,"2""x4""x8'",10.5
+2011,XIII (Caraga),Igem,"2""x4""x8'",-
+2011,XIII (Caraga),Ipil,"2""x4""x8'",-
+2011,XIII (Caraga),Kalantas,"2""x4""x8'",-
+2011,XIII (Caraga),Lauan,"2""x4""x8'",23.5
+2011,XIII (Caraga),Loktob,"2""x4""x8'",-
+2011,XIII (Caraga),Mahogany,"2""x4""x8'",15
+2011,XIII (Caraga),Mayapis,"2""x4""x8'",-
+2011,XIII (Caraga),Narra,"2""x4""x8'",-
+2011,XIII (Caraga),Tanguile,"2""x4""x8'",21
+2011,XIII (Caraga),Yakal,"2""x4""x8'",27.25
+2010,National,Acacia,"2""x4""x8'",15.79
+2010,National,Antipolo,"2""x4""x8'",27.78
+2010,National,Apitong,"2""x4""x8'",32.08
+2010,National,Bagras,"2""x4""x8'",34.56
+2010,National,Benguet Pine,"2""x4""x8'",37.67
+2010,National,Binuang,"2""x4""x8'",15.75
+2010,National,Dao,"2""x4""x8'",30.67
+2010,National,Dita,"2""x4""x8'",28
+2010,National,Falcata,"2""x4""x8'",5.54
+2010,National,Gmelina,"2""x4""x8'",23.14
+2010,National,Ipil-Ipil,"2""x4""x8'",22.5
+2010,National,Kalantas,"2""x4""x8'",30.67
+2010,National,Lauan,"2""x4""x8'",33.37
+2010,National,Loktob,"2""x4""x8'",22.81
+2010,National,Mahogany,"2""x4""x8'",30.93
+2010,National,Mayapis,"2""x4""x8'",27.83
+2010,National,Narra,"2""x4""x8'",112.71
+2010,National,Tanguile,"2""x4""x8'",34.53
+2010,National,Yakal,"2""x4""x8'",46.98
+2010,NCR,Acacia,"2""x4""x8'",-
+2010,NCR,Antipolo,"2""x4""x8'",-
+2010,NCR,Apitong,"2""x4""x8'",-
+2010,NCR,Bagras,"2""x4""x8'",42
+2010,NCR,Benguet Pine,"2""x4""x8'",39.33
+2010,NCR,Binuang,"2""x4""x8'",-
+2010,NCR,Dao,"2""x4""x8'",-
+2010,NCR,Dita,"2""x4""x8'",-
+2010,NCR,Falcata,"2""x4""x8'",-
+2010,NCR,Gmelina,"2""x4""x8'",-
+2010,NCR,Ipil-Ipil,"2""x4""x8'",-
+2010,NCR,Kalantas,"2""x4""x8'",-
+2010,NCR,Lauan,"2""x4""x8'",45.1
+2010,NCR,Loktob,"2""x4""x8'",-
+2010,NCR,Mahogany,"2""x4""x8'",46
+2010,NCR,Mayapis,"2""x4""x8'",-
+2010,NCR,Narra,"2""x4""x8'",-
+2010,NCR,Tanguile,"2""x4""x8'",41.2
+2010,NCR,Yakal,"2""x4""x8'",-
+2010,I (Ilocos Region),Acacia,"2""x4""x8'",-
+2010,I (Ilocos Region),Antipolo,"2""x4""x8'",-
+2010,I (Ilocos Region),Apitong,"2""x4""x8'",37.92
+2010,I (Ilocos Region),Bagras,"2""x4""x8'",-
+2010,I (Ilocos Region),Benguet Pine,"2""x4""x8'",-
+2010,I (Ilocos Region),Binuang,"2""x4""x8'",-
+2010,I (Ilocos Region),Dao,"2""x4""x8'",-
+2010,I (Ilocos Region),Dita,"2""x4""x8'",-
+2010,I (Ilocos Region),Falcata,"2""x4""x8'",-
+2010,I (Ilocos Region),Gmelina,"2""x4""x8'",-
+2010,I (Ilocos Region),Ipil-Ipil,"2""x4""x8'",-
+2010,I (Ilocos Region),Kalantas,"2""x4""x8'",-
+2010,I (Ilocos Region),Lauan,"2""x4""x8'",38.17
+2010,I (Ilocos Region),Loktob,"2""x4""x8'",-
+2010,I (Ilocos Region),Mahogany,"2""x4""x8'",-
+2010,I (Ilocos Region),Mayapis,"2""x4""x8'",-
+2010,I (Ilocos Region),Narra,"2""x4""x8'",-
+2010,I (Ilocos Region),Tanguile,"2""x4""x8'",40.52
+2010,I (Ilocos Region),Yakal,"2""x4""x8'",-
+2010,II (Cagayan Valley),Acacia,"2""x4""x8'",-
+2010,II (Cagayan Valley),Antipolo,"2""x4""x8'",-
+2010,II (Cagayan Valley),Apitong,"2""x4""x8'",23.38
+2010,II (Cagayan Valley),Bagras,"2""x4""x8'",-
+2010,II (Cagayan Valley),Benguet Pine,"2""x4""x8'",-
+2010,II (Cagayan Valley),Binuang,"2""x4""x8'",-
+2010,II (Cagayan Valley),Dao,"2""x4""x8'",-
+2010,II (Cagayan Valley),Dita,"2""x4""x8'",-
+2010,II (Cagayan Valley),Falcata,"2""x4""x8'",-
+2010,II (Cagayan Valley),Gmelina,"2""x4""x8'",18.15
+2010,II (Cagayan Valley),Ipil-Ipil,"2""x4""x8'",-
+2010,II (Cagayan Valley),Kalantas,"2""x4""x8'",-
+2010,II (Cagayan Valley),Lauan,"2""x4""x8'",23.04
+2010,II (Cagayan Valley),Loktob,"2""x4""x8'",-
+2010,II (Cagayan Valley),Mahogany,"2""x4""x8'",-
+2010,II (Cagayan Valley),Mayapis,"2""x4""x8'",-
+2010,II (Cagayan Valley),Narra,"2""x4""x8'",-
+2010,II (Cagayan Valley),Tanguile,"2""x4""x8'",26.88
+2010,II (Cagayan Valley),Yakal,"2""x4""x8'",20
+2010,III (Central Luzon),Acacia,"2""x4""x8'",-
+2010,III (Central Luzon),Antipolo,"2""x4""x8'",-
+2010,III (Central Luzon),Apitong,"2""x4""x8'",33.54
+2010,III (Central Luzon),Bagras,"2""x4""x8'",-
+2010,III (Central Luzon),Benguet Pine,"2""x4""x8'",-
+2010,III (Central Luzon),Binuang,"2""x4""x8'",-
+2010,III (Central Luzon),Dao,"2""x4""x8'",-
+2010,III (Central Luzon),Dita,"2""x4""x8'",-
+2010,III (Central Luzon),Falcata,"2""x4""x8'",-
+2010,III (Central Luzon),Gmelina,"2""x4""x8'",28.85
+2010,III (Central Luzon),Ipil-Ipil,"2""x4""x8'",-
+2010,III (Central Luzon),Kalantas,"2""x4""x8'",-
+2010,III (Central Luzon),Lauan,"2""x4""x8'",36.06
+2010,III (Central Luzon),Loktob,"2""x4""x8'",-
+2010,III (Central Luzon),Mahogany,"2""x4""x8'",-
+2010,III (Central Luzon),Mayapis,"2""x4""x8'",27.83
+2010,III (Central Luzon),Narra,"2""x4""x8'",-
+2010,III (Central Luzon),Tanguile,"2""x4""x8'",36.92
+2010,III (Central Luzon),Yakal,"2""x4""x8'",35
+2010,IV-A (CALABARZON),Acacia,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Antipolo,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Apitong,"2""x4""x8'",39.17
+2010,IV-A (CALABARZON),Bagras,"2""x4""x8'",44.25
+2010,IV-A (CALABARZON),Benguet Pine,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Binuang,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Dao,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Dita,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Falcata,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Gmelina,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Ipil-Ipil,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Kalantas,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Lauan,"2""x4""x8'",42.69
+2010,IV-A (CALABARZON),Loktob,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Mahogany,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Mayapis,"2""x4""x8'",-
+2010,IV-A (CALABARZON),Narra,"2""x4""x8'",135.83
+2010,IV-A (CALABARZON),Tanguile,"2""x4""x8'",53.17
+2010,IV-A (CALABARZON),Yakal,"2""x4""x8'",114.38
+2010,IV-B (MIMAROPA),Acacia,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Antipolo,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Apitong,"2""x4""x8'",17
+2010,IV-B (MIMAROPA),Bagras,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Benguet Pine,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Binuang,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Dao,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Dita,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Falcata,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Gmelina,"2""x4""x8'",27.51
+2010,IV-B (MIMAROPA),Ipil-Ipil,"2""x4""x8'",29
+2010,IV-B (MIMAROPA),Kalantas,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Lauan,"2""x4""x8'",28.33
+2010,IV-B (MIMAROPA),Loktob,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Mahogany,"2""x4""x8'",28.33
+2010,IV-B (MIMAROPA),Mayapis,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Narra,"2""x4""x8'",50
+2010,IV-B (MIMAROPA),Tanguile,"2""x4""x8'",-
+2010,IV-B (MIMAROPA),Yakal,"2""x4""x8'",-
+2010,V (Bicol Region),Acacia,"2""x4""x8'",28.67
+2010,V (Bicol Region),Antipolo,"2""x4""x8'",27.78
+2010,V (Bicol Region),Apitong,"2""x4""x8'",41.11
+2010,V (Bicol Region),Bagras,"2""x4""x8'",-
+2010,V (Bicol Region),Benguet Pine,"2""x4""x8'",-
+2010,V (Bicol Region),Binuang,"2""x4""x8'",-
+2010,V (Bicol Region),Dao,"2""x4""x8'",30.67
+2010,V (Bicol Region),Dita,"2""x4""x8'",28
+2010,V (Bicol Region),Falcata,"2""x4""x8'",-
+2010,V (Bicol Region),Gmelina,"2""x4""x8'",29.33
+2010,V (Bicol Region),Ipil-Ipil,"2""x4""x8'",-
+2010,V (Bicol Region),Kalantas,"2""x4""x8'",30.67
+2010,V (Bicol Region),Lauan,"2""x4""x8'",39.67
+2010,V (Bicol Region),Loktob,"2""x4""x8'",29.11
+2010,V (Bicol Region),Mahogany,"2""x4""x8'",29.33
+2010,V (Bicol Region),Mayapis,"2""x4""x8'",-
+2010,V (Bicol Region),Narra,"2""x4""x8'",95
+2010,V (Bicol Region),Tanguile,"2""x4""x8'",39.67
+2010,V (Bicol Region),Yakal,"2""x4""x8'",42.22
+2010,VI (Western Visayas),Acacia,"2""x4""x8'",-
+2010,VI (Western Visayas),Antipolo,"2""x4""x8'",-
+2010,VI (Western Visayas),Apitong,"2""x4""x8'",-
+2010,VI (Western Visayas),Bagras,"2""x4""x8'",-
+2010,VI (Western Visayas),Benguet Pine,"2""x4""x8'",36
+2010,VI (Western Visayas),Binuang,"2""x4""x8'",-
+2010,VI (Western Visayas),Dao,"2""x4""x8'",-
+2010,VI (Western Visayas),Dita,"2""x4""x8'",-
+2010,VI (Western Visayas),Falcata,"2""x4""x8'",-
+2010,VI (Western Visayas),Gmelina,"2""x4""x8'",24.64
+2010,VI (Western Visayas),Ipil-Ipil,"2""x4""x8'",-
+2010,VI (Western Visayas),Kalantas,"2""x4""x8'",-
+2010,VI (Western Visayas),Lauan,"2""x4""x8'",40.81
+2010,VI (Western Visayas),Loktob,"2""x4""x8'",-
+2010,VI (Western Visayas),Mahogany,"2""x4""x8'",28.41
+2010,VI (Western Visayas),Mayapis,"2""x4""x8'",-
+2010,VI (Western Visayas),Narra,"2""x4""x8'",-
+2010,VI (Western Visayas),Tanguile,"2""x4""x8'",-
+2010,VI (Western Visayas),Yakal,"2""x4""x8'",-
+2010,VII (Central Visayas),Acacia,"2""x4""x8'",-
+2010,VII (Central Visayas),Antipolo,"2""x4""x8'",-
+2010,VII (Central Visayas),Apitong,"2""x4""x8'",29
+2010,VII (Central Visayas),Bagras,"2""x4""x8'",32
+2010,VII (Central Visayas),Benguet Pine,"2""x4""x8'",-
+2010,VII (Central Visayas),Binuang,"2""x4""x8'",-
+2010,VII (Central Visayas),Dao,"2""x4""x8'",-
+2010,VII (Central Visayas),Dita,"2""x4""x8'",-
+2010,VII (Central Visayas),Falcata,"2""x4""x8'",-
+2010,VII (Central Visayas),Gmelina,"2""x4""x8'",26.92
+2010,VII (Central Visayas),Ipil-Ipil,"2""x4""x8'",-
+2010,VII (Central Visayas),Kalantas,"2""x4""x8'",-
+2010,VII (Central Visayas),Lauan,"2""x4""x8'",44.47
+2010,VII (Central Visayas),Loktob,"2""x4""x8'",-
+2010,VII (Central Visayas),Mahogany,"2""x4""x8'",32.13
+2010,VII (Central Visayas),Mayapis,"2""x4""x8'",-
+2010,VII (Central Visayas),Narra,"2""x4""x8'",170
+2010,VII (Central Visayas),Tanguile,"2""x4""x8'",-
+2010,VII (Central Visayas),Yakal,"2""x4""x8'",81.5
+2010,VIII (Eastern Visayas),Acacia,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Antipolo,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Apitong,"2""x4""x8'",27.13
+2010,VIII (Eastern Visayas),Bagras,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Benguet Pine,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Binuang,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Dao,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Dita,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Falcata,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Gmelina,"2""x4""x8'",35
+2010,VIII (Eastern Visayas),Ipil-Ipil,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Kalantas,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Lauan,"2""x4""x8'",40.5
+2010,VIII (Eastern Visayas),Loktob,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Mahogany,"2""x4""x8'",40
+2010,VIII (Eastern Visayas),Mayapis,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Narra,"2""x4""x8'",-
+2010,VIII (Eastern Visayas),Tanguile,"2""x4""x8'",35
+2010,VIII (Eastern Visayas),Yakal,"2""x4""x8'",35
+2010,IX (Zamboanga Peninsula),Acacia,"2""x4""x8'",14
+2010,IX (Zamboanga Peninsula),Antipolo,"2""x4""x8'",-
+2010,IX (Zamboanga Peninsula),Apitong,"2""x4""x8'",26.03
+2010,IX (Zamboanga Peninsula),Bagras,"2""x4""x8'",-
+2010,IX (Zamboanga Peninsula),Benguet Pine,"2""x4""x8'",-
+2010,IX (Zamboanga Peninsula),Binuang,"2""x4""x8'",-
+2010,IX (Zamboanga Peninsula),Dao,"2""x4""x8'",-
+2010,IX (Zamboanga Peninsula),Dita,"2""x4""x8'",-
+2010,IX (Zamboanga Peninsula),Falcata,"2""x4""x8'",-
+2010,IX (Zamboanga Peninsula),Gmelina,"2""x4""x8'",18.86
+2010,IX (Zamboanga Peninsula),Ipil-Ipil,"2""x4""x8'",-
+2010,IX (Zamboanga Peninsula),Kalantas,"2""x4""x8'",-
+2010,IX (Zamboanga Peninsula),Lauan,"2""x4""x8'",24.92
+2010,IX (Zamboanga Peninsula),Loktob,"2""x4""x8'",-
+2010,IX (Zamboanga Peninsula),Mahogany,"2""x4""x8'",21.83
+2010,IX (Zamboanga Peninsula),Mayapis,"2""x4""x8'",-
+2010,IX (Zamboanga Peninsula),Narra,"2""x4""x8'",-
+2010,IX (Zamboanga Peninsula),Tanguile,"2""x4""x8'",-
+2010,IX (Zamboanga Peninsula),Yakal,"2""x4""x8'",45
+2010,X (Northern Mindanao),Acacia,"2""x4""x8'",12
+2010,X (Northern Mindanao),Antipolo,"2""x4""x8'",-
+2010,X (Northern Mindanao),Apitong,"2""x4""x8'",40.66
+2010,X (Northern Mindanao),Bagras,"2""x4""x8'",-
+2010,X (Northern Mindanao),Benguet Pine,"2""x4""x8'",-
+2010,X (Northern Mindanao),Binuang,"2""x4""x8'",15
+2010,X (Northern Mindanao),Dao,"2""x4""x8'",-
+2010,X (Northern Mindanao),Dita,"2""x4""x8'",-
+2010,X (Northern Mindanao),Falcata,"2""x4""x8'",-
+2010,X (Northern Mindanao),Gmelina,"2""x4""x8'",14.24
+2010,X (Northern Mindanao),Ipil-Ipil,"2""x4""x8'",-
+2010,X (Northern Mindanao),Kalantas,"2""x4""x8'",-
+2010,X (Northern Mindanao),Lauan,"2""x4""x8'",26.05
+2010,X (Northern Mindanao),Loktob,"2""x4""x8'",-
+2010,X (Northern Mindanao),Mahogany,"2""x4""x8'",23.5
+2010,X (Northern Mindanao),Mayapis,"2""x4""x8'",-
+2010,X (Northern Mindanao),Narra,"2""x4""x8'",-
+2010,X (Northern Mindanao),Tanguile,"2""x4""x8'",30
+2010,X (Northern Mindanao),Yakal,"2""x4""x8'",41.17
+2010,XI (Davao Region),Acacia,"2""x4""x8'",-
+2010,XI (Davao Region),Antipolo,"2""x4""x8'",-
+2010,XI (Davao Region),Apitong,"2""x4""x8'",45
+2010,XI (Davao Region),Bagras,"2""x4""x8'",-
+2010,XI (Davao Region),Benguet Pine,"2""x4""x8'",-
+2010,XI (Davao Region),Binuang,"2""x4""x8'",16.5
+2010,XI (Davao Region),Dao,"2""x4""x8'",-
+2010,XI (Davao Region),Dita,"2""x4""x8'",-
+2010,XI (Davao Region),Falcata,"2""x4""x8'",-
+2010,XI (Davao Region),Gmelina,"2""x4""x8'",17.21
+2010,XI (Davao Region),Ipil-Ipil,"2""x4""x8'",16
+2010,XI (Davao Region),Kalantas,"2""x4""x8'",-
+2010,XI (Davao Region),Lauan,"2""x4""x8'",22.34
+2010,XI (Davao Region),Loktob,"2""x4""x8'",16.5
+2010,XI (Davao Region),Mahogany,"2""x4""x8'",18.75
+2010,XI (Davao Region),Mayapis,"2""x4""x8'",-
+2010,XI (Davao Region),Narra,"2""x4""x8'",-
+2010,XI (Davao Region),Tanguile,"2""x4""x8'",29.48
+2010,XI (Davao Region),Yakal,"2""x4""x8'",41.13
+2010,XII (SOCCSKSARGEN),Acacia,"2""x4""x8'",-
+2010,XII (SOCCSKSARGEN),Antipolo,"2""x4""x8'",-
+2010,XII (SOCCSKSARGEN),Apitong,"2""x4""x8'",25
+2010,XII (SOCCSKSARGEN),Bagras,"2""x4""x8'",20
+2010,XII (SOCCSKSARGEN),Benguet Pine,"2""x4""x8'",-
+2010,XII (SOCCSKSARGEN),Binuang,"2""x4""x8'",-
+2010,XII (SOCCSKSARGEN),Dao,"2""x4""x8'",-
+2010,XII (SOCCSKSARGEN),Dita,"2""x4""x8'",-
+2010,XII (SOCCSKSARGEN),Falcata,"2""x4""x8'",-
+2010,XII (SOCCSKSARGEN),Gmelina,"2""x4""x8'",22
+2010,XII (SOCCSKSARGEN),Ipil-Ipil,"2""x4""x8'",-
+2010,XII (SOCCSKSARGEN),Kalantas,"2""x4""x8'",-
+2010,XII (SOCCSKSARGEN),Lauan,"2""x4""x8'",23.33
+2010,XII (SOCCSKSARGEN),Loktob,"2""x4""x8'",-
+2010,XII (SOCCSKSARGEN),Mahogany,"2""x4""x8'",41
+2010,XII (SOCCSKSARGEN),Mayapis,"2""x4""x8'",-
+2010,XII (SOCCSKSARGEN),Narra,"2""x4""x8'",-
+2010,XII (SOCCSKSARGEN),Tanguile,"2""x4""x8'",24
+2010,XII (SOCCSKSARGEN),Yakal,"2""x4""x8'",31.33
+2010,XIII (Caraga),Acacia,"2""x4""x8'",8.5
+2010,XIII (Caraga),Antipolo,"2""x4""x8'",-
+2010,XIII (Caraga),Apitong,"2""x4""x8'",-
+2010,XIII (Caraga),Bagras,"2""x4""x8'",-
+2010,XIII (Caraga),Benguet Pine,"2""x4""x8'",-
+2010,XIII (Caraga),Binuang,"2""x4""x8'",-
+2010,XIII (Caraga),Dao,"2""x4""x8'",-
+2010,XIII (Caraga),Dita,"2""x4""x8'",-
+2010,XIII (Caraga),Falcata,"2""x4""x8'",5.54
+2010,XIII (Caraga),Gmelina,"2""x4""x8'",14.92
+2010,XIII (Caraga),Ipil-Ipil,"2""x4""x8'",-
+2010,XIII (Caraga),Kalantas,"2""x4""x8'",-
+2010,XIII (Caraga),Lauan,"2""x4""x8'",25
+2010,XIII (Caraga),Loktob,"2""x4""x8'",-
+2010,XIII (Caraga),Mahogany,"2""x4""x8'",-
+2010,XIII (Caraga),Mayapis,"2""x4""x8'",-
+2010,XIII (Caraga),Narra,"2""x4""x8'",-
+2010,XIII (Caraga),Tanguile,"2""x4""x8'",23
+2010,XIII (Caraga),Yakal,"2""x4""x8'",30
+2009,National,Acacia,"2""x4""x8'",18.43
+2009,National,Antipolo,"2""x4""x8'",27.95
+2009,National,Apitong,"2""x4""x8'",32.49
+2009,National,Bagras,"2""x4""x8'",28.38
+2009,National,Benguet Pine,"2""x4""x8'",35
+2009,National,Binuang,"2""x4""x8'",22.84
+2009,National,Dao,"2""x4""x8'",31.78
+2009,National,Dita,"2""x4""x8'",28
+2009,National,Falcata,"2""x4""x8'",6
+2009,National,Gmelina,"2""x4""x8'",21.27
+2009,National,Ipil-Ipil,"2""x4""x8'",20.24
+2009,National,Kalantas,"2""x4""x8'",31.78
+2009,National,Lauan,"2""x4""x8'",32.81
+2009,National,Loktob,"2""x4""x8'",22.14
+2009,National,Mahogany,"2""x4""x8'",26.5
+2009,National,Mayapis,"2""x4""x8'",29.665
+2009,National,Narra,"2""x4""x8'",134.36
+2009,National,Tanguile,"2""x4""x8'",33.51
+2009,National,Yakal,"2""x4""x8'",32.98
+2009,NCR,Acacia,"2""x4""x8'",-
+2009,NCR,Antipolo,"2""x4""x8'",-
+2009,NCR,Apitong,"2""x4""x8'",-
+2009,NCR,Bagras,"2""x4""x8'",-
+2009,NCR,Benguet Pine,"2""x4""x8'",34
+2009,NCR,Binuang,"2""x4""x8'",-
+2009,NCR,Dao,"2""x4""x8'",-
+2009,NCR,Dita,"2""x4""x8'",-
+2009,NCR,Falcata,"2""x4""x8'",-
+2009,NCR,Gmelina,"2""x4""x8'",-
+2009,NCR,Ipil-Ipil,"2""x4""x8'",-
+2009,NCR,Kalantas,"2""x4""x8'",-
+2009,NCR,Lauan,"2""x4""x8'",42.17
+2009,NCR,Loktob,"2""x4""x8'",-
+2009,NCR,Mahogany,"2""x4""x8'",35.5
+2009,NCR,Mayapis,"2""x4""x8'",-
+2009,NCR,Narra,"2""x4""x8'",-
+2009,NCR,Tanguile,"2""x4""x8'",39.54
+2009,NCR,Yakal,"2""x4""x8'",-
+2009,CAR,Acacia,"2""x4""x8'",-
+2009,CAR,Antipolo,"2""x4""x8'",-
+2009,CAR,Apitong,"2""x4""x8'",23
+2009,CAR,Bagras,"2""x4""x8'",-
+2009,CAR,Benguet Pine,"2""x4""x8'",-
+2009,CAR,Binuang,"2""x4""x8'",-
+2009,CAR,Dao,"2""x4""x8'",-
+2009,CAR,Dita,"2""x4""x8'",-
+2009,CAR,Falcata,"2""x4""x8'",-
+2009,CAR,Gmelina,"2""x4""x8'",-
+2009,CAR,Ipil-Ipil,"2""x4""x8'",-
+2009,CAR,Kalantas,"2""x4""x8'",-
+2009,CAR,Lauan,"2""x4""x8'",23
+2009,CAR,Loktob,"2""x4""x8'",-
+2009,CAR,Mahogany,"2""x4""x8'",-
+2009,CAR,Mayapis,"2""x4""x8'",-
+2009,CAR,Narra,"2""x4""x8'",-
+2009,CAR,Tanguile,"2""x4""x8'",24
+2009,CAR,Yakal,"2""x4""x8'",-
+2009,I (Ilocos Region),Acacia,"2""x4""x8'",-
+2009,I (Ilocos Region),Antipolo,"2""x4""x8'",-
+2009,I (Ilocos Region),Apitong,"2""x4""x8'",36
+2009,I (Ilocos Region),Bagras,"2""x4""x8'",-
+2009,I (Ilocos Region),Benguet Pine,"2""x4""x8'",-
+2009,I (Ilocos Region),Binuang,"2""x4""x8'",-
+2009,I (Ilocos Region),Dao,"2""x4""x8'",-
+2009,I (Ilocos Region),Dita,"2""x4""x8'",-
+2009,I (Ilocos Region),Falcata,"2""x4""x8'",-
+2009,I (Ilocos Region),Gmelina,"2""x4""x8'",-
+2009,I (Ilocos Region),Ipil-Ipil,"2""x4""x8'",-
+2009,I (Ilocos Region),Kalantas,"2""x4""x8'",-
+2009,I (Ilocos Region),Lauan,"2""x4""x8'",37.46
+2009,I (Ilocos Region),Loktob,"2""x4""x8'",-
+2009,I (Ilocos Region),Mahogany,"2""x4""x8'",-
+2009,I (Ilocos Region),Mayapis,"2""x4""x8'",38.33
+2009,I (Ilocos Region),Narra,"2""x4""x8'",-
+2009,I (Ilocos Region),Tanguile,"2""x4""x8'",39.45
+2009,I (Ilocos Region),Yakal,"2""x4""x8'",-
+2009,II (Cagayan Valley),Acacia,"2""x4""x8'",-
+2009,II (Cagayan Valley),Antipolo,"2""x4""x8'",-
+2009,II (Cagayan Valley),Apitong,"2""x4""x8'",22.71
+2009,II (Cagayan Valley),Bagras,"2""x4""x8'",-
+2009,II (Cagayan Valley),Benguet Pine,"2""x4""x8'",-
+2009,II (Cagayan Valley),Binuang,"2""x4""x8'",-
+2009,II (Cagayan Valley),Dao,"2""x4""x8'",-
+2009,II (Cagayan Valley),Dita,"2""x4""x8'",-
+2009,II (Cagayan Valley),Falcata,"2""x4""x8'",-
+2009,II (Cagayan Valley),Gmelina,"2""x4""x8'",18.78
+2009,II (Cagayan Valley),Ipil-Ipil,"2""x4""x8'",-
+2009,II (Cagayan Valley),Kalantas,"2""x4""x8'",-
+2009,II (Cagayan Valley),Lauan,"2""x4""x8'",23.09
+2009,II (Cagayan Valley),Loktob,"2""x4""x8'",-
+2009,II (Cagayan Valley),Mahogany,"2""x4""x8'",-
+2009,II (Cagayan Valley),Mayapis,"2""x4""x8'",-
+2009,II (Cagayan Valley),Narra,"2""x4""x8'",-
+2009,II (Cagayan Valley),Tanguile,"2""x4""x8'",23.68
+2009,II (Cagayan Valley),Yakal,"2""x4""x8'",20
+2009,III (Central Luzon),Acacia,"2""x4""x8'",-
+2009,III (Central Luzon),Antipolo,"2""x4""x8'",-
+2009,III (Central Luzon),Apitong,"2""x4""x8'",34.53
+2009,III (Central Luzon),Bagras,"2""x4""x8'",-
+2009,III (Central Luzon),Benguet Pine,"2""x4""x8'",-
+2009,III (Central Luzon),Binuang,"2""x4""x8'",-
+2009,III (Central Luzon),Dao,"2""x4""x8'",-
+2009,III (Central Luzon),Dita,"2""x4""x8'",-
+2009,III (Central Luzon),Falcata,"2""x4""x8'",-
+2009,III (Central Luzon),Gmelina,"2""x4""x8'",24.6
+2009,III (Central Luzon),Ipil-Ipil,"2""x4""x8'",-
+2009,III (Central Luzon),Kalantas,"2""x4""x8'",-
+2009,III (Central Luzon),Lauan,"2""x4""x8'",35.19
+2009,III (Central Luzon),Loktob,"2""x4""x8'",-
+2009,III (Central Luzon),Mahogany,"2""x4""x8'",-
+2009,III (Central Luzon),Mayapis,"2""x4""x8'",21
+2009,III (Central Luzon),Narra,"2""x4""x8'",-
+2009,III (Central Luzon),Tanguile,"2""x4""x8'",37.46
+2009,III (Central Luzon),Yakal,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Acacia,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Antipolo,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Apitong,"2""x4""x8'",39.54
+2009,IV-A (CALABARZON),Bagras,"2""x4""x8'",37.83
+2009,IV-A (CALABARZON),Benguet Pine,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Binuang,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Dao,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Dita,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Falcata,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Gmelina,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Ipil-Ipil,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Kalantas,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Lauan,"2""x4""x8'",39.69
+2009,IV-A (CALABARZON),Loktob,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Mahogany,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Mayapis,"2""x4""x8'",-
+2009,IV-A (CALABARZON),Narra,"2""x4""x8'",139.75
+2009,IV-A (CALABARZON),Tanguile,"2""x4""x8'",45.5
+2009,IV-A (CALABARZON),Yakal,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Acacia,"2""x4""x8'",28
+2009,IV-B (MIMAROPA),Antipolo,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Apitong,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Bagras,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Benguet Pine,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Binuang,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Dao,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Dita,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Falcata,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Gmelina,"2""x4""x8'",25.45
+2009,IV-B (MIMAROPA),Ipil-Ipil,"2""x4""x8'",28.47
+2009,IV-B (MIMAROPA),Kalantas,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Lauan,"2""x4""x8'",35.31
+2009,IV-B (MIMAROPA),Loktob,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Mahogany,"2""x4""x8'",24.67
+2009,IV-B (MIMAROPA),Mayapis,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Narra,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Tanguile,"2""x4""x8'",-
+2009,IV-B (MIMAROPA),Yakal,"2""x4""x8'",-
+2009,V (Bicol Region),Acacia,"2""x4""x8'",28.17
+2009,V (Bicol Region),Antipolo,"2""x4""x8'",27.95
+2009,V (Bicol Region),Apitong,"2""x4""x8'",45.14
+2009,V (Bicol Region),Bagras,"2""x4""x8'",-
+2009,V (Bicol Region),Benguet Pine,"2""x4""x8'",-
+2009,V (Bicol Region),Binuang,"2""x4""x8'",30.67
+2009,V (Bicol Region),Dao,"2""x4""x8'",31.78
+2009,V (Bicol Region),Dita,"2""x4""x8'",28
+2009,V (Bicol Region),Falcata,"2""x4""x8'",-
+2009,V (Bicol Region),Gmelina,"2""x4""x8'",30.22
+2009,V (Bicol Region),Ipil-Ipil,"2""x4""x8'",-
+2009,V (Bicol Region),Kalantas,"2""x4""x8'",31.78
+2009,V (Bicol Region),Lauan,"2""x4""x8'",44.11
+2009,V (Bicol Region),Loktob,"2""x4""x8'",29.28
+2009,V (Bicol Region),Mahogany,"2""x4""x8'",29.78
+2009,V (Bicol Region),Mayapis,"2""x4""x8'",-
+2009,V (Bicol Region),Narra,"2""x4""x8'",93.33
+2009,V (Bicol Region),Tanguile,"2""x4""x8'",44.7
+2009,V (Bicol Region),Yakal,"2""x4""x8'",44.17
+2009,VI (Western Visayas),Acacia,"2""x4""x8'",-
+2009,VI (Western Visayas),Antipolo,"2""x4""x8'",-
+2009,VI (Western Visayas),Apitong,"2""x4""x8'",43.54
+2009,VI (Western Visayas),Bagras,"2""x4""x8'",23.67
+2009,VI (Western Visayas),Benguet Pine,"2""x4""x8'",36
+2009,VI (Western Visayas),Binuang,"2""x4""x8'",-
+2009,VI (Western Visayas),Dao,"2""x4""x8'",-
+2009,VI (Western Visayas),Dita,"2""x4""x8'",-
+2009,VI (Western Visayas),Falcata,"2""x4""x8'",-
+2009,VI (Western Visayas),Gmelina,"2""x4""x8'",24.28
+2009,VI (Western Visayas),Ipil-Ipil,"2""x4""x8'",-
+2009,VI (Western Visayas),Kalantas,"2""x4""x8'",-
+2009,VI (Western Visayas),Lauan,"2""x4""x8'",38.37
+2009,VI (Western Visayas),Loktob,"2""x4""x8'",-
+2009,VI (Western Visayas),Mahogany,"2""x4""x8'",28
+2009,VI (Western Visayas),Mayapis,"2""x4""x8'",-
+2009,VI (Western Visayas),Narra,"2""x4""x8'",-
+2009,VI (Western Visayas),Tanguile,"2""x4""x8'",-
+2009,VI (Western Visayas),Yakal,"2""x4""x8'",-
+2009,VII (Central Visayas),Acacia,"2""x4""x8'",-
+2009,VII (Central Visayas),Antipolo,"2""x4""x8'",-
+2009,VII (Central Visayas),Apitong,"2""x4""x8'",29
+2009,VII (Central Visayas),Bagras,"2""x4""x8'",32
+2009,VII (Central Visayas),Benguet Pine,"2""x4""x8'",-
+2009,VII (Central Visayas),Binuang,"2""x4""x8'",-
+2009,VII (Central Visayas),Dao,"2""x4""x8'",-
+2009,VII (Central Visayas),Dita,"2""x4""x8'",-
+2009,VII (Central Visayas),Falcata,"2""x4""x8'",-
+2009,VII (Central Visayas),Gmelina,"2""x4""x8'",26.92
+2009,VII (Central Visayas),Ipil-Ipil,"2""x4""x8'",-
+2009,VII (Central Visayas),Kalantas,"2""x4""x8'",-
+2009,VII (Central Visayas),Lauan,"2""x4""x8'",44.47
+2009,VII (Central Visayas),Loktob,"2""x4""x8'",-
+2009,VII (Central Visayas),Mahogany,"2""x4""x8'",32.13
+2009,VII (Central Visayas),Mayapis,"2""x4""x8'",-
+2009,VII (Central Visayas),Narra,"2""x4""x8'",170
+2009,VII (Central Visayas),Tanguile,"2""x4""x8'",-
+2009,VII (Central Visayas),Yakal,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Acacia,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Antipolo,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Apitong,"2""x4""x8'",25
+2009,VIII (Eastern Visayas),Bagras,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Benguet Pine,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Binuang,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Dao,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Dita,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Falcata,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Gmelina,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Ipil-Ipil,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Kalantas,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Lauan,"2""x4""x8'",35
+2009,VIII (Eastern Visayas),Loktob,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Mahogany,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Mayapis,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Narra,"2""x4""x8'",-
+2009,VIII (Eastern Visayas),Tanguile,"2""x4""x8'",35
+2009,VIII (Eastern Visayas),Yakal,"2""x4""x8'",35
+2009,IX (Zamboanga Peninsula),Acacia,"2""x4""x8'",14
+2009,IX (Zamboanga Peninsula),Antipolo,"2""x4""x8'",-
+2009,IX (Zamboanga Peninsula),Apitong,"2""x4""x8'",27.25
+2009,IX (Zamboanga Peninsula),Bagras,"2""x4""x8'",-
+2009,IX (Zamboanga Peninsula),Benguet Pine,"2""x4""x8'",-
+2009,IX (Zamboanga Peninsula),Binuang,"2""x4""x8'",-
+2009,IX (Zamboanga Peninsula),Dao,"2""x4""x8'",-
+2009,IX (Zamboanga Peninsula),Dita,"2""x4""x8'",-
+2009,IX (Zamboanga Peninsula),Falcata,"2""x4""x8'",-
+2009,IX (Zamboanga Peninsula),Gmelina,"2""x4""x8'",18.08
+2009,IX (Zamboanga Peninsula),Ipil-Ipil,"2""x4""x8'",-
+2009,IX (Zamboanga Peninsula),Kalantas,"2""x4""x8'",-
+2009,IX (Zamboanga Peninsula),Lauan,"2""x4""x8'",22.97
+2009,IX (Zamboanga Peninsula),Loktob,"2""x4""x8'",-
+2009,IX (Zamboanga Peninsula),Mahogany,"2""x4""x8'",22.78
+2009,IX (Zamboanga Peninsula),Mayapis,"2""x4""x8'",-
+2009,IX (Zamboanga Peninsula),Narra,"2""x4""x8'",-
+2009,IX (Zamboanga Peninsula),Tanguile,"2""x4""x8'",-
+2009,IX (Zamboanga Peninsula),Yakal,"2""x4""x8'",35
+2009,X (Northern Mindanao),Acacia,"2""x4""x8'",12
+2009,X (Northern Mindanao),Antipolo,"2""x4""x8'",-
+2009,X (Northern Mindanao),Apitong,"2""x4""x8'",-
+2009,X (Northern Mindanao),Bagras,"2""x4""x8'",-
+2009,X (Northern Mindanao),Benguet Pine,"2""x4""x8'",-
+2009,X (Northern Mindanao),Binuang,"2""x4""x8'",-
+2009,X (Northern Mindanao),Dao,"2""x4""x8'",-
+2009,X (Northern Mindanao),Dita,"2""x4""x8'",-
+2009,X (Northern Mindanao),Falcata,"2""x4""x8'",-
+2009,X (Northern Mindanao),Gmelina,"2""x4""x8'",14.61
+2009,X (Northern Mindanao),Ipil-Ipil,"2""x4""x8'",-
+2009,X (Northern Mindanao),Kalantas,"2""x4""x8'",-
+2009,X (Northern Mindanao),Lauan,"2""x4""x8'",30
+2009,X (Northern Mindanao),Loktob,"2""x4""x8'",-
+2009,X (Northern Mindanao),Mahogany,"2""x4""x8'",24
+2009,X (Northern Mindanao),Mayapis,"2""x4""x8'",-
+2009,X (Northern Mindanao),Narra,"2""x4""x8'",-
+2009,X (Northern Mindanao),Tanguile,"2""x4""x8'",-
+2009,X (Northern Mindanao),Yakal,"2""x4""x8'",-
+2009,XI (Davao Region),Acacia,"2""x4""x8'",-
+2009,XI (Davao Region),Antipolo,"2""x4""x8'",-
+2009,XI (Davao Region),Apitong,"2""x4""x8'",39.11
+2009,XI (Davao Region),Bagras,"2""x4""x8'",-
+2009,XI (Davao Region),Benguet Pine,"2""x4""x8'",-
+2009,XI (Davao Region),Binuang,"2""x4""x8'",15
+2009,XI (Davao Region),Dao,"2""x4""x8'",-
+2009,XI (Davao Region),Dita,"2""x4""x8'",-
+2009,XI (Davao Region),Falcata,"2""x4""x8'",-
+2009,XI (Davao Region),Gmelina,"2""x4""x8'",18.48
+2009,XI (Davao Region),Ipil-Ipil,"2""x4""x8'",12
+2009,XI (Davao Region),Kalantas,"2""x4""x8'",-
+2009,XI (Davao Region),Lauan,"2""x4""x8'",25.8
+2009,XI (Davao Region),Loktob,"2""x4""x8'",15
+2009,XI (Davao Region),Mahogany,"2""x4""x8'",18
+2009,XI (Davao Region),Mayapis,"2""x4""x8'",-
+2009,XI (Davao Region),Narra,"2""x4""x8'",-
+2009,XI (Davao Region),Tanguile,"2""x4""x8'",31.75
+2009,XI (Davao Region),Yakal,"2""x4""x8'",35.33
+2009,XII (SOCCSKSARGEN),Acacia,"2""x4""x8'",-
+2009,XII (SOCCSKSARGEN),Antipolo,"2""x4""x8'",-
+2009,XII (SOCCSKSARGEN),Apitong,"2""x4""x8'",25
+2009,XII (SOCCSKSARGEN),Bagras,"2""x4""x8'",20
+2009,XII (SOCCSKSARGEN),Benguet Pine,"2""x4""x8'",-
+2009,XII (SOCCSKSARGEN),Binuang,"2""x4""x8'",-
+2009,XII (SOCCSKSARGEN),Dao,"2""x4""x8'",-
+2009,XII (SOCCSKSARGEN),Dita,"2""x4""x8'",-
+2009,XII (SOCCSKSARGEN),Falcata,"2""x4""x8'",-
+2009,XII (SOCCSKSARGEN),Gmelina,"2""x4""x8'",22
+2009,XII (SOCCSKSARGEN),Ipil-Ipil,"2""x4""x8'",-
+2009,XII (SOCCSKSARGEN),Kalantas,"2""x4""x8'",-
+2009,XII (SOCCSKSARGEN),Lauan,"2""x4""x8'",23.33
+2009,XII (SOCCSKSARGEN),Loktob,"2""x4""x8'",-
+2009,XII (SOCCSKSARGEN),Mahogany,"2""x4""x8'",41
+2009,XII (SOCCSKSARGEN),Mayapis,"2""x4""x8'",-
+2009,XII (SOCCSKSARGEN),Narra,"2""x4""x8'",-
+2009,XII (SOCCSKSARGEN),Tanguile,"2""x4""x8'",24
+2009,XII (SOCCSKSARGEN),Yakal,"2""x4""x8'",31.33
+2009,XIII (Caraga),Acacia,"2""x4""x8'",10
+2009,XIII (Caraga),Antipolo,"2""x4""x8'",-
+2009,XIII (Caraga),Apitong,"2""x4""x8'",-
+2009,XIII (Caraga),Bagras,"2""x4""x8'",-
+2009,XIII (Caraga),Benguet Pine,"2""x4""x8'",-
+2009,XIII (Caraga),Binuang,"2""x4""x8'",-
+2009,XIII (Caraga),Dao,"2""x4""x8'",-
+2009,XIII (Caraga),Dita,"2""x4""x8'",-
+2009,XIII (Caraga),Falcata,"2""x4""x8'",6
+2009,XIII (Caraga),Gmelina,"2""x4""x8'",10.5
+2009,XIII (Caraga),Ipil-Ipil,"2""x4""x8'",-
+2009,XIII (Caraga),Kalantas,"2""x4""x8'",-
+2009,XIII (Caraga),Lauan,"2""x4""x8'",25
+2009,XIII (Caraga),Loktob,"2""x4""x8'",-
+2009,XIII (Caraga),Mahogany,"2""x4""x8'",9.5
+2009,XIII (Caraga),Mayapis,"2""x4""x8'",-
+2009,XIII (Caraga),Narra,"2""x4""x8'",-
+2009,XIII (Caraga),Tanguile,"2""x4""x8'",23.5
+2009,XIII (Caraga),Yakal,"2""x4""x8'",30
+2008,National,Apitong,"2""x4""x8'",30.66
+2008,National,Bagras,"2""x4""x8'",26.67
+2008,National,Binuang,"2""x4""x8'",27.11
+2008,National,Gmelina,"2""x4""x8'",21.63
+2008,National,Kalantas,"2""x4""x8'",31.78
+2008,National,Lauan,"2""x4""x8'",31.41
+2008,National,Mahogany,"2""x4""x8'",26.24
+2008,National,Narra,"2""x4""x8'",127.57
+2008,National,Tanguile,"2""x4""x8'",32.89
+2008,National,Yakal,"2""x4""x8'",32.4
+2008,NCR,Apitong,"2""x4""x8'",-
+2008,NCR,Bagras,"2""x4""x8'",-
+2008,NCR,Binuang,"2""x4""x8'",-
+2008,NCR,Gmelina,"2""x4""x8'",30
+2008,NCR,Kalantas,"2""x4""x8'",-
+2008,NCR,Lauan,"2""x4""x8'",36.13
+2008,NCR,Mahogany,"2""x4""x8'",13.63
+2008,NCR,Narra,"2""x4""x8'",-
+2008,NCR,Tanguile,"2""x4""x8'",29.44
+2008,NCR,Yakal,"2""x4""x8'",-
+2008,I (Ilocos Region),Apitong,"2""x4""x8'",36.29
+2008,I (Ilocos Region),Bagras,"2""x4""x8'",-
+2008,I (Ilocos Region),Binuang,"2""x4""x8'",-
+2008,I (Ilocos Region),Gmelina,"2""x4""x8'",-
+2008,I (Ilocos Region),Kalantas,"2""x4""x8'",-
+2008,I (Ilocos Region),Lauan,"2""x4""x8'",37.71
+2008,I (Ilocos Region),Mahogany,"2""x4""x8'",-
+2008,I (Ilocos Region),Narra,"2""x4""x8'",-
+2008,I (Ilocos Region),Tanguile,"2""x4""x8'",37.76
+2008,I (Ilocos Region),Yakal,"2""x4""x8'",-
+2008,II (Cagayan Valley),Apitong,"2""x4""x8'",19.04
+2008,II (Cagayan Valley),Bagras,"2""x4""x8'",-
+2008,II (Cagayan Valley),Binuang,"2""x4""x8'",-
+2008,II (Cagayan Valley),Gmelina,"2""x4""x8'",18.44
+2008,II (Cagayan Valley),Kalantas,"2""x4""x8'",-
+2008,II (Cagayan Valley),Lauan,"2""x4""x8'",20.87
+2008,II (Cagayan Valley),Mahogany,"2""x4""x8'",-
+2008,II (Cagayan Valley),Narra,"2""x4""x8'",-
+2008,II (Cagayan Valley),Tanguile,"2""x4""x8'",-
+2008,II (Cagayan Valley),Yakal,"2""x4""x8'",19
+2008,III (Central Luzon),Apitong,"2""x4""x8'",35.47
+2008,III (Central Luzon),Bagras,"2""x4""x8'",-
+2008,III (Central Luzon),Binuang,"2""x4""x8'",-
+2008,III (Central Luzon),Gmelina,"2""x4""x8'",-
+2008,III (Central Luzon),Kalantas,"2""x4""x8'",-
+2008,III (Central Luzon),Lauan,"2""x4""x8'",35.16
+2008,III (Central Luzon),Mahogany,"2""x4""x8'",-
+2008,III (Central Luzon),Narra,"2""x4""x8'",-
+2008,III (Central Luzon),Tanguile,"2""x4""x8'",35.09
+2008,III (Central Luzon),Yakal,"2""x4""x8'",-
+2008,IV-A (CALABARZON),Apitong,"2""x4""x8'",39.83
+2008,IV-A (CALABARZON),Bagras,"2""x4""x8'",34.67
+2008,IV-A (CALABARZON),Binuang,"2""x4""x8'",-
+2008,IV-A (CALABARZON),Gmelina,"2""x4""x8'",-
+2008,IV-A (CALABARZON),Kalantas,"2""x4""x8'",-
+2008,IV-A (CALABARZON),Lauan,"2""x4""x8'",36.28
+2008,IV-A (CALABARZON),Mahogany,"2""x4""x8'",-
+2008,IV-A (CALABARZON),Narra,"2""x4""x8'",119.38
+2008,IV-A (CALABARZON),Tanguile,"2""x4""x8'",41.23
+2008,IV-A (CALABARZON),Yakal,"2""x4""x8'",-
+2008,IV-B (MIMAROPA),Apitong,"2""x4""x8'",20.17
+2008,IV-B (MIMAROPA),Bagras,"2""x4""x8'",-
+2008,IV-B (MIMAROPA),Binuang,"2""x4""x8'",-
+2008,IV-B (MIMAROPA),Gmelina,"2""x4""x8'",25.93
+2008,IV-B (MIMAROPA),Kalantas,"2""x4""x8'",-
+2008,IV-B (MIMAROPA),Lauan,"2""x4""x8'",20.04
+2008,IV-B (MIMAROPA),Mahogany,"2""x4""x8'",-
+2008,IV-B (MIMAROPA),Narra,"2""x4""x8'",93.33
+2008,IV-B (MIMAROPA),Tanguile,"2""x4""x8'",-
+2008,IV-B (MIMAROPA),Yakal,"2""x4""x8'",-
+2008,V (Bicol Region),Apitong,"2""x4""x8'",48.06
+2008,V (Bicol Region),Bagras,"2""x4""x8'",-
+2008,V (Bicol Region),Binuang,"2""x4""x8'",27.11
+2008,V (Bicol Region),Gmelina,"2""x4""x8'",28.84
+2008,V (Bicol Region),Kalantas,"2""x4""x8'",31.78
+2008,V (Bicol Region),Lauan,"2""x4""x8'",47.92
+2008,V (Bicol Region),Mahogany,"2""x4""x8'",-
+2008,V (Bicol Region),Narra,"2""x4""x8'",-
+2008,V (Bicol Region),Tanguile,"2""x4""x8'",47.78
+2008,V (Bicol Region),Yakal,"2""x4""x8'",45.19
+2008,VI (Western Visayas),Apitong,"2""x4""x8'",44
+2008,VI (Western Visayas),Bagras,"2""x4""x8'",20
+2008,VI (Western Visayas),Binuang,"2""x4""x8'",-
+2008,VI (Western Visayas),Gmelina,"2""x4""x8'",26.37
+2008,VI (Western Visayas),Kalantas,"2""x4""x8'",-
+2008,VI (Western Visayas),Lauan,"2""x4""x8'",36.5
+2008,VI (Western Visayas),Mahogany,"2""x4""x8'",29.4
+2008,VI (Western Visayas),Narra,"2""x4""x8'",-
+2008,VI (Western Visayas),Tanguile,"2""x4""x8'",-
+2008,VI (Western Visayas),Yakal,"2""x4""x8'",-
+2008,VII (Central Visayas),Apitong,"2""x4""x8'",29
+2008,VII (Central Visayas),Bagras,"2""x4""x8'",32
+2008,VII (Central Visayas),Binuang,"2""x4""x8'",-
+2008,VII (Central Visayas),Gmelina,"2""x4""x8'",26.93
+2008,VII (Central Visayas),Kalantas,"2""x4""x8'",-
+2008,VII (Central Visayas),Lauan,"2""x4""x8'",43.63
+2008,VII (Central Visayas),Mahogany,"2""x4""x8'",30.61
+2008,VII (Central Visayas),Narra,"2""x4""x8'",170
+2008,VII (Central Visayas),Tanguile,"2""x4""x8'",-
+2008,VII (Central Visayas),Yakal,"2""x4""x8'",-
+2008,VIII (Eastern Visayas),Apitong,"2""x4""x8'",30
+2008,VIII (Eastern Visayas),Bagras,"2""x4""x8'",-
+2008,VIII (Eastern Visayas),Binuang,"2""x4""x8'",-
+2008,VIII (Eastern Visayas),Gmelina,"2""x4""x8'",25
+2008,VIII (Eastern Visayas),Kalantas,"2""x4""x8'",-
+2008,VIII (Eastern Visayas),Lauan,"2""x4""x8'",35
+2008,VIII (Eastern Visayas),Mahogany,"2""x4""x8'",35
+2008,VIII (Eastern Visayas),Narra,"2""x4""x8'",-
+2008,VIII (Eastern Visayas),Tanguile,"2""x4""x8'",35
+2008,VIII (Eastern Visayas),Yakal,"2""x4""x8'",35
+2008,IX (Zamboanga Peninsula),Apitong,"2""x4""x8'",27.86
+2008,IX (Zamboanga Peninsula),Bagras,"2""x4""x8'",-
+2008,IX (Zamboanga Peninsula),Binuang,"2""x4""x8'",-
+2008,IX (Zamboanga Peninsula),Gmelina,"2""x4""x8'",17.46
+2008,IX (Zamboanga Peninsula),Kalantas,"2""x4""x8'",-
+2008,IX (Zamboanga Peninsula),Lauan,"2""x4""x8'",22.75
+2008,IX (Zamboanga Peninsula),Mahogany,"2""x4""x8'",21.3
+2008,IX (Zamboanga Peninsula),Narra,"2""x4""x8'",-
+2008,IX (Zamboanga Peninsula),Tanguile,"2""x4""x8'",-
+2008,IX (Zamboanga Peninsula),Yakal,"2""x4""x8'",38
+2008,X (Northern Mindanao),Apitong,"2""x4""x8'",-
+2008,X (Northern Mindanao),Bagras,"2""x4""x8'",-
+2008,X (Northern Mindanao),Binuang,"2""x4""x8'",-
+2008,X (Northern Mindanao),Gmelina,"2""x4""x8'",14.39
+2008,X (Northern Mindanao),Kalantas,"2""x4""x8'",-
+2008,X (Northern Mindanao),Lauan,"2""x4""x8'",-
+2008,X (Northern Mindanao),Mahogany,"2""x4""x8'",24
+2008,X (Northern Mindanao),Narra,"2""x4""x8'",-
+2008,X (Northern Mindanao),Tanguile,"2""x4""x8'",-
+2008,X (Northern Mindanao),Yakal,"2""x4""x8'",-
+2008,XI (Davao Region),Apitong,"2""x4""x8'",26.67
+2008,XI (Davao Region),Bagras,"2""x4""x8'",-
+2008,XI (Davao Region),Binuang,"2""x4""x8'",-
+2008,XI (Davao Region),Gmelina,"2""x4""x8'",15.55
+2008,XI (Davao Region),Kalantas,"2""x4""x8'",-
+2008,XI (Davao Region),Lauan,"2""x4""x8'",22.91
+2008,XI (Davao Region),Mahogany,"2""x4""x8'",18.45
+2008,XI (Davao Region),Narra,"2""x4""x8'",-
+2008,XI (Davao Region),Tanguile,"2""x4""x8'",24.74
+2008,XI (Davao Region),Yakal,"2""x4""x8'",30.21
+2008,XII (SOCCSKSARGEN),Apitong,"2""x4""x8'",25
+2008,XII (SOCCSKSARGEN),Bagras,"2""x4""x8'",20
+2008,XII (SOCCSKSARGEN),Binuang,"2""x4""x8'",-
+2008,XII (SOCCSKSARGEN),Gmelina,"2""x4""x8'",20.67
+2008,XII (SOCCSKSARGEN),Kalantas,"2""x4""x8'",-
+2008,XII (SOCCSKSARGEN),Lauan,"2""x4""x8'",23.33
+2008,XII (SOCCSKSARGEN),Mahogany,"2""x4""x8'",37.5
+2008,XII (SOCCSKSARGEN),Narra,"2""x4""x8'",-
+2008,XII (SOCCSKSARGEN),Tanguile,"2""x4""x8'",24
+2008,XII (SOCCSKSARGEN),Yakal,"2""x4""x8'",31.83
+2008,XIII (Caraga),Apitong,"2""x4""x8'",17.25
+2008,XIII (Caraga),Bagras,"2""x4""x8'",-
+2008,XIII (Caraga),Binuang,"2""x4""x8'",-
+2008,XIII (Caraga),Gmelina,"2""x4""x8'",10
+2008,XIII (Caraga),Kalantas,"2""x4""x8'",-
+2008,XIII (Caraga),Lauan,"2""x4""x8'",21.5
+2008,XIII (Caraga),Mahogany,"2""x4""x8'",-
+2008,XIII (Caraga),Narra,"2""x4""x8'",-
+2008,XIII (Caraga),Tanguile,"2""x4""x8'",21
+2008,XIII (Caraga),Yakal,"2""x4""x8'",27.58
+2007,National,Apitong,"2""x4""x8'",28.91
+2007,National,Bagras,"2""x4""x8'",24
+2007,National,Binuang,"2""x4""x8'",25.8
+2007,National,Gmelina,"2""x4""x8'",20.76
+2007,National,Kalantas,"2""x4""x8'",31
+2007,National,Lauan,"2""x4""x8'",29.34
+2007,National,Mahogany,"2""x4""x8'",26.8
+2007,National,Narra,"2""x4""x8'",126.81
+2007,National,Tanguile,"2""x4""x8'",30.17
+2007,National,Yakal,"2""x4""x8'",27.29
+2007,NCR,Apitong,"2""x4""x8'",-
+2007,NCR,Bagras,"2""x4""x8'",-
+2007,NCR,Binuang,"2""x4""x8'",-
+2007,NCR,Gmelina,"2""x4""x8'",20
+2007,NCR,Kalantas,"2""x4""x8'",-
+2007,NCR,Lauan,"2""x4""x8'",32.5
+2007,NCR,Mahogany,"2""x4""x8'",33
+2007,NCR,Narra,"2""x4""x8'",-
+2007,NCR,Tanguile,"2""x4""x8'",27.81
+2007,NCR,Yakal,"2""x4""x8'",-
+2007,CAR,Apitong,"2""x4""x8'",20
+2007,CAR,Bagras,"2""x4""x8'",-
+2007,CAR,Binuang,"2""x4""x8'",-
+2007,CAR,Gmelina,"2""x4""x8'",-
+2007,CAR,Kalantas,"2""x4""x8'",-
+2007,CAR,Lauan,"2""x4""x8'",20
+2007,CAR,Mahogany,"2""x4""x8'",-
+2007,CAR,Narra,"2""x4""x8'",-
+2007,CAR,Tanguile,"2""x4""x8'",20
+2007,CAR,Yakal,"2""x4""x8'",-
+2007,I (Ilocos Region),Apitong,"2""x4""x8'",36
+2007,I (Ilocos Region),Bagras,"2""x4""x8'",-
+2007,I (Ilocos Region),Binuang,"2""x4""x8'",-
+2007,I (Ilocos Region),Gmelina,"2""x4""x8'",-
+2007,I (Ilocos Region),Kalantas,"2""x4""x8'",-
+2007,I (Ilocos Region),Lauan,"2""x4""x8'",37.06
+2007,I (Ilocos Region),Mahogany,"2""x4""x8'",-
+2007,I (Ilocos Region),Narra,"2""x4""x8'",-
+2007,I (Ilocos Region),Tanguile,"2""x4""x8'",36.81
+2007,I (Ilocos Region),Yakal,"2""x4""x8'",-
+2007,II (Cagayan Valley),Apitong,"2""x4""x8'",19
+2007,II (Cagayan Valley),Bagras,"2""x4""x8'",-
+2007,II (Cagayan Valley),Binuang,"2""x4""x8'",-
+2007,II (Cagayan Valley),Gmelina,"2""x4""x8'",18
+2007,II (Cagayan Valley),Kalantas,"2""x4""x8'",-
+2007,II (Cagayan Valley),Lauan,"2""x4""x8'",22.73
+2007,II (Cagayan Valley),Mahogany,"2""x4""x8'",-
+2007,II (Cagayan Valley),Narra,"2""x4""x8'",-
+2007,II (Cagayan Valley),Tanguile,"2""x4""x8'",20.81
+2007,II (Cagayan Valley),Yakal,"2""x4""x8'",19
+2007,III (Central Luzon),Apitong,"2""x4""x8'",34
+2007,III (Central Luzon),Bagras,"2""x4""x8'",-
+2007,III (Central Luzon),Binuang,"2""x4""x8'",-
+2007,III (Central Luzon),Gmelina,"2""x4""x8'",-
+2007,III (Central Luzon),Kalantas,"2""x4""x8'",-
+2007,III (Central Luzon),Lauan,"2""x4""x8'",34.72
+2007,III (Central Luzon),Mahogany,"2""x4""x8'",-
+2007,III (Central Luzon),Narra,"2""x4""x8'",-
+2007,III (Central Luzon),Tanguile,"2""x4""x8'",36.06
+2007,III (Central Luzon),Yakal,"2""x4""x8'",14
+2007,IV-A (CALABARZON),Apitong,"2""x4""x8'",44.22
+2007,IV-A (CALABARZON),Bagras,"2""x4""x8'",34
+2007,IV-A (CALABARZON),Binuang,"2""x4""x8'",-
+2007,IV-A (CALABARZON),Gmelina,"2""x4""x8'",-
+2007,IV-A (CALABARZON),Kalantas,"2""x4""x8'",-
+2007,IV-A (CALABARZON),Lauan,"2""x4""x8'",37.56
+2007,IV-A (CALABARZON),Mahogany,"2""x4""x8'",-
+2007,IV-A (CALABARZON),Narra,"2""x4""x8'",122.92
+2007,IV-A (CALABARZON),Tanguile,"2""x4""x8'",42.5
+2007,IV-A (CALABARZON),Yakal,"2""x4""x8'",-
+2007,IV-B (MIMAROPA),Apitong,"2""x4""x8'",19.25
+2007,IV-B (MIMAROPA),Bagras,"2""x4""x8'",-
+2007,IV-B (MIMAROPA),Binuang,"2""x4""x8'",-
+2007,IV-B (MIMAROPA),Gmelina,"2""x4""x8'",21.17
+2007,IV-B (MIMAROPA),Kalantas,"2""x4""x8'",-
+2007,IV-B (MIMAROPA),Lauan,"2""x4""x8'",20
+2007,IV-B (MIMAROPA),Mahogany,"2""x4""x8'",22
+2007,IV-B (MIMAROPA),Narra,"2""x4""x8'",-
+2007,IV-B (MIMAROPA),Tanguile,"2""x4""x8'",-
+2007,IV-B (MIMAROPA),Yakal,"2""x4""x8'",-
+2007,V (Bicol Region),Apitong,"2""x4""x8'",44
+2007,V (Bicol Region),Bagras,"2""x4""x8'",-
+2007,V (Bicol Region),Binuang,"2""x4""x8'",25.8
+2007,V (Bicol Region),Gmelina,"2""x4""x8'",24.2
+2007,V (Bicol Region),Kalantas,"2""x4""x8'",31
+2007,V (Bicol Region),Lauan,"2""x4""x8'",38.4
+2007,V (Bicol Region),Mahogany,"2""x4""x8'",-
+2007,V (Bicol Region),Narra,"2""x4""x8'",87.5
+2007,V (Bicol Region),Tanguile,"2""x4""x8'",43.33
+2007,V (Bicol Region),Yakal,"2""x4""x8'",38.6
+2007,VI (Western Visayas),Apitong,"2""x4""x8'",30.5
+2007,VI (Western Visayas),Bagras,"2""x4""x8'",20
+2007,VI (Western Visayas),Binuang,"2""x4""x8'",-
+2007,VI (Western Visayas),Gmelina,"2""x4""x8'",25.62
+2007,VI (Western Visayas),Kalantas,"2""x4""x8'",-
+2007,VI (Western Visayas),Lauan,"2""x4""x8'",34.27
+2007,VI (Western Visayas),Mahogany,"2""x4""x8'",29.05
+2007,VI (Western Visayas),Narra,"2""x4""x8'",-
+2007,VI (Western Visayas),Tanguile,"2""x4""x8'",-
+2007,VI (Western Visayas),Yakal,"2""x4""x8'",-
+2007,VII (Central Visayas),Apitong,"2""x4""x8'",29
+2007,VII (Central Visayas),Bagras,"2""x4""x8'",32
+2007,VII (Central Visayas),Binuang,"2""x4""x8'",-
+2007,VII (Central Visayas),Gmelina,"2""x4""x8'",28.71
+2007,VII (Central Visayas),Kalantas,"2""x4""x8'",-
+2007,VII (Central Visayas),Lauan,"2""x4""x8'",44.57
+2007,VII (Central Visayas),Mahogany,"2""x4""x8'",30
+2007,VII (Central Visayas),Narra,"2""x4""x8'",170
+2007,VII (Central Visayas),Tanguile,"2""x4""x8'",35.08
+2007,VII (Central Visayas),Yakal,"2""x4""x8'",-
+2007,VIII (Eastern Visayas),Apitong,"2""x4""x8'",-
+2007,VIII (Eastern Visayas),Bagras,"2""x4""x8'",-
+2007,VIII (Eastern Visayas),Binuang,"2""x4""x8'",-
+2007,VIII (Eastern Visayas),Gmelina,"2""x4""x8'",23
+2007,VIII (Eastern Visayas),Kalantas,"2""x4""x8'",-
+2007,VIII (Eastern Visayas),Lauan,"2""x4""x8'",26
+2007,VIII (Eastern Visayas),Mahogany,"2""x4""x8'",35
+2007,VIII (Eastern Visayas),Narra,"2""x4""x8'",-
+2007,VIII (Eastern Visayas),Tanguile,"2""x4""x8'",-
+2007,VIII (Eastern Visayas),Yakal,"2""x4""x8'",-
+2007,IX (Zamboanga Peninsula),Apitong,"2""x4""x8'",24
+2007,IX (Zamboanga Peninsula),Bagras,"2""x4""x8'",-
+2007,IX (Zamboanga Peninsula),Binuang,"2""x4""x8'",-
+2007,IX (Zamboanga Peninsula),Gmelina,"2""x4""x8'",17.75
+2007,IX (Zamboanga Peninsula),Kalantas,"2""x4""x8'",-
+2007,IX (Zamboanga Peninsula),Lauan,"2""x4""x8'",24
+2007,IX (Zamboanga Peninsula),Mahogany,"2""x4""x8'",24
+2007,IX (Zamboanga Peninsula),Narra,"2""x4""x8'",-
+2007,IX (Zamboanga Peninsula),Tanguile,"2""x4""x8'",-
+2007,IX (Zamboanga Peninsula),Yakal,"2""x4""x8'",34
+2007,X (Northern Mindanao),Apitong,"2""x4""x8'",-
+2007,X (Northern Mindanao),Bagras,"2""x4""x8'",14
+2007,X (Northern Mindanao),Binuang,"2""x4""x8'",-
+2007,X (Northern Mindanao),Gmelina,"2""x4""x8'",13.44
+2007,X (Northern Mindanao),Kalantas,"2""x4""x8'",-
+2007,X (Northern Mindanao),Lauan,"2""x4""x8'",24
+2007,X (Northern Mindanao),Mahogany,"2""x4""x8'",20.89
+2007,X (Northern Mindanao),Narra,"2""x4""x8'",-
+2007,X (Northern Mindanao),Tanguile,"2""x4""x8'",24.5
+2007,X (Northern Mindanao),Yakal,"2""x4""x8'",-
+2007,XI (Davao Region),Apitong,"2""x4""x8'",21.25
+2007,XI (Davao Region),Bagras,"2""x4""x8'",-
+2007,XI (Davao Region),Binuang,"2""x4""x8'",-
+2007,XI (Davao Region),Gmelina,"2""x4""x8'",15.75
+2007,XI (Davao Region),Kalantas,"2""x4""x8'",-
+2007,XI (Davao Region),Lauan,"2""x4""x8'",20.34
+2007,XI (Davao Region),Mahogany,"2""x4""x8'",18
+2007,XI (Davao Region),Narra,"2""x4""x8'",-
+2007,XI (Davao Region),Tanguile,"2""x4""x8'",20.13
+2007,XI (Davao Region),Yakal,"2""x4""x8'",25
+2007,XII (SOCCSKSARGEN),Apitong,"2""x4""x8'",25.71
+2007,XII (SOCCSKSARGEN),Bagras,"2""x4""x8'",20
+2007,XII (SOCCSKSARGEN),Binuang,"2""x4""x8'",-
+2007,XII (SOCCSKSARGEN),Gmelina,"2""x4""x8'",-
+2007,XII (SOCCSKSARGEN),Kalantas,"2""x4""x8'",-
+2007,XII (SOCCSKSARGEN),Lauan,"2""x4""x8'",24
+2007,XII (SOCCSKSARGEN),Mahogany,"2""x4""x8'",29.29
+2007,XII (SOCCSKSARGEN),Narra,"2""x4""x8'",-
+2007,XII (SOCCSKSARGEN),Tanguile,"2""x4""x8'",24.86
+2007,XII (SOCCSKSARGEN),Yakal,"2""x4""x8'",33.14
+2006,National,Acacia,"2""x4""x8'",10.33
+2006,National,Antipolo,"2""x4""x8'",33.33
+2006,National,Apitong,"2""x4""x8'",28.92
+2006,National,Bagras,"2""x4""x8'",20.06
+2006,National,Binuang,"2""x4""x8'",28
+2006,National,Dao,"2""x4""x8'",29.62
+2006,National,Falcata,"2""x4""x8'",8.97
+2006,National,Gmelina,"2""x4""x8'",17.32
+2006,National,Gubas,"2""x4""x8'",6.38
+2006,National,Ipil-Ipil,"2""x4""x8'",35
+2006,National,Kalantas,"2""x4""x8'",28
+2006,National,Lauan,"2""x4""x8'",26.87
+2006,National,Loktob,"2""x4""x8'",27.25
+2006,National,Mahogany,"2""x4""x8'",26.29
+2006,National,Mayapis,"2""x4""x8'",37
+2006,National,Narra,"2""x4""x8'",48.61
+2006,National,Tanguile,"2""x4""x8'",29.1
+2006,National,Toog,"2""x4""x8'",32
+2006,National,Yakal,"2""x4""x8'",32.54
+2006,NCR,Acacia,"2""x4""x8'",-
+2006,NCR,Antipolo,"2""x4""x8'",-
+2006,NCR,Apitong,"2""x4""x8'",-
+2006,NCR,Bagras,"2""x4""x8'",-
+2006,NCR,Binuang,"2""x4""x8'",-
+2006,NCR,Dao,"2""x4""x8'",-
+2006,NCR,Falcata,"2""x4""x8'",-
+2006,NCR,Gmelina,"2""x4""x8'",-
+2006,NCR,Gubas,"2""x4""x8'",-
+2006,NCR,Ipil-Ipil,"2""x4""x8'",-
+2006,NCR,Kalantas,"2""x4""x8'",-
+2006,NCR,Lauan,"2""x4""x8'",26.98
+2006,NCR,Loktob,"2""x4""x8'",-
+2006,NCR,Mahogany,"2""x4""x8'",31.8
+2006,NCR,Mayapis,"2""x4""x8'",-
+2006,NCR,Narra,"2""x4""x8'",-
+2006,NCR,Tanguile,"2""x4""x8'",27
+2006,NCR,Toog,"2""x4""x8'",-
+2006,NCR,Yakal,"2""x4""x8'",-
+2006,I (Ilocos Region),Acacia,"2""x4""x8'",-
+2006,I (Ilocos Region),Antipolo,"2""x4""x8'",-
+2006,I (Ilocos Region),Apitong,"2""x4""x8'",-
+2006,I (Ilocos Region),Bagras,"2""x4""x8'",-
+2006,I (Ilocos Region),Binuang,"2""x4""x8'",-
+2006,I (Ilocos Region),Dao,"2""x4""x8'",-
+2006,I (Ilocos Region),Falcata,"2""x4""x8'",-
+2006,I (Ilocos Region),Gmelina,"2""x4""x8'",-
+2006,I (Ilocos Region),Gubas,"2""x4""x8'",-
+2006,I (Ilocos Region),Ipil-Ipil,"2""x4""x8'",-
+2006,I (Ilocos Region),Kalantas,"2""x4""x8'",-
+2006,I (Ilocos Region),Lauan,"2""x4""x8'",37
+2006,I (Ilocos Region),Loktob,"2""x4""x8'",-
+2006,I (Ilocos Region),Mahogany,"2""x4""x8'",-
+2006,I (Ilocos Region),Mayapis,"2""x4""x8'",37
+2006,I (Ilocos Region),Narra,"2""x4""x8'",-
+2006,I (Ilocos Region),Tanguile,"2""x4""x8'",37.17
+2006,I (Ilocos Region),Toog,"2""x4""x8'",-
+2006,I (Ilocos Region),Yakal,"2""x4""x8'",-
+2006,II (Cagayan Valley),Acacia,"2""x4""x8'",-
+2006,II (Cagayan Valley),Antipolo,"2""x4""x8'",-
+2006,II (Cagayan Valley),Apitong,"2""x4""x8'",19.69
+2006,II (Cagayan Valley),Bagras,"2""x4""x8'",-
+2006,II (Cagayan Valley),Binuang,"2""x4""x8'",-
+2006,II (Cagayan Valley),Dao,"2""x4""x8'",-
+2006,II (Cagayan Valley),Falcata,"2""x4""x8'",-
+2006,II (Cagayan Valley),Gmelina,"2""x4""x8'",14
+2006,II (Cagayan Valley),Gubas,"2""x4""x8'",-
+2006,II (Cagayan Valley),Ipil-Ipil,"2""x4""x8'",-
+2006,II (Cagayan Valley),Kalantas,"2""x4""x8'",-
+2006,II (Cagayan Valley),Lauan,"2""x4""x8'",19.63
+2006,II (Cagayan Valley),Loktob,"2""x4""x8'",-
+2006,II (Cagayan Valley),Mahogany,"2""x4""x8'",-
+2006,II (Cagayan Valley),Mayapis,"2""x4""x8'",-
+2006,II (Cagayan Valley),Narra,"2""x4""x8'",27.5
+2006,II (Cagayan Valley),Tanguile,"2""x4""x8'",21.19
+2006,II (Cagayan Valley),Toog,"2""x4""x8'",-
+2006,II (Cagayan Valley),Yakal,"2""x4""x8'",22.94
+2006,III (Central Luzon),Acacia,"2""x4""x8'",-
+2006,III (Central Luzon),Antipolo,"2""x4""x8'",-
+2006,III (Central Luzon),Apitong,"2""x4""x8'",35.5
+2006,III (Central Luzon),Bagras,"2""x4""x8'",-
+2006,III (Central Luzon),Binuang,"2""x4""x8'",-
+2006,III (Central Luzon),Dao,"2""x4""x8'",-
+2006,III (Central Luzon),Falcata,"2""x4""x8'",-
+2006,III (Central Luzon),Gmelina,"2""x4""x8'",-
+2006,III (Central Luzon),Gubas,"2""x4""x8'",-
+2006,III (Central Luzon),Ipil-Ipil,"2""x4""x8'",-
+2006,III (Central Luzon),Kalantas,"2""x4""x8'",-
+2006,III (Central Luzon),Lauan,"2""x4""x8'",33.99
+2006,III (Central Luzon),Loktob,"2""x4""x8'",-
+2006,III (Central Luzon),Mahogany,"2""x4""x8'",-
+2006,III (Central Luzon),Mayapis,"2""x4""x8'",-
+2006,III (Central Luzon),Narra,"2""x4""x8'",-
+2006,III (Central Luzon),Tanguile,"2""x4""x8'",34.81
+2006,III (Central Luzon),Toog,"2""x4""x8'",-
+2006,III (Central Luzon),Yakal,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Acacia,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Antipolo,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Apitong,"2""x4""x8'",43.48
+2006,IV-A (CALABARZON),Bagras,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Binuang,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Dao,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Falcata,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Gmelina,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Gubas,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Ipil-Ipil,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Kalantas,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Lauan,"2""x4""x8'",37.68
+2006,IV-A (CALABARZON),Loktob,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Mahogany,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Mayapis,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Narra,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Tanguile,"2""x4""x8'",42.19
+2006,IV-A (CALABARZON),Toog,"2""x4""x8'",-
+2006,IV-A (CALABARZON),Yakal,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Acacia,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Antipolo,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Apitong,"2""x4""x8'",20
+2006,IV-B (MIMAROPA),Bagras,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Binuang,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Dao,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Falcata,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Gmelina,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Gubas,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Ipil-Ipil,"2""x4""x8'",35
+2006,IV-B (MIMAROPA),Kalantas,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Lauan,"2""x4""x8'",20
+2006,IV-B (MIMAROPA),Loktob,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Mahogany,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Mayapis,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Narra,"2""x4""x8'",35
+2006,IV-B (MIMAROPA),Tanguile,"2""x4""x8'",20
+2006,IV-B (MIMAROPA),Toog,"2""x4""x8'",-
+2006,IV-B (MIMAROPA),Yakal,"2""x4""x8'",-
+2006,V (Bicol Region),Acacia,"2""x4""x8'",-
+2006,V (Bicol Region),Antipolo,"2""x4""x8'",33.33
+2006,V (Bicol Region),Apitong,"2""x4""x8'",45
+2006,V (Bicol Region),Bagras,"2""x4""x8'",-
+2006,V (Bicol Region),Binuang,"2""x4""x8'",28
+2006,V (Bicol Region),Dao,"2""x4""x8'",29.62
+2006,V (Bicol Region),Falcata,"2""x4""x8'",-
+2006,V (Bicol Region),Gmelina,"2""x4""x8'",27.6
+2006,V (Bicol Region),Gubas,"2""x4""x8'",-
+2006,V (Bicol Region),Ipil-Ipil,"2""x4""x8'",-
+2006,V (Bicol Region),Kalantas,"2""x4""x8'",28
+2006,V (Bicol Region),Lauan,"2""x4""x8'",32.57
+2006,V (Bicol Region),Loktob,"2""x4""x8'",27.25
+2006,V (Bicol Region),Mahogany,"2""x4""x8'",-
+2006,V (Bicol Region),Mayapis,"2""x4""x8'",-
+2006,V (Bicol Region),Narra,"2""x4""x8'",83.33
+2006,V (Bicol Region),Tanguile,"2""x4""x8'",42.5
+2006,V (Bicol Region),Toog,"2""x4""x8'",32
+2006,V (Bicol Region),Yakal,"2""x4""x8'",45
+2006,VI (Western Visayas),Acacia,"2""x4""x8'",-
+2006,VI (Western Visayas),Antipolo,"2""x4""x8'",-
+2006,VI (Western Visayas),Apitong,"2""x4""x8'",30.55
+2006,VI (Western Visayas),Bagras,"2""x4""x8'",20.28
+2006,VI (Western Visayas),Binuang,"2""x4""x8'",-
+2006,VI (Western Visayas),Dao,"2""x4""x8'",-
+2006,VI (Western Visayas),Falcata,"2""x4""x8'",9.1
+2006,VI (Western Visayas),Gmelina,"2""x4""x8'",23.81
+2006,VI (Western Visayas),Gubas,"2""x4""x8'",-
+2006,VI (Western Visayas),Ipil-Ipil,"2""x4""x8'",-
+2006,VI (Western Visayas),Kalantas,"2""x4""x8'",-
+2006,VI (Western Visayas),Lauan,"2""x4""x8'",31.15
+2006,VI (Western Visayas),Loktob,"2""x4""x8'",-
+2006,VI (Western Visayas),Mahogany,"2""x4""x8'",27.21
+2006,VI (Western Visayas),Mayapis,"2""x4""x8'",-
+2006,VI (Western Visayas),Narra,"2""x4""x8'",-
+2006,VI (Western Visayas),Tanguile,"2""x4""x8'",24.5
+2006,VI (Western Visayas),Toog,"2""x4""x8'",-
+2006,VI (Western Visayas),Yakal,"2""x4""x8'",-
+2006,VII (Central Visayas),Acacia,"2""x4""x8'",-
+2006,VII (Central Visayas),Antipolo,"2""x4""x8'",-
+2006,VII (Central Visayas),Apitong,"2""x4""x8'",29
+2006,VII (Central Visayas),Bagras,"2""x4""x8'",32
+2006,VII (Central Visayas),Binuang,"2""x4""x8'",-
+2006,VII (Central Visayas),Dao,"2""x4""x8'",-
+2006,VII (Central Visayas),Falcata,"2""x4""x8'",8
+2006,VII (Central Visayas),Gmelina,"2""x4""x8'",18
+2006,VII (Central Visayas),Gubas,"2""x4""x8'",-
+2006,VII (Central Visayas),Ipil-Ipil,"2""x4""x8'",-
+2006,VII (Central Visayas),Kalantas,"2""x4""x8'",-
+2006,VII (Central Visayas),Lauan,"2""x4""x8'",30.25
+2006,VII (Central Visayas),Loktob,"2""x4""x8'",-
+2006,VII (Central Visayas),Mahogany,"2""x4""x8'",23.25
+2006,VII (Central Visayas),Mayapis,"2""x4""x8'",-
+2006,VII (Central Visayas),Narra,"2""x4""x8'",-
+2006,VII (Central Visayas),Tanguile,"2""x4""x8'",38
+2006,VII (Central Visayas),Toog,"2""x4""x8'",-
+2006,VII (Central Visayas),Yakal,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Acacia,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Antipolo,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Apitong,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Bagras,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Binuang,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Dao,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Falcata,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Gmelina,"2""x4""x8'",18
+2006,VIII (Eastern Visayas),Gubas,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Ipil-Ipil,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Kalantas,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Lauan,"2""x4""x8'",25
+2006,VIII (Eastern Visayas),Loktob,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Mahogany,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Mayapis,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Narra,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Tanguile,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Toog,"2""x4""x8'",-
+2006,VIII (Eastern Visayas),Yakal,"2""x4""x8'",35
+2006,IX (Zamboanga Peninsula),Acacia,"2""x4""x8'",-
+2006,IX (Zamboanga Peninsula),Antipolo,"2""x4""x8'",-
+2006,IX (Zamboanga Peninsula),Apitong,"2""x4""x8'",25.28
+2006,IX (Zamboanga Peninsula),Bagras,"2""x4""x8'",-
+2006,IX (Zamboanga Peninsula),Binuang,"2""x4""x8'",-
+2006,IX (Zamboanga Peninsula),Dao,"2""x4""x8'",-
+2006,IX (Zamboanga Peninsula),Falcata,"2""x4""x8'",-
+2006,IX (Zamboanga Peninsula),Gmelina,"2""x4""x8'",18.42
+2006,IX (Zamboanga Peninsula),Gubas,"2""x4""x8'",-
+2006,IX (Zamboanga Peninsula),Ipil-Ipil,"2""x4""x8'",-
+2006,IX (Zamboanga Peninsula),Kalantas,"2""x4""x8'",-
+2006,IX (Zamboanga Peninsula),Lauan,"2""x4""x8'",24.71
+2006,IX (Zamboanga Peninsula),Loktob,"2""x4""x8'",-
+2006,IX (Zamboanga Peninsula),Mahogany,"2""x4""x8'",26.43
+2006,IX (Zamboanga Peninsula),Mayapis,"2""x4""x8'",-
+2006,IX (Zamboanga Peninsula),Narra,"2""x4""x8'",-
+2006,IX (Zamboanga Peninsula),Tanguile,"2""x4""x8'",22.43
+2006,IX (Zamboanga Peninsula),Toog,"2""x4""x8'",-
+2006,IX (Zamboanga Peninsula),Yakal,"2""x4""x8'",35
+2006,X (Northern Mindanao),Acacia,"2""x4""x8'",10
+2006,X (Northern Mindanao),Antipolo,"2""x4""x8'",-
+2006,X (Northern Mindanao),Apitong,"2""x4""x8'",-
+2006,X (Northern Mindanao),Bagras,"2""x4""x8'",-
+2006,X (Northern Mindanao),Binuang,"2""x4""x8'",-
+2006,X (Northern Mindanao),Dao,"2""x4""x8'",-
+2006,X (Northern Mindanao),Falcata,"2""x4""x8'",10.07
+2006,X (Northern Mindanao),Gmelina,"2""x4""x8'",14.43
+2006,X (Northern Mindanao),Gubas,"2""x4""x8'",-
+2006,X (Northern Mindanao),Ipil-Ipil,"2""x4""x8'",-
+2006,X (Northern Mindanao),Kalantas,"2""x4""x8'",-
+2006,X (Northern Mindanao),Lauan,"2""x4""x8'",24.67
+2006,X (Northern Mindanao),Loktob,"2""x4""x8'",-
+2006,X (Northern Mindanao),Mahogany,"2""x4""x8'",20.06
+2006,X (Northern Mindanao),Mayapis,"2""x4""x8'",-
+2006,X (Northern Mindanao),Narra,"2""x4""x8'",-
+2006,X (Northern Mindanao),Tanguile,"2""x4""x8'",24.5
+2006,X (Northern Mindanao),Toog,"2""x4""x8'",-
+2006,X (Northern Mindanao),Yakal,"2""x4""x8'",-
+2006,XI (Davao Region),Acacia,"2""x4""x8'",10.5
+2006,XI (Davao Region),Antipolo,"2""x4""x8'",-
+2006,XI (Davao Region),Apitong,"2""x4""x8'",23
+2006,XI (Davao Region),Bagras,"2""x4""x8'",12
+2006,XI (Davao Region),Binuang,"2""x4""x8'",-
+2006,XI (Davao Region),Dao,"2""x4""x8'",-
+2006,XI (Davao Region),Falcata,"2""x4""x8'",-
+2006,XI (Davao Region),Gmelina,"2""x4""x8'",14.37
+2006,XI (Davao Region),Gubas,"2""x4""x8'",6.38
+2006,XI (Davao Region),Ipil-Ipil,"2""x4""x8'",-
+2006,XI (Davao Region),Kalantas,"2""x4""x8'",-
+2006,XI (Davao Region),Lauan,"2""x4""x8'",19.84
+2006,XI (Davao Region),Loktob,"2""x4""x8'",-
+2006,XI (Davao Region),Mahogany,"2""x4""x8'",23.25
+2006,XI (Davao Region),Mayapis,"2""x4""x8'",-
+2006,XI (Davao Region),Narra,"2""x4""x8'",-
+2006,XI (Davao Region),Tanguile,"2""x4""x8'",20
+2006,XI (Davao Region),Toog,"2""x4""x8'",-
+2006,XI (Davao Region),Yakal,"2""x4""x8'",26.56
+2006,XII (SOCCSKSARGEN),Acacia,"2""x4""x8'",-
+2006,XII (SOCCSKSARGEN),Antipolo,"2""x4""x8'",-
+2006,XII (SOCCSKSARGEN),Apitong,"2""x4""x8'",30
+2006,XII (SOCCSKSARGEN),Bagras,"2""x4""x8'",24
+2006,XII (SOCCSKSARGEN),Binuang,"2""x4""x8'",-
+2006,XII (SOCCSKSARGEN),Dao,"2""x4""x8'",-
+2006,XII (SOCCSKSARGEN),Falcata,"2""x4""x8'",-
+2006,XII (SOCCSKSARGEN),Gmelina,"2""x4""x8'",15.06
+2006,XII (SOCCSKSARGEN),Gubas,"2""x4""x8'",-
+2006,XII (SOCCSKSARGEN),Ipil-Ipil,"2""x4""x8'",-
+2006,XII (SOCCSKSARGEN),Kalantas,"2""x4""x8'",-
+2006,XII (SOCCSKSARGEN),Lauan,"2""x4""x8'",23
+2006,XII (SOCCSKSARGEN),Loktob,"2""x4""x8'",-
+2006,XII (SOCCSKSARGEN),Mahogany,"2""x4""x8'",27.83
+2006,XII (SOCCSKSARGEN),Mayapis,"2""x4""x8'",-
+2006,XII (SOCCSKSARGEN),Narra,"2""x4""x8'",-
+2006,XII (SOCCSKSARGEN),Tanguile,"2""x4""x8'",24
+2006,XII (SOCCSKSARGEN),Toog,"2""x4""x8'",-
+2006,XII (SOCCSKSARGEN),Yakal,"2""x4""x8'",32
+2006,XIII (Caraga),Acacia,"2""x4""x8'",10.5
+2006,XIII (Caraga),Antipolo,"2""x4""x8'",-
+2006,XIII (Caraga),Apitong,"2""x4""x8'",16.63
+2006,XIII (Caraga),Bagras,"2""x4""x8'",12
+2006,XIII (Caraga),Binuang,"2""x4""x8'",-
+2006,XIII (Caraga),Dao,"2""x4""x8'",-
+2006,XIII (Caraga),Falcata,"2""x4""x8'",8.69
+2006,XIII (Caraga),Gmelina,"2""x4""x8'",9.5
+2006,XIII (Caraga),Gubas,"2""x4""x8'",6.38
+2006,XIII (Caraga),Ipil-Ipil,"2""x4""x8'",-
+2006,XIII (Caraga),Kalantas,"2""x4""x8'",-
+2006,XIII (Caraga),Lauan,"2""x4""x8'",16.62
+2006,XIII (Caraga),Loktob,"2""x4""x8'",-
+2006,XIII (Caraga),Mahogany,"2""x4""x8'",30.5
+2006,XIII (Caraga),Mayapis,"2""x4""x8'",-
+2006,XIII (Caraga),Narra,"2""x4""x8'",-
+2006,XIII (Caraga),Tanguile,"2""x4""x8'",-
+2006,XIII (Caraga),Toog,"2""x4""x8'",-
+2006,XIII (Caraga),Yakal,"2""x4""x8'",31.25
+2005,National,Apitong,"2""x4""x8'",29.18
+2005,National,Bagras,"2""x4""x8'",16.54
+2005,National,Benguet Pine,"2""x4""x8'",27.92
+2005,National,Falcata,"2""x4""x8'",8.96
+2005,National,Gmelina,"2""x4""x8'",18.21
+2005,National,Mahogany,"2""x4""x8'",23.39
+2005,National,Lauan,"2""x4""x8'",27.35
+2005,National,Narra,"2""x4""x8'",54.55
+2005,National,Tanguile,"2""x4""x8'",28.23
+2005,National,Yakal,"2""x4""x8'",37.16
+2005,NCR,Apitong,"2""x4""x8'",-
+2005,NCR,Bagras,"2""x4""x8'",16
+2005,NCR,Benguet Pine,"2""x4""x8'",-
+2005,NCR,Falcata,"2""x4""x8'",-
+2005,NCR,Gmelina,"2""x4""x8'",22
+2005,NCR,Mahogany,"2""x4""x8'",16
+2005,NCR,Lauan,"2""x4""x8'",29.09
+2005,NCR,Narra,"2""x4""x8'",-
+2005,NCR,Tanguile,"2""x4""x8'",26.91
+2005,NCR,Yakal,"2""x4""x8'",50.5
+2005,CAR,Apitong,"2""x4""x8'",-
+2005,CAR,Bagras,"2""x4""x8'",-
+2005,CAR,Benguet Pine,"2""x4""x8'",24.33
+2005,CAR,Falcata,"2""x4""x8'",-
+2005,CAR,Gmelina,"2""x4""x8'",-
+2005,CAR,Mahogany,"2""x4""x8'",-
+2005,CAR,Lauan,"2""x4""x8'",20.31
+2005,CAR,Narra,"2""x4""x8'",26.33
+2005,CAR,Tanguile,"2""x4""x8'",17.84
+2005,CAR,Yakal,"2""x4""x8'",23.67
+2005,I (Ilocos Region),Apitong,"2""x4""x8'",38
+2005,I (Ilocos Region),Bagras,"2""x4""x8'",-
+2005,I (Ilocos Region),Benguet Pine,"2""x4""x8'",-
+2005,I (Ilocos Region),Falcata,"2""x4""x8'",-
+2005,I (Ilocos Region),Gmelina,"2""x4""x8'",-
+2005,I (Ilocos Region),Mahogany,"2""x4""x8'",-
+2005,I (Ilocos Region),Lauan,"2""x4""x8'",33
+2005,I (Ilocos Region),Narra,"2""x4""x8'",-
+2005,I (Ilocos Region),Tanguile,"2""x4""x8'",29.1
+2005,I (Ilocos Region),Yakal,"2""x4""x8'",-
+2005,II (Cagayan Valley),Apitong,"2""x4""x8'",18.99
+2005,II (Cagayan Valley),Bagras,"2""x4""x8'",-
+2005,II (Cagayan Valley),Benguet Pine,"2""x4""x8'",-
+2005,II (Cagayan Valley),Falcata,"2""x4""x8'",-
+2005,II (Cagayan Valley),Gmelina,"2""x4""x8'",-
+2005,II (Cagayan Valley),Mahogany,"2""x4""x8'",-
+2005,II (Cagayan Valley),Lauan,"2""x4""x8'",19.59
+2005,II (Cagayan Valley),Narra,"2""x4""x8'",30
+2005,II (Cagayan Valley),Tanguile,"2""x4""x8'",20.91
+2005,II (Cagayan Valley),Yakal,"2""x4""x8'",20.69
+2005,III (Central Luzon),Apitong,"2""x4""x8'",29.76
+2005,III (Central Luzon),Bagras,"2""x4""x8'",-
+2005,III (Central Luzon),Benguet Pine,"2""x4""x8'",-
+2005,III (Central Luzon),Falcata,"2""x4""x8'",-
+2005,III (Central Luzon),Gmelina,"2""x4""x8'",-
+2005,III (Central Luzon),Mahogany,"2""x4""x8'",-
+2005,III (Central Luzon),Lauan,"2""x4""x8'",32.02
+2005,III (Central Luzon),Narra,"2""x4""x8'",-
+2005,III (Central Luzon),Tanguile,"2""x4""x8'",32.99
+2005,III (Central Luzon),Yakal,"2""x4""x8'",31
+2005,IV-A (CALABARZON),Apitong,"2""x4""x8'",36.02
+2005,IV-A (CALABARZON),Bagras,"2""x4""x8'",-
+2005,IV-A (CALABARZON),Benguet Pine,"2""x4""x8'",-
+2005,IV-A (CALABARZON),Falcata,"2""x4""x8'",-
+2005,IV-A (CALABARZON),Gmelina,"2""x4""x8'",-
+2005,IV-A (CALABARZON),Mahogany,"2""x4""x8'",-
+2005,IV-A (CALABARZON),Lauan,"2""x4""x8'",32.61
+2005,IV-A (CALABARZON),Narra,"2""x4""x8'",115.29
+2005,IV-A (CALABARZON),Tanguile,"2""x4""x8'",39.23
+2005,IV-A (CALABARZON),Yakal,"2""x4""x8'",85.03
+2005,IV-B (MIMAROPA),Apitong,"2""x4""x8'",-
+2005,IV-B (MIMAROPA),Bagras,"2""x4""x8'",-
+2005,IV-B (MIMAROPA),Benguet Pine,"2""x4""x8'",-
+2005,IV-B (MIMAROPA),Falcata,"2""x4""x8'",-
+2005,IV-B (MIMAROPA),Gmelina,"2""x4""x8'",18.34
+2005,IV-B (MIMAROPA),Mahogany,"2""x4""x8'",-
+2005,IV-B (MIMAROPA),Lauan,"2""x4""x8'",37.56
+2005,IV-B (MIMAROPA),Narra,"2""x4""x8'",-
+2005,IV-B (MIMAROPA),Tanguile,"2""x4""x8'",32.5
+2005,IV-B (MIMAROPA),Yakal,"2""x4""x8'",-
+2005,V (Bicol Region),Apitong,"2""x4""x8'",31
+2005,V (Bicol Region),Bagras,"2""x4""x8'",-
+2005,V (Bicol Region),Benguet Pine,"2""x4""x8'",-
+2005,V (Bicol Region),Falcata,"2""x4""x8'",-
+2005,V (Bicol Region),Gmelina,"2""x4""x8'",19.59
+2005,V (Bicol Region),Mahogany,"2""x4""x8'",28
+2005,V (Bicol Region),Lauan,"2""x4""x8'",29.64
+2005,V (Bicol Region),Narra,"2""x4""x8'",76.11
+2005,V (Bicol Region),Tanguile,"2""x4""x8'",32.36
+2005,V (Bicol Region),Yakal,"2""x4""x8'",38.33
+2005,VI (Western Visayas),Apitong,"2""x4""x8'",32.96
+2005,VI (Western Visayas),Bagras,"2""x4""x8'",23.72
+2005,VI (Western Visayas),Benguet Pine,"2""x4""x8'",31.5
+2005,VI (Western Visayas),Falcata,"2""x4""x8'",-
+2005,VI (Western Visayas),Gmelina,"2""x4""x8'",20.63
+2005,VI (Western Visayas),Mahogany,"2""x4""x8'",26.32
+2005,VI (Western Visayas),Lauan,"2""x4""x8'",31.14
+2005,VI (Western Visayas),Narra,"2""x4""x8'",-
+2005,VI (Western Visayas),Tanguile,"2""x4""x8'",-
+2005,VI (Western Visayas),Yakal,"2""x4""x8'",-
+2005,VII (Central Visayas),Apitong,"2""x4""x8'",29
+2005,VII (Central Visayas),Bagras,"2""x4""x8'",-
+2005,VII (Central Visayas),Benguet Pine,"2""x4""x8'",-
+2005,VII (Central Visayas),Falcata,"2""x4""x8'",8
+2005,VII (Central Visayas),Gmelina,"2""x4""x8'",21.69
+2005,VII (Central Visayas),Mahogany,"2""x4""x8'",24.29
+2005,VII (Central Visayas),Lauan,"2""x4""x8'",28.05
+2005,VII (Central Visayas),Narra,"2""x4""x8'",-
+2005,VII (Central Visayas),Tanguile,"2""x4""x8'",38
+2005,VII (Central Visayas),Yakal,"2""x4""x8'",-
+2005,VIII (Eastern Visayas),Apitong,"2""x4""x8'",-
+2005,VIII (Eastern Visayas),Bagras,"2""x4""x8'",-
+2005,VIII (Eastern Visayas),Benguet Pine,"2""x4""x8'",-
+2005,VIII (Eastern Visayas),Falcata,"2""x4""x8'",-
+2005,VIII (Eastern Visayas),Gmelina,"2""x4""x8'",18
+2005,VIII (Eastern Visayas),Mahogany,"2""x4""x8'",-
+2005,VIII (Eastern Visayas),Lauan,"2""x4""x8'",26
+2005,VIII (Eastern Visayas),Narra,"2""x4""x8'",-
+2005,VIII (Eastern Visayas),Tanguile,"2""x4""x8'",35
+2005,VIII (Eastern Visayas),Yakal,"2""x4""x8'",-
+2005,IX (Zamboanga Peninsula),Apitong,"2""x4""x8'",24
+2005,IX (Zamboanga Peninsula),Bagras,"2""x4""x8'",-
+2005,IX (Zamboanga Peninsula),Benguet Pine,"2""x4""x8'",-
+2005,IX (Zamboanga Peninsula),Falcata,"2""x4""x8'",-
+2005,IX (Zamboanga Peninsula),Gmelina,"2""x4""x8'",18.36
+2005,IX (Zamboanga Peninsula),Mahogany,"2""x4""x8'",24.58
+2005,IX (Zamboanga Peninsula),Lauan,"2""x4""x8'",24
+2005,IX (Zamboanga Peninsula),Narra,"2""x4""x8'",25
+2005,IX (Zamboanga Peninsula),Tanguile,"2""x4""x8'",23.42
+2005,IX (Zamboanga Peninsula),Yakal,"2""x4""x8'",30
+2005,X (Northern Mindanao),Apitong,"2""x4""x8'",24.5
+2005,X (Northern Mindanao),Bagras,"2""x4""x8'",13
+2005,X (Northern Mindanao),Benguet Pine,"2""x4""x8'",-
+2005,X (Northern Mindanao),Falcata,"2""x4""x8'",9.5
+2005,X (Northern Mindanao),Gmelina,"2""x4""x8'",23.83
+2005,X (Northern Mindanao),Mahogany,"2""x4""x8'",20.8
+2005,X (Northern Mindanao),Lauan,"2""x4""x8'",24
+2005,X (Northern Mindanao),Narra,"2""x4""x8'",-
+2005,X (Northern Mindanao),Tanguile,"2""x4""x8'",24.5
+2005,X (Northern Mindanao),Yakal,"2""x4""x8'",-
+2005,XI (Davao Region),Apitong,"2""x4""x8'",23.54
+2005,XI (Davao Region),Bagras,"2""x4""x8'",18
+2005,XI (Davao Region),Benguet Pine,"2""x4""x8'",-
+2005,XI (Davao Region),Falcata,"2""x4""x8'",-
+2005,XI (Davao Region),Gmelina,"2""x4""x8'",14.12
+2005,XI (Davao Region),Mahogany,"2""x4""x8'",12.5
+2005,XI (Davao Region),Lauan,"2""x4""x8'",20.21
+2005,XI (Davao Region),Narra,"2""x4""x8'",-
+2005,XI (Davao Region),Tanguile,"2""x4""x8'",19.64
+2005,XI (Davao Region),Yakal,"2""x4""x8'",28.5
+2005,XII (SOCCSKSARGEN),Apitong,"2""x4""x8'",35
+2005,XII (SOCCSKSARGEN),Bagras,"2""x4""x8'",-
+2005,XII (SOCCSKSARGEN),Benguet Pine,"2""x4""x8'",-
+2005,XII (SOCCSKSARGEN),Falcata,"2""x4""x8'",-
+2005,XII (SOCCSKSARGEN),Gmelina,"2""x4""x8'",12.75
+2005,XII (SOCCSKSARGEN),Mahogany,"2""x4""x8'",27.5
+2005,XII (SOCCSKSARGEN),Lauan,"2""x4""x8'",23.21
+2005,XII (SOCCSKSARGEN),Narra,"2""x4""x8'",-
+2005,XII (SOCCSKSARGEN),Tanguile,"2""x4""x8'",24
+2005,XII (SOCCSKSARGEN),Yakal,"2""x4""x8'",32.42
+2005,XIII (Caraga),Apitong,"2""x4""x8'",27.42
+2005,XIII (Caraga),Bagras,"2""x4""x8'",12
+2005,XIII (Caraga),Benguet Pine,"2""x4""x8'",-
+2005,XIII (Caraga),Falcata,"2""x4""x8'",9.38
+2005,XIII (Caraga),Gmelina,"2""x4""x8'",11
+2005,XIII (Caraga),Mahogany,"2""x4""x8'",30.5
+2005,XIII (Caraga),Lauan,"2""x4""x8'",27.09
+2005,XIII (Caraga),Narra,"2""x4""x8'",-
+2005,XIII (Caraga),Tanguile,"2""x4""x8'",27.09
+2005,XIII (Caraga),Yakal,"2""x4""x8'",31.42
+2004,National,Apitong,"2""x4""x8'",26.04
+2004,National,Bagras,"2""x4""x8'",15
+2004,National,Benguet Pine,"2""x4""x8'",24.17
+2004,National,Falcata,"2""x4""x8'",8.99
+2004,National,Gmelina,"2""x4""x8'",15.94
+2004,National,Gubas,"2""x4""x8'",16.69
+2004,National,Lauan,"2""x4""x8'",25.77
+2004,National,Narra,"2""x4""x8'",138.13
+2004,National,Tanguile,"2""x4""x8'",26.38
+2004,National,Yakal,"2""x4""x8'",80.75
+2004,NCR,Apitong,"2""x4""x8'",-
+2004,NCR,Bagras,"2""x4""x8'",-
+2004,NCR,Benguet Pine,"2""x4""x8'",-
+2004,NCR,Falcata,"2""x4""x8'",-
+2004,NCR,Gmelina,"2""x4""x8'",-
+2004,NCR,Gubas,"2""x4""x8'",-
+2004,NCR,Lauan,"2""x4""x8'",26.85
+2004,NCR,Narra,"2""x4""x8'",-
+2004,NCR,Tanguile,"2""x4""x8'",21.24
+2004,NCR,Yakal,"2""x4""x8'",-
+2004,CAR,Apitong,"2""x4""x8'",-
+2004,CAR,Bagras,"2""x4""x8'",-
+2004,CAR,Benguet Pine,"2""x4""x8'",24.17
+2004,CAR,Falcata,"2""x4""x8'",-
+2004,CAR,Gmelina,"2""x4""x8'",-
+2004,CAR,Gubas,"2""x4""x8'",-
+2004,CAR,Lauan,"2""x4""x8'",-
+2004,CAR,Narra,"2""x4""x8'",-
+2004,CAR,Tanguile,"2""x4""x8'",-
+2004,CAR,Yakal,"2""x4""x8'",-
+2004,I (Ilocos Region),Apitong,"2""x4""x8'",-
+2004,I (Ilocos Region),Bagras,"2""x4""x8'",-
+2004,I (Ilocos Region),Benguet Pine,"2""x4""x8'",-
+2004,I (Ilocos Region),Falcata,"2""x4""x8'",-
+2004,I (Ilocos Region),Gmelina,"2""x4""x8'",-
+2004,I (Ilocos Region),Gubas,"2""x4""x8'",-
+2004,I (Ilocos Region),Lauan,"2""x4""x8'",27.33
+2004,I (Ilocos Region),Narra,"2""x4""x8'",-
+2004,I (Ilocos Region),Tanguile,"2""x4""x8'",26.07
+2004,I (Ilocos Region),Yakal,"2""x4""x8'",-
+2004,II (Cagayan Valley),Apitong,"2""x4""x8'",18.16
+2004,II (Cagayan Valley),Bagras,"2""x4""x8'",-
+2004,II (Cagayan Valley),Benguet Pine,"2""x4""x8'",-
+2004,II (Cagayan Valley),Falcata,"2""x4""x8'",-
+2004,II (Cagayan Valley),Gmelina,"2""x4""x8'",-
+2004,II (Cagayan Valley),Gubas,"2""x4""x8'",-
+2004,II (Cagayan Valley),Lauan,"2""x4""x8'",19.61
+2004,II (Cagayan Valley),Narra,"2""x4""x8'",-
+2004,II (Cagayan Valley),Tanguile,"2""x4""x8'",20.04
+2004,II (Cagayan Valley),Yakal,"2""x4""x8'",-
+2004,III (Central Luzon),Apitong,"2""x4""x8'",24.23
+2004,III (Central Luzon),Bagras,"2""x4""x8'",-
+2004,III (Central Luzon),Benguet Pine,"2""x4""x8'",-
+2004,III (Central Luzon),Falcata,"2""x4""x8'",-
+2004,III (Central Luzon),Gmelina,"2""x4""x8'",-
+2004,III (Central Luzon),Gubas,"2""x4""x8'",27
+2004,III (Central Luzon),Lauan,"2""x4""x8'",24.7
+2004,III (Central Luzon),Narra,"2""x4""x8'",-
+2004,III (Central Luzon),Tanguile,"2""x4""x8'",24.23
+2004,III (Central Luzon),Yakal,"2""x4""x8'",-
+2004,IV-A (CALABARZON),Apitong,"2""x4""x8'",29.4
+2004,IV-A (CALABARZON),Bagras,"2""x4""x8'",-
+2004,IV-A (CALABARZON),Benguet Pine,"2""x4""x8'",-
+2004,IV-A (CALABARZON),Falcata,"2""x4""x8'",-
+2004,IV-A (CALABARZON),Gmelina,"2""x4""x8'",-
+2004,IV-A (CALABARZON),Gubas,"2""x4""x8'",-
+2004,IV-A (CALABARZON),Lauan,"2""x4""x8'",27.4
+2004,IV-A (CALABARZON),Narra,"2""x4""x8'",138.13
+2004,IV-A (CALABARZON),Tanguile,"2""x4""x8'",30.45
+2004,IV-A (CALABARZON),Yakal,"2""x4""x8'",80.75
+2004,IV-B (MIMAROPA),Apitong,"2""x4""x8'",-
+2004,IV-B (MIMAROPA),Bagras,"2""x4""x8'",-
+2004,IV-B (MIMAROPA),Benguet Pine,"2""x4""x8'",-
+2004,IV-B (MIMAROPA),Falcata,"2""x4""x8'",-
+2004,IV-B (MIMAROPA),Gmelina,"2""x4""x8'",-
+2004,IV-B (MIMAROPA),Gubas,"2""x4""x8'",-
+2004,IV-B (MIMAROPA),Lauan,"2""x4""x8'",31.67
+2004,IV-B (MIMAROPA),Narra,"2""x4""x8'",-
+2004,IV-B (MIMAROPA),Tanguile,"2""x4""x8'",35
+2004,IV-B (MIMAROPA),Yakal,"2""x4""x8'",-
+2004,V (Bicol Region),Apitong,"2""x4""x8'",25
+2004,V (Bicol Region),Bagras,"2""x4""x8'",-
+2004,V (Bicol Region),Benguet Pine,"2""x4""x8'",-
+2004,V (Bicol Region),Falcata,"2""x4""x8'",-
+2004,V (Bicol Region),Gmelina,"2""x4""x8'",-
+2004,V (Bicol Region),Gubas,"2""x4""x8'",-
+2004,V (Bicol Region),Lauan,"2""x4""x8'",28.03
+2004,V (Bicol Region),Narra,"2""x4""x8'",-
+2004,V (Bicol Region),Tanguile,"2""x4""x8'",25.56
+2004,V (Bicol Region),Yakal,"2""x4""x8'",-
+2004,VI (Western Visayas),Apitong,"2""x4""x8'",30.56
+2004,VI (Western Visayas),Bagras,"2""x4""x8'",20
+2004,VI (Western Visayas),Benguet Pine,"2""x4""x8'",-
+2004,VI (Western Visayas),Falcata,"2""x4""x8'",-
+2004,VI (Western Visayas),Gmelina,"2""x4""x8'",17.08
+2004,VI (Western Visayas),Gubas,"2""x4""x8'",-
+2004,VI (Western Visayas),Lauan,"2""x4""x8'",29.66
+2004,VI (Western Visayas),Narra,"2""x4""x8'",-
+2004,VI (Western Visayas),Tanguile,"2""x4""x8'",-
+2004,VI (Western Visayas),Yakal,"2""x4""x8'",-
+2004,VII (Central Visayas),Apitong,"2""x4""x8'",29
+2004,VII (Central Visayas),Bagras,"2""x4""x8'",-
+2004,VII (Central Visayas),Benguet Pine,"2""x4""x8'",-
+2004,VII (Central Visayas),Falcata,"2""x4""x8'",8
+2004,VII (Central Visayas),Gmelina,"2""x4""x8'",21.69
+2004,VII (Central Visayas),Gubas,"2""x4""x8'",-
+2004,VII (Central Visayas),Lauan,"2""x4""x8'",28.05
+2004,VII (Central Visayas),Narra,"2""x4""x8'",-
+2004,VII (Central Visayas),Tanguile,"2""x4""x8'",38
+2004,VII (Central Visayas),Yakal,"2""x4""x8'",-
+2004,VIII (Eastern Visayas),Apitong,"2""x4""x8'",-
+2004,VIII (Eastern Visayas),Bagras,"2""x4""x8'",-
+2004,VIII (Eastern Visayas),Benguet Pine,"2""x4""x8'",-
+2004,VIII (Eastern Visayas),Falcata,"2""x4""x8'",-
+2004,VIII (Eastern Visayas),Gmelina,"2""x4""x8'",18
+2004,VIII (Eastern Visayas),Gubas,"2""x4""x8'",-
+2004,VIII (Eastern Visayas),Lauan,"2""x4""x8'",26
+2004,VIII (Eastern Visayas),Narra,"2""x4""x8'",-
+2004,VIII (Eastern Visayas),Tanguile,"2""x4""x8'",-
+2004,VIII (Eastern Visayas),Yakal,"2""x4""x8'",-
+2004,IX (Zamboanga Peninsula),Apitong,"2""x4""x8'",22.61
+2004,IX (Zamboanga Peninsula),Bagras,"2""x4""x8'",-
+2004,IX (Zamboanga Peninsula),Benguet Pine,"2""x4""x8'",-
+2004,IX (Zamboanga Peninsula),Falcata,"2""x4""x8'",-
+2004,IX (Zamboanga Peninsula),Gmelina,"2""x4""x8'",17.75
+2004,IX (Zamboanga Peninsula),Gubas,"2""x4""x8'",-
+2004,IX (Zamboanga Peninsula),Lauan,"2""x4""x8'",22.61
+2004,IX (Zamboanga Peninsula),Narra,"2""x4""x8'",-
+2004,IX (Zamboanga Peninsula),Tanguile,"2""x4""x8'",22.69
+2004,IX (Zamboanga Peninsula),Yakal,"2""x4""x8'",-
+2004,X (Northern Mindanao),Apitong,"2""x4""x8'",24.43
+2004,X (Northern Mindanao),Bagras,"2""x4""x8'",13
+2004,X (Northern Mindanao),Benguet Pine,"2""x4""x8'",-
+2004,X (Northern Mindanao),Falcata,"2""x4""x8'",9.58
+2004,X (Northern Mindanao),Gmelina,"2""x4""x8'",16.24
+2004,X (Northern Mindanao),Gubas,"2""x4""x8'",-
+2004,X (Northern Mindanao),Lauan,"2""x4""x8'",22.63
+2004,X (Northern Mindanao),Narra,"2""x4""x8'",-
+2004,X (Northern Mindanao),Tanguile,"2""x4""x8'",24.39
+2004,X (Northern Mindanao),Yakal,"2""x4""x8'",-
+2004,XI (Davao Region),Apitong,"2""x4""x8'",25.32
+2004,XI (Davao Region),Bagras,"2""x4""x8'",-
+2004,XI (Davao Region),Benguet Pine,"2""x4""x8'",-
+2004,XI (Davao Region),Falcata,"2""x4""x8'",-
+2004,XI (Davao Region),Gmelina,"2""x4""x8'",13.68
+2004,XI (Davao Region),Gubas,"2""x4""x8'",-
+2004,XI (Davao Region),Lauan,"2""x4""x8'",20.25
+2004,XI (Davao Region),Narra,"2""x4""x8'",-
+2004,XI (Davao Region),Tanguile,"2""x4""x8'",20.43
+2004,XI (Davao Region),Yakal,"2""x4""x8'",-
+2004,XII (SOCCSKSARGEN),Apitong,"2""x4""x8'",29.25
+2004,XII (SOCCSKSARGEN),Bagras,"2""x4""x8'",-
+2004,XII (SOCCSKSARGEN),Benguet Pine,"2""x4""x8'",-
+2004,XII (SOCCSKSARGEN),Falcata,"2""x4""x8'",-
+2004,XII (SOCCSKSARGEN),Gmelina,"2""x4""x8'",12.05
+2004,XII (SOCCSKSARGEN),Gubas,"2""x4""x8'",-
+2004,XII (SOCCSKSARGEN),Lauan,"2""x4""x8'",23.28
+2004,XII (SOCCSKSARGEN),Narra,"2""x4""x8'",-
+2004,XII (SOCCSKSARGEN),Tanguile,"2""x4""x8'",-
+2004,XII (SOCCSKSARGEN),Yakal,"2""x4""x8'",-
+2004,XIII (Caraga),Apitong,"2""x4""x8'",28.5
+2004,XIII (Caraga),Bagras,"2""x4""x8'",12
+2004,XIII (Caraga),Benguet Pine,"2""x4""x8'",-
+2004,XIII (Caraga),Falcata,"2""x4""x8'",9.38
+2004,XIII (Caraga),Gmelina,"2""x4""x8'",11
+2004,XIII (Caraga),Gubas,"2""x4""x8'",6.38
+2004,XIII (Caraga),Lauan,"2""x4""x8'",28.5
+2004,XIII (Caraga),Narra,"2""x4""x8'",-
+2004,XIII (Caraga),Tanguile,"2""x4""x8'",28.5
+2004,XIII (Caraga),Yakal,"2""x4""x8'",-
+2003,National,Apitong,"2""x4""x8'",25.55
+2003,National,Bagras,"2""x4""x8'",14.7
+2003,National,Falcata,"2""x4""x8'",9.57
+2003,National,Gmelina,"2""x4""x8'",14.42
+2003,National,Lauan,"2""x4""x8'",25.09
+2003,National,Narra,"2""x4""x8'",33.39
+2003,National,Tanguile,"2""x4""x8'",24.8
+2003,National,Yakal,"2""x4""x8'",32.77
+2003,NCR,Apitong,"2""x4""x8'",-
+2003,NCR,Bagras,"2""x4""x8'",-
+2003,NCR,Falcata,"2""x4""x8'",-
+2003,NCR,Gmelina,"2""x4""x8'",-
+2003,NCR,Lauan,"2""x4""x8'",24.17
+2003,NCR,Narra,"2""x4""x8'",-
+2003,NCR,Tanguile,"2""x4""x8'",22.08
+2003,NCR,Yakal,"2""x4""x8'",47.75
+2003,CAR,Apitong,"2""x4""x8'",-
+2003,CAR,Bagras,"2""x4""x8'",-
+2003,CAR,Falcata,"2""x4""x8'",-
+2003,CAR,Gmelina,"2""x4""x8'",-
+2003,CAR,Lauan,"2""x4""x8'",15.3
+2003,CAR,Narra,"2""x4""x8'",-
+2003,CAR,Tanguile,"2""x4""x8'",17.55
+2003,CAR,Yakal,"2""x4""x8'",12
+2003,I (Ilocos Region),Apitong,"2""x4""x8'",25.57
+2003,I (Ilocos Region),Bagras,"2""x4""x8'",13
+2003,I (Ilocos Region),Falcata,"2""x4""x8'",9.5
+2003,I (Ilocos Region),Gmelina,"2""x4""x8'",12.38
+2003,I (Ilocos Region),Lauan,"2""x4""x8'",26.66
+2003,I (Ilocos Region),Narra,"2""x4""x8'",-
+2003,I (Ilocos Region),Tanguile,"2""x4""x8'",25.26
+2003,I (Ilocos Region),Yakal,"2""x4""x8'",-
+2003,II (Cagayan Valley),Apitong,"2""x4""x8'",18.49
+2003,II (Cagayan Valley),Bagras,"2""x4""x8'",-
+2003,II (Cagayan Valley),Falcata,"2""x4""x8'",-
+2003,II (Cagayan Valley),Gmelina,"2""x4""x8'",-
+2003,II (Cagayan Valley),Lauan,"2""x4""x8'",19.24
+2003,II (Cagayan Valley),Narra,"2""x4""x8'",32.83
+2003,II (Cagayan Valley),Tanguile,"2""x4""x8'",20.49
+2003,II (Cagayan Valley),Yakal,"2""x4""x8'",23.2
+2003,III (Central Luzon),Apitong,"2""x4""x8'",23.93
+2003,III (Central Luzon),Bagras,"2""x4""x8'",-
+2003,III (Central Luzon),Falcata,"2""x4""x8'",-
+2003,III (Central Luzon),Gmelina,"2""x4""x8'",-
+2003,III (Central Luzon),Lauan,"2""x4""x8'",24.17
+2003,III (Central Luzon),Narra,"2""x4""x8'",21
+2003,III (Central Luzon),Tanguile,"2""x4""x8'",21.57
+2003,III (Central Luzon),Yakal,"2""x4""x8'",23
+2003,IV-A (CALABARZON),Apitong,"2""x4""x8'",32
+2003,IV-A (CALABARZON),Bagras,"2""x4""x8'",-
+2003,IV-A (CALABARZON),Falcata,"2""x4""x8'",-
+2003,IV-A (CALABARZON),Gmelina,"2""x4""x8'",-
+2003,IV-A (CALABARZON),Lauan,"2""x4""x8'",26.67
+2003,IV-A (CALABARZON),Narra,"2""x4""x8'",-
+2003,IV-A (CALABARZON),Tanguile,"2""x4""x8'",27.5
+2003,IV-A (CALABARZON),Yakal,"2""x4""x8'",69.5
+2003,IV-B (MIMAROPA),Apitong,"2""x4""x8'",-
+2003,IV-B (MIMAROPA),Bagras,"2""x4""x8'",-
+2003,IV-B (MIMAROPA),Falcata,"2""x4""x8'",-
+2003,IV-B (MIMAROPA),Gmelina,"2""x4""x8'",-
+2003,IV-B (MIMAROPA),Lauan,"2""x4""x8'",30
+2003,IV-B (MIMAROPA),Narra,"2""x4""x8'",-
+2003,IV-B (MIMAROPA),Tanguile,"2""x4""x8'",28
+2003,IV-B (MIMAROPA),Yakal,"2""x4""x8'",-
+2003,V (Bicol Region),Apitong,"2""x4""x8'",24
+2003,V (Bicol Region),Bagras,"2""x4""x8'",-
+2003,V (Bicol Region),Falcata,"2""x4""x8'",-
+2003,V (Bicol Region),Gmelina,"2""x4""x8'",-
+2003,V (Bicol Region),Lauan,"2""x4""x8'",25.63
+2003,V (Bicol Region),Narra,"2""x4""x8'",68.06
+2003,V (Bicol Region),Tanguile,"2""x4""x8'",25.38
+2003,V (Bicol Region),Yakal,"2""x4""x8'",-
+2003,VI (Western Visayas),Apitong,"2""x4""x8'",28.72
+2003,VI (Western Visayas),Bagras,"2""x4""x8'",20.78
+2003,VI (Western Visayas),Falcata,"2""x4""x8'",-
+2003,VI (Western Visayas),Gmelina,"2""x4""x8'",12.88
+2003,VI (Western Visayas),Lauan,"2""x4""x8'",29.48
+2003,VI (Western Visayas),Narra,"2""x4""x8'",-
+2003,VI (Western Visayas),Tanguile,"2""x4""x8'",-
+2003,VI (Western Visayas),Yakal,"2""x4""x8'",-
+2003,VII (Central Visayas),Apitong,"2""x4""x8'",29
+2003,VII (Central Visayas),Bagras,"2""x4""x8'",-
+2003,VII (Central Visayas),Falcata,"2""x4""x8'",8
+2003,VII (Central Visayas),Gmelina,"2""x4""x8'",21.13
+2003,VII (Central Visayas),Lauan,"2""x4""x8'",27.76
+2003,VII (Central Visayas),Narra,"2""x4""x8'",-
+2003,VII (Central Visayas),Tanguile,"2""x4""x8'",38
+2003,VII (Central Visayas),Yakal,"2""x4""x8'",38
+2003,VIII (Eastern Visayas),Apitong,"2""x4""x8'",25.5
+2003,VIII (Eastern Visayas),Bagras,"2""x4""x8'",-
+2003,VIII (Eastern Visayas),Falcata,"2""x4""x8'",-
+2003,VIII (Eastern Visayas),Gmelina,"2""x4""x8'",18
+2003,VIII (Eastern Visayas),Lauan,"2""x4""x8'",25.9
+2003,VIII (Eastern Visayas),Narra,"2""x4""x8'",-
+2003,VIII (Eastern Visayas),Tanguile,"2""x4""x8'",-
+2003,VIII (Eastern Visayas),Yakal,"2""x4""x8'",-
+2003,IX (Zamboanga Peninsula),Apitong,"2""x4""x8'",22.99
+2003,IX (Zamboanga Peninsula),Bagras,"2""x4""x8'",-
+2003,IX (Zamboanga Peninsula),Falcata,"2""x4""x8'",-
+2003,IX (Zamboanga Peninsula),Gmelina,"2""x4""x8'",16.15
+2003,IX (Zamboanga Peninsula),Lauan,"2""x4""x8'",21.7
+2003,IX (Zamboanga Peninsula),Narra,"2""x4""x8'",-
+2003,IX (Zamboanga Peninsula),Tanguile,"2""x4""x8'",23.26
+2003,IX (Zamboanga Peninsula),Yakal,"2""x4""x8'",30
+2003,X (Northern Mindanao),Apitong,"2""x4""x8'",25.05
+2003,X (Northern Mindanao),Bagras,"2""x4""x8'",13
+2003,X (Northern Mindanao),Falcata,"2""x4""x8'",10.53
+2003,X (Northern Mindanao),Gmelina,"2""x4""x8'",14.18
+2003,X (Northern Mindanao),Lauan,"2""x4""x8'",27.12
+2003,X (Northern Mindanao),Narra,"2""x4""x8'",-
+2003,X (Northern Mindanao),Tanguile,"2""x4""x8'",24.69
+2003,X (Northern Mindanao),Yakal,"2""x4""x8'",24.5
+2003,XI (Davao Region),Apitong,"2""x4""x8'",23.43
+2003,XI (Davao Region),Bagras,"2""x4""x8'",-
+2003,XI (Davao Region),Falcata,"2""x4""x8'",-
+2003,XI (Davao Region),Gmelina,"2""x4""x8'",12.94
+2003,XI (Davao Region),Lauan,"2""x4""x8'",20.46
+2003,XI (Davao Region),Narra,"2""x4""x8'",25.33
+2003,XI (Davao Region),Tanguile,"2""x4""x8'",20.86
+2003,XI (Davao Region),Yakal,"2""x4""x8'",26.18
+2003,XII (SOCCSKSARGEN),Apitong,"2""x4""x8'",25
+2003,XII (SOCCSKSARGEN),Bagras,"2""x4""x8'",-
+2003,XII (SOCCSKSARGEN),Falcata,"2""x4""x8'",-
+2003,XII (SOCCSKSARGEN),Gmelina,"2""x4""x8'",11.14
+2003,XII (SOCCSKSARGEN),Lauan,"2""x4""x8'",25.17
+2003,XII (SOCCSKSARGEN),Narra,"2""x4""x8'",19.75
+2003,XII (SOCCSKSARGEN),Tanguile,"2""x4""x8'",24
+2003,XII (SOCCSKSARGEN),Yakal,"2""x4""x8'",31.95
+2003,XIII (Caraga),Apitong,"2""x4""x8'",28.5
+2003,XIII (Caraga),Bagras,"2""x4""x8'",12
+2003,XIII (Caraga),Falcata,"2""x4""x8'",10.24
+2003,XIII (Caraga),Gmelina,"2""x4""x8'",11
+2003,XIII (Caraga),Lauan,"2""x4""x8'",31.97
+2003,XIII (Caraga),Narra,"2""x4""x8'",-
+2003,XIII (Caraga),Tanguile,"2""x4""x8'",28.5
+2003,XIII (Caraga),Yakal,"2""x4""x8'",34.41

@@ -1,0 +1,1 @@
+Quarterly Economic Indices from 2012 to 2013 - Mining and Quarrying, Manufacturing, Electricity and Water, Trade, Transportation and Communication, Finance, Real Estate, Private Services

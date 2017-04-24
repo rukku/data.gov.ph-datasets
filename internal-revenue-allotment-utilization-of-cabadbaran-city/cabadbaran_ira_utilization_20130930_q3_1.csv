@@ -1,0 +1,62 @@
+particulars_1,particulars_2,balance,total
+Assets-Current Assets,Cash ,-,36695493.4
+Assets-Current Assets,Receivables ,-,4068635.79
+Assets-Current Assets,Inventory,-,0
+Assets-Current Assets,Prepayments,-,-
+Assets-Current Assets,Deposits on Letters of Credit ,-,0
+Assets-Current Assets,Total Current Assets ,-,40764129.19
+Assets,Investments,-,-
+Assets,Inventories,-,-
+Assets,"Property,Plant and Equipment(net of depreciation)",-,-
+Assets,"Property, Plant and Equipment",-,-
+Assets,Land ,-,1335436
+Assets,Land Improvement ,-,2502875.79
+Assets,Buildings ,-,345310.91
+Assets,Other Structures ,-,3500994.51
+Assets,"Office Equipment, Furnitures and Fixtures ",-,2127571.59
+Assets,Machineries and Equipment ,-,45799850.93
+Assets,Transportation Equipment ,-,2475988.34
+Assets,"Other Propoerty, Plant and Equipment ",-,92772.75
+Assets,Other Machineries and Equipment ,-,116816.66
+Assets,Public Infrastructures ,-,0
+Assets,Conctruction-In-Progress ,-,19960695.79
+Assets,Other Assets ,-,149061
+Assets,Total Assets ,-,119171503.5
+Liabilities and Equity,Current Liabilities ,-,2099995.74
+Liabilities and Equity,Long-Term Liabilities ,-,0
+Liabilities and Equity,Deferred Credits ,-,0
+Liabilities and Equity,Total Liabilities ,-,2099995.74
+Equity,Government Equity ,-,117071507.7
+Total Liabilities and Equity ,Total Liabilities and Equity ,-,119171503.5
+Income,Property Taxes ,102.96,-
+Income,Less:RPTISET Discount ,0,102.96
+Income,Other Local Taxes ,-,3300
+Income,Permits and Licenses ,-,0
+Income,Service Income ,-,0
+Income,Business Income ,-,0
+Income,Other Income ,-,42850672
+Income,Total Income ,-,42854074.96
+Income,Less: Expenses-Personal Services ,-,0
+Income,Less: Expenses-Maintenance and Other Operating Expenses ,-,8415232.6
+Income,Less: Expenses-Total Expenses ,-,8415232.6
+Income,Less: Expenses-Operating Income ,-,34438842.36
+Income,Less: Finance Cost,-,-
+Income,Bank Charges,0,-
+Income,Commitment Fees,-,-
+Income,Debt Services Subsidy to GOCC's,-,-
+Income,Documentary Stamp Expenses,-,-
+Income,Interest Expenses ,0,-
+Income,Other financial Charges,0,0
+Income,Income Before Subsidies ans Extraordinary Receipts ,-,34438842.36
+Income,Add Subsidy from Other LGUs ,-,0
+Income,Income After Subsidies and Extraordinary Receipts ,-,34438842.36
+Income,Less:Subsidy to Other Funds,0,-
+Income,Less:National Government Agencies ,0,-
+Income,Less:LGUs ,0,-
+Income,Less:Regional Offices Donations ,-,0
+Income,Less:NGOs or POs ,0,-
+Income,Less:Other Funds ,0,0
+Income,Income Before Extraordinary Items ,-,34438842.36
+Income,Less: Extraordinary Items-Loss on Sale of Disposed Assets,-,-
+Income,Less: Extraordinary Items-Loss on Sale of Securities,-,-
+Income,Net Income or Net Loss ,-,34438842.36

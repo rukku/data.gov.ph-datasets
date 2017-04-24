@@ -1,0 +1,39 @@
+selected_accounts_a,selected_accounts_b,selected_accounts_c,selected_accounts_d,selected_accounts_e,2004_March,2004_June,2004_Sept,2004_Dec
+ ASSETS, ASSETS, ASSETS, ASSETS, ASSETS,"3,796.26","3,874.03","3,914.51","4,024.37"
+ ASSETS, ASSETS, ASSETS, ASSETS,Cash and Due from Banks,283.902,324.168,298.262,320.26
+ ASSETS, ASSETS, ASSETS, ASSETS,Loan Portfolio (net) 2/,"1,854.98","1,855.09","1,871.52","1,870.43"
+ ASSETS, ASSETS, ASSETS, ASSETS,Investments (net),"1,087.34","1,118.64","1,167.24","1,249.01"
+ ASSETS, ASSETS, ASSETS, ASSETS,Other Assets,570.038,576.131,577.49,584.669
+ LIABILITIES AND CAPITAL, LIABILITIES AND CAPITAL, LIABILITIES AND CAPITAL, LIABILITIES AND CAPITAL, LIABILITIES AND CAPITAL,"3,796.26","3,874.03","3,914.51","4,024.37"
+ LIABILITIES AND CAPITAL,Liabilities,Liabilities,Liabilities,Liabilities,"3,315.42","3,378.66","3,409.97","3,518.22"
+ LIABILITIES AND CAPITAL,Liabilities,    Deposit Liabilities,    Deposit Liabilities,    Deposit Liabilities,"2,545.75","2,591.92","2,614.93","2,767.06"
+ LIABILITIES AND CAPITAL,Liabilities,    Deposit Liabilities,        Peso Liabilities,        Peso Liabilities,"1,726.31","1,760.86","1,758.88","1,879.25"
+ LIABILITIES AND CAPITAL,Liabilities,    Deposit Liabilities,        Peso Liabilities,            Demand and NOW,307.885,316.154,310.727,332.878
+ LIABILITIES AND CAPITAL,Liabilities,    Deposit Liabilities,        Peso Liabilities,            Savings,"1,236.53","1,204.73","1,153.06","1,240.97"
+ LIABILITIES AND CAPITAL,Liabilities,    Deposit Liabilities,        Peso Liabilities,            Time,181.891,239.975,295.09,305.401
+ LIABILITIES AND CAPITAL,Liabilities,    Deposit Liabilities,        Foreign Currency,        Foreign Currency,819.442,831.063,856.053,887.81
+ LIABILITIES AND CAPITAL,Liabilities,    Bills Payable,    Bills Payable,    Bills Payable,451.555,461.647,428.889,386.791
+ LIABILITIES AND CAPITAL,Liabilities,    Bills Payable,            Deposit Substitutes,            Deposit Substitutes,7.878,3.971,4.238,2.292
+ LIABILITIES AND CAPITAL,Liabilities,    Bills Payable,            Others,            Others,443.677,457.676,424.65,384.499
+ LIABILITIES AND CAPITAL,Liabilities,    Special Financing,    Special Financing,    Special Financing,0.871,0.861,0.837,0.651
+ LIABILITIES AND CAPITAL,Liabilities,    Special Financing,            Time Certificates of Deposits - SF,            Time Certificates of Deposits - SF,0.389,0.388,0.398,0.398
+ LIABILITIES AND CAPITAL,Liabilities,    Special Financing,            Special Time Deposits,            Special Time Deposits,0.483,0.474,0.439,0.253
+ LIABILITIES AND CAPITAL,Liabilities,    Other Liabilities,    Other Liabilities,    Other Liabilities,48.485,48.472,48.535,51.387
+ LIABILITIES AND CAPITAL,Capital Accounts,Capital Accounts,Capital Accounts,Capital Accounts,268.756,275.753,316.781,312.327
+ LIABILITIES AND CAPITAL,Capital Accounts,    Capital Stock,    Capital Stock,    Capital Stock,480.842,495.377,504.54,506.151
+ LIABILITIES AND CAPITAL,Capital Accounts,    Assigned Capital,    Assigned Capital,    Assigned Capital,219.594,224.481,225.784,227.009
+ LIABILITIES AND CAPITAL,Capital Accounts,"    Net Due to H.O., Branches/Agencies","    Net Due to H.O., Branches/Agencies","    Net Due to H.O., Branches/Agencies",12.786,15.765,15.765,15.989
+ LIABILITIES AND CAPITAL,Capital Accounts,"    Surplus, Surplus Reserves &  Undivided Profits","    Surplus, Surplus Reserves &  Undivided Profits","    Surplus, Surplus Reserves",47.315,59.232,58.57,56.58
+ LIABILITIES AND CAPITAL,Capital Accounts,"    Surplus, Surplus Reserves &  Undivided Profits","    Surplus, Surplus Reserves &  Undivided Profits",&  Undivided Profits,201.147,195.899,204.421,206.572
+,,,,,,,,
+CONSOLIDATED STATEMENT OF CONDITION,,,,,,,,
+    Philippine Banking System as of end of periods indicated: 2003,,,,,,,,
+    in billion pesos,,,,,,,,
+,,,,,,,,
+   r/ Revised,,,,,,,,
+,"1/ Adjusted to net off the account ""Due from Head Office"" with ""Due to Head Office"" of branches of foreign banks",,,,,,,
+,2/ Inclusive of Interbank Loans Receivable,,,,,,,
+,Note: Details may not add up to totals due to rounding-off,,,,,,,
+,"Source: Supervisory Data Center, Supervision and Examination Sector",,,,,,,
+,,,,,,,,
+Updated as of 29 December 2005,,,,,,,,

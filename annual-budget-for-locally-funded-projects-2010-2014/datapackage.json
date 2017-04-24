@@ -1,0 +1,46 @@
+{
+  "author": "Department of Transportation and Communications", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/WIYgothOABUc7UmQZ83w/dotcannualbudgetlocally-fundedprojects2010-2014.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2010-12/31/2014"
+  }, 
+  "id": "da6a82fd-e612-4a8c-afd9-1583a378fb7f", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Office of the Secretary - Public Information Division", 
+  "maintainer_email": "dotcpid@gmail.com", 
+  "name": "annual-budget-for-locally-funded-projects-2010-2014", 
+  "notes": "This data set contains the list of the Department's locally-funded infrastructure projects and the budget (in thousand Pesos) allocated to each project from 2010 to 2014.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T16:59:09.167602", 
+      "description": "This data set contains the list of the Department's locally-funded infrastructure projects and the budget (in thousand Pesos) allocated to each project from 2010 to 2014.", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "2e5da7d8-cd3a-47ad-bf51-30aa34ca52fb", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Annual Budget for Locally-Funded Projects 2010-2014", 
+      "package_id": "da6a82fd-e612-4a8c-afd9-1583a378fb7f", 
+      "position": 0, 
+      "resource_group_id": "967d422e-8fbf-4291-b92d-c69061dd4b80", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/WIYgothOABUc7UmQZ83w/dotcannualbudgetlocally-fundedprojects2010-2014.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Transport and Communication"
+  ], 
+  "title": "Annual Budget for Locally-Funded Projects 2010-2014", 
+  "url": "", 
+  "version": ""
+}

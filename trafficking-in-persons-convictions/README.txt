@@ -1,0 +1,1 @@
+The dataset contains information on court convictions acquired from Trafficking in Persons (TIP) cases nationwide, 2005 to December 07, 2015

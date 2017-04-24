@@ -1,0 +1,1 @@
+This dataset contains the agricultural wage rates of farm workers by type of wages, type of farm workers, by sex, and by region. This time-series includes data covering the period from 1975 to 2011 only.

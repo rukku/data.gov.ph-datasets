@@ -1,0 +1,1 @@
+Also known as Financial Institutions Under BSP Supervision/Regulation. Number of offices of BSP supervised/regulated financial institutions by type of financial institution (banks, non-banks, and off-shore banking units) with breakdown as to Head Office and Other Offices. 1999-2012

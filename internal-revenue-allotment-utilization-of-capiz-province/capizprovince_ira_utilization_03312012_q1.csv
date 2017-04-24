@@ -1,0 +1,43 @@
+object_of_expenditure_1,object_of_expenditure_2,account_code,past_year,current_year,budget_year
+Current Operating Expenditures,Current Operating Expenditures,-,-,-,-
+Personal Services,PhilHealth Contributions,-,-,-,-
+Maintenance and Other Operating Expenses,Travelling Expenses - Local,751,-,13396,-
+Maintenance and Other Operating Expenses,Training Expenses,753,-,33215,-
+Maintenance and Other Operating Expenses,Office Supplies Expenses,755,-,303269.75,-
+Maintenance and Other Operating Expenses,Accountable Forms Expenses,756,-,-,-
+Maintenance and Other Operating Expenses,Drugs and Medicines Expenses,759,-,199990,-
+Maintenance and Other Operating Expenses,"Medical, Dental and Laboratory Supplies Expenses",760,-,121750,-
+Maintenance and Other Operating Expenses,"Gasoline, Oil and Lubricants Expenses",761,-,592995.80,-
+Maintenance and Other Operating Expenses,Agricultural Supplies Expenses,762,-,221318,-
+Maintenance and Other Operating Expenses,Other Supplies Expenses,765,-,8997.50,-
+Maintenance and Other Operating Expenses,Water Expenses ,766,-,-,-
+Maintenance and Other Operating Expenses,Telephone Expenses - Landline,772,-,-,-
+Maintenance and Other Operating Expenses,Awards and Indemnities,779,-,19925,-
+Maintenance and Other Operating Expenses,Advertising Expenses,780,-,272654.34,-
+Maintenance and Other Operating Expenses,Printing and Binding Expenses,781,-,65580,-
+Maintenance and Other Operating Expenses,Rent Expenses,782,-,-,-
+Maintenance and Other Operating Expenses,Representation Expenses,783,-,113770,-
+Maintenance and Other Operating Expenses,Transportation and Delivery Expenses,784,-,-,-
+Maintenance and Other Operating Expenses,Subscription Expenses,786,-,2000,-
+Maintenance and Other Operating Expenses,Repairs and Maintenance - Office Building,811,-,24163,-
+Maintenance and Other Operating Expenses,Repairs and Maintenance - Other Structure,815,-,112670,-
+Maintenance and Other Operating Expenses,Repairs and Maintenance - Motor Vehicles,841,-,2066,-
+Maintenance and Other Operating Expenses,"Repairs and Maintenance - Roads, Highways and Bridges",851,-,1321199.04,-
+Maintenance and Other Operating Expenses,Subsidy to Local Government Units,874,-,1200000,-
+Maintenance and Other Operating Expenses,Subsidy to NGO's or PO's,876,-,1200000,-
+Maintenance and Other Operating Expenses,Subsidy to Other Funds,877,-,20391028.07,-
+Maintenance and Other Operating Expenses,Miscellaneous Expenses,884,-,137675,-
+Maintenance and Other Operating Expenses,Other Maintenance and Other Operating Expenses,969,-,9994844.25,-
+Capital Outlay,Office Equipment,221,-,224000,-
+Capital Outlay,Furniture and Fixtures,222,-,1321.60,-
+Capital Outlay,IT Equipment and Software,223,-,693320,-
+Capital Outlay,"Agricultural, Fishery and Forestry Equipment",227,-,-,-
+Capital Outlay,Communication Equipment,229,-,14895,-
+Capital Outlay,"Medical, Dental and Laboratory Equipment",233,-,17000,-
+Capital Outlay,"Other Property, Plantand Equipment",250,-,8960,-
+Capital Outlay,"Construction in Progress - Roads, Highways and Bridges",266,-,946082.20,-
+Capital Outlay,Construction in Progress - Other Public Infrastructures,273,-,653291,-
+Capital Outlay,Other Assets,290,-,-,-
+Financial Expenses,Bank Charges,971,-,8515.83,-
+Financial Expenses,Interest Expense,975,-,7875672.77,-
+Total Appropriation,Total Appropriation,Total Appropriation,0,46795565.15,-

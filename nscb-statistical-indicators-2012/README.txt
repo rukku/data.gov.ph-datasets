@@ -1,0 +1,1 @@
+Statistical Indicators for 2012

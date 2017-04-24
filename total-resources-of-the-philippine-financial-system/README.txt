@@ -1,0 +1,1 @@
+This dataset contains the total assets of Universal/Commercial Banks (U/KBs), Thrift Banks (TBs), Rural Banks (RBs) and Non-Banks Financial Intermediaries (NBFIs) gross of provision for probable losses, accumulated bond discount and accumulated market gains/losses.

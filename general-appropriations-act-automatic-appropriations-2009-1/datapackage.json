@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "dbmgeneralappropriationsactautomaticappropriations2009.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "57aa715d-d673-49df-a891-9529cd862dfb", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "general-appropriations-act-automatic-appropriations-2009-1", 
+  "notes": "Approved National Budget for 2009", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-03T15:28:58.374072", 
+      "description": "Approved National Budget for 2009", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "4be5dc2b-d211-4674-b1bd-78755d97da72", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "GENERAL APPROPRIATIONS ACT (AUTOMATIC APPROPRIATIONS) 2009", 
+      "package_id": "57aa715d-d673-49df-a891-9529cd862dfb", 
+      "position": 0, 
+      "resource_group_id": "7f9eb910-fe7b-4cac-b9ff-504e2ba88eab", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/57aa715d-d673-49df-a891-9529cd862dfb/resource/4be5dc2b-d211-4674-b1bd-78755d97da72/download/dbmgeneralappropriationsactautomaticappropriations2009.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Public Finance"
+  ], 
+  "title": "GENERAL APPROPRIATIONS ACT (AUTOMATIC APPROPRIATIONS) 2009", 
+  "url": "", 
+  "version": ""
+}

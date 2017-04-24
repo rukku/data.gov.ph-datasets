@@ -1,0 +1,1 @@
+This dataset contains the Wholesale Price Index (WPI), the indicator of the changes in the price levels of commodities that flow into the wholesale trade intermediaries. It is serves as a basis for price adjustments in business contracts and projects.

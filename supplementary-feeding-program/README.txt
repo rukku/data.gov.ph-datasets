@@ -1,0 +1,1 @@
+Area Coverage, Number of Beneficiaries and Total Amount of Assistance by Region, Province, District, and City/Municipality.

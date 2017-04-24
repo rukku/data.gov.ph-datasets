@@ -1,0 +1,45 @@
+{
+  "author": "Philippine Statistics Authority", 
+  "author_email": "info@psa.gov.ph", 
+  "download_url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=R20OTNAM", 
+  "extras": {
+    "Frequency Update": "Others", 
+    "Granularity": "National", 
+    "Temporal Date": "01/01/1960-12/31/2002"
+  }, 
+  "id": "9bd7363c-cc40-4002-b910-a0d4446d58f8", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Philippine Statistics Authority, Office of the National Statistician ", 
+  "maintainer_email": "info@psa.gov.ph", 
+  "name": "number-of-equipment-by-type-and-by-region", 
+  "notes": "This dataset contains the number of equipment by type. This time-series includes the most recent data, covering the period from 1960 to the latest available year.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-08-12T10:54:53.220956", 
+      "description": "This dataset contains the number of equipment by type. This time-series includes the most recent data, covering the period from 1960 to the latest available year.", 
+      "format": "", 
+      "hash": "", 
+      "id": "8a8377f4-9c09-4f56-a83e-d8d6940595a4", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Number of Equipment by Type and by Region", 
+      "package_id": "9bd7363c-cc40-4002-b910-a0d4446d58f8", 
+      "position": 0, 
+      "resource_group_id": "c300780a-af71-4031-acd9-acfcb58c2eb2", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://countrystat.psa.gov.ph/?cont=10&pageid=1&ma=R20OTNAM", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [], 
+  "title": "Number of Equipment by Type and by Region", 
+  "url": null, 
+  "version": null
+}

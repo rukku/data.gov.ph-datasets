@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/58729796-6cc7-4ee0-892e-ebdadb261af6/resource/1a891928-28f9-4e77-b3c1-60a68bf62462/download/12september2012.csv", 
+  "extras": {
+    "Frequency of Update": "Monthly", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "58729796-6cc7-4ee0-892e-ebdadb261af6", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "12-september-2012-neda-updates", 
+  "notes": "This dataset contains NEDA Updates for the year 2012 as of September 12 2012", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T14:10:58.806094", 
+      "description": "This dataset contains NEDA Updates for the year 2012 as of September 12 2012", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "1a891928-28f9-4e77-b3c1-60a68bf62462", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "12 SEPTEMBER 2012 NEDA UPDATES", 
+      "package_id": "58729796-6cc7-4ee0-892e-ebdadb261af6", 
+      "position": 0, 
+      "resource_group_id": "16c0b0e6-f700-45f0-80e7-d6bf2dd7c4c3", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/58729796-6cc7-4ee0-892e-ebdadb261af6/resource/1a891928-28f9-4e77-b3c1-60a68bf62462/download/12september2012.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "12 SEPTEMBER 2012 NEDA UPDATES", 
+  "url": "", 
+  "version": ""
+}

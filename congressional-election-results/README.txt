@@ -1,0 +1,1 @@
+This datasets contains the list winning candidates of congressional election for the year 2004, 2007, 2010 and 2013.

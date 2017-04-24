@@ -1,0 +1,87 @@
+geographical,particulars,post,country,actually_voted,total_number_of_registered_voters,failed_to_vote_in_two_consecutive_election_2007_and_2010,total_number_of_registered_voters,percentage_of_voter's_turn-out
+North and Latin America,Personal Voting,Buenos Aires,Argentina,35,59,10,69,59.32
+North and Latin America,Postal Voting,Agana,Guam,2070,7226,3333,10559,28.65
+North and Latin America,Postal Voting,Brazilia,Brazil,57,252,31,283,22.62
+North and Latin America,Postal Voting,Chicago,USA,1224,7619,665,8284,16.07
+North and Latin America,Postal Voting,Honolulu,USA,579,4379,52,4431,13.22
+North and Latin America,Postal Voting,Los Angeles,USA,3628,31092,256,31348,11.67
+North and Latin America,Postal Voting,Mexico,Mexico,31,832,94,926,3.73
+North and Latin America,Postal Voting,New York,USA,2637,13253,793,14046,19.9
+North and Latin America,Postal Voting,Ottawa,Canada,438,3591,486,4077,12.2
+North and Latin America,Postal Voting,San Francisco,USA,2846,15221,2636,17857,18.7
+North and Latin America,Postal Voting,Santiago,Chile,55,93,5,98,59.14
+North and Latin America,Postal Voting,Toronto,Canada,1971,16910,21796,19086,11.66
+North and Latin America,Postal Voting,Vancouver,Canada,1159,12959,1212,14171,8.94
+North and Latin America,Postal Voting,Washington,USA,1279,12118,1636,13754,10.55
+Asia and Pacific,Automated Voting,Hongkong,Hongkong Sar,28260,83118,39702,122829,34
+Asia and Pacific,Automated Voting,Singapore,Singapore,8036,50063,-,50063,16.05
+Asia and Pacific,Personal Voting,Bandar Seri Begawan,Brunei,1531,9463,5928,15391,16.18
+Asia and Pacific,Personal Voting,Dili,Eat Tumor,229,722,29,751,31.72
+Asia and Pacific,Personal Voting,Kaoshiung Meco,Taiwan,901,5165,2694,7859,17.44
+Asia and Pacific,Personal Voting,Macau,China,726,3633,826,4459,19.98
+Asia and Pacific,Personal Voting,New Delhi,India,23,314,66,380,7.32
+Asia and Pacific,Personal Voting,Phnom Penh,Cambodia,353,1358,220,1578,25.99
+Asia and Pacific,Personal Voting,Seoul,South Korea,428,5887,8047,13934,7.27
+Asia and Pacific,Personal Voting,Shanghai,China,217,1157,240,1397,18.76
+Asia and Pacific,Personal Voting,Taichung,Taiwan,659,5004,1385,6389,13.17
+Asia and Pacific,Personal Voting,Taipei,Taiwan,1095,10772,4830,15602,10.17
+Asia and Pacific,Personal Voting,Vietiane,Laos,216,499,89,588,43.29
+Asia and Pacific,Personal Voting,Yangon,Myanmar,63,214,47,261,29.44
+Asia and Pacific,Postal Voting,Aspac DFA,Palau,540,2184,1202,3386,24.73
+Asia and Pacific,Postal Voting,Bangkok,Thailand,558,2920,865,3785,19.11
+Asia and Pacific,Postal Voting,Bejing,China,146,751,212,963,19.44
+Asia and Pacific,Postal Voting,Canberra,Australia,367,1980,270,2250,18.54
+Asia and Pacific,Postal Voting,Chongqing,China,94,154,0,154,61.04
+Asia and Pacific,Postal Voting,Dhaka,Bangladesh,228,805,290,1095,28.32
+Asia and Pacific,Postal Voting,Guangzhou,China,242,792,178,970,30.56
+Asia and Pacific,Postal Voting,Hanoi,Vietnam,175,954,313,1267,18.34
+Asia and Pacific,Postal Voting,Islambad,Pakistan,207,1396,390,1786,14.83
+Asia and Pacific,Postal Voting,Jakarta,Indonesia,204,1239,411,1650,16.46
+Asia and Pacific,Postal Voting,Kuala Lumpur,Malaysia,1374,10841,2273,13114,12.67
+Asia and Pacific,Postal Voting,Manado,Indonesia,38,148,16,164,25.68
+Asia and Pacific,Postal Voting,Osaka,Japan,585,4464,1628,6092,13.1
+Asia and Pacific,Postal Voting,Port Moresby,Papua New Guinea,600,3241,464,3705,18.51
+Asia and Pacific,Postal Voting,Sydney,Australia,591,2946,392,3338,20.06
+Asia and Pacific,Postal Voting,Tokyo,Japan,1902,11207,2008,13215,16.97
+Asia and Pacific,Postal Voting,Wellington,New Zealand,612,4493,150,4643,13.62
+Asia and Pacific,Postal Voting,Xiamen,China,161,425,138,563,37.88
+Europe,Personal Voting,Athens,Greece,1158,3721,3674,7395,31.12
+Europe,Personal Voting,Geneva,Switzerland,411,1148,244,1392,35.8
+Europe,Personal Voting,Holy See,Vatican,260,642,384,1026,40.5
+Europe,Personal Voting,Lisbon,Portugal,1439,242,13,255,594.63
+Europe,Personal Voting,Prague,Czech,107,368,13,381,29.08
+Europe,Postal Voting,Ankara,Turkey,381,2706,801,3507,14.08
+Europe,Postal Voting,Berlin,Germany,606,2615,483,3098,23.17
+Europe,Postal Voting,Berne,Switzerland,463,1347,4614,5961,34.37
+Europe,Postal Voting,Brussels,Belguim,420,1012,524,1536,41.5
+Europe,Postal Voting,Budapest,Hungary,86,335,7615,7950,25.67
+Europe,Postal Voting,London,UK,2681,13023,482,13505,20.59
+Europe,Postal Voting,Madrid,Spain,1012,7723,40,7763,13.1
+Europe,Postal Voting,Milan,Italy,3227,18021,25,18046,17.91
+Europe,Postal Voting,Moscow,Russia,159,898,2647,3545,17.71
+Europe,Postal Voting,Oslo,Norway,413,2580,696,3276,16.01
+Europe,Postal Voting,Paris,France,844,4201,124,4325,20.09
+Europe,Postal Voting,Rome,Italy,2870,13460,1410,14870,21.32
+Europe,Postal Voting,The Hague,Netherlands,224,877,226,1103,25.54
+Europe,Postal Voting,Vienna,Austria,235,793,107,900,29.63
+Europe,Postal Voting,Warsaw,Poland,75,125,9,134,60
+Middle East and Africa,Automated Voting,Abu Dhabi,UAE,3337,21645,8298,29943,15.42
+Middle East and Africa,Automated Voting,Dubai,UAE,3545,55842,12421,68263,6.35
+Middle East and Africa,Automated Voting,Jeddah,Saudi Arabia,3648,30238,20437,50675,12.06
+Middle East and Africa,Automated Voting,Kuwait,Kuwait,3203,30468,10211,40679,10.51
+Middle East and Africa,Automated Voting,Riyadh,Saudi Arabia,6851,53396,25841,79237,12.83
+Middle East and Africa,Personal Voting,Al Khobar,Saudi Arabia,2723,24842,9536,34378,10.96
+Middle East and Africa,Personal Voting,Amman,Jordan,652,3116,755,3871,20.92
+Middle East and Africa,Personal Voting,Baghdad,Iraq,0,18,33,51,0
+Middle East and Africa,Personal Voting,Beirut,Lebanon,1187,4293,1845,6138,27.65
+Middle East and Africa,Personal Voting,Damascus,Syria,0,367,24,391,0
+Middle East and Africa,Personal Voting,Doha,Qatar,2375,23260,7624,30884,10.21
+Middle East and Africa,Personal Voting,Manama,Bahrain,1817,10119,2325,12444,17.96
+Middle East and Africa,Personal Voting,Muscat,Oman,919,4546,1947,6493,20.22
+Middle East and Africa,Personal Voting,Tehran,Iran,61,345,167,512,17.68
+Middle East and Africa,Personal Voting,Tel-aviv,Israel,835,9274,1290,10564,9
+Middle East and Africa,Postal Voting,Abuja,Nigeria,184,1321,1530,2851,13.93
+Middle East and Africa,Postal Voting,Cairo,Egypt,288,1717,847,2564,16.77
+Middle East and Africa,Postal Voting,Nairobi,Kenya,79,1147,116,1263,6.89
+Middle East and Africa,Postal Voting,Pretoria,South Africa,206,2085,444,2529,9.88
+Middle East and Africa,Postal Voting,Tripoli,Libya,472,3162,1217,4379,14.93

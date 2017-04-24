@@ -1,0 +1,3 @@
+This dataset contains the outstanding foreign currency-denominated loans granted by FCDUs to various sectors of the economy.
+Scope and Classification: It is composed of data on outstanding loans granted by FCDUs by type of borrower (i.e., merchandise/service exporters, producers/manufacturers, oil companies, public utilities).
+Sources of Data and Methodology: Data are mainly sourced from the International Operations Department (IOD) and are reported in US Dollars.

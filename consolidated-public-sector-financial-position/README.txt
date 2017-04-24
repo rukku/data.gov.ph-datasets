@@ -1,0 +1,2 @@
+This dataset contains the combined financial positions of the National Government, monitored non-financial government corporations, government financial institutions, local government units, and social security institution. The dataset also includes the cost of restructuring the defunct Central Bank, financial position of the present Bangko Sentral ng Pilipinas and the Oil Price Stabilization Fund (OPSF) from 1998 to 2001.
+Sources of Data: The Consolidated Public Sector Financial Position is produced by the Department of Finance.

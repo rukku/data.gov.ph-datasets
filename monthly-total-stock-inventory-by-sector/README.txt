@@ -1,0 +1,1 @@
+This dataset contains the monthly total stock inventory of rice and corn by sector. This time-series includes the most recent data, covering the period from 1980 to the latest available month/year.

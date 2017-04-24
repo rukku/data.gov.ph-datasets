@@ -1,0 +1,1 @@
+This dataset contains the weighted average interest rate (WAIR) on money market transactions of promissory notes and commercial papers without recourse.

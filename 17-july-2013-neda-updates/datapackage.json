@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/a1de4084-4fd8-40b7-bb66-7c0b4fc6dbb3/resource/920636db-3aaf-47f2-afa7-9dc648198fd6/download/17july2013nedaupdates.csv", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "a1de4084-4fd8-40b7-bb66-7c0b4fc6dbb3", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "17-july-2013-neda-updates", 
+  "notes": "This dataset contains NEDA Updates for July 17, 2013", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T17:20:30.069639", 
+      "description": "This dataset contains NEDA Updates for July 17, 2013", 
+      "format": "XLS", 
+      "hash": "", 
+      "id": "920636db-3aaf-47f2-afa7-9dc648198fd6", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "17 JULY 2013 NEDA UPDATES", 
+      "package_id": "a1de4084-4fd8-40b7-bb66-7c0b4fc6dbb3", 
+      "position": 0, 
+      "resource_group_id": "84f5b6cd-b49d-4919-8613-82a74e15612c", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/a1de4084-4fd8-40b7-bb66-7c0b4fc6dbb3/resource/920636db-3aaf-47f2-afa7-9dc648198fd6/download/17july2013nedaupdates.csv", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Economy"
+  ], 
+  "title": "17 JULY 2013 NEDA UPDATES", 
+  "url": "", 
+  "version": ""
+}

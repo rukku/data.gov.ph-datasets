@@ -1,0 +1,221 @@
+city_or_municipality,position,name,nickname,party_affiliation,votes_obtained
+Bacolod,Mayor,"Maquiabas, Joselito Eguac",Nonoy,Lakas-Christian Muslim Democrats,8040
+Bacolod,Vice-Mayor,"Manginsay, Lee Bernales","Dong, Dongi",Lakas-Christian Muslim Democrats,4666
+Bacolod,Councilor,"Pendang, Paterno Ano-os",Titing,Lakas-Christian Muslim Democrats,5044
+Bacolod,Councilor,"Antonio, Nolan Jr. Lao",Boy,Lakas-Christian Muslim Democrats,4778
+Bacolod,Councilor,"Santos, Raymund Cogo",Mon,Lakas-Christian Muslim Democrats,4743
+Bacolod,Councilor,"Clapano, Quintin Jr. Ababon",Boboy,Lakas-Christian Muslim Democrats,4722
+Bacolod,Councilor,"Tejano, Felmore Tejano",Dodong,Lakas-Christian Muslim Democrats,4653
+Bacolod,Councilor,"Palangan, Bong Sinogaya",Bong,Lakas-Christian Muslim Democrats,4051
+Bacolod,Councilor,"Canda, Avelino Jr. Abang",Onik,Lakas-Christian Muslim Democrats,3885
+Bacolod,Councilor,"Ampaso, Hadji Ismael Guinal",Kadi,Lakas-Christian Muslim Democrats,3803
+Baloi,Mayor,"Ali, Madid Elias Lope",Ely,Lakas-Christian Muslim Democrats,5572
+Baloi,Vice-Mayor,"Balas, Abdullah Mohammad",Butsoy,Lakas-Christian Muslim Democrats,6789
+Baloi,Councilor,"Mackno, Ibrahim Currie",Ever,Lakas-Christian Muslim Democrats,6998
+Baloi,Councilor,"Calandada, Ustadmohsin Imim",Almaida,Lakas-Christian Muslim Democrats,6634
+Baloi,Councilor,"Yahya, Usman Ayoma",Mhani,Lakas-Christian Muslim Democrats,6038
+Baloi,Councilor,"Usman, Omar Daligcon",Marlon,Lakas-Christian Muslim Democrats,5992
+Baloi,Councilor,"Domado, Mama Rangaig",Control,Lakas-Christian Muslim Democrats,5824
+Baloi,Councilor,"Maunda, Caris Inabang",Rex,Lakas-Christian Muslim Democrats,5445
+Baloi,Councilor,"Lope, NaSr.oding Dimapunong",Black Tiger,Lakas-Christian Muslim Democrats,5000
+Baloi,Councilor,"Baulo, Mascara Mandangan",Max,Lakas-Christian Muslim Democrats,4601
+Baroy,Mayor,"Rizon, Isagani Bayate",Gani,Lakas-Christian Muslim Democrats,5345
+Baroy,Vice-Mayor,"Obial, Eleuterio Jr. Mariquit",Junjun,Lakas-Christian Muslim Democrats,3251
+Baroy,Councilor,"Pangasian, Vicente Jumawan",Bety,Lakas-Christian Muslim Democrats,4643
+Baroy,Councilor,"Serino, Jene Joseph Saceda",Jojo,Lakas-Christian Muslim Democrats,4410
+Baroy,Councilor,"Dayo, Alma Abamonga",Alma,Lakas-Christian Muslim Democrats,4408
+Baroy,Councilor,"Encarnacion, Norlan Borja",Landy,Independent,4243
+Baroy,Councilor,"Magparoc, Mario Martillano",Mar,Lakas-Christian Muslim Democrats,4126
+Baroy,Councilor,"Go, Moreno Waldato",More,Independent,3971
+Baroy,Councilor,"Gorecho, Jovencio Cua",Bebing,Lakas-Christian Muslim Democrats,3720
+Baroy,Councilor,"Chiu, Evelyn Partosa",Chu,Independent,3673
+Kapatagan,Mayor,"Baguio, Benny Ponce",Ben,Lakas-Christian Muslim Democrats,12666
+Kapatagan,Vice-Mayor,"Atay, Maria Cristina Navarro",Cristy,Lakas-Christian Muslim Democrats,10730
+Kapatagan,Councilor,"Pejo, Gerardo Tampus",Gerry,Lakas-Christian Muslim Democrats,9255
+Kapatagan,Councilor,"Te, Jose Cabusao",Joe,Lakas-Christian Muslim Democrats,8296
+Kapatagan,Councilor,"Gonzaga, Perlito Benosa",Lito,Independent,7814
+Kapatagan,Councilor,"Gulmatico, Ravelo Tuvalles",Beloy,Lakas-Christian Muslim Democrats,7655
+Kapatagan,Councilor,"Plaza, Serafin Martin",Apin,Lakas-Christian Muslim Democrats,6912
+Kapatagan,Councilor,"Oporto, Narciso Bontilao",Ching,Lakas-Christian Muslim Democrats,6589
+Kapatagan,Councilor,"Roullo, Romelie Jose Metillo",Toto,Independent,6579
+Kapatagan,Councilor,"Te, Patrick John Ty",Patrick,Independent,6500
+Kauswagan,Mayor,"Lumaque, Bertrand Miranda",Dacky,Lakas-Christian Muslim Democrats,4764
+Kauswagan,Vice-Mayor,"Manigos, Lorenzo Vendencia",Iyoy,Lakas-Christian Muslim Democrats,6495
+Kauswagan,Councilor,"Abecia, Jessie Basmayon",Jess,Lakas-Christian Muslim Democrats,5196
+Kauswagan,Councilor,"Celiz, Tomas Almuete",Tom,Lakas-Christian Muslim Democrats,4929
+Kauswagan,Councilor,"Labaro, Antonio Abalos",Tony Abalos,Lakas-Christian Muslim Democrats,4396
+Kauswagan,Councilor,"Omamos, Jose Jr. Minion",Jake,Laban ng Demokratikong Pilipino,4281
+Kauswagan,Councilor,"Comonsad, Pedro Jr. Maghinay","Loloy, Junior",Lakas-Christian Muslim Democrats,3991
+Kauswagan,Councilor,"Tawakal, Millard Pacatang",Mill,Lakas-Christian Muslim Democrats,3882
+Kauswagan,Councilor,"Yanez, Romulo Ducao",Mulong,Lakas-Christian Muslim Democrats,3843
+Kauswagan,Councilor,"Dionson, Diomedes Duhaylungsod",Medes,Lakas-Christian Muslim Democrats,3703
+Kolambugan,Mayor,"Bontilao, Santiago Lawas",Doydoy,Lakas-Christian Muslim Democrats,15666
+Kolambugan,Vice-Mayor,"Lim, Allan Jagman",Allan,Lakas-Christian Muslim Democrats,13146
+Kolambugan,Councilor,"Macayan, Danilo Llanos",Danny,Lakas-Christian Muslim Democrats,12602
+Kolambugan,Councilor,"Cantalejo, Nestor Alforo",Nes,Lakas-Christian Muslim Democrats,12566
+Kolambugan,Councilor,"Suico, Arcadio Demol",Jojo,Lakas-Christian Muslim Democrats,12011
+Kolambugan,Councilor,"Hisuler, Francisco Estido",Franco,Lakas-Christian Muslim Democrats,11503
+Kolambugan,Councilor,"Longcob, Samuel Rafols",Sammy,Lakas-Christian Muslim Democrats,10738
+Kolambugan,Councilor,"Lasmarias, Felcon Canillas",Tata,Lakas-Christian Muslim Democrats,10606
+Kolambugan,Councilor,"Clamucha, Mustiolo Maniwang",Teoly,Lakas-Christian Muslim Democrats,10564
+Kolambugan,Councilor,"Oporto, Teofilo Jimenez",Ping,Laban ng Demokratikong Pilipino,10259
+Lala,Mayor,"Macas, Cherlito Recodo",Boy,Lakas-Christian Muslim Democrats,3551
+Lala,Vice-Mayor,"Deano, Noel Nadala",Toto,Lakas-Christian Muslim Democrats,3858
+Lala,Councilor,"Macapil, Randy Jimenez",Randy,Lakas-Christian Muslim Democrats,3470
+Lala,Councilor,"Bayal, Felix Canoy",Lex,Lakas-Christian Muslim Democrats,3353
+Lala,Councilor,"Chang, Procopio Villegas",Tata,Lakas-Christian Muslim Democrats,3185
+Lala,Councilor,"Lacida, Gilbert Jr. Baclayon",Dodo,Lakas-Christian Muslim Democrats,3150
+Lala,Councilor,"Ladlad, Rima Canoy",Canoy,Lakas-Christian Muslim Democrats,2913
+Lala,Councilor,"Baclaan, Allan Alcover",Allan,Lakas-Christian Muslim Democrats,2567
+Lala,Councilor,"Sipalay, Celestino Jr. Canoy",Jun,Lakas-Christian Muslim Democrats,2520
+Lala,Councilor,"Permites, Bagon Racman Limpao",Bagon,Lakas-Christian Muslim Democrats,2333
+Linamon,Mayor,"Omar, Haron Dereposon",Dondon,Lakas-Christian Muslim Democrats,2625
+Linamon,Vice-Mayor,"Pantillo, Edgar Gomera",Ed,Lakas-Christian Muslim Democrats,2369
+Linamon,Councilor,"Patarlas, Wilson Burling",Dodong,Lakas-Christian Muslim Democrats,3003
+Linamon,Councilor,"Jamora, Generoso Tagab",Ondong,Lakas-Christian Muslim Democrats,2449
+Linamon,Councilor,"Supilanas, Pablita Calunsag",Pabling,Lakas-Christian Muslim Democrats,2430
+Linamon,Councilor,"Pantillo, Elizabeth Lumantas",Abeth,Lakas-Christian Muslim Democrats,2383
+Linamon,Councilor,"Omar, Hairone Deriposun",Ron,Lakas-Christian Muslim Democrats,1960
+Linamon,Councilor,"Bohol , Jesse Magsalay",Jesse,Lakas-Christian Muslim Democrats,1879
+Linamon,Councilor,"Buanding, Usodan Obinay",Danny,Lakas-Christian Muslim Democrats,1821
+Linamon,Councilor,"Bueno, Wilfredo Isidro",Fred,Lakas-Christian Muslim Democrats,1778
+Magsaysay,Mayor,"Rizalda, Rafael Cailing",Paeng,Laban ng Demokratikong Pilipino,6093
+Magsaysay,Vice-Mayor,"Kwan, Julieto Tangkay",Boy,Laban ng Demokratikong Pilipino,3124
+Magsaysay,Councilor,"Granaderos, Hernando Mejorada","Hernan, Ernan",Laban ng Demokratikong Pilipino,4264
+Magsaysay,Councilor,"Bacote, Marivic Ligue",Vic,Laban ng Demokratikong Pilipino,4115
+Magsaysay,Councilor,"Labastilla, Nilo Tinam-isan",Darongdong,Laban ng Demokratikong Pilipino,3937
+Magsaysay,Councilor,"Yangyang, Isidro Segovia",Dory,Laban ng Demokratikong Pilipino,3847
+Magsaysay,Councilor,"Enriquez, Noel Sobremisana","Neil, Nell",Laban ng Demokratikong Pilipino,3621
+Magsaysay,Councilor,"Deano, Cipriano Debucon",Toto,Laban ng Demokratikong Pilipino,3616
+Magsaysay,Councilor,"Batutay, Rosita Abi-abi",Rose,Laban ng Demokratikong Pilipino,3316
+Magsaysay,Councilor,"Suh, Atenita Logronio",Nenen,Lakas-Christian Muslim Democrats,3241
+Maigo,Mayor,"Azis, Jaber Maba",Doctor,Puwersa ng Masang Pilipino,3187
+Maigo,Vice-Mayor,"Maba, Hadji Abdul Jabbar Taralbi",Goma,Laban ng Demokratikong Pilipino,2329
+Maigo,Councilor,"Umpar, Casanodin Maca-antal",Casan,Puwersa ng Masang Pilipino,2720
+Maigo,Councilor,"Sarip, Masio Dima",Najib,Lakas-Christian Muslim Democrats,2648
+Maigo,Councilor,"Ampuan, Rasol Simon",Sol,Lakas-Christian Muslim Democrats,2638
+Maigo,Councilor,"Anting, Acmad Macarambon",Andy,Laban ng Demokratikong Pilipino,2631
+Maigo,Councilor,"Renandang, Faruok P.",Froxy,Laban ng Demokratikong Pilipino,2478
+Maigo,Councilor,"Macalanggan, Alimona Pado-n",Ali,Lakas-Christian Muslim Democrats,2310
+Maigo,Councilor,"Lawan, Panny Piyay",Paki,Independent,2235
+Maigo,Councilor,"Ati, Acob Ayonan",Abu Jamal,Laban ng Demokratikong Pilipino,2210
+Matungao,Mayor,"Maquiling, Hadji Casan Macode",Cas,Lakas-Christian Muslim Democrats,3637
+Matungao,Vice-Mayor,"Domrang, Carisa Ampaso",Abc,Independent,4075
+Matungao,Councilor,"Guyo, Ominta Andamama",Omin,Lakas-Christian Muslim Democrats,3871
+Matungao,Councilor,"Alinog, Salis Malo","Sal, Moonraker",Lakas-Christian Muslim Democrats,3729
+Matungao,Councilor,"Matanog, Mariam Asi",Marie,Lakas-Christian Muslim Democrats,3204
+Matungao,Councilor,"Limano, Abdulcader Mapantas",Cader,Lakas-Christian Muslim Democrats,3181
+Matungao,Councilor,"Mutia , Ali Obinai",Pangalian,Lakas-Christian Muslim Democrats,3084
+Matungao,Councilor,"Batalo, Paorac Dansal",Paorac,Lakas-Christian Muslim Democrats,3047
+Matungao,Councilor,"Isah, Latipa Ariraya",Lati,Lakas-Christian Muslim Democrats,2955
+Matungao,Councilor,"Dimate, Omar Lomondot",Mamak Tiger,Lakas-Christian Muslim Democrats,2822
+Munai,Mayor,"Manamparan, Abdul Malik",H.Malik,Lakas-Christian Muslim Democrats,2393
+Munai,Vice-Mayor,"Manamparan, Samporna M",H. Amer,Nationalist People's Cialition,1656
+Munai,Councilor,"Sanayon, Lomala Gaute",H. Muamar,Lakas-Christian Muslim Democrats,2231
+Munai,Councilor,"Dampa, Sira Mangco",Maasiral,Lakas-Christian Muslim Democrats-Independent,2128
+Munai,Councilor,"Lala, Avelino Mamay",Belly,Lakas-Christian Muslim Democrats,2021
+Munai,Councilor,"Alilang, Kumon Sati",Mon,Lakas-Christian Muslim Democrats-Independent,2014
+Munai,Councilor,"Mamantuc, Mosakali Dimasindel",Akil,Lakas-Christian Muslim Democrats-Independent,1818
+Munai,Councilor,"Pamanay, HAbdullah Mamantuc",Tamula,Lakas-Christian Muslim Democrats,1777
+Munai,Councilor,"Maruhom, Somerado Dicampong",Era,Lakas-Christian Muslim Democrats-Independent,1766
+Munai,Councilor,"Ampatua, Datu-Imam Meki",Diba,Lakas-Christian Muslim Democrats,1760
+Nunungan,Mayor,"Lantud, Lacson Mangotara","Lacson, Nabel",Lakas-Christian Muslim Democrats,3426
+Nunungan,Vice-Mayor,"Mangoranda, Natha Radtourab",Natha,Lakas-Christian Muslim Democrats,2147
+Nunungan,Councilor,"Didaagun, Canapi Mutiurab",Canoy,Lakas-Christian Muslim Democrats,3320
+Nunungan,Councilor,"Dumlao, Najeb Sanggacala Dima-rto",Naguib,Akyon Demokratiko,3070
+Nunungan,Councilor,"Sumagayan, Sangbaan Mangotara",Angub,Lakas-Christian Muslim Democrats,2931
+Nunungan,Councilor,"Didaagun, Rasid Urab Gundul",Rasid,Akyon Demokratiko,2918
+Nunungan,Councilor,"Gumama, Safra Mangotara",Prem,Lakas-Christian Muslim Democrats,2897
+Nunungan,Councilor,"Abubacar, Sihawi Barat-urab",Awi,Independent,2719
+Nunungan,Councilor,"Orandaya, Guimba Canandao",Guimba,Lakas-Christian Muslim Democrats,2674
+Nunungan,Councilor,"Didaagun, Sohaily H. Ismael",Ely,Lakas-Christian Muslim Democrats-Independent,2548
+Pantao Ragat,Mayor,"Alingan, Malik Tomampad",Bobby,Laban ng Demokratikong Pilipino,2958
+Pantao Ragat,Vice-Mayor,"Onos, Hadji Abdul Rasid Cobra",Abdul Rasid,Lakas-Christian Muslim Democrats,2397
+Pantao Ragat,Councilor,"Macapaar, Sittie Baimah HNasser",Rai,Laban ng Demokratikong Pilipino,2797
+Pantao Ragat,Councilor,"Gubaten, Alonto Asum",Omair,Lakas-Christian Muslim Democrats,2616
+Pantao Ragat,Councilor,"Ombawa, Junaid Bandalam",Opie,Laban ng Demokratikong Pilipino,2587
+Pantao Ragat,Councilor,"Macauyag, Nasser Alad",Santo Bainte,Laban ng Demokratikong Pilipino,2368
+Pantao Ragat,Councilor,"Macabantog, Sadiara Ditangcapu",Ala,Lakas-Christian Muslim Democrats,2327
+Pantao Ragat,Councilor,"Hadji Wahab, Hadji Taib Mama",Pangarungan,Lakas-Christian Muslim Democrats,2249
+Pantao Ragat,Councilor,"Bagul, Jalal Nanarug",Oraki,Laban ng Demokratikong Pilipino,2172
+Pantao Ragat,Councilor,"Hadji Latip Api, Palao Api",Fatah,Laban ng Demokratikong Pilipino,2112
+Pantar,Mayor,"Mansueto, Eduardo Castro",Edith,Lakas-Christian Muslim Democrats,6522
+Pantar,Vice-Mayor,"Jumarito, Loriano Suan",Dodong,Lakas-Christian Muslim Democrats,6774
+Pantar,Councilor,"Noval, Nelieta Quibranza",Nenen,Puwersa ng Masang Pilipino,7076
+Pantar,Councilor,"Manoop, Rogelio Jr. Tabigue",Tata,ABAG PROMDI,6336
+Pantar,Councilor,"Pido, Eduard Ong",Ed,Lakas-Christian Muslim Democrats,6281
+Pantar,Councilor,"Espra, Teotimo Andrin",Titing,Lakas-Christian Muslim Democrats,5836
+Pantar,Councilor,"Cuizon, Alberto Guanzon",Berting,ABAG PROMDI,4950
+Pantar,Councilor,"Amas, Jimmy Narciso",Oto,Lakas-Christian Muslim Democrats,4844
+Pantar,Councilor,"Perales, Felipe Alguno",Ipeng,ABAG-PROMDI,4768
+Pantar,Councilor,"Lacson, Nicasio Capalac",Angga,ABAG PROMDI,4517
+Poona Piagapo,Mayor,"Hadji Yusoph Usman, Saripada Mamarinta",Ipad,Lakas-Christian Muslim Democrats,3789
+Poona Piagapo,Vice-Mayor,"Racmat, Hadji Rokaina Didato",Rokaina,Lakas-Christian Muslim Democrats,3696
+Poona Piagapo,Councilor,"Polayagan, Imelda Tanggote",Imel,Lakas-Christian Muslim Democrats,4162
+Poona Piagapo,Councilor,"Gandarosa, Orac Bowaya",Samanoding,Lakas-Christian Muslim Democrats,3847
+Poona Piagapo,Councilor,"Maganona, Ali Dawal",Control,Lakas-Christian Muslim Democrats,3688
+Poona Piagapo,Councilor,"Maba, NaSr.oding Lumna",Nasro,Lakas-Christian Muslim Democrats,3605
+Poona Piagapo,Councilor,"Golo, Hadji Yasser Pacasumo",Motalib,Lakas-Christian Muslim Democrats,3602
+Poona Piagapo,Councilor,"Pacalna, Casanor Paingco",Cano,Lakas-Christian Muslim Democrats,3548
+Poona Piagapo,Councilor,"Gandarosa, Salamat Dawal",Mat,Lakas-Christian Muslim Democrats,3532
+Poona Piagapo,Councilor,"Casulog, Tiburon Mineregi",Ebar,Lakas-Christian Muslim Democrats,3186
+Salvador,Mayor,"Tawantawan, Raida Langitao or Banding",Lala,Lakas-Christian Muslim Democrats,11943
+Salvador,Vice-Mayor,"Oben, Rodulfo Aligato","Rudy, Rud",Lakas-Christian Muslim Democrats,11201
+Salvador,Councilor,"Hassan, Bashet Alawi",Bas,Lakas-Christian Muslim Democrats,9672
+Salvador,Councilor,"Balanay, Necitas Bacotot",Nitty,Lakas-Christian Muslim Democrats,9483
+Salvador,Councilor,"Panal, Delfin Camingao",Dodong,Lakas-Christian Muslim Democrats,9374
+Salvador,Councilor,"Tawantawan, Mawi Talib",Mawi,Lakas-Christian Muslim Democrats,9207
+Salvador,Councilor,"Tawantawan, Zubair Sendad",Zubair,Lakas-Christian Muslim Democrats,9165
+Salvador,Councilor,"Ameril, Damie Tomarompong",Damie,Lakas-Christian Muslim Democrats,8834
+Salvador,Councilor,"Sabang, Ireneo Bongcaras",Ino,Lakas-Christian Muslim Democrats,8823
+Salvador,Councilor,"Salindawan, Camorodin Gumubat","Maro, Camar",Lakas-Christian Muslim Democrats,8321
+Sapad,Mayor,"Asis, Paruk Usop",Ruk,Lakas-Christian Muslim Democrats,3863
+Sapad,Vice-Mayor,"Ramirez, Gorgonio Amora",Gani,Lakas-Christian Muslim Democrats,3129
+Sapad,Councilor,"Samporna, Diego Tawantawan",Diego,Lakas-Christian Muslim Democrats,3740
+Sapad,Councilor,"Cabugatan, Atab Antao",Atab,Independent,3353
+Sapad,Councilor,"Dimarun, Omar Ababa",Mar,Lakas-Christian Muslim Democrats,3054
+Sapad,Councilor,"Alawi, Abdul Angni",Dol,Lakas-Christian Muslim Democrats,2994
+Sapad,Councilor,"Abdulrahman, Saira Maca-agal",Sai,Lakas-Christian Muslim Democrats,2939
+Sapad,Councilor,"Patalinghug, Rudyrick Barila",Mokoy,Lakas-Christian Muslim Democrats,2824
+Sapad,Councilor,"Bienes, Virgilito Mijares",Loloy,Lakas-Christian Muslim Democrats,2532
+Sapad,Councilor,"Mawi, Lucman Mupon",Lucky,Independent,2496
+Sultan Naga Dimaporo Karomatan,Mayor,"Asis, Paruk Usop",Ruk,Lakas-Christian Muslim Democrats,3863
+Sultan Naga Dimaporo Karomatan,Vice-Mayor,"Ramirez, Gorgonio Amora",Gani,Lakas-Christian Muslim Democrats,3129
+Sultan Naga Dimaporo Karomatan,Councilor,"Samporna, Diego Tawantawan",Diego,Lakas-Christian Muslim Democrats,3740
+Sultan Naga Dimaporo Karomatan,Councilor,"Cabugatan, Atab Antao",Atab,Independent,3353
+Sultan Naga Dimaporo Karomatan,Councilor,"Dimarun, Omar Ababa",Mar,Lakas-Christian Muslim Democrats,3054
+Sultan Naga Dimaporo Karomatan,Councilor,"Alawi, Abdul Angni",Dol,Lakas-Christian Muslim Democrats,2994
+Sultan Naga Dimaporo Karomatan,Councilor,"Abdulrahman, Saira Maca-agal",Sai,Lakas-Christian Muslim Democrats,2939
+Sultan Naga Dimaporo Karomatan,Councilor,"Patalinghug, Rudyrick Barila",Mokoy,Lakas-Christian Muslim Democrats,2824
+Sultan Naga Dimaporo Karomatan,Councilor,"Bienes, Virgilito Mijares",Loloy,Lakas-Christian Muslim Democrats,2532
+Sultan Naga Dimaporo Karomatan,Councilor,"Mawi, Lucman Mupon",Lucky,Independent,2496
+Tagoloan,Mayor,"Dimaporo, Motalib Macabato",Moy,Lakas-Christian Muslim Democrats,24589
+Tagoloan,Vice-Mayor,"Maruhom, Ronda Mamangcao",Rasul,Lakas-Christian Muslim Democrats,24336
+Tagoloan,Councilor,"Cotongan, Acmad Galawan",Admin,Lakas-Christian Muslim Democrats,20047
+Tagoloan,Councilor,"Dago, Sidic Maniri Dimarunsing",Sultan Sa Dalama,Lakas-Christian Muslim Democrats,19767
+Tagoloan,Councilor,"Odin, Rascala Diwa",Isko,Lakas-Christian Muslim Democrats,19564
+Tagoloan,Councilor,"Amerhasan, Naga Dumangcag",Nags,Lakas-Christian Muslim Democrats,19217
+Tagoloan,Councilor,"Tampogao, Mamadra Domada-Ong",Mads,Lakas-Christian Muslim Democrats,19207
+Tagoloan,Councilor,"Pola, Ibrahim Balabagan",Ibs,Lakas-Christian Muslim Democrats,18687
+Tagoloan,Councilor,"Panggo, Mohammad Amin",Paka,Lakas-Christian Muslim Democrats,18497
+Tagoloan,Councilor,"Lumayaga, Reminito Taguran",Boy,Lakas-Christian Muslim Democrats,17703
+Tangcal,Mayor,"Dimakuta, Maminta Aliah Sangulingan",Mighty,Lakas-Christian Muslim Democrats,1443
+Tangcal,Vice-Mayor,"Sarip, Basmala Barao",Bammy,Lakas-Christian Muslim Democrats,1028
+Tangcal,Councilor,"Ali, Norodin Dimtang",Don-Don,Independent,1356
+Tangcal,Councilor,"Pitogo, Antonio Lauma",Thony,Laban ng Demokratikong Pilipino,990
+Tangcal,Councilor,"Pascan, Thatah Palao",Tata,Nationalist People's Cialition,980
+Tangcal,Councilor,"Mosor, Sobo L.",Blotandar,Independent,965
+Tangcal,Councilor,"Casan, Manan Logi",Manan,Independent,893
+Tangcal,Councilor,"Boncay, Idal Eden",Idal,Lakas-Christian Muslim Democrats,709
+Tangcal,Councilor,"Ampog, Abdulwahab Aguip",Abu Saddam,Laban ng Demokratikong Pilipino,660
+Tangcal,Councilor,"Pepe, Jarida Imam",Deda,Nationalist People's Cialition,636
+Tubod,Mayor,"Batingolo, Abdulazis Aloon Mutia",Dante,Philippine Democratic Socailist Party,2345
+Tubod,Vice-Mayor,"Mutia, Kiram Maliawao",Kia,Philippine Democratic Socailist Party,1097
+Tubod,Councilor,"Mutia, Saguira Abdulgani",Sagi,Philippine Democratic Socailist Party,1585
+Tubod,Councilor,"Maliawao, Dardagan Macabada",Maoga,Philippine Democratic Socailist Party,1581
+Tubod,Councilor,"Tomarompong, Dimatimpos Macadatar",Blo,Philippine Democratic Socailist Party,1416
+Tubod,Councilor,"Macabangon, Raima Cali",Ramona,Nationalist People's Cialition,1385
+Tubod,Councilor,"Macatoon, Hisham Baraocor",Macoy,Laban ng Demokratikong Pilipino,1349
+Tubod,Councilor,"Alompo, Recondaya Dacampong",Recon,Nationalist People's Cialition,1280
+Tubod,Councilor,"Gumacap, Datu-ali Gantal",Bato-Ali,Philippine Democratic Socailist Party,1212
+Tubod,Councilor,"Mapandi, Usman Diragon",Barok,Laban ng Demokratikong Pilipino,1208

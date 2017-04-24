@@ -1,0 +1,19 @@
+region,accredited_programs_CS,accredited_programs_I,accredited_programs_II,accredited_programs_III,accredited_programs_IV,accredited_programs_total_without_CS,accredited_programs_total_with_CS,suc_with_accredited_programs_CS,suc_with_accredited_programs_I,suc_with_accredited_programs_II,suc_with_accredited_programs_III,suc_with_accredited_programs_IV,suc_with_accredited_programs_total_without_CS,suc_with_accredited_programs_total_with_CS,total_number_of_sucs_including_satellite_campuses
+I (Ilocos Region),25,54,44,22,0,120,145,12,12,9,7,0,15,21,27
+II (Cagayan Valley),29,62,19,19,0,100,129,10,11,6,3,0,9,12,25
+III (Central Luzon),30,58,63,57,0,178,208,10,12,13,7,0,18,21,49
+"IV-A (CALABARZON), IV-B (MIMAROPA)",91,88,78,24,0,190,281,14,19,13,5,0,16,20,61
+V (Bicol Region),55,59,65,28,0,152,207,15,20,12,5,0,20,27,32
+VI (Western Visayas),93,101,39,30,3,173,266,30,26,17,7,1,25,33,64
+VII (Central Visayas),35,59,14,8,6,87,122,12,16,3,1,1,15,16,29
+VII (Eastern Visayas),63,69,55,68,0,192,255,19,13,9,8,0,13,17,38
+IX (Zamboanga Peninsula),9,10,10,0,0,20,29,2,4,4,0,0,7,7,52
+X (Northern Mindanao),21,37,31,34,0,102,123,5,5,5,5,0,6,6,40
+XI (Davao Region),9,20,31,0,0,51,60,3,6,7,0,0,7,7,12
+XII (SOCCSKSARGEN),21,23,23,15,0,61,82,4,5,5,1,0,7,7,15
+NCR (National Capital Region),38,31,63,56,1,151,189,6,6,5,3,1,6,7,17
+CAR (Cordillera Administrative Region),31,41,30,16,0,87,118,8,9,7,2,0,9,10,20
+ARMM (Autonomous Region for Muslim Mindanao),7,0,0,0,0,0,7,1,0,0,0,0,0,0,9
+XIII (Caraga Region),13,17,31,0,0,48,61,5,5,5,0,0,5,5,14
+IV-B (MIMAROPA),25,49,25,13,0,87,112,9,13,9,4,0,13,14,49
+Total,595,778,621,390,10,1799,2394,165,182,129,58,3,191,230,553

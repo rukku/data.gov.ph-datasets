@@ -1,0 +1,1 @@
+This dataset contains the highest and lowest daily quoted lending rates of the local commercial banks, subsidiaries of foreign banks and foreign banks.

@@ -1,0 +1,47 @@
+{
+  "author": "Bureau of Soils and Water Management", 
+  "author_email": "bswmclientcenter@yahoo.com", 
+  "download_url": "http://bswm.maps.da.gov.ph/maps/download/IVA_Soil_Rizal/IVA_Soil_Rizal.zip", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "Province", 
+    "Temporal Date": ""
+  }, 
+  "id": "19380c48-280f-4765-b552-824fbd6bea96", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Dr. Gina Nilo", 
+  "maintainer_email": "ginapnilo@ymail.com", 
+  "name": "soil-map-for-rizal", 
+  "notes": "Soils and Physiography Map - delineation of the type and distribution of soils on the basis of readily observable landform features\r\n\r\nMap Type:\tSoil Map\t\r\nIsland:\tLuzon\r\nRegion:\tRegion IV-A\r\nScale:\t50000\r\nProvince:\tRizal", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-11-20T15:53:18.403011", 
+      "description": "", 
+      "format": "SHP", 
+      "hash": "", 
+      "id": "e376689c-118f-4102-9d58-f52a3b9f0b85", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "IVA Soil Map_Rizal", 
+      "package_id": "19380c48-280f-4765-b552-824fbd6bea96", 
+      "position": 0, 
+      "resource_group_id": "5267894b-49e3-4b7b-9c27-0a77296215cc", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://bswm.maps.da.gov.ph/maps/download/IVA_Soil_Rizal/IVA_Soil_Rizal.zip", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Geospatial"
+  ], 
+  "title": "Soil Map for Rizal", 
+  "url": "http://bswm.maps.da.gov.ph/", 
+  "version": ""
+}

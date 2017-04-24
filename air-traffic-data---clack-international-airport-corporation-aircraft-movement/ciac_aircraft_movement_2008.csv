@@ -1,0 +1,19 @@
+flight_type,airline_operator,january,february,march,april,may,june,july,august,september,october,november,december,grand_total
+Domestic,Cebu Pacific,28,24,24,26,26,24,26,22,18,44,38,34,334
+Domestic,Seair,83,71,79,82,76,48,58,81,63,56,48,55,800
+Domestic,Zest Air,-,-,-,-,-,-,-,-,-,4,8,-,12
+Domestic,Total,111,95,103,108,102,72,84,103,81,104,94,89,1146
+International,Air Asia,124,116,124,120,124,116,124,126,120,124,120,136,1474
+International,Asiana Airlines,62,58,62,60,62,60,72,88,86,80,60,72,822
+International,Cebu Pacific,-,-,-,-,-,-,-,-,-,-,134,180,314
+International,China Southern Airlines,4,12,18,12,16,-,-,-,-,-,-,-,62
+International,Deer Air,2,-,-,-,-,-,-,-,-,-,-,-,2
+International,Hong Kong Express,-,-,22,-,-,-,-,-,-,-,-,-,22
+International,Shanghai Airlines,-,-,-,1,3,-,-,-,-,-,-,-,4
+International,Tiger Airways,124,118,123,121,124,119,124,118,120,124,90,62,1367
+International,Transglobal Airways,-,-,-,-,-,-,1,-,-,-,-,-,1
+International,World Airways,-,-,2,-,-,-,-,-,-,-,-,-,2
+International,Total,316,304,351,314,329,295,321,332,326,328,404,450,4070
+G. Aviation,G. Aviation,329,321,290,449,347,475,218,359,298,336,293,207,3922
+Military,Military,-,-,-,-,-,-,-,-,-,-,-,-,-
+Grand Total,Grand Total,756,720,744,871,778,842,623,794,705,768,791,746,9138

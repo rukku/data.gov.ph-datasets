@@ -1,0 +1,46 @@
+{
+  "author": "Department of Tourism", 
+  "author_email": "webmaster@tourism.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/wUMGz6M6XwayE3InZOg6/dot_dist_reg_travellers_in_ph_2012.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01/2012-12/31/2012"
+  }, 
+  "id": "320c8100-8001-4604-a43d-404090635166", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "Tourism Research and Statistics Division, Office of Tourism Development Planning", 
+  "maintainer_email": "webmaster@tourism.gov.ph", 
+  "name": "distribution-of-regional-travellers-in-the-philippines", 
+  "notes": "This datasets contain distribution of travels outside the country by foreign travelers, overseas filipino and domestic travelers for the year 2012.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-18T10:54:13.749192", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "1b549de8-d4a5-485d-bc11-0ca55179de97", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Distribution of Regional Travelers in the Philippines 2012", 
+      "package_id": "320c8100-8001-4604-a43d-404090635166", 
+      "position": 0, 
+      "resource_group_id": "8baf7c46-321b-4395-bdee-4ee32697b28e", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/wUMGz6M6XwayE3InZOg6/dot_dist_reg_travellers_in_ph_2012.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Cultural"
+  ], 
+  "title": "Distribution of Regional Travellers in the Philippines", 
+  "url": "", 
+  "version": ""
+}

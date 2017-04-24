@@ -1,0 +1,62 @@
+particulars_1,particulars_2,balance,total
+Income,Property Taxes,102.96,-
+Income,Less: RPTISET Discount,0,102.96
+Income,Other Local Taxes,-,3300
+Income,Permits and Licenses,-,0
+Income,Service Income,-,0
+Income,Business Income,-,0
+Income,Other Income,-,0
+Income,Total Income,-,3402.96
+Income,Less Expenses-Personal Services,-,0
+Income,Less Expenses-Maintenance and Other Operating Expenses,-,38501.3
+Income,Less Expenses-Total Expenses,-,38501.3
+Income,Operating Income,-,35098.34
+Income,Less: Finance Cost-Bank Charges,0,-
+Income,Less: Finance Cost-Commitment Fees,-,-
+Income,Less: Finance Cost-Debt Services Subsidy to GOCCs,-,-
+Income,Less: Finance Cost-Documentary Stamp Expenses,-,-
+Income,Less: Finance Cost-Interest Expenses,0,-
+Income,Less: Finance Cost-Other Financial Charges,0,0
+Income,Income Before Subsidies and Extraordinary Receipts,-,-35098.34
+Income,Add Subsidy from Other LGU,-,16069002
+Income,Income After Subsidies and Extraordinary Receipts,-,33098.34
+Income,Less:,-,-
+Income,Subsidy to Other Funds,-,35098.34
+Income,National Government Agencies,0,-
+Income,LGU,0,-
+Income,Regional Offices Donations,-,0
+Income,NGO or PO,0,-
+Income,Other Funds,0,0
+Income,Income Before Extraordinary Items,-,35098.34
+Income,Less: Extraordinary Items-Less on Sale of Disposed Assets,-,-
+Income,Less: Extraordinary Items-Less on Sale of Securities,-,-
+Income,Net Income Loss,-,"16,033.903.66"
+Assets,Current Assets,-,12788573.57
+Assets,Current Assets-Cash,-,9615851.4
+Assets,Current Assets-Receivables,-,3070351.98
+Assets,Current Assets-Inventory,-,-
+Assets,Current Assets-Prepayments,-,-
+Assets,Current Assets-Deposits on Letters of Credit,-,8258964.52
+Assets,Total Current Assets,-,33733741.47
+Assets,Investments,-,-
+Assets,Inventories,-,-
+Assets,Property Plant and Equipment-Land,-,1335436
+Assets,Property Plant and Equipment-Land Improvement,-,2502875.79
+Assets,Property Plant and Equipment-Buildings,-,345310.91
+Assets,Property Plant and Equipment-Other Structures,-,3500994.51
+Assets,"Property Plant and Equipment-Office Equipment, Furnitures and Fixtures",-,2127571.59
+Assets,Property Plant and Equipment-Machineries and Equipment,-,37540886.41
+Assets,Property Plant and Equipment-Transportation Equipment,-,2475988.34
+Assets,"Property Plant and Equipment-Other Property, Plant and Equipment",-,92772.75
+Assets,Property Plant and Equipment-Other Machineries and Equipment,-,116816.66
+Assets,Property Plant and Equipment-Public Infrastructures,-,0
+Assets,Property Plant and Equipment-Construction-in-Progress,-,17314686.34
+Assets,Other Assets,-,149061
+Assets,Total Assets,-,101236141.8
+Liabilities and Equity,Liabilities,-,2569572.75
+Liabilities and Equity,Curent Liabilities,-,0
+Liabilities and Equity,Long-Term Liabilities,-,0
+Liabilities and Equity,Demand Credits,-,-
+Liabilities and Equity,Total Liabilities,-,-
+Equity,Government Equity,-,98666569.02
+Total Liabilities and Equity,-,-,101236141.7

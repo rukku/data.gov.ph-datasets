@@ -1,0 +1,69 @@
+{
+  "author": "Mines and Geosciences Bureau", 
+  "author_email": "", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/ef75187a-9149-4062-8830-d7c638e63441/resource/3cc17eda-432c-4345-b4bd-5a2206cc4d38/download/Region7.jpg", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": ""
+  }, 
+  "id": "ef75187a-9149-4062-8830-d7c638e63441", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "mining-tenements-control-map-for-region-7", 
+  "notes": "Mining Tenements Control Map for Region 7", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-05T14:01:36.999292", 
+      "description": "", 
+      "format": "JPEG", 
+      "hash": "", 
+      "id": "3cc17eda-432c-4345-b4bd-5a2206cc4d38", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "mining-tenements-control-map-for-region-7", 
+      "package_id": "ef75187a-9149-4062-8830-d7c638e63441", 
+      "position": 0, 
+      "resource_group_id": "a4f134d1-1fc5-4707-bd55-c2876559b373", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/ef75187a-9149-4062-8830-d7c638e63441/resource/3cc17eda-432c-4345-b4bd-5a2206cc4d38/download/Region7.jpg", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-05T14:02:06.087522", 
+      "description": "", 
+      "format": "JPEG", 
+      "hash": "", 
+      "id": "36a25c6d-0cac-42cd-bd68-abf21a2964cc", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "mining-tenements-control-map-for-region-7", 
+      "package_id": "ef75187a-9149-4062-8830-d7c638e63441", 
+      "position": 1, 
+      "resource_group_id": "a4f134d1-1fc5-4707-bd55-c2876559b373", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/ef75187a-9149-4062-8830-d7c638e63441/resource/36a25c6d-0cac-42cd-bd68-abf21a2964cc/download/Region7.jpg", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Mining Tenements Control Map for Region 7", 
+  "url": "http://www.mgb.gov.ph/", 
+  "version": ""
+}

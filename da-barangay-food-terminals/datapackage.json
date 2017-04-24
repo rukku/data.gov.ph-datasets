@@ -1,0 +1,46 @@
+{
+  "author": "Department of Agriculture", 
+  "author_email": "", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/dRgc6UWI41CFPfmgbhNp/dabrgyfoodterminals2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "3387f324-e9b8-4f60-bb63-ad1ffadfa638", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "da-barangay-food-terminals", 
+  "notes": "Directory of Barangay Food Terminals", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-07T14:27:09.979541", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "eb2d7c04-cd7d-47b3-b800-8326a3b37f5a", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Barangay Food Terminals", 
+      "package_id": "3387f324-e9b8-4f60-bb63-ad1ffadfa638", 
+      "position": 0, 
+      "resource_group_id": "99ec6b72-a6a8-45a4-bc92-bab651916516", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/dRgc6UWI41CFPfmgbhNp/dabrgyfoodterminals2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Agriculture"
+  ], 
+  "title": "Barangay Food Terminals", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,46 @@
+{
+  "author": "Bureau of Local Government Supervision", 
+  "author_email": "blgs.lgpms@gmail.com", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/2kkS8GLaKnc3Fe3u3RXZ/ozamis_city_ira_utilization_2014_q1.csv", 
+  "extras": {
+    "Granularity": "City or Municipality", 
+    "Temporal Date": "01/01/2014-3/31/2014"
+  }, 
+  "id": "75001539-5833-47ef-9733-7f002d1226e0", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "internal-revenue-allotment-utilization-of-ozamis-city", 
+  "notes": "This dataset contains report of the internal revenue allotment utilization of Ozamis City.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-12-11T17:42:21.968282", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "0a20deed-c950-479c-8d8e-72252e136ba6", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "2014 Quarter 1 - Ozamis City IRAU", 
+      "package_id": "75001539-5833-47ef-9733-7f002d1226e0", 
+      "position": 0, 
+      "resource_group_id": "a54aab26-5556-45b0-84a1-8af254d26843", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/2kkS8GLaKnc3Fe3u3RXZ/ozamis_city_ira_utilization_2014_q1.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Local Government"
+  ], 
+  "title": "INTERNAL REVENUE ALLOTMENT UTILIZATION of Ozamis City", 
+  "url": "", 
+  "version": ""
+}

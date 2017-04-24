@@ -1,0 +1,46 @@
+{
+  "author": "Philippine Health Insurance Corporation", 
+  "author_email": "actioncenter@philhealth.gov.ph", 
+  "download_url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/lHJV66WGEmjpwMNeLwOr/phnatlhealthinsprogcov2013.csv", 
+  "extras": {
+    "Granularity": "National", 
+    "Temporal Date": "01/01-2013-12/31/2013"
+  }, 
+  "id": "98153dc5-aa7d-4cb5-a3cb-e1c0ba4dfefc", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "national-health-insurance-program-coverage", 
+  "notes": "This dataset contains the projected population covered by the program.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2015-09-03T10:58:16.242135", 
+      "description": "", 
+      "format": "CSV", 
+      "hash": "", 
+      "id": "d79ea40b-cf15-4f90-82e3-eb8ce1918471", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "National Health Insurance Program Coverage", 
+      "package_id": "98153dc5-aa7d-4cb5-a3cb-e1c0ba4dfefc", 
+      "position": 0, 
+      "resource_group_id": "585a6622-e650-44c9-b760-d31ae7dcb7ca", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://storage.googleapis.com/amt-dgph.appspot.com/uploads/lHJV66WGEmjpwMNeLwOr/phnatlhealthinsprogcov2013.csv", 
+      "url_type": null, 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Health"
+  ], 
+  "title": "National Health Insurance Program Coverage", 
+  "url": "", 
+  "version": ""
+}

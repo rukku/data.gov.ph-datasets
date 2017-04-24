@@ -1,0 +1,47 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "download_url": "http://ckan.urls.ph/dataset/568f74c8-4e74-46e5-bf27-409ba6773a32/resource/087a1a10-d740-4c60-9434-50d4cd741833/download/NSCBElectricEnergyConsumptionbySector1993to2011.xlsx", 
+  "extras": {
+    "Frequency of Update": "Annually", 
+    "Granularity": "National", 
+    "Temporal Date": ""
+  }, 
+  "id": "568f74c8-4e74-46e5-bf27-409ba6773a32", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "electric-energy-consumption-by-sector-1993-to-2011", 
+  "notes": "Electric Energy Consumption by Sector from 1993 to 2011", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-10-30T11:18:34.003140", 
+      "description": "Electric Energy Consumption by Sector from 1993 to 2011", 
+      "format": "XLSX", 
+      "hash": "", 
+      "id": "087a1a10-d740-4c60-9434-50d4cd741833", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "ELECTRIC ENERGY CONSUMPTION BY SECTOR - 1993 TO 2011", 
+      "package_id": "568f74c8-4e74-46e5-bf27-409ba6773a32", 
+      "position": 0, 
+      "resource_group_id": "3ce666d5-c329-49a2-8bc6-31c05d703960", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/568f74c8-4e74-46e5-bf27-409ba6773a32/resource/087a1a10-d740-4c60-9434-50d4cd741833/download/NSCBElectricEnergyConsumptionbySector1993to2011.xlsx", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Energy"
+  ], 
+  "title": "ELECTRIC ENERGY CONSUMPTION BY SECTOR - 1993 TO 2011", 
+  "url": "", 
+  "version": ""
+}

@@ -1,0 +1,47 @@
+{
+  "author": "Department of Energy", 
+  "author_email": "", 
+  "download_url": "http://data.gov.ph/catalogue/dataset/1758e636-722a-4214-9f23-44535f5cca9b/resource/00a3398e-5291-48c9-9dd7-47c03a1566ba/download/FiguresPECR5withSedBasin05052014.jpg", 
+  "extras": {
+    "Frequency of Update": "Others", 
+    "Granularity": "Others", 
+    "Temporal Date": "5/5/2014"
+  }, 
+  "id": "1758e636-722a-4214-9f23-44535f5cca9b", 
+  "license": "Open Data Commons Attribution License", 
+  "maintainer": "PH-EITI", 
+  "maintainer_email": "info@ph-eiti.com", 
+  "name": "figures-pecr5-with-sed-basin-may-5-2014", 
+  "notes": "PECR5 with Sed Basin (PH-EITI)", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2014-12-10T10:27:54.257838", 
+      "description": "", 
+      "format": "JPEG", 
+      "hash": "", 
+      "id": "00a3398e-5291-48c9-9dd7-47c03a1566ba", 
+      "last_modified": null, 
+      "mimetype": null, 
+      "mimetype_inner": null, 
+      "name": "Figures_PECR5withSedBasin_05052014.jpg", 
+      "package_id": "1758e636-722a-4214-9f23-44535f5cca9b", 
+      "position": 0, 
+      "resource_group_id": "ffd00038-6505-4ef7-ba20-a5408559becb", 
+      "resource_type": null, 
+      "size": null, 
+      "url": "http://data.gov.ph/catalogue/dataset/1758e636-722a-4214-9f23-44535f5cca9b/resource/00a3398e-5291-48c9-9dd7-47c03a1566ba/download/FiguresPECR5withSedBasin05052014.jpg", 
+      "url_type": "upload", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }
+  ], 
+  "tags": [
+    "Environment"
+  ], 
+  "title": "Figures PECR5 with Sed Basin - May 5 2014", 
+  "url": "https://www.doe.gov.ph", 
+  "version": ""
+}

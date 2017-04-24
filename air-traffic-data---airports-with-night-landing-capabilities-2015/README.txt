@@ -1,0 +1,1 @@
+This data set contains the list of airports with night landing capabilities as of March 2015.
